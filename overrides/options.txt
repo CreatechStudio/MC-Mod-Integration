@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","file/MASA全家桶汉化包","file/Xaeros地图汉化210826","file/思源黑体","file/Createch ClassicOre","file/Createch 配套基础材质[masa汉化][反南瓜头GUI]v0.0.3"]
+resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","file/Xaeros","file/masa-chn","file/siyuanheiti","file/Createch ClassicOre","file/Createch Basic"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn

@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b8",
+  "version": "1.19b9",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -171,7 +171,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "da7458110e31462f0912c8e152689ef14b8fa4c3"
+      "hash": "f092d97524e4b6c32b21bda4543b1821c684eb51"
     },
     {
       "path": "config/collective-fabric.json",
@@ -311,7 +311,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "cf861e3c45276aeb25e055208a4c4bd9fc47a941"
+      "hash": "3c6c32e351c1eacd5c56c3549edb27ce9e44d082"
     },
     {
       "path": "config/armorchroma.json",
@@ -575,7 +575,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "62a48075c718096a8fd6fced0fc9aa3103bd8b18"
+      "hash": "1f9efa9000fabcab180e00aab309743fcb541266"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -595,7 +595,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "e3e3471c1cc00f7d65afe17041259ba795523ab3"
+      "hash": "5c9ec1ddd66a8e2ad57c5ba8bf529727421d9e71"
     },
     {
       "path": "config/minihud.json",
@@ -57791,7 +57791,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "9993c44169b09a8171e397c5c4f87e42af7b89e8"
+      "hash": "ddb489af5cfebf13a7acf4a085dba19eb389ea31"
     }
   ],
   "addons": [
