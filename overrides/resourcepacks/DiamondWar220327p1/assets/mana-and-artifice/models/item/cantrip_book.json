@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-    "textures": {
-        "layer0": "mana-and-artifice:item/sorcery/cantrip_book_cover",
-        "layer1": "mana-and-artifice:item/sorcery/spell_book_decoration"
-    }
-}

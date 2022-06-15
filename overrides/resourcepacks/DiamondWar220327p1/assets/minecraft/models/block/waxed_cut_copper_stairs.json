@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "minecraft:blockmodel/waxed_cut_copper_block",
-    "top": "minecraft:blockmodel/waxed_cut_copper_block",
-    "side": "minecraft:blockmodel/waxed_cut_copper_block"
-  }
-}

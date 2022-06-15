@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mana-and-artifice:block/manaweaving_altar" },
-    "facing=south": { "model": "mana-and-artifice:block/manaweaving_altar", "y": 180 },
-    "facing=east": { "model": "mana-and-artifice:block/manaweaving_altar", "y": 90  },
-    "facing=west": { "model": "mana-and-artifice:block/manaweaving_altar", "y": 270 }
-  }
-}

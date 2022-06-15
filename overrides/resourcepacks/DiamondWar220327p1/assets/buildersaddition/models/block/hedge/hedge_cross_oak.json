@@ -1,7 +1,0 @@
-{
-  "parent": "buildersaddition:block/hedge/hedge_cross_base",
-  "textures": {
-        "leaves": "minecraft:block/oak_leaves",
-        "particle": "minecraft:block/oak_leaves"
-    }
-}

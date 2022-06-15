@@ -1,6 +1,0 @@
-# Config GUI
-slots_side=额外插槽位置
-slots_margin=额外的插槽余量
-slots_margin.tooltip=额外装甲/副手插槽和容器库存之间的空间.
-swap_hands=启用库存交换
-swap_hands.tooltip=将鼠标悬停在任何插槽上时按交换手键可将其装备在副手插槽上.

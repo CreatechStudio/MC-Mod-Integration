@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "minecraft:block/cobbled_deepslate",
-        "particle": "minecraft:block/cobbled_deepslate"
-    }
-}

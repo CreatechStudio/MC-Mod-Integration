@@ -1,8 +1,0 @@
-{
-	"parent": "block/slab",
-	"textures": {
-		"bottom": "blocks/smooth_stone", "cullface": "bottom",
-		"top": "blocks/smooth_stone", "cullface": "top",
-		"side": "blocks/smooth_stone_slab_side", "cullface": "side"
-	}
-}

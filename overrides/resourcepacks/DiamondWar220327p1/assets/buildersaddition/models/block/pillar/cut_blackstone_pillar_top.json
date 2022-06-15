@@ -1,9 +1,0 @@
-{
-    "parent": "buildersaddition:block/pillar/cut_pillar_top_base",
-    "textures": {
-          "side": "minecraft:block/polished_blackstone_bricks",
-          "particle": "minecraft:block/polished_blackstone_bricks",
-          "top": "minecraft:block/polished_blackstone",
-          "platform": "minecraft:block/polished_blackstone"
-      }
-  }

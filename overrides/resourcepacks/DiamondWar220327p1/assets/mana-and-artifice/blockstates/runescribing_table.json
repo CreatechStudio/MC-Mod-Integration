@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mana-and-artifice:block/runescribing_table" },
-    "facing=south": { "model": "mana-and-artifice:block/runescribing_table", "y": 180 },
-    "facing=east": { "model": "mana-and-artifice:block/runescribing_table", "y": 90 },
-    "facing=west": { "model": "mana-and-artifice:block/runescribing_table", "y": 270  }
-  }
-}

@@ -1,8 +1,0 @@
-{
-
-  "parent": "builtin/entity",
-    "textures": {
-        "layer0": "mana-and-artifice:item/sorcery/rote_book_cover",
-        "layer1": "mana-and-artifice:item/sorcery/spell_book_decoration"
-    }
-}

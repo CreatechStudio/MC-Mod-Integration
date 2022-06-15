@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "mana-and-artifice:block/construct_workbench", "y": 180 },        
-    "facing=south": { "model": "mana-and-artifice:block/construct_workbench"  },    
-    "facing=east": { "model": "mana-and-artifice:block/construct_workbench", "y": 270  },      
-    "facing=west": { "model": "mana-and-artifice:block/construct_workbench", "y": 90  }
-  }
-}

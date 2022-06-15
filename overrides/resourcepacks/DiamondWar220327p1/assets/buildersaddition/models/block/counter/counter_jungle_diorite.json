@@ -1,9 +1,0 @@
-{
-    "parent": "buildersaddition:block/counter/counter_base",
-    "textures": {
-          "stripped": "minecraft:block/stripped_jungle_log",
-          "detail": "minecraft:block/polished_diorite",
-          "planks": "minecraft:block/jungle_planks",
-          "particle": "minecraft:block/jungle_planks"
-      }
-  }

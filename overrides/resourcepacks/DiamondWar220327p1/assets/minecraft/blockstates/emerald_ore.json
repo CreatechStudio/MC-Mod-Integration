@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "minecraft:block/emerald_ore", "weight": 1 , "y": 90},
-			{ "model": "minecraft:block/emerald_ore", "weight": 1 }
-        ]
-    }
-}

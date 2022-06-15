@@ -1,9 +1,0 @@
-{
-    "parent": "buildersaddition:block/counter/counter_base",
-    "textures": {
-          "stripped": "minecraft:block/stripped_crimson_stem",
-          "detail": "minecraft:block/polished_andesite",
-          "planks": "minecraft:block/crimson_planks",
-          "particle": "minecraft:block/crimson_planks"
-      }
-  }

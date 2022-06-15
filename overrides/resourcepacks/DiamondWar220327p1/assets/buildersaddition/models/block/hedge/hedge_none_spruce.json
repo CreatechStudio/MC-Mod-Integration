@@ -1,7 +1,0 @@
-{
-  "parent": "buildersaddition:block/hedge/hedge_none_base",
-  "textures": {
-        "leaves": "minecraft:block/spruce_leaves",
-        "particle": "minecraft:block/spruce_leaves"
-    }
-}

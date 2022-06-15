@@ -1,8 +1,0 @@
-# Blender MTL File: 'manaweaving_station.blend'
-# Material Count: 2
-
-newmtl MAIN
-map_Kd mana-and-artifice:block/manaweaving_altar
-
-newmtl WATER
-map_Kd mana-and-artifice:block/manaweaving_altar_water

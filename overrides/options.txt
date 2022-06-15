@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","file/Xaeros","file/masa-chn","file/siyuanheiti","file/Createch ClassicOre","file/Createch Basic"]
+resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","cullleaves/smartleaves","file/Xaeros","file/masa-chn","file/siyuanheiti","file/Createch ClassicOre","file/Createch Basic"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -115,6 +115,7 @@ key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.wi_zoom.zoom:key.keyboard.c
+key_key.antighost.reveal:key.keyboard.g
 key_key.autofish.open_gui:key.keyboard.j
 key_key.durabilityviewer.showhide:key.keyboard.h
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown

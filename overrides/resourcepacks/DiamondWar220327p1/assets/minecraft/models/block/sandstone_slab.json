@@ -1,8 +1,0 @@
-{
-	"parent": "block/slab",
-	"textures": {
-		"bottom": "blocks/smooth_sandstone_slab",
-		"top": "blocks/smooth_sandstone_slab",
-		"side": "block/sandstone"
-	}
-}

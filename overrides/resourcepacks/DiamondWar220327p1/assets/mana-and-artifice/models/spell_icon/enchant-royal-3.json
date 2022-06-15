@@ -1,7 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "mana-and-artifice:item/sorcery/icons/enchant-royal-3",
-		"layer1": "mana-and-artifice:item/sorcery/spell_frame"
-	}
-}
