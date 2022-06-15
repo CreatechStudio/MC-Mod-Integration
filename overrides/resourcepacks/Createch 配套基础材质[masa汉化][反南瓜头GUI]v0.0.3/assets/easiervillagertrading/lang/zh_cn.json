@@ -1,0 +1,5 @@
+{
+    "msg.cantrade":     "交易可用",
+    "msg.notradeinv":   "没有交易物品或背包已满",
+    "msg.tradelocked":  "交易被锁定, 交易其他的东西吧!"
+}

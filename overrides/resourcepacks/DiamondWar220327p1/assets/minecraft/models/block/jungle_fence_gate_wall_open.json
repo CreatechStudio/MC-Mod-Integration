@@ -1,0 +1,83 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"1": "blockmodel/jungle_fence_gate_top",
+		"particle": "blockmodel/jungle_fence_gate_wall",
+		"texture": "blockmodel/jungle_fence_gate_wall"
+	},
+	"elements": [
+		{
+			"name": "Left-hand post",
+			"from": [13, 0, 6.5],
+			"to": [16, 13.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0.5, 3, 2], "texture": "#texture"},
+				"east": {"uv": [0, 0.5, 3, 2], "texture": "#texture"},
+				"south": {"uv": [0, 0.5, 3, 2], "texture": "#texture"},
+				"west": {"uv": [0, 0.5, 3, 2], "texture": "#texture"},
+				"up": {"uv": [0, 6.5, 3, 9.5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 6.5, 3, 9.5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Right-hand post",
+			"from": [0, 0, 6.5],
+			"to": [3, 13.5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0.5, 3, 1], "texture": "#texture"},
+				"east": {"uv": [0, 0.5, 3, 1], "texture": "#texture"},
+				"south": {"uv": [0, 0.5, 3, 1], "texture": "#texture"},
+				"west": {"uv": [0, 0.5, 3, 1], "texture": "#texture"},
+				"up": {"uv": [0, 6.5, 3, 9.5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 6.5, 3, 9.5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Inner vertical post of left-hand gate door",
+			"from": [13.5, 1, 9.5],
+			"to": [15.5, 10.5, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 4.5, 5, 14], "texture": "#texture"},
+				"east": {"uv": [5, 6.5, 10, 16], "texture": "#texture"},
+				"south": {"uv": [14, 6.5, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 6.5, 5, 16], "texture": "#texture"},
+				"up": {"uv": [9.5, 11, 11.5, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [4.5, 0, 6.5, 5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Inner vertical post of right-hand gate door",
+			"from": [0.5, 1, 9.5],
+			"to": [2.5, 10.5, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 5, 16], "texture": "#texture"},
+				"east": {"uv": [5, 6.5, 10, 16], "texture": "#texture"},
+				"south": {"uv": [14, 6.5, 16, 16], "texture": "#texture"},
+				"west": {"uv": [0, 6.5, 5, 16], "texture": "#texture"},
+				"up": {"uv": [9.5, 11, 11.5, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [4.5, 0, 6.5, 5], "rotation": 180, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, -1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, -3, -6]
+		}
+	},
+	"groups": [
+		{
+			"name": "template_fence_gate",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

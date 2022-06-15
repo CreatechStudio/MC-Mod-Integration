@@ -1,0 +1,31 @@
+{
+	"parent": "block/template_wall_post",
+	"textures": {
+		"1": "blockmodel/granite_wall_post_top",
+		"particle": "blockmodel/granite_wall_post_side",
+		"wall": "blockmodel/granite_wall_post_side"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "template_wall_post",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

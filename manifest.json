@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Createch Mod Integration Pack",
+  "version": "1.19b7",
+  "author": "CreatechStudio Shanghai Inc.",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.19",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.6",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}

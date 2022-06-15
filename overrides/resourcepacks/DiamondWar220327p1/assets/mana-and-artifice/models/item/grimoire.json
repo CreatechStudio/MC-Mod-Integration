@@ -1,0 +1,8 @@
+{
+
+  "parent": "builtin/entity",
+    "textures": {
+        "layer0": "mana-and-artifice:item/sorcery/grimoire_cover",
+        "layer1": "mana-and-artifice:item/sorcery/spell_book_decoration"
+    }
+}

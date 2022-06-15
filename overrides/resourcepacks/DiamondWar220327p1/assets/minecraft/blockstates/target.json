@@ -1,0 +1,13 @@
+{
+  "variants": {
+	"power=4": {
+      "model": "minecraft:block/target_power_4"
+    },
+    "power=14": {
+      "model": "minecraft:block/target_power_14"
+    },
+	"power=15": {
+      "model": "block/target_power_15"
+    }
+  }
+}

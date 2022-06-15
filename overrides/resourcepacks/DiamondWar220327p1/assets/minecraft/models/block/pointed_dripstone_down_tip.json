@@ -1,0 +1,29 @@
+{
+	"parent": "minecraft:block/pointed_dripstone",
+	"textures": {
+		"particle": "blockmodel/pointed_dripstone_down_tip",
+		"cross": "blockmodel/pointed_dripstone_down_tip"
+	},
+	"elements": [
+		{
+			"from": [7, 5, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 11], "texture": "#cross"},
+				"east": {"uv": [0, 0, 2, 11], "texture": "#cross"},
+				"south": {"uv": [0, 0, 2, 11], "texture": "#cross"},
+				"west": {"uv": [0, 0, 2, 11], "texture": "#cross"},
+				"up": {"uv": [0, 0, 2, 1], "texture": "#cross", "cullface": "up"},
+				"down": {"uv": [0, 9, 2, 11], "texture": "#cross"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "pointed_dripstone_up_tip",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

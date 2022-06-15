@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "mana-and-artifice:block/worldgen/wakebloom"
+    }
+}

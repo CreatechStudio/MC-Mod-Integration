@@ -1,0 +1,24 @@
+{
+	"textureSize":[128,128],
+	"shadowSize":0,
+	"models":[
+		{
+			"model":"chest_base.jpm",
+			"part":"base",
+			"translate":[16,0,16],
+			"rotate":[-180,0,0]
+		},
+		{
+			"model":"chest_knob.jpm",
+			"part":"knob",
+			"translate":[16,-8,15],
+			"rotate":[-180,0,0]
+		},
+		{
+			"model":"chest_lid.jpm",
+			"part":"lid",
+			"translate":[16,-9,15],
+			"rotate":[-180,0,0]
+		}
+	]
+}

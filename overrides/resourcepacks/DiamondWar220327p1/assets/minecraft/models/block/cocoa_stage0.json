@@ -1,0 +1,33 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "blocks/cocoa_stage_0",
+		"cocoa": "blocks/cocoa_stage_0"
+	},
+	"elements": [
+		{
+			"from": [6, 7, 11],
+			"to": [10, 12, 15],
+			"faces": {
+				"north": {"uv": [4, 0, 8, 5], "texture": "#cocoa"},
+				"east": {"uv": [4, 0, 8, 5], "texture": "#cocoa"},
+				"south": {"uv": [4, 0, 8, 5], "texture": "#cocoa"},
+				"west": {"uv": [4, 0, 8, 5], "texture": "#cocoa"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#cocoa"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#cocoa"}
+			}
+		},
+		{
+			"from": [7.5, 12, 12.5],
+			"to": [8.5, 13, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 9, 1], "texture": "#cocoa"},
+				"east": {"uv": [8, 0, 9, 1], "texture": "#cocoa"},
+				"south": {"uv": [8, 0, 9, 1], "texture": "#cocoa"},
+				"west": {"uv": [8, 0, 9, 1], "texture": "#cocoa"},
+				"up": {"uv": [8, 0, 9, 1], "texture": "#cocoa"},
+				"down": {"uv": [8, 0, 9, 1], "texture": "#cocoa"}
+			}
+		}
+	]
+}

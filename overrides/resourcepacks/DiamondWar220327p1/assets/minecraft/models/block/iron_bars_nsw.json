@@ -1,0 +1,138 @@
+{
+	"textures": {
+		"0": "block/iron_bars",
+		"1": "blocks/iron_bars_2",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 1.75],
+			"to": [9, 16, 3.75],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"east": {"uv": [6, 0, 8, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [4, 0, 6, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.75, 0, 7],
+			"to": [3.75, 16, 9],
+			"faces": {
+				"north": {"uv": [4, 0, 6, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [6, 0, 8, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 12.25],
+			"to": [9, 16, 14.25],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"east": {"uv": [4, 0, 6, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [6, 0, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 10, 7],
+			"to": [1.75, 12, 9],
+			"faces": {
+				"north": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"south": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "west"},
+				"up": {"uv": [0.5, 0, 1, 2], "texture": "#0"},
+				"down": {"uv": [0.5, 0, 1, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.75, 4, 7],
+			"to": [7, 6, 9],
+			"faces": {
+				"north": {"uv": [0.5, 0, 1, 2], "texture": "#0"},
+				"south": {"uv": [6, 4, 6.5, 6], "texture": "#0"},
+				"up": {"uv": [0.5, 0, 1.5, 2], "texture": "#0"},
+				"down": {"uv": [0.5, 0, 1.5, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 4, 0],
+			"to": [9, 6, 1.75],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"up": {"uv": [2, 4.5, 4, 6.25], "texture": "#0"},
+				"down": {"uv": [2, 4, 4, 5.75], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 10, 3.75],
+			"to": [9, 12, 7],
+			"faces": {
+				"east": {"uv": [6, 4, 6.5, 6], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 1, 2], "texture": "#0"},
+				"up": {"uv": [6, 6, 8, 9.25], "texture": "#0"},
+				"down": {"uv": [6, 6.5, 8, 9.75], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"east": {"uv": [12, 0, 14, 16], "texture": "#0"},
+				"south": {"uv": [14, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [12, 0, 14, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7, 4, 14.25],
+			"to": [9, 6, 16],
+			"faces": {
+				"east": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#0", "cullface": "south"},
+				"west": {"uv": [0.5, 0, 1.25, 2], "texture": "#0"},
+				"up": {"uv": [4, 1.5, 6, 3.25], "texture": "#0"},
+				"down": {"uv": [2, 4, 4, 5.75], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 10, 9],
+			"to": [9, 12, 12.25],
+			"faces": {
+				"east": {"uv": [6, 4, 6.5, 6], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 1, 2], "texture": "#0"},
+				"up": {"uv": [6, 6, 8, 9.25], "texture": "#0"},
+				"down": {"uv": [6, 6.5, 8, 9.75], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [0, 1, 2,
+		{
+			"name": "iron_bars_w",
+			"origin": [8, 8, 8],
+			"children": [3, 4]
+		},
+		{
+			"name": "iron_bars_ns",
+			"origin": [8, 8, 8],
+			"children": [5, 6,
+				{
+					"name": "iron_bars_s",
+					"origin": [8, 8, 8],
+					"children": [7, 8, 9]
+				}
+			]
+		}
+	]
+}

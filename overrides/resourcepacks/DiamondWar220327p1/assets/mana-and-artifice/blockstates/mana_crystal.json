@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "mana-and-artifice:block/mana_crystal" },
+   	"hanging=true": { "model": "mana-and-artifice:block/mana_crystal", "x":180 }
+  }
+}

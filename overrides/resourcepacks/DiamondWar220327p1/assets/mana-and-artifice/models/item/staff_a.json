@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mana-and-artifice:block/wood",
+		"1": "mana-and-artifice:block/material/runic_anvil",
+		"particle": "mana-and-artifice:block/wood"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 2, 9],
+			"faces": {
+				"north": {"uv": [8, 4, 10, 6], "texture": "#1"},
+				"east": {"uv": [7, 4, 9, 6], "texture": "#1"},
+				"south": {"uv": [5.25, 0, 7.25, 2], "texture": "#1"},
+				"west": {"uv": [8, 2, 10, 4], "texture": "#1"},
+				"up": {"uv": [8, 1.75, 10, 3.75], "texture": "#1"},
+				"down": {"uv": [8, 12.25, 11.75, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 30, 7],
+			"to": [9, 32, 9],
+			"faces": {
+				"north": {"uv": [0, 4, 3.75, 7.75], "texture": "#1"},
+				"east": {"uv": [8, 12.25, 11.75, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 3.75, 3.75], "texture": "#1"},
+				"west": {"uv": [0, 8, 3.75, 11.75], "texture": "#1"},
+				"up": {"uv": [12.25, 4.25, 16, 8], "texture": "#1"},
+				"down": {"uv": [12.25, 12.25, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 2, 7],
+			"to": [9, 30, 9],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"east": {"uv": [8, 0, 10, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"west": {"uv": [5, 0, 7, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -6.5, -1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -6.5, -1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-13, 0, 0],
+			"translation": [0, -9, 4.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-13, 0, 0],
+			"translation": [0, -9, 4.75]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [0, 0, 41],
+			"translation": [2.75, -3.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, 0, 41],
+			"translation": [2.75, -3.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

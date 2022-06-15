@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/glass"
+  },
+  "parts": {
+    "barrel": {
+      "loader": "forge:obj",
+      "detectCullableFaces": true,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/crystals/crystal_orange.obj",
+      "textures": {
+        "#CrystalMaterial": "mana-and-artifice:block/material/crystal_orange"
+      }
+    }
+  }
+}

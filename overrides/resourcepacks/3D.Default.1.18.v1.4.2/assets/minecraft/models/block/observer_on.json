@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/observer",
+	"textures":{
+		"bottom":"block/observer_back_on"
+	}
+}

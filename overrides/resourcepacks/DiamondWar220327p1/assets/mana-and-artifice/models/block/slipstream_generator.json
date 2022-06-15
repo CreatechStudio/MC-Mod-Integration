@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "mana-and-artifice:block/artifice/slipstream_generator",
+        "up": "mana-and-artifice:block/artifice/slipstream_generator",
+        "north": "mana-and-artifice:block/artifice/slipstream_generator",
+        "east": "mana-and-artifice:block/artifice/slipstream_generator",
+        "south": "mana-and-artifice:block/artifice/slipstream_generator",
+        "west": "mana-and-artifice:block/artifice/slipstream_generator",
+        "particle": "mana-and-artifice:block/artifice/slipstream_generator"
+    }
+}

@@ -1,0 +1,22 @@
+{
+	"parent": "block/stem_growth0",
+	"textures": {
+		"particle": "block/pumpkin_stem",
+		"stem": "block/pumpkin_stem"
+	},
+	"elements": [
+		{
+			"from": [7, -1, 7],
+			"to": [9, 2, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 8, 15.5]},
+			"faces": {
+				"north": {"uv": [7, 12, 8, 14], "texture": "#stem", "tintindex": 0},
+				"east": {"uv": [7, 12, 8, 14], "texture": "#stem", "tintindex": 0},
+				"south": {"uv": [7, 13, 8, 15], "texture": "#stem", "tintindex": 0},
+				"west": {"uv": [7, 12, 8, 14], "texture": "#stem", "tintindex": 0},
+				"up": {"uv": [7, 12, 8, 14], "texture": "#stem", "tintindex": 0},
+				"down": {"uv": [7, 12, 8, 14], "texture": "#stem", "tintindex": 0, "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{"model": "minecraft:block/allium", "weight": 1 },
+	{"model": "minecraft:block/allium", "weight": 1 , "y": 90},
+	{"model": "minecraft:block/allium", "weight": 1 , "y": 180},
+	{"model": "minecraft:block/allium", "weight": 1 , "y": 270}
+      ]
+  }
+}

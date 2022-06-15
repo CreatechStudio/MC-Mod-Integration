@@ -1,0 +1,32 @@
+{
+	"parent": "block/template_farmland",
+	"textures": {
+		"2": "blockmodel/farmland_dry_side2",
+		"3": "blockmodel/farmland_dry_side",
+		"particle": "blocks/dirt",
+		"dirt": "blocks/dirt",
+		"top": "blocks/farmland_dry"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 16], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [0, 1, 16, 16], "texture": "#3", "cullface": "east"},
+				"south": {"uv": [0, 1, 16, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [0, 1, 16, 16], "texture": "#3", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#dirt", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "farmland_0",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

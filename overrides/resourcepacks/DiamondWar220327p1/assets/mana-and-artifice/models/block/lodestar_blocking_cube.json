@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/obsidian"
+  },
+  "parts": {
+    "part1": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/lodestar/lodestar_blocking_cube.obj",
+      "textures": {
+        "#lodestar_blocking_cube": "mana-and-artifice:block/material/lodestar"
+      }
+    }
+  }
+}

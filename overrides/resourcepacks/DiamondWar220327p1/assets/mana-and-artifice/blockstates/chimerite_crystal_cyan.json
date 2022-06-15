@@ -1,0 +1,18 @@
+{
+  "variants": {    
+    "surface=1,facing=east": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "y": 90 },
+    "surface=1,facing=west": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "y": 270 },
+    "surface=1,facing=north": { "model": "mana-and-artifice:block/chimerite_crystal/cyan" },
+    "surface=1,facing=south": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "y": 180 },
+    
+    "surface=2,facing=east": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 180, "y": 180 },
+    "surface=2,facing=west": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 180 },
+    "surface=2,facing=north": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 180, "y": 90 },
+    "surface=2,facing=south": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 180, "y": 270 },
+    
+    "surface=3,facing=east": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 90, "y": 90  },
+    "surface=3,facing=west": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 90, "y": 270 },
+    "surface=3,facing=north": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 90 },
+    "surface=3,facing=south": { "model": "mana-and-artifice:block/chimerite_crystal/cyan", "x": 90, "y": 180 }
+  }
+}

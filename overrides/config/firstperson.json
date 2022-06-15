@@ -1,0 +1,10 @@
+{
+  "enabledByDefault": true,
+  "xOffset": 0,
+  "sneakXOffset": 0,
+  "sitXOffset": 0,
+  "vanillaHands": false,
+  "doubleHands": false,
+  "hideCosmeticsButton": false,
+  "forceActive": false
+}

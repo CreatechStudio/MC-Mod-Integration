@@ -1,0 +1,20 @@
+{
+  "submodels": [
+    {
+      "comment": "defaultarms",
+      "id": "villagerarms",
+      "translate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,0,0,0],
+          "uvDown": [28,16,36,20],
+          "uvUp": [20,16,28,20],
+          "uvNorth": [20,20,28,32],
+          "uvSouth": [32,20,40,32],
+          "uvWest": [28,20,32,32],
+          "uvEast": [16,20,20,32]
+        }
+      ]
+    }	
+  ]
+}

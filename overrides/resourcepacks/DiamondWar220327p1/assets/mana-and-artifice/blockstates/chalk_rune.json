@@ -1,0 +1,129 @@
+{
+	"variants": {
+		"activated=false,rune=0,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_a"
+		},
+		"activated=false,rune=1,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_b"
+		},
+		"activated=false,rune=2,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_c"
+		},
+		"activated=false,rune=3,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_d"
+		},
+		"activated=false,rune=4,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_e"
+		},
+		"activated=false,rune=5,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_f"
+		},
+		"activated=false,rune=6,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_g"
+		},
+		"activated=false,rune=7,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_h"
+		},
+		"activated=false,rune=8,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_i"
+		},
+		"activated=false,rune=9,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_j"
+		},
+		
+		
+		"activated=true,rune=0,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_a_active"
+		},
+		"activated=true,rune=1,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_b_active"
+		},
+		"activated=true,rune=2,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_c_active"
+		},
+		"activated=true,rune=3,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_d_active"
+		},
+		"activated=true,rune=4,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_e_active"
+		},
+		"activated=true,rune=5,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_f_active"
+		},
+		"activated=true,rune=6,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_g_active"
+		},
+		"activated=true,rune=7,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_h_active"
+		},
+		"activated=true,rune=8,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_i_active"
+		},
+		"activated=true,rune=9,metal=false": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_j_active"
+		},
+		
+		"activated=false,rune=0,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_a_metal"
+		},
+		"activated=false,rune=1,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_b_metal"
+		},
+		"activated=false,rune=2,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_c_metal"
+		},
+		"activated=false,rune=3,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_d_metal"
+		},
+		"activated=false,rune=4,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_e_metal"
+		},
+		"activated=false,rune=5,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_f_metal"
+		},
+		"activated=false,rune=6,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_g_metal"
+		},
+		"activated=false,rune=7,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_h_metal"
+		},
+		"activated=false,rune=8,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_i_metal"
+		},
+		"activated=false,rune=9,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_j_metal"
+		},
+		
+		
+		"activated=true,rune=0,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_a_metal_active"
+		},
+		"activated=true,rune=1,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_b_metal_active"
+		},
+		"activated=true,rune=2,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_c_metal_active"
+		},
+		"activated=true,rune=3,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_d_metal_active"
+		},
+		"activated=true,rune=4,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_e_metal_active"
+		},
+		"activated=true,rune=5,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_f_metal_active"
+		},
+		"activated=true,rune=6,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_g_metal_active"
+		},
+		"activated=true,rune=7,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_h_metal_active"
+		},
+		"activated=true,rune=8,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_i_metal_active"
+		},
+		"activated=true,rune=9,metal=true": {
+			"model": "mana-and-artifice:block/rune/chalk_rune_j_metal_active"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "mana-and-artifice:block/oreblockvinteum",
+        "up": "mana-and-artifice:block/oreblockvinteum",
+        "north": "mana-and-artifice:block/oreblockvinteum",
+        "east": "mana-and-artifice:block/oreblockvinteum",
+        "south": "mana-and-artifice:block/oreblockvinteum",
+        "west": "mana-and-artifice:block/oreblockvinteum",
+        "particle": "mana-and-artifice:block/oreblockvinteum"
+    }
+}

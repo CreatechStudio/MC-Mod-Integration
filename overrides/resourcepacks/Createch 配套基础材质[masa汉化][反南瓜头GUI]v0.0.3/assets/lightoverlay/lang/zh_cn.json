@@ -1,0 +1,21 @@
+//汉化：Wudji(XPlus 2.0整合包提供)
+{
+  "key.lightoverlay.category": "光照显示",
+  "key.lightoverlay.enable_overlay": "启用/关闭光照显示",
+  "description.lightoverlay.caching": "如果你的视野距离大于16或者你正在使用土豆制电脑，我们推荐你开启Caching.",
+  "config.lightoverlay.general": "普遍的",
+  "config.lightoverlay.reach": "距离:",
+  "config.lightoverlay.caching": "Caching:",
+  "config.lightoverlay.crossLevel": "光照等级:",
+  "config.lightoverlay.secondaryLevel": "二级光照:",
+  "config.lightoverlay.showNumber": "显示光照大小为数字:",
+  "config.lightoverlay.smoothLines": "线段抗锯齿:",
+  "config.lightoverlay.underwater": "水下显示:",
+  "config.lightoverlay.lineWidth": "线段宽度:",
+  "config.lightoverlay.yellowColor": "黄色:",
+  "config.lightoverlay.secondaryColor": "二级颜色:",
+  "config.lightoverlay.redColor": "红色:",
+  "config.lightoverlay.invalidColor": "非法颜色",
+  "config.lightoverlay.mushroom": "在蘑菇岛群戏显示:",
+  "config.lightoverlay.useListWhileCaching": "在Caching时使用glList:"
+}

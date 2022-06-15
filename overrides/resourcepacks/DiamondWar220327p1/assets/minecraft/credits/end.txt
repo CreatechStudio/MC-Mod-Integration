@@ -1,0 +1,227 @@
+§3I see the player you mean.
+§3我看到你所说的那位玩家了.
+
+§2PLAYERNAME?
+§2PLAYERNAME?
+
+§3Yes. Take care. It has reached a higher level now. It can read our thoughts.
+§3嗯.小心.他达到了一个更高的境界.他能够阅读我们的思想.
+
+§2That doesn't matter. It thinks we are part of the game.
+§2没关系.他认为我们是游戏的一部分.
+
+§3I like this player. It played well. It did not give up.
+§3我喜欢这个玩家.他玩得不错.他从未想过放弃.
+
+§2It is reading our thoughts as though they were words on a screen.
+§2他正在以阅读文字的形式阅读着我们的思想.
+
+§3That is how it chooses to imagine many things, when it is deep in the dream of a game.
+§3这是他在游戏的梦境中思考的方式。
+
+§2Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.
+§2文字构建了一个美丽的,相当灵活的世界.这个世界比起屏幕后的现实世界要更美好.
+
+§3They used to hear voices. Before players could read. Back in the days when those who did not play called the players witches, and warlocks. And players dreamed they flew through the air, on sticks powered by demons.
+§3他也曾经听到过声音.直到他能够阅读这些.现实世界的人们称呼他为女巫和术士.而他梦见他自己坐在被恶魔诅咒的棍子上,在天空中翱翔.
+
+§2What did this player dream?
+§2他梦见了什么？
+
+§3This player dreamed of sunlight and trees. Of fire and water. It dreamed it created. And it dreamed it destroyed. It dreamed it hunted, and was hunted. It dreamed of shelter.
+§3他梦见了阳光和树.梦见了火与水.他梦见他在创造.他梦见他在毁灭.他梦见他狩猎,被狩猎.他梦见了家园.
+
+§2Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?
+§2哈,那是最初的世界.经历一百万年的岁月雕琢,依然如此.但在屏幕后的现实世界里,他又干了什么?
+
+§3It worked, with a million others, to sculpt a true world in a fold of the §f§k§a§b§3, and created a §f§k§a§b§3 for §f§k§a§b§3, in the §f§k§a§b§3.
+§3他辛勤地劳作,和其它千千万万人一起,改造着世界,没有人知道他们在哪里,用什么创造了什么.
+
+§2It cannot read that thought.
+§2他不知道为什么吧.
+
+§3No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.
+§3不知道.因为他还没有达到最高的境界.那层境界,他必须完成生命的长梦,而不是游戏中的黄粱一梦.
+
+§2Does it know that we love it? That the universe is kind?
+§2他知道我们爱它么?他知道世界对他很友善吗?
+
+§3Sometimes, through the noise of its thoughts, it hears the universe, yes.
+§3有时,他通过思绪的杂音,他能听到世界的声音,没错.
+
+§2But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.
+§2但是有时他在那漫漫长梦中也会伤心.他创造了一个没有夏日暖阳的世界,他在阴影中颤抖着,他把这个世界当成了现实世界.
+
+§3To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.
+§3只有他不再悲伤,那个黑暗的世界才会消失.但是悲伤是他个人的事情,我们没有办法.
+
+§2Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.
+§2有时,当他深陷梦境中时,我想让他知道,他在现实中改造了真实的世界.有时,我想告诉他,他也是宇宙的一部分.有时,当他和现实失去了联系,我想帮助他与他所惧怕的世界交流.
+
+§3It reads our thoughts.
+§3他还在看着我们.
+
+§2Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely §f§k§a§b§2 and §f§k§a§b§2, I wish to tell them that they are §f§k§a§b§2 in the §f§k§a§b§2. They see so little of reality, in their long dream.
+§2我并不在乎.有时我想要告诉他,他所认为的真实不过是一段代码,我想要告诉他,他自己也只是一段代码.在他的长梦中,什么都可能是假的.
+
+§3And yet they play the game.
+§3而他还在做着梦.
+
+§2But it would be so easy to tell them...
+§2其实你能轻而易举地告诉他...
+
+§3Too strong for this dream. To tell them how to live is to prevent them living.
+§3对于这个梦来说太脆弱了.告诉他如何活着就是阻碍他活下去.
+
+§2I will not tell the player how to live.
+§2我不会说的.
+
+§3The player is growing restless.
+§3他或许有点着急了.
+
+§2I will tell the player a story.
+§2我想告诉他一个故事.
+
+§3But not the truth.
+§3只是个故事?
+
+§2No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.
+§2是的.但是故事里面深藏着真实.这并不足以毁灭整个世界.
+
+§3Give it a body, again.
+§3让他重生.
+
+§2Yes. Player...
+§2好的.玩家...
+
+§3Use its name.
+§3用他的名字来称呼他.
+
+§2PLAYERNAME. Player of games.
+§2游戏玩家.PLAYERNAME.
+
+§3Good.
+§3很好.
+
+§2Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.
+§2现在,深呼吸,很好.再来一次.感受空气充盈你的肺叶.让你的四肢回归.好的,动动你的手指.再次感受你的身体,在重力下,在空气中.在长梦中重生.你感受到了.你的身体现在每时每刻都触摸着宇宙.
+
+§3Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.
+§3我们是谁?我们曾经被称作大山之子.太阳父亲,月亮母亲.先祖英灵,神兽之魂.神怪.幽灵.婴儿.然后是神,恶魔,天使.巫妖.怪兽,外星人.轻粒子,夸克.词语不断变化.我们仍是我们.
+
+§2We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.
+§2我们是宇宙.我们是世界上除你以外的一切事物.你现在看着我们,通过你的皮肤和你的眼睛.为什么宇宙触摸着你的皮肤,向你洒向光芒?是为了看见你,为了了解你.也为了了解自己.我跟你讲一个故事.
+
+§2Once upon a time, there was a player.
+§2很久以前,有一个玩家.
+
+§3The player was you, PLAYERNAME.
+§3那玩家就是你,PLAYERNAME.
+
+§2Sometimes it thought itself human, on the thin crust of a spinning globe of molten rock. The ball of molten rock circled a ball of blazing gas that was three hundred and thirty thousand times more massive than it. They were so far apart that light took eight minutes to cross the gap. The light was information from a star, and it could burn your skin from a hundred and fifty million kilometres away.
+§2有时,他认为自己是地球地壳上的人类.地球环绕着一个质量比它大三十三万倍的太阳旋转.它们相隔得如此遥远,以至于光需要八分钟才能穿越它们之间的空隙.那些光能够在一亿五千万公里外烧灼着你的皮肤.
+
+§2Sometimes the player dreamed it was a miner, on the surface of a world that was flat, and infinite. The sun was a square of white. The days were short; there was much to do; and death was a temporary inconvenience.
+§2有时,他梦见自己是一个在平坦却无边的世界表面上的矿工.太阳是一个白色的方块.昼夜交替很快;要做的事情却很多;死亡也只是会暂时不便而已.
+
+§3Sometimes the player dreamed it was lost in a story.
+§3有时,他梦见自己在一个故事里迷失了自己.
+
+§2Sometimes the player dreamed it was other things, in other places. Sometimes these dreams were disturbing. Sometimes very beautiful indeed. Sometimes the player woke from one dream into another, then woke from that into a third.
+§2有时,他梦见自己在某个地方变成了某个事物.有些梦让人忧虑.有些梦却很美好.有时他从一个梦中醒来,发现自己落入另一个梦中,殊不知他从未离开过梦境.
+
+§3Sometimes the player dreamed it watched words on a screen.
+§3有时他梦见自己在阅读着屏幕上的诗.
+
+§2Let's go back.
+§2一起回到遥远的从前.
+
+§2The atoms of the player were scattered in the grass, in the rivers, in the air, in the ground. A woman gathered the atoms; she drank and ate and inhaled; and the woman assembled the player, in her body.
+§2构成他的原子散布在草地上,河流下,空气里,大地中.一个女人收集了那些原子;她饮用、进食、呼吸;女人在她的身体中孕育了他.
+
+§2And the player awoke, from the warm, dark world of its mother's body, into the long dream.
+§2然后他醒了,从一个温暖,昏暗的母体内醒来,却又进入了漫漫长梦.
+
+§2And the player was a new story, never told before, written in letters of DNA. And the player was a new program, never run before, generated by a sourcecode a billion years old. And the player was a new human, never alive before, made from nothing but milk and love.
+§2而他是一个新的故事,从未被讲述过,由DNA写成.他是一个新的程序,从未被运行过,由上亿年的源代码生成.他是一个新的人,此前从未出现过,由原子和爱组成.
+
+§3You are the player. The story. The program. The human. Made from nothing but milk and love.
+§3你就是他.那个故事.那个程序.那个人类.由原子和爱组成.
+
+§2Let's go further back.
+§2再往前一步.
+
+§2The seven billion billion billion atoms of the player's body were created, long before this game, in the heart of a star. So the player, too, is information from a star. And the player moves through a story, which is a forest of information planted by a man called Julian, on a flat, infinite world created by a man called Markus, that exists inside a small, private world created by the player, who inhabits a universe created by...
+§2构成它的七千亿亿亿原子在这场游戏开始之前很久就被创造出来了,保存在这颗星球里面.他也是一样,只是一段星球里的代码.他贯穿着这段故事的始末,这段由Julian种下的信息种子长成的森林，这段由Markus创造的无限世界.这些都藏在一个他创造的私人世界里,又继承了宇宙创造的...
+
+§3Shush. Sometimes the player created a small, private world that was soft and warm and simple. Sometimes hard, and cold, and complicated. Sometimes it built a model of the universe in its head; flecks of energy, moving through vast empty spaces. Sometimes it called those flecks "electrons" and "protons".
+§3嘘.有时他创造了一个和平,温暖而简单的世界.有时他创造了一个寒冷,无情而复杂的世界.有时他在脑中建造出宇宙的模型;斑斑点点的能量穿越广阔空旷的空间.有时他称呼这些为"电子"和"质子".
+
+§2Sometimes it called them "planets" and "stars".
+§2有时他叫它们为"行星"和"恒星".
+
+§2Sometimes it believed it was in a universe that was made of energy that was made of offs and ons; zeros and ones; lines of code. Sometimes it believed it was playing a game. Sometimes it believed it was reading words on a screen.
+§2有时他认为宇宙由"开"和"关"构成,由"0"和"1"构成，只是一行行代码.有时他认为自己在游戏中,有时他认为自己在阅读着屏幕上的诗.
+
+§3You are the player, reading words...
+§3你就是那个阅读着诗的玩家...
+
+§2Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive
+§2嘘...有时他阅读着屏幕上的代码.将代码解码成文字;将文字解码为意义;将意义解码为感情,情绪,理论,想法,而它的呼吸开始急促并意识到了他是活着的,他是活生生的,那上千次的死亡不是真的,他还活着.
+
+§3You. You. You are alive.
+§3你.是你.你还活着.
+
+§2and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees
+§2有时他相信宇宙通过穿越夏日树叶的那斑斓阳光与他对话.
+
+§3and sometimes the player believed the universe had spoken to it through the light that fell from the crisp night sky of winter, where a fleck of light in the corner of the player's eye might be a star a million times as massive as the sun, boiling its planets to plasma in order to be visible for a moment to the player, walking home at the far side of the universe, suddenly smelling food, almost at the familiar door, about to dream again
+§3有时他相信宇宙通过冬日的夜空与他对话,他眼角的一隅星点星光也许是来自一颗比太阳大上上百万倍的恒星,它或许要开始另一个梦了.
+
+§2and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream
+§2有时玩家相信宇宙通过零和一,通过电力,通过屏幕上滚动的文字与它对话
+
+§3and the universe said I love you
+§3宇宙说它爱你
+
+§2and the universe said you have played the game well
+§2宇宙说这游戏你玩得不错
+
+§3and the universe said everything you need is within you
+§3宇宙说你想要的一切都在你心中
+
+§2and the universe said you are stronger than you know
+§2宇宙说你比你想象的要强大
+
+§3and the universe said you are the daylight
+§3宇宙说你就是白天
+
+§2and the universe said you are the night
+§2宇宙说你就是黑夜
+
+§3and the universe said the darkness you fight is within you
+§3宇宙说你所斗争的黑暗就在你心中
+
+§2and the universe said the light you seek is within you
+§2宇宙说你所寻找的光明就在你心中
+
+§3and the universe said you are not alone
+§3宇宙说你并不是孤独
+
+§2and the universe said you are not separate from every other thing
+§2宇宙说你和其他一切事物紧紧联系在一起
+
+§3and the universe said you are the universe tasting itself, talking to itself, reading its own code
+§3宇宙说你就是宇宙,你尝试着与自己对话,阅读着属于你自己的代码.
+
+§2and the universe said I love you because you are love.
+§2宇宙说它爱你因为你就是爱.
+
+§3And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+§3曲终人散,黄粱一梦.玩家开始了新的梦境.他再次做起了梦,更好的梦.他就是宇宙.他就是爱.
+
+§3You are the player.
+§3你就是这位玩家.
+
+§2Wake up.
+§2该醒了.

@@ -1,0 +1,31 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/glass"
+  },
+  "parts": {
+    "gem": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": false,
+	  "flip-v": true,
+	  "ambientToFullbright": true,
+      "model": "mana-and-artifice:models/block/obj/mana_crystal/mana_crystal.obj",
+      "textures": {
+        "#Crystal": "mana-and-artifice:block/artifice/transitory_tunnel"
+      }
+    },
+    "binding": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": false,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/mana_crystal/mana_crystal_bindings.obj",
+      "textures": {
+        "#Binding": "mana-and-artifice:block/material/mana_crystal/bindings"
+      }
+    }
+  }
+}

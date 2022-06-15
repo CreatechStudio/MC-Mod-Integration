@@ -1,0 +1,9 @@
+{
+    "parent": "buildersaddition:block/pillar/cut_pillar_both_base",
+    "textures": {
+          "side": "minecraft:block/nether_bricks",
+          "particle": "minecraft:block/nether_bricks",
+          "top": "minecraft:block/nether_bricks",
+          "platform": "minecraft:block/nether_bricks"
+      }
+  }

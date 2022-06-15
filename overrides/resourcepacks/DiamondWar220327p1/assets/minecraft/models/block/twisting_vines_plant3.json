@@ -1,0 +1,49 @@
+{
+	"parent": "minecraft:block/cross",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "blockmodel/twisting_vines_plant",
+		"cross": "blockmodel/twisting_vines_plant"
+	},
+	"elements": [
+		{
+			"from": [-1, 7.5, -1],
+			"to": [8, 8.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 15.5, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross", "cullface": "north"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross"},
+				"south": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross", "cullface": "west"},
+				"up": {"uv": [5, 0, 14, 9], "rotation": 180, "texture": "#cross"},
+				"down": {"uv": [5, 0, 14, 9], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [-2, 7.5, -2],
+			"to": [5, 8.5, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 15.5, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross", "cullface": "north"},
+				"east": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross"},
+				"south": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "rotation": 180, "texture": "#cross", "cullface": "west"},
+				"up": {"uv": [8, 3, 15, 10], "rotation": 180, "texture": "#cross"},
+				"down": {"uv": [8, 3, 15, 10], "rotation": 90, "texture": "#cross"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 14]},
+			"faces": {
+				"north": {"uv": [0, 9, 4, 8], "texture": "#cross"},
+				"east": {"uv": [0, 9, 4, 8], "texture": "#cross"},
+				"south": {"uv": [0, 9, 4, 8], "texture": "#cross"},
+				"west": {"uv": [0, 9, 4, 8], "texture": "#cross"},
+				"up": {"uv": [0, 10, 4, 6], "texture": "#cross", "cullface": "up"},
+				"down": {"uv": [0, 10, 4, 6], "texture": "#cross", "cullface": "down"}
+			}
+		}
+	]
+}

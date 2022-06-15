@@ -1,0 +1,8 @@
+# Blender MTL File: 'occulus.blend'
+# Material Count: 2
+
+newmtl MAIN
+map_Kd mana-and-artifice:block/material/occulus
+
+newmtl STARFIELD
+map_Kd minecraft:entity/end_portal

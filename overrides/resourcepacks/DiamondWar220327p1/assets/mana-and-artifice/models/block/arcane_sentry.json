@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/anvil"
+  },
+  "parts": {
+    "ring": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": false,
+	  "flip-v": true,
+	  "ambientToFullbright": true,
+      "model": "mana-and-artifice:models/block/obj/rune_circle.obj",
+      "textures": {
+        "#Ring": "mana-and-artifice:block/material/runic_anvil_ring"
+      }
+    }
+  }
+}

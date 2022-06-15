@@ -1,0 +1,28 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/fence_big_oak",
+		"1_texture": "block/fence_big_oak"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1_texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 4, 4], "rotation": 180, "texture": "#1_texture", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "oak_fence_post",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

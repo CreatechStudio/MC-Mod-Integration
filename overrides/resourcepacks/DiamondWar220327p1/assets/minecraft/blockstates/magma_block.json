@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+            { "model": "minecraft:block/magma_block", "y": 90, "x": 90, "z": 90},
+			{ "model": "minecraft:block/magma_block"}
+        ]
+  }
+}

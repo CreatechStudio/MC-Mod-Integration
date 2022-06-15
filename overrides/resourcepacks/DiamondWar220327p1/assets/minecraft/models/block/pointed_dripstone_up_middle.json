@@ -1,0 +1,22 @@
+{
+	"textures": {
+		"1": "blockmodel/pointed_dripstone_up_middle_top",
+		"2": "blockmodel/pointed_dripstone_up_middle_down",
+		"particle": "blockmodel/pointed_dripstone_up_middle",
+		"cross": "blockmodel/pointed_dripstone_up_middle"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 16, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 16], "texture": "#cross"},
+				"east": {"uv": [0, 0, 10, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 10, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 10, 16], "texture": "#cross"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}

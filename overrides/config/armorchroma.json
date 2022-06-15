@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "renderGlint": true,
+  "glintIntensity": 0.75,
+  "renderBackground": true,
+  "compressBar": false,
+  "reverse": false
+}

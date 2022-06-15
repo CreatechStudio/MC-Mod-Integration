@@ -1,0 +1,61 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/redstone_dust_dot",
+		"dot": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 9],
+			"to": [11, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 10]},
+			"faces": {
+				"north": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"south": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"up": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"down": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0, "cullface": "down"}
+			}
+		},
+		{
+			"from": [9, 0, 5],
+			"to": [11, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 8, 8]},
+			"faces": {
+				"east": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"west": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"up": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"down": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0, "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 0.25, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 6]},
+			"faces": {
+				"north": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"south": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"up": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0},
+				"down": {"uv": [7.5, 7.5, 8.527, 8.027], "texture": "#dot", "tintindex": 0, "cullface": "down"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [7, 0.25, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 8]},
+			"faces": {
+				"east": {"uv": [7.5, 7.5, 8, 8], "texture": "#dot", "tintindex": 0},
+				"west": {"uv": [7.5, 7.5, 8, 8], "texture": "#dot", "tintindex": 0},
+				"up": {"uv": [7.5, 7.5, 8, 8], "texture": "#dot", "tintindex": 0},
+				"down": {"uv": [7.5, 7.5, 8, 8], "texture": "#dot", "tintindex": 0, "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [6, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

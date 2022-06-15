@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "fill_level=0,projecting=false": { "model": "mana-and-artifice:block/manaweave_projector/empty" },
+    "fill_level=1,projecting=false": { "model": "mana-and-artifice:block/manaweave_projector/quarter" },
+    "fill_level=2,projecting=false": { "model": "mana-and-artifice:block/manaweave_projector/half" },
+    "fill_level=3,projecting=false": { "model": "mana-and-artifice:block/manaweave_projector/three_quarter" },
+    "fill_level=4,projecting=false": { "model": "mana-and-artifice:block/manaweave_projector/full" },
+    
+    "fill_level=0,projecting=true": { "model": "mana-and-artifice:block/manaweave_projector/empty" },
+    "fill_level=1,projecting=true": { "model": "mana-and-artifice:block/manaweave_projector/quarter" },
+    "fill_level=2,projecting=true": { "model": "mana-and-artifice:block/manaweave_projector/half" },
+    "fill_level=3,projecting=true": { "model": "mana-and-artifice:block/manaweave_projector/three_quarter" },
+    "fill_level=4,projecting=true": { "model": "mana-and-artifice:block/manaweave_projector/full" }
+  }
+}

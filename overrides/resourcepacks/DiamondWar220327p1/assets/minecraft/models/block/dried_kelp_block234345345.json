@@ -1,0 +1,50 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"down": "blocks/dried_kelp_bottom",
+		"up": "blocks/dried_kelp_top",
+		"north": "blocks/dried_kelp_side",
+		"east": "blocks/dried_kelp_side",
+		"south": "blocks/dried_kelp_side",
+		"west": "blocks/dried_kelp_side",
+		"particle": "blocks/dried_kelp_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#north", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#east", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#south", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#west", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#down", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7.5, -0.5, -0.5],
+			"to": [8.5, 16.5, 16.5],
+			"faces": {
+				"north": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"east": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"south": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"west": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"up": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"down": {"uv": [7, 0, 8, 16], "texture": "#north"}
+			}
+		},
+		{
+			"from": [-0.5, -0.5, 7.5],
+			"to": [16.5, 16.5, 8.5],
+			"faces": {
+				"north": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"east": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"south": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"west": {"uv": [7, 0, 8, 16], "texture": "#north"},
+				"up": {"uv": [7, 0, 8, 16], "rotation": 90, "texture": "#north"},
+				"down": {"uv": [7, 0, 8, 16], "rotation": 270, "texture": "#north"}
+			}
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"parent": "block/piston_extended",
+	"textures": {
+		"2": "blocks/piston_top",
+		"particle": "blocks/piston_top",
+		"bottom": "blocks/stick_piston_bottom",
+		"side": "block/stick_piston_side_52"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 4],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"},
+				"east": {"uv": [0, 4, 16, 16], "rotation": 90, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "south"},
+				"west": {"uv": [0, 4, 16, 16], "rotation": 270, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 4, 16, 16], "texture": "#side", "cullface": "up"},
+				"down": {"uv": [0, 4, 16, 16], "rotation": 180, "texture": "#side", "cullface": "down"}
+			}
+		}
+	]
+}

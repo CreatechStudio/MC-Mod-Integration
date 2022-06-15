@@ -1,0 +1,7 @@
+{
+  "parent": "buildersaddition:block/hedge/hedge_none_base",
+  "textures": {
+        "leaves": "minecraft:block/jungle_leaves",
+        "particle": "minecraft:block/jungle_leaves"
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"2": "blocks/glass_bars",
+		"particle": "block/glass"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 9],
+			"to": [9, 16, 16],
+			"faces": {
+				"up": {"uv": [2, 2, 4, 9], "texture": "#2"},
+				"down": {"uv": [2, 3, 4, 10], "texture": "#2"}
+			}
+		}
+	]
+}

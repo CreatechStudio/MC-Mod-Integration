@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/glass"
+  },
+  "parts": {
+    "gem": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": false,
+	  "flip-v": true,
+	  "ambientToFullbright": true,
+      "model": "mana-and-artifice:models/block/obj/brazier/brazier_wall.obj",
+      "textures": {
+        "#Crystal": "mana-and-artifice:block/artifice/brazier"
+      }
+    }
+  }
+}

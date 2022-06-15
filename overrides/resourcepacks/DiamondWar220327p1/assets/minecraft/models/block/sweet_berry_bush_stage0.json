@@ -1,0 +1,20 @@
+{
+	"parent": "block/cross",
+	"textures": {
+		"cross": "block/sweet_berry_bush_stage1"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"west": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#cross"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#cross", "cullface": "down"}
+			}
+		}
+	]
+}

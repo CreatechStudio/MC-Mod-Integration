@@ -1,0 +1,7 @@
+{
+
+  "parent": "builtin/entity",
+    "textures": {
+        "layer0": "mana-and-artifice:item/manaweaving/manaweave_bottle"
+    }
+}

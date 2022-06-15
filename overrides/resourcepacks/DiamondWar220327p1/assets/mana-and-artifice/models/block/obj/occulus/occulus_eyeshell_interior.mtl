@@ -1,0 +1,5 @@
+# Blender MTL File: 'occulus.blend'
+# Material Count: 1
+
+newmtl STARFIELD
+map_Kd minecraft:entity/end_portal

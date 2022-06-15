@@ -1,0 +1,22 @@
+//汉化：Wudji(XPlus 2.0整合包提供)
+{
+    "loading-timer.title": "加载计时器",
+    "loading-timer.title_ee": "加载计时器",
+    "loading-timer.message_text": "游戏花费了 %d 秒加载",
+    "loading-timer.world_message_text": "游戏花费了 %d 秒 加载/生成这个世界",
+    "loading-timer.resource_loading_text": "游戏花费了约 %d 秒加载材质包",
+    "loading-timer.config": "加载计时器配置界面",
+    "loading-timer.config.insane_precision": "极端精确",
+    "loading-timer.config.insane_precision.description": "使加载时间极端精确(纳秒)",
+    "loading-timer.config.world_load_time": "世界加载计时器",
+    "loading-timer.config.world_load_time.description": "计量加载时间所用时间",
+    "loading-timer.config.resource_load_notif": "材质加载计时器",
+    //算了不翻了反正底下的一般看不到
+    "loading-timer.config.resource_load_notif.description": "Measures how long it takes to load into resource packs",
+    "loading-timer.config.resource_load_notif_override": "Resource Loading Timer Startup Override",
+    "loading-timer.config.resource_load_notif_override.description": "Usually at startup, the resource loading time doesn't \nshow up at startup to prevent toast spam.\n\nThis setting won't work unless 'Resource Loading Timer' is on",
+    "loading-timer.config.resource_load_percent": "Resource Loading Percent",
+    "loading-timer.config.resource_load_percent.description": "Prints out how much of the resource pack has been loaded.\nJust like how Minecraft prints out how much of the world has been generated in singleplayer",
+    "loading-timer.config.raw_loading_toast": "Show 'Raw' Time On Startup Toast",
+    "loading-timer.config.raw_loading_toast.description": "Replaces the 'total' values shown at startup with the 'raw' values"
+}

@@ -1,0 +1,78 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"candle": "block/white_candle",
+		"1_bottom": "blocks/cake_bottom",
+		"1_top": "blocks/cake_top",
+		"particle": "blocks/cake_side",
+		"1_side": "blocks/cake_side"
+	},
+	"elements": [
+		{
+			"from": [1, 4, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 12], "texture": "#1_side"},
+				"east": {"uv": [1, 8, 15, 12], "texture": "#1_side"},
+				"south": {"uv": [1, 8, 15, 12], "texture": "#1_side"},
+				"west": {"uv": [1, 8, 15, 12], "texture": "#1_side"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#1_top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [1.5, 0, 1.5],
+			"to": [14.5, 4, 14.5],
+			"faces": {
+				"north": {"uv": [1.5, 12, 14.5, 16], "texture": "#1_side"},
+				"east": {"uv": [1.5, 12, 14.5, 16], "texture": "#1_side"},
+				"south": {"uv": [1.5, 12, 14.5, 16], "texture": "#1_side"},
+				"west": {"uv": [1.5, 12, 14.5, 16], "texture": "#1_side"},
+				"down": {"uv": [1.5, 1.5, 14.5, 14.5], "rotation": 180, "texture": "#1_bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 10, 4],
+			"to": [12, 13, 12],
+			"faces": {
+				"north": {"uv": [4, 3, 12, 6], "texture": "#1_side"},
+				"east": {"uv": [4, 3, 12, 6], "texture": "#1_side"},
+				"south": {"uv": [4, 3, 12, 6], "texture": "#1_side"},
+				"west": {"uv": [4, 3, 12, 6], "texture": "#1_side"},
+				"up": {"uv": [4, 3, 12, 6], "texture": "#1_side"},
+				"down": {"uv": [4, 3, 12, 6], "texture": "#1_side"}
+			}
+		},
+		{
+			"from": [4.5, 8, 4.5],
+			"to": [11.5, 11, 11.5],
+			"faces": {
+				"north": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"},
+				"east": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"},
+				"south": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"},
+				"west": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"},
+				"up": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"},
+				"down": {"uv": [4.5, 5, 11.5, 8], "texture": "#1_side"}
+			}
+		},
+		{
+			"from": [7, 13, 7],
+			"to": [9, 19, 9],
+			"faces": {
+				"north": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+				"east": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+				"south": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+				"west": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+				"up": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+				"down": {"uv": [0, 8, 2, 14], "texture": "#candle"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "cake",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}, 2, 3, 4]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/blackstone"
+  },
+  "parts": {
+    "part1": {
+      "loader": "forge:obj",
+      "detectCullableFaces": true,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/runeforge_gold.obj",
+      "textures": {
+        "#Runeforge": "mana-and-artifice:block/material/runeforge_gold"
+      }
+    }
+  }
+}

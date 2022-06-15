@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/carved_pumpkin",
+	"textures":{
+		"front":"block/jack_o_lantern"
+	}
+}

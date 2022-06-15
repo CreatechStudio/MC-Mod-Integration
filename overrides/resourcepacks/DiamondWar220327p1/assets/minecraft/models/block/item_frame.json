@@ -1,0 +1,66 @@
+{
+	"parent": "minecraft:block/template_item_frame",
+	"textures": {
+		"particle": "block/item_frame",
+		"back": "block/item_frame"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 15.98],
+			"to": [13, 13, 16],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 13], "texture": "#back"}
+			}
+		},
+		{
+			"from": [2, 2, 15.498],
+			"to": [14, 3, 16],
+			"faces": {
+				"north": {"uv": [2, 13, 14, 14], "texture": "#back"},
+				"up": {"uv": [2, 14, 14, 14.5], "texture": "#back"},
+				"down": {"uv": [2, 14, 14, 14.5], "texture": "#back"}
+			}
+		},
+		{
+			"from": [2, 13, 15.498],
+			"to": [14, 14, 16],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 3], "texture": "#back"},
+				"up": {"uv": [2, 14, 14, 14.5], "texture": "#back"},
+				"down": {"uv": [2, 14, 14, 14.5], "texture": "#back"}
+			}
+		},
+		{
+			"from": [2, 2, 15.498],
+			"to": [3, 14, 16],
+			"faces": {
+				"north": {"uv": [13, 2, 14, 14], "texture": "#back"},
+				"east": {"uv": [14, 2, 14.5, 14], "texture": "#back"},
+				"west": {"uv": [14, 2, 14.5, 14], "texture": "#back"}
+			}
+		},
+		{
+			"from": [13, 2, 15.498],
+			"to": [14, 14, 16],
+			"faces": {
+				"north": {"uv": [2, 2, 3, 14], "texture": "#back"},
+				"east": {"uv": [14, 2, 14.5, 14], "texture": "#back"},
+				"west": {"uv": [14, 2, 14.5, 14], "texture": "#back"}
+			}
+		},
+		{
+			"from": [2, 2, 16],
+			"to": [14, 14, 16],
+			"faces": {
+				"south": {"uv": [2, 2, 14, 14], "texture": "#back", "cullface": "south"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "template_item_frame",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}, 5]
+}

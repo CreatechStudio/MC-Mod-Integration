@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "mana-and-artifice:block/sorcery/spectral_crafting_table_top",
+        "up": "mana-and-artifice:block/sorcery/spectral_crafting_table_top",
+        "north": "mana-and-artifice:block/sorcery/spectral_crafting_table_front",
+        "east": "mana-and-artifice:block/sorcery/spectral_crafting_table_side",
+        "south": "mana-and-artifice:block/sorcery/spectral_crafting_table_side",
+        "west": "mana-and-artifice:block/sorcery/spectral_crafting_table_front",
+        "particle": "mana-and-artifice:block/sorcery/spectral_crafting_table_front"
+    }
+}

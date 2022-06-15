@@ -1,0 +1,7 @@
+{
+    "parent": "mana-and-artifice:block/hellfire/fire_floor",
+    "textures": {
+        "particle": "mana-and-artifice:block/hellfire/fire_1",
+        "fire": "mana-and-artifice:block/hellfire/fire_1"
+    }
+}

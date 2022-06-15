@@ -1,0 +1,45 @@
+{
+	"textures": {
+		"3": "blocks/cake_cherry",
+		"bottom": "blocks/cake_bottom",
+		"top": "blocks/cake_top",
+		"side": "blocks/cake_side",
+		"particle": "blocks/cake_side"
+	},
+	"elements": [
+		{
+			"from": [1, 4, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 12], "texture": "#side"},
+				"east": {"uv": [1, 8, 15, 12], "texture": "#side"},
+				"south": {"uv": [1, 8, 15, 12], "texture": "#side"},
+				"west": {"uv": [1, 8, 15, 12], "texture": "#side"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#top"}
+			}
+		},
+		{
+			"from": [1.5, 0, 1.5],
+			"to": [14.5, 4, 14.5],
+			"faces": {
+				"north": {"uv": [1.5, 12, 14.5, 16], "texture": "#side"},
+				"east": {"uv": [1.5, 12, 14.5, 16], "texture": "#side"},
+				"south": {"uv": [1.5, 12, 14.5, 16], "texture": "#side"},
+				"west": {"uv": [1.5, 12, 14.5, 16], "texture": "#side"},
+				"down": {"uv": [1.5, 1.5, 14.5, 14.5], "rotation": 180, "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.5, 8, 6.5],
+			"to": [9.5, 8.5, 9.5],
+			"faces": {
+				"north": {"uv": [6.5, 6.5, 9.5, 7], "texture": "#3"},
+				"east": {"uv": [6.5, 6.5, 9.5, 7], "texture": "#3"},
+				"south": {"uv": [6.5, 6.5, 9.5, 7], "texture": "#3"},
+				"west": {"uv": [6.5, 6.5, 9.5, 7], "texture": "#3"},
+				"up": {"uv": [6.5, 3, 9.5, 6], "texture": "#3"}
+			}
+		}
+	]
+}

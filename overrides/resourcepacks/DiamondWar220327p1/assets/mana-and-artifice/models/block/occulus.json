@@ -1,0 +1,63 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/stone"
+  },
+  "parts": {
+    "part1": {
+      "loader": "forge:obj",
+      "detectCullableFaces": true,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/occulus/occulus_base.obj"
+    }
+  },
+  "variants": {
+        "normal": [{}],
+        "inventory": [{
+            
+            "transform": {
+                    "firstperson_righthand": {
+                      "translation": [0, 0.025, 0],
+                      "rotation": [ { "y": 45}, {"x": 0}, {"z": 0} ],
+                      "scale": 0.375
+                    },
+                    "firstperson_lefthand": {
+                      "translation": [0, 0.025, 0],
+                      "rotation": [ { "y": 45}, {"x": 0}, {"z": 0} ],
+                      "scale": 0.375
+                    },
+                    "thirdperson_righthand": {
+                      "translation": [0.0, 0.15, 0.0],
+                      "rotation": [ { "y": 0}, {"x": 90}, {"z": 0} ],
+                      "scale": 0.375
+                    },
+                    "thirdperson_lefthand": {
+                      "translation": [0.0, 0.15, 0.0],
+                      "rotation": [ { "y": 0}, {"x": 90}, {"z": 0} ],
+                      "scale": 0.375
+                    },
+                    "gui": {
+                        "translation": [0.02, 0.0, 0],
+                        "rotation": [ { "y": 45}, {"x": 20}, {"z": 20} ],
+                        "scale": 0.65
+                    },
+                    "ground": {
+                        "translation": [0, 0, 0],
+                        "rotation": [ { "y": 0}, {"x": 0}, {"z": 0} ],
+                        "scale": 0.25
+                    }
+                }
+        }],
+        "facing": {
+            "down": {},
+            "up": {},
+            "north": {},
+            "south": {},
+            "west": {},
+            "east": {}
+        }
+    }
+}

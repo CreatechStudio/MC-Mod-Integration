@@ -1,0 +1,42 @@
+{
+	"parent": "block/template_wall_side",
+	"textures": {
+		"3": "block/cobblestone_wall_bottom",
+		"4": "block/cobblestone_wall_top",
+		"particle": "block/cobblestone_wall_bottom",
+		"1_wall": "block/new_cobblestone_wall"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 8, 16], "texture": "#1_wall"},
+				"east": {"uv": [0, 4, 8, 16], "texture": "#1_wall"},
+				"south": {"uv": [0, 4, 8, 16], "texture": "#1_wall"},
+				"west": {"uv": [0, 4, 8, 16], "texture": "#1_wall"},
+				"up": {"uv": [4, 0, 12, 8], "texture": "#1_wall"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.5, 12, 3.5],
+			"to": [12.5, 16, 12.5],
+			"faces": {
+				"north": {"uv": [3.5, 0, 12.5, 4], "texture": "#1_wall"},
+				"east": {"uv": [3.5, 0, 12.5, 4], "texture": "#1_wall"},
+				"south": {"uv": [3.5, 0, 12.5, 4], "texture": "#1_wall"},
+				"west": {"uv": [3.5, 0, 12.5, 4], "texture": "#1_wall"},
+				"up": {"uv": [0, 0, 9, 9], "texture": "#4"},
+				"down": {"uv": [0, 0, 9, 9], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "cobblestone_wall_post",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

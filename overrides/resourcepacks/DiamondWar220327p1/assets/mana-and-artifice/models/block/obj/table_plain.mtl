@@ -1,0 +1,5 @@
+# Blender MTL File: 'occulus.blend'
+# Material Count: 1
+
+newmtl MAIN
+map_Kd mana-and-artifice:block/material/occulus

@@ -1,0 +1,33 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "blockmodel/turtle_egg",
+		"all": "blockmodel/turtle_egg"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 4],
+			"to": [9, 7, 8],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 11], "texture": "#all"},
+				"east": {"uv": [8, 0, 12, 7], "texture": "#all"},
+				"south": {"uv": [4, 0, 8, 7], "texture": "#all"},
+				"west": {"uv": [4, 7, 8, 14], "texture": "#all"},
+				"up": {"uv": [0, 0, 4, 4], "rotation": 180, "texture": "#all"},
+				"down": {"uv": [8, 7, 12, 11], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"from": [1, 0, 7],
+			"to": [5, 5, 11],
+			"faces": {
+				"north": {"uv": [8, 11, 12, 16], "texture": "#all"},
+				"east": {"uv": [8, 11, 12, 16], "texture": "#all"},
+				"south": {"uv": [16, 11, 12, 16], "texture": "#all"},
+				"west": {"uv": [12, 11, 16, 16], "texture": "#all"},
+				"up": {"uv": [12, 7, 16, 11], "texture": "#all"},
+				"down": {"uv": [8, 7, 12, 11], "texture": "#all", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/anvil"
+  },
+  "parts": {
+    "barrel": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": false,
+	  "flip-v": true,
+	  "ambientToFullbright": true,
+      "model": "mana-and-artifice:models/block/obj/occulus/occulus_eyeshell_interior.obj"      
+    }
+  }
+}

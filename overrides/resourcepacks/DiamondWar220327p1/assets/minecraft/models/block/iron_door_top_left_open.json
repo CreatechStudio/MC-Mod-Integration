@@ -1,0 +1,75 @@
+{
+	"parent": "block/door_top",
+	"textures": {
+		"1": "blockmodel/iron_door_side",
+		"particle": "blockmodel/iron_door_side",
+		"top": "block/iron_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [1.5, 2, 3, 13], "texture": "#top"},
+				"east": {"uv": [0, 0, 3, 16], "texture": "#top"},
+				"south": {"uv": [4, 0, 7, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [13, 0, 16, 16], "texture": "#top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 3],
+			"faces": {
+				"north": {"uv": [4, 0, 7, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [13, 0, 16, 16], "texture": "#top"},
+				"south": {"uv": [1.5, 3, 3, 13], "texture": "#top"},
+				"west": {"uv": [0, 0, 3, 16], "texture": "#top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0.5, 3, 9],
+			"to": [2.5, 13, 11],
+			"faces": {
+				"north": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"east": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"south": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"west": {"uv": [6, 3, 8, 13], "texture": "#top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0.5, 3, 5],
+			"to": [2.5, 13, 7],
+			"faces": {
+				"north": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"east": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"south": {"uv": [6, 3, 8, 13], "texture": "#top"},
+				"west": {"uv": [6, 3, 8, 13], "texture": "#top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0, 13, 3],
+			"to": [3, 16, 13],
+			"faces": {
+				"east": {"uv": [3, 0, 13, 3], "texture": "#top"},
+				"west": {"uv": [3, 0, 13, 3], "texture": "#top", "cullface": "west"},
+				"down": {"uv": [3, 1.25, 13, 2], "rotation": 90, "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, 0, 3],
+			"to": [3, 3, 13],
+			"faces": {
+				"east": {"uv": [3, 13, 13, 16], "texture": "#top"},
+				"west": {"uv": [3, 13, 13, 16], "texture": "#top", "cullface": "west"},
+				"up": {"uv": [3, 14, 13, 16], "rotation": 270, "texture": "#top"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"up": {"uv": [2, 0, 5, 16], "texture": "#1", "cullface": "up"}
+			}
+		}
+	]
+}

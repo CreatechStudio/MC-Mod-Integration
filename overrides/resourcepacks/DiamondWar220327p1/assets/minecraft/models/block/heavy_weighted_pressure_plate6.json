@@ -1,0 +1,36 @@
+{
+	"parent": "block/pressure_plate_up",
+	"textures": {
+		"1": "block/gold_red",
+		"particle": "block/gold_red",
+		"texture": "block/iron_block"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 0.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"east": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"south": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"west": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#texture"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 0.502, 5],
+			"to": [10, 0.502, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 13]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0.5], "texture": "#missing"},
+				"east": {"uv": [0, 0, 6, 0.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 0.5], "texture": "#missing"},
+				"west": {"uv": [0, 0, 6, 0.5], "texture": "#missing"},
+				"up": {"uv": [2, 9, 4, 12], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 6], "texture": "#missing"}
+			}
+		}
+	]
+}

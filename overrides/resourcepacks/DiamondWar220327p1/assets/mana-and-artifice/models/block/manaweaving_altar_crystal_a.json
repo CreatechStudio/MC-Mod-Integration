@@ -1,0 +1,20 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/glass"
+  },
+  "parts": {
+    "gem": {
+      "loader": "forge:obj",
+      "detectCullableFaces": false,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": true,
+      "model": "mana-and-artifice:models/block/obj/manaweaving_altar_pedestal01.obj",
+      "textures": {
+        "#MAIN": "mana-and-artifice:block/manaweaving_altar"
+      }
+    }
+  }
+}

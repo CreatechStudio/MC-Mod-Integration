@@ -1,0 +1,6 @@
+{
+	"ambientocclusion":false,
+	"textures":{
+        "particle":"block/redstone_dust_dot"
+    }
+}

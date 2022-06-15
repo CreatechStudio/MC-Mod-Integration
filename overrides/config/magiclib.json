@@ -1,0 +1,31 @@
+{
+  "generic": {
+    "debug": false,
+    "openConfigGui": {
+      "keys": "M,A,G"
+    },
+    "fallbackLanguageList": [
+      "en_us"
+    ]
+  },
+  "test": {
+    "colorConfig": "#00000000",
+    "booleanConfig": false,
+    "optionListConfig": "always",
+    "sodiumTest": false,
+    "stringConfig": "string",
+    "doubleConfig": 0.1,
+    "intConfig": 0,
+    "stringListConfig": [
+      "test1",
+      "test2"
+    ],
+    "booleanHotkeyConfig": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "configVersion": 1
+}

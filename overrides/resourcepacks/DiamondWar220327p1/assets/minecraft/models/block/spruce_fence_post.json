@@ -1,0 +1,34 @@
+{
+	"parent": "block/fence_post",
+	"textures": {
+		"1_texture": "block/fence_spruce",
+		"particle": "block/fence_spruce"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"east": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"west": {"uv": [6, 0, 10, 16], "texture": "#1_texture"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1_texture", "cullface": "up"},
+				"down": {"uv": [0, 0, 4, 4], "rotation": 180, "texture": "#1_texture", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "birch_fence_post",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "oak_fence_post",
+					"origin": [8, 8, 8],
+					"children": [0]
+				}
+			]
+		}
+	]
+}

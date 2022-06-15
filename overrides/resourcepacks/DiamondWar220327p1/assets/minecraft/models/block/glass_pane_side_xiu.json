@@ -1,0 +1,16 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"edge": "blocks/glass_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 0],
+			"to": [9, 16, 7],
+			"faces": {
+				"up": {"uv": [2, 2.5, 4, 9.5], "texture": "#edge"},
+				"down": {"uv": [2, 3, 4, 10], "texture": "#edge"}
+			}
+		}
+	]
+}

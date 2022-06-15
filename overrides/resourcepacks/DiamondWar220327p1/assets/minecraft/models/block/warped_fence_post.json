@@ -1,0 +1,23 @@
+{
+	"parent": "minecraft:block/fence_post",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "blockmodel/fence_war_top",
+		"1_texture": "blockmodel/fence_war_top"
+	},
+	"elements": [
+		{
+			"name": "post",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [6, 7, 10, 8.5], "texture": "#1_texture"},
+				"east": {"uv": [6, 7, 10, 8.5], "texture": "#1_texture"},
+				"south": {"uv": [6, 7.5, 10, 9], "texture": "#1_texture"},
+				"west": {"uv": [6, 7.5, 10, 9], "texture": "#1_texture"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#1_texture", "cullface": "up"},
+				"down": {"uv": [6, 6, 10, 10], "rotation": 180, "texture": "#1_texture", "cullface": "down"}
+			}
+		}
+	]
+}

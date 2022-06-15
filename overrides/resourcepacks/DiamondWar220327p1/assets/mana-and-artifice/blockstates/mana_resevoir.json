@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "fill_level=0": { "model": "mana-and-artifice:block/mana_resevoir/empty" },
+    "fill_level=1": { "model": "mana-and-artifice:block/mana_resevoir/quarter" },
+    "fill_level=2": { "model": "mana-and-artifice:block/mana_resevoir/half" },
+    "fill_level=3": { "model": "mana-and-artifice:block/mana_resevoir/three_quarter" },
+    "fill_level=4": { "model": "mana-and-artifice:block/mana_resevoir/full" }
+  }
+}

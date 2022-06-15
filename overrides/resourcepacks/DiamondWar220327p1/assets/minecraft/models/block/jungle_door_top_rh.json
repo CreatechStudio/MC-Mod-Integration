@@ -1,0 +1,76 @@
+{
+	"parent": "block/door_top",
+	"textures": {
+		"1": "blocks/jungle_door_side",
+		"particle": "blocks/jungle_door_side",
+		"1_top": "blocks/jungle_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1_top"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1_top", "cullface": "west"},
+				"up": {"uv": [6, 0, 9, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [8, 1, 12.5, 2.5], "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [0, 0, 3],
+			"to": [3, 3, 13],
+			"faces": {
+				"east": {"uv": [3, 13, 13, 16], "texture": "#1_top"},
+				"west": {"uv": [3, 13, 13, 16], "texture": "#1_top", "cullface": "west"},
+				"up": {"uv": [3, 14, 13, 16], "rotation": 90, "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [0, 0, 13],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [13.5, 2.5, 15, 13.5], "texture": "#1_top"},
+				"east": {"uv": [0, 0, 3, 16], "texture": "#1_top"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [13, 0, 16, 16], "texture": "#1_top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 3],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [13, 0, 16, 16], "texture": "#1_top"},
+				"south": {"uv": [1, 4, 2, 12.5], "texture": "#1_top"},
+				"west": {"uv": [0, 0, 3, 16], "texture": "#1_top", "cullface": "west"}
+			}
+		},
+		{
+			"from": [0.5, 7, 3],
+			"to": [2.5, 9, 13],
+			"faces": {
+				"east": {"uv": [3, 7, 13, 9], "texture": "#1_top"},
+				"west": {"uv": [3, 7, 13, 9], "texture": "#1_top", "cullface": "west"},
+				"up": {"uv": [3, 7.5, 13, 8], "rotation": 90, "texture": "#1_top"},
+				"down": {"uv": [3, 7.5, 13, 8], "rotation": 90, "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [0.5, 3, 7],
+			"to": [2.5, 13, 9],
+			"faces": {
+				"north": {"uv": [7, 3, 9, 13], "texture": "#1_top"},
+				"east": {"uv": [7, 3, 9, 13], "texture": "#1_top"},
+				"south": {"uv": [7, 3, 9, 13], "texture": "#1_top"},
+				"west": {"uv": [7, 3, 9, 13], "texture": "#1_top", "cullface": "west"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "oak_door_top",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}, 5]
+}

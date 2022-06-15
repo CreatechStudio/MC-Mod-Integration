@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+	{
+      "model": "chicken_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 7, -5.5, -3],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "chicken_bill.jpm",
+      "part": "bill", 
+	  "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+	"textures": {
+		"2_inside": "blocks/cake_inner",
+		"2_1_bottom": "blocks/cake_bottom",
+		"2_1_top": "blocks/cake_top",
+		"particle": "blocks/cake_side",
+		"2_1_side": "blocks/cake_side"
+	},
+	"elements": [
+		{
+			"from": [13, 4, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 3, 12], "texture": "#2_1_side"},
+				"east": {"uv": [1, 8, 15, 12], "texture": "#2_1_side"},
+				"south": {"uv": [13, 8, 15, 12], "texture": "#2_1_side"},
+				"west": {"uv": [1, 8, 15, 12], "texture": "#2_inside"},
+				"up": {"uv": [13, 1, 15, 15], "texture": "#2_1_top"},
+				"down": {"uv": [13, 1, 15, 15], "texture": "#2_1_top"}
+			}
+		},
+		{
+			"from": [13, 0, 1.5],
+			"to": [14.5, 4, 14.5],
+			"faces": {
+				"north": {"uv": [1.5, 12, 3, 16], "texture": "#2_1_side"},
+				"east": {"uv": [1.5, 12, 14.5, 16], "texture": "#2_1_side"},
+				"south": {"uv": [13, 12, 14.5, 16], "texture": "#2_1_side"},
+				"west": {"uv": [1.5, 12, 14.5, 16], "texture": "#2_inside"},
+				"down": {"uv": [13, 1.5, 14.5, 14.5], "texture": "#2_1_bottom", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"textures": {
+		"3": "blocks/bell_floor",
+		"particle": "entity/bell/bell_body",
+		"bell": "entity/bell/bell_body"
+	},
+	"elements": [
+		{
+			"from": [5, 6, 5],
+			"to": [11, 13, 11],
+			"faces": {
+				"north": {"uv": [3, 3, 6, 6.5], "rotation": 180, "texture": "#bell"},
+				"east": {"uv": [0, 3, 3, 6.5], "rotation": 180, "texture": "#bell"},
+				"south": {"uv": [9, 3, 12, 6.5], "rotation": 180, "texture": "#bell"},
+				"west": {"uv": [6, 3, 9, 6.5], "rotation": 180, "texture": "#bell"},
+				"up": {"uv": [6, 0, 9, 3], "rotation": 180, "texture": "#bell"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [12, 6, 12],
+			"faces": {
+				"north": {"uv": [4, 10.5, 8, 11.5], "rotation": 180, "texture": "#bell"},
+				"east": {"uv": [0, 10.5, 4, 11.5], "rotation": 180, "texture": "#bell"},
+				"south": {"uv": [4, 10.5, 8, 11.5], "rotation": 180, "texture": "#bell"},
+				"west": {"uv": [8, 10.5, 12, 11.5], "rotation": 180, "texture": "#bell"},
+				"up": {"uv": [8, 6.5, 12, 10.5], "rotation": 180, "texture": "#bell"},
+				"down": {"uv": [4, 6.5, 8, 10.5], "rotation": 180, "texture": "#bell"}
+			}
+		},
+		{
+			"from": [2, 13, 7],
+			"to": [14, 15, 9],
+			"faces": {
+				"north": {"uv": [4, 2, 16, 4], "texture": "#3"},
+				"south": {"uv": [4, 2, 16, 4], "texture": "#3"},
+				"up": {"uv": [4, 2.5, 16, 3.5], "texture": "#3"},
+				"down": {"uv": [4, 2.5, 16, 3.5], "texture": "#3"}
+			}
+		},
+		{
+			"from": [14, 0, 6],
+			"to": [16, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#3", "cullface": "east"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#3"},
+				"up": {"uv": [1, 8, 3, 12], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [1, 8, 3, 12], "texture": "#3", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 6],
+			"to": [2, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#3", "cullface": "west"},
+				"up": {"uv": [1, 7, 3, 11], "texture": "#3", "cullface": "up"},
+				"down": {"uv": [1, 8, 3, 12], "texture": "#3", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bell_base_DELETETHIS",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "bell_floor",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4]
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+
+  "parent": "item/generated",
+    "textures": {
+        "layer0": "mana-and-artifice:item/runesmithing/rune_pattern_earth"
+    }
+}

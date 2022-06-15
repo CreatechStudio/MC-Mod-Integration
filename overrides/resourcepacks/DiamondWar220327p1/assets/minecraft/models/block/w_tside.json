@@ -1,0 +1,51 @@
+{
+	"parent": "block/template_wall_side",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "blocks/cobblestone_wall_top",
+		"particle": "blocks/cobblestone_wall_top",
+		"1_wall": "blocks/cobblestone_wall"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 0],
+			"to": [11, 16, 4],
+			"faces": {
+				"north": {"uv": [15.5, 0, 16, 16], "texture": "#1_wall", "cullface": "north"},
+				"east": {"uv": [13.5, 0, 16, 16], "texture": "#1_wall"},
+				"west": {"uv": [14.5, 0, 16, 16], "texture": "#1_wall"},
+				"up": {"uv": [5, 0, 11, 8], "texture": "#1"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 2, 12, 6], "texture": "#1_wall"},
+				"east": {"uv": [4, 1.5, 12, 6.5], "texture": "#1_wall"},
+				"south": {"uv": [4, 1.5, 12, 6.5], "texture": "#1_wall"},
+				"west": {"uv": [4, 2, 12, 6], "texture": "#1_wall"},
+				"up": {"uv": [4, 0, 12, 8], "texture": "#1_wall"},
+				"down": {"uv": [4, 0, 12, 8], "texture": "#1_wall"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [0,
+		{
+			"name": "cobblestone_wall_post",
+			"origin": [8, 8, 8],
+			"children": [1]
+		}
+	]
+}

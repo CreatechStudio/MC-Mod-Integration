@@ -1,0 +1,10 @@
+{
+  "variants": {
+  	"facing=up": { "model": "mana-and-artifice:block/brazier_ceiling" },
+  	"facing=down": { "model": "mana-and-artifice:block/brazier_ground" },
+  	"facing=north": { "model": "mana-and-artifice:block/brazier_wall" },
+    "facing=south": { "model": "mana-and-artifice:block/brazier_wall", "y": 180 },
+    "facing=east": { "model": "mana-and-artifice:block/brazier_wall", "y": 90  },
+    "facing=west": { "model": "mana-and-artifice:block/brazier_wall", "y": 270 }
+  }
+}

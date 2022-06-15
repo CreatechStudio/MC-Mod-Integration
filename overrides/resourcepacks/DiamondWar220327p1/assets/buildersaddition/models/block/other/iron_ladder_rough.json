@@ -1,0 +1,109 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"0": "blockmodel/iron_ladder",
+		"particle": "blockmodel/iron_ladder"
+	},
+	"elements": [
+		{
+			"from": [12.5, 0, 0],
+			"to": [14.5, 16, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"east": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"south": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"west": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"up": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"down": {"uv": [4, 2, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.5, 0, 0],
+			"to": [3.5, 16, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"east": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"south": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"west": {"uv": [11, 0, 13, 16], "texture": "#0"},
+				"up": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"down": {"uv": [4, 2, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 7, 0.5],
+			"to": [12.5, 9, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 11, 6], "texture": "#0", "cullface": "north"},
+				"south": {"uv": [2, 4, 11, 6], "texture": "#0"},
+				"up": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 1.75, 0.5],
+			"to": [12.5, 3.75, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 11, 6], "texture": "#0", "cullface": "north"},
+				"south": {"uv": [2, 4, 11, 6], "texture": "#0"},
+				"up": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 12.25, 0.5],
+			"to": [12.5, 14.25, 1.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 4, 11, 6], "texture": "#0", "cullface": "north"},
+				"south": {"uv": [2, 4, 11, 6], "texture": "#0"},
+				"up": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2, 4.5, 11, 5.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "iron_ladder",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "ladder",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1, 2, 3, 4]
+				}
+			]
+		}
+	]
+}

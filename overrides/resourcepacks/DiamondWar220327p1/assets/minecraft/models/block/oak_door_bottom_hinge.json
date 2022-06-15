@@ -1,0 +1,21 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"1": "blocks/oak_door_side",
+		"particle": "blocks/oak_door_side",
+		"1_bottom": "blocks/oak_door_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 6, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1_bottom"},
+				"south": {"uv": [3, 0, 6, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1_bottom", "cullface": "west"},
+				"down": {"uv": [6, 16, 9, 0], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "blocks/end_rod",
+		"end_rod": "blocks/end_rod"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#end_rod"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#end_rod"},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#end_rod"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#end_rod"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#end_rod", "cullface": "up"},
+				"down": {"uv": [4, 4, 8, 8], "texture": "#end_rod", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"head": {
+			"rotation": [-60, 0, 0],
+			"translation": [0, 5, -9]
+		}
+	}
+}

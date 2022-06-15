@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mana-and-artifice:item/armor/broken_robe",
+        "layer1": "mana-and-artifice:item/armor/broken_robe_overlay"
+    }
+}

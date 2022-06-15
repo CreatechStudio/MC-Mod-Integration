@@ -1,0 +1,11 @@
+//汉化：Wudji(XPlus 2.0整合包提供)
+{
+  "key.categories.lowfire": "调低火焰遮挡",
+  "key.lowfire.openMenu": "打开火焰遮挡设置界面",
+  "key.lowfire.nextFireOffset": "改变火焰高度",
+
+  "lowfire.menu": "火焰遮挡设置界面",
+  "lowfire.menu.fireOffset": "火焰遮挡设置",
+
+  "lowfire.nextFireOffset": "火焰高度被设置为 %s"
+}

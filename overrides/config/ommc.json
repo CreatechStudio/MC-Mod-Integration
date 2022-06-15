@@ -1,0 +1,411 @@
+{
+  "Generic": {
+    "openConfigGui": {
+      "keys": "O,C"
+    },
+    "debug": false,
+    "dontClearChatHistory": false,
+    "clearWaypoint": {
+      "keys": "C"
+    },
+    "highlightPersistentMobClientMode": true,
+    "parseWaypointFromChat": true,
+    "forceParseWaypointFromChat": false,
+    "sendLookingAtBlockPos": {
+      "keys": "O,P"
+    },
+    "sortInventory": {
+      "keys": "R"
+    },
+    "sortInventoryShulkerBoxLast": "auto",
+    "sortInventorySupportEmptyShulkerBoxStack": false
+  },
+  "FeatureToggle": {
+    "autoSwitchElytra": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "betterSneaking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "blockModelNoOffset": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBlocklistCheck": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBreakBlock": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBreakScaffolding": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableMoveDownInScaffolding": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disablePistonPushEntity": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "flatDigger": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "forceBreakingCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightLavaSource": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightWanderingTrader": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightPersistentMob": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "preventIntentionalGameDesign": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "preventWastageOfWater": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "realSneaking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "removeBreakingCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "worldEaterMineHelper": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "FeatureHotkey": {
+    "autoSwitchElytra": {
+      "keys": ""
+    },
+    "betterSneaking": {
+      "keys": ""
+    },
+    "blockModelNoOffset": {
+      "keys": ""
+    },
+    "disableBlocklistCheck": {
+      "keys": ""
+    },
+    "disableBreakBlock": {
+      "keys": ""
+    },
+    "disableBreakScaffolding": {
+      "keys": ""
+    },
+    "disableMoveDownInScaffolding": {
+      "keys": ""
+    },
+    "disablePistonPushEntity": {
+      "keys": ""
+    },
+    "flatDigger": {
+      "keys": ""
+    },
+    "forceBreakingCooldown": {
+      "keys": ""
+    },
+    "highlightLavaSource": {
+      "keys": ""
+    },
+    "highlightWanderingTrader": {
+      "keys": ""
+    },
+    "highlightPersistentMob": {
+      "keys": ""
+    },
+    "preventIntentionalGameDesign": {
+      "keys": ""
+    },
+    "preventWastageOfWater": {
+      "keys": ""
+    },
+    "realSneaking": {
+      "keys": ""
+    },
+    "removeBreakingCooldown": {
+      "keys": ""
+    },
+    "worldEaterMineHelper": {
+      "keys": ""
+    }
+  },
+  "Lists": {
+    "blockModelNoOffsetListType": "whitelist",
+    "blockModelNoOffsetBlacklist": [],
+    "blockModelNoOffsetWhitelist": [
+      "minecraft:wither_rose",
+      "minecraft:poppy",
+      "minecraft:dandelion"
+    ],
+    "breakBlockBlackList": [
+      "minecraft:budding_amethyst",
+      "_bud"
+    ],
+    "breakScaffoldingWhiteList": [
+      "minecraft:air",
+      "minecraft:scaffolding"
+    ],
+    "fallbackLanguageList": [
+      "zh_cn"
+    ],
+    "moveDownInScaffoldingWhiteList": [
+      "minecraft:air",
+      "minecraft:scaffolding"
+    ],
+    "worldEaterMineHelperWhitelist": [
+      "_ore",
+      "minecraft:ancient_debris",
+      "minecraft:obsidian"
+    ]
+  },
+  "AdvancedIntegratedServer": {
+    "onlineMode": true,
+    "pvp": true,
+    "flight": true,
+    "port": 0
+  },
+  "config_version": 1,
+  "generic": {
+    "sortInventoryShulkerBoxLast": "auto",
+    "parseWaypointFromChat": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "sortInventory": {
+      "keys": "R",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "dontClearChatHistory": false,
+    "sortInventorySupportEmptyShulkerBoxStack": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "debug": false,
+    "clearWaypoint": {
+      "keys": "C"
+    },
+    "forceParseWaypointFromChat": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "sendLookingAtBlockPos": {
+      "keys": "O,P"
+    },
+    "openConfigGui": {
+      "keys": "O,C"
+    }
+  },
+  "feature_toggle": {
+    "highlightLavaSource": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightPersistentMobClientMode": false,
+    "forceBreakingCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBreakScaffolding": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBlocklistCheck": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBreakBlock": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "realSneaking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableMoveDownInScaffolding": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "worldEaterMineHelper": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightPersistentMob": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "flatDigger": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "betterSneaking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "removeBreakingCooldown": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disablePistonPushEntity": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "preventIntentionalGameDesign": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "preventWastageOfWater": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "autoSwitchElytra": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "lists": {
+    "highlightEntityWhiteList": [
+      "minecraft:wandering_trader"
+    ],
+    "blockModelNoOffsetBlacklist": [],
+    "blockModelNoOffsetWhitelist": [
+      "minecraft:wither_rose",
+      "minecraft:poppy",
+      "minecraft:dandelion"
+    ],
+    "moveDownInScaffoldingWhiteList": [
+      "minecraft:air",
+      "minecraft:scaffolding"
+    ],
+    "breakScaffoldingWhiteList": [
+      "minecraft:air",
+      "minecraft:scaffolding"
+    ],
+    "worldEaterMineHelperWhitelist": [
+      "_ore",
+      "minecraft:ancient_debris",
+      "minecraft:obsidian"
+    ],
+    "blockModelNoOffsetListType": "whitelist",
+    "highlightEntityListType": "whitelist",
+    "breakBlockBlackList": [
+      "minecraft:budding_amethyst",
+      "_bud"
+    ],
+    "highlightEntityBlackList": []
+  },
+  "advanced_integrated_server": {
+    "onlineMode": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "flight": true,
+    "pvp": true,
+    "port": 0
+  },
+  "configVersion": 1
+}

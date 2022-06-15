@@ -1,0 +1,9 @@
+{
+    "parent": "buildersaddition:block/pillar/cut_pillar_top_base",
+    "textures": {
+          "side": "minecraft:block/sandstone_top",
+          "particle": "minecraft:block/sandstone_top",
+          "top": "minecraft:block/sandstone_top",
+          "platform": "minecraft:block/sandstone_top"
+      }
+  }

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "up": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "north": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "east": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "south": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "west": "mana-and-artifice:block/worldgen/ore_chimerite",
+        "particle": "mana-and-artifice:block/worldgen/ore_chimerite"
+    }
+}

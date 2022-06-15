@@ -1,0 +1,9 @@
+{
+    "parent": "buildersaddition:block/pillar/cut_pillar_top_base",
+    "textures": {
+          "side": "minecraft:block/cobblestone",
+          "particle": "minecraft:block/cobblestone",
+          "top": "minecraft:block/cobblestone",
+          "platform": "minecraft:block/cobblestone"
+      }
+  }

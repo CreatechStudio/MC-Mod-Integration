@@ -1,0 +1,41 @@
+{
+    "parent": "item/generated",
+    "author": "ybw0014",
+    "textures": {
+        "layer0": "block/oak_sapling"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 2300003}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/grape_bush"},
+        { "predicate": { "custom_model_data": 2300009}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/blueberry_bush"},
+        { "predicate": { "custom_model_data": 2300015}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/elderberry_bush"},
+        { "predicate": { "custom_model_data": 2300021}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/raspberry_bush"},
+        { "predicate": { "custom_model_data": 2300027}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/blackberry_bush"},
+        { "predicate": { "custom_model_data": 2300033}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/cranberry_bush"},
+        { "predicate": { "custom_model_data": 2300039}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/cowberry_bush"},
+        { "predicate": { "custom_model_data": 2300045}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/strawberry_bush"},
+        { "predicate": { "custom_model_data": 2300051}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/tomato_plant"},
+        { "predicate": { "custom_model_data": 2300053}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/lettuce_plant"},
+        { "predicate": { "custom_model_data": 2300055}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/tea_leaf_plant"},
+        { "predicate": { "custom_model_data": 2300057}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/cabbage_plant"},
+        { "predicate": { "custom_model_data": 2300059}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/sweet_potato_plant"},
+        { "predicate": { "custom_model_data": 2300061}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/mustard_seed_plant"},
+        { "predicate": { "custom_model_data": 2300063}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/curry_leaf_plant"},
+        { "predicate": { "custom_model_data": 2300065}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/onion_plant"},
+        { "predicate": { "custom_model_data": 2300067}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/garlic_plant"},
+        { "predicate": { "custom_model_data": 2300069}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/cilantro_plant"},
+        { "predicate": { "custom_model_data": 2300071}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/black_pepper_plant"},
+        { "predicate": { "custom_model_data": 2300073}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/corn_plant"},
+        { "predicate": { "custom_model_data": 2300075}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/pineapple_plant"},
+        { "predicate": { "custom_model_data": 2300077}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/apple_oak_sapling"},
+        { "predicate": { "custom_model_data": 2300081}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/coconut_sapling"},
+        { "predicate": { "custom_model_data": 2300084}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/cherry_sapling"},
+        { "predicate": { "custom_model_data": 2300088}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/pomegranate_sapling"},
+        { "predicate": { "custom_model_data": 2300092}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/lemon_sapling"},
+        { "predicate": { "custom_model_data": 2300096}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/plum_sapling"},
+        { "predicate": { "custom_model_data": 2300100}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/lime_sapling"},
+        { "predicate": { "custom_model_data": 2300104}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/orange_sapling"},
+        { "predicate": { "custom_model_data": 2300108}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/peach_sapling"},
+        { "predicate": { "custom_model_data": 2300112}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/pear_sapling"},
+        { "predicate": { "custom_model_data": 2300116}, "model": "item/ybw0014/exoticgarden/plants_and_fruits/dragon_fruit_sappling"}
+    ]
+}

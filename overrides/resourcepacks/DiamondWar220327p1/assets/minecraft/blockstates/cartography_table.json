@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+	{"model": "minecraft:block/cartography_table", "weight": 1 },
+	{"model": "minecraft:block/cartography_table_90", "weight": 1},
+	{"model": "minecraft:block/cartography_table_180", "weight": 1},
+	{"model": "minecraft:block/cartography_table_270", "weight": 1 }
+      ]
+  }
+}

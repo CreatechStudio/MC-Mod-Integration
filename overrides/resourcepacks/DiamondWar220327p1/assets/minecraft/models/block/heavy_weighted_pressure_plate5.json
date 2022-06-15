@@ -1,0 +1,47 @@
+{
+	"parent": "block/pressure_plate_up",
+	"textures": {
+		"1": "block/gold_red",
+		"particle": "block/iron_block",
+		"texture": "block/iron_block"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 0.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"east": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"south": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"west": {"uv": [0, 0, 14, 1], "texture": "#texture"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#texture"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [6, 0.502, 7],
+			"to": [9, 0.502, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 13]},
+			"faces": {
+				"up": {"uv": [0, 10, 1.5, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 0.502, 5],
+			"to": [10, 0.502, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 13]},
+			"faces": {
+				"up": {"uv": [0, 9, 2, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9, 0.502, 7.5],
+			"to": [10, 0.502, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 13]},
+			"faces": {
+				"up": {"uv": [1.5, 10.25, 2, 11.75], "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "buildersaddition:block/pillar/cut_pillar_both_base",
+    "textures": {
+          "side": "minecraft:block/end_stone_bricks",
+          "particle": "minecraft:block/end_stone_bricks",
+          "top": "minecraft:block/end_stone_bricks",
+          "platform": "minecraft:block/end_stone_bricks"
+      }
+  }

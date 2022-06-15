@@ -1,0 +1,13 @@
+{
+  "variants": {    
+    "facing=north,active=false": { "model": "mana-and-artifice:block/runic_anvil", "y": 0  },    
+    "facing=south,active=false": { "model": "mana-and-artifice:block/runic_anvil", "y": 180  },    
+    "facing=east,active=false": { "model": "mana-and-artifice:block/runic_anvil", "y": 90   },      
+    "facing=west,active=false": { "model": "mana-and-artifice:block/runic_anvil", "y": 270 },
+    
+    "facing=north,active=true": { "model": "mana-and-artifice:block/runic_anvil", "y": 0  },    
+    "facing=south,active=true": { "model": "mana-and-artifice:block/runic_anvil", "y": 180  },    
+    "facing=east,active=true": { "model": "mana-and-artifice:block/runic_anvil", "y": 90   },      
+    "facing=west,active=true": { "model": "mana-and-artifice:block/runic_anvil", "y": 270 }
+  }
+}

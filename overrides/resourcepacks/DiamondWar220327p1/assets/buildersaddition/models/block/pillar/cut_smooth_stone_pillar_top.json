@@ -1,0 +1,9 @@
+{
+    "parent": "buildersaddition:block/pillar/cut_pillar_top_base",
+    "textures": {
+          "side": "minecraft:block/smooth_stone_slab_side",
+          "particle": "minecraft:block/smooth_stone_slab_side",
+          "top": "minecraft:block/smooth_stone",
+          "platform": "minecraft:block/smooth_stone"
+      }
+  }
