@@ -1,9 +1,9 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b9",
+  "version": "1.19b10",
   "description": "",
-  "fileApi": "https://mci.createchstudio.com",
+  "fileApi": "http://mci.createchstudio.com",
   "files": [
     {
       "path": "log4j2.xml",
