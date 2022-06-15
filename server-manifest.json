@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b11",
+  "version": "1.19b12",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -12,6 +12,154 @@
     {
       "path": "ModTranslations/durabilityviewer.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "ModTranslations/antighost.timestamp",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/tr_tr.json",
+      "hash": "a530455f33a760c5731289ee1c7361cae8aa0b50"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ve.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pt_pt.json",
+      "hash": "b8405f982bfe32a88f6f4569804d533b6815ef60"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_hk.json",
+      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/sv_se.json",
+      "hash": "edda09727eea15eae75ce34004f9f5f1fa69bfeb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/no_no.json",
+      "hash": "f7c9fec8126bde33ccdc9a427503005989875251"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ko_kr.json",
+      "hash": "6051889ccec13a63c4cf0cbe7bb9915a3f57853d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_es.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_at.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ar.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nn_no.json",
+      "hash": "f7c9fec8126bde33ccdc9a427503005989875251"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ja_jp.json",
+      "hash": "73e3a3a189eb18df94c3db144ef4a1ed3366e8f8"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_cn.json",
+      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_cl.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/et_ee.json",
+      "hash": "983c5f2d91e98f1b713974b756b8f251e04cae48"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/el_gr.json",
+      "hash": "ab25a314827d151ffbd5abb2d2a37e00b0212cf0"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/it_it.json",
+      "hash": "2f76964055a91e485c18b732c82ed427079ec092"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fi_fi.json",
+      "hash": "b1b023c22e583ce9d8e591206afc8aca51d04292"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ec.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_ch.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_mx.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ru_ru.json",
+      "hash": "0c94d3846c2dd7f0caef9afb8b6be669f58af914"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nl_nl.json",
+      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/he_il.json",
+      "hash": "30253a672b0d557ad7c426a0b1aacf69a7d4f5a4"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_de.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pt_br.json",
+      "hash": "b8405f982bfe32a88f6f4569804d533b6815ef60"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_tw.json",
+      "hash": "e0c3e7e8b40b91841f3183a7ec8ffa81437e3b64"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fr_fr.json",
+      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/sr_sp.json",
+      "hash": "104b16916beca9bf2474be8ad21da4c87fe516b4"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/cs_cz.json",
+      "hash": "a0827e3a77bf5cd17f4f04a7a6874bad97025e0e"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/uk_ua.json",
+      "hash": "a1d85dda4483a9f3972e928b8f71368c5ee75c39"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_uy.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ro_ro.json",
+      "hash": "104b16916beca9bf2474be8ad21da4c87fe516b4"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fr_ca.json",
+      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pl_pl.json",
+      "hash": "74c34da253f259cc050b2d4cc553965cb785c72f"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nl_be.json",
+      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/tr_tr.json",
@@ -171,7 +319,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "b7bf1571b764142ccf9d89ef533d1dbf5bdde96e"
+      "hash": "54b0aa64ba537d8f13d8159ad9ff4ab38554d66f"
     },
     {
       "path": "config/collective-fabric.json",
@@ -315,7 +463,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "2078aff4a2487793d307d561b7f80f4c8f128775"
+      "hash": "797d8509ca011752017047701c8fa06c067978a6"
     },
     {
       "path": "config/armorchroma.json",
@@ -579,7 +727,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "3d34b44a89a183d600927508872de6c7be8f7466"
+      "hash": "fec290313e0c5cccf90e73bed250978ee23684bd"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -599,11 +747,15 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "1f323ab87f130817f3cf870b11e1b092c061f627"
+      "hash": "1b9f247c91f99615139f8333add99dd4b38c2469"
     },
     {
       "path": "config/minihud.json",
       "hash": "7122d64f8c79e91af49b4d6c99b82a536e70a977"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
     },
     {
       "path": "config/tr7zwDonorSettings.json",
@@ -1346,6 +1498,10 @@
       "hash": "2589a1b5a88a434f93a271fa1f5cefed93538bf9"
     },
     {
+      "path": "mods/antighost-1.19-fabric0.55.3-1.1.5.jar",
+      "hash": "8069aa7ae030d71ac98c462fb978575dd7f7b1df"
+    },
+    {
       "path": "mods/CustomSkinLoader_Fabric-14.14-SNAPSHOT-323.jar",
       "hash": "6b31528549d0b91a70b620de60a19453352b283c"
     },
@@ -1460,6 +1616,10 @@
     {
       "path": "mods/iris-mc1.19-1.2.5.jar",
       "hash": "499a3e1b13eafb0eb4dceee1152c84b23211e0d5"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.19-2.22.jar",
+      "hash": "6004ccf55a3013c54fdbef3b28613c3326231d2c"
     },
     {
       "path": "mods/architectury-5.6.22.jar",
