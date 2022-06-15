@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b10",
+  "version": "1.19b11",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -171,7 +171,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "f092d97524e4b6c32b21bda4543b1821c684eb51"
+      "hash": "b7bf1571b764142ccf9d89ef533d1dbf5bdde96e"
     },
     {
       "path": "config/collective-fabric.json",
@@ -310,8 +310,12 @@
       "hash": "4d260c228885a28dee103d1c55945127263b193b"
     },
     {
+      "path": "config/smoothboot.json",
+      "hash": "26b95126b3312e4633dbc84c7d311612381c0695"
+    },
+    {
       "path": "config/indium-renderer.properties",
-      "hash": "3c6c32e351c1eacd5c56c3549edb27ce9e44d082"
+      "hash": "2078aff4a2487793d307d561b7f80f4c8f128775"
     },
     {
       "path": "config/armorchroma.json",
@@ -323,7 +327,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "596d57d8b110b52aedb861e7ed2ec4219ed1c935"
+      "hash": "1d4c2e2eaadf90440d714342e70e73bd19440fad"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -447,7 +451,7 @@
     },
     {
       "path": "config/ferritecore.mixin.properties",
-      "hash": "bc56a6e2c0272ec93c91bd5b68f7c9395e8b6be9"
+      "hash": "ea1c60cab2ebbce91adf449936d16721ce3c107e"
     },
     {
       "path": "config/drippyloadingscreen/customization/ctslogo.dllayout",
@@ -503,7 +507,7 @@
     },
     {
       "path": "config/dynamicfps.toml",
-      "hash": "9596bbc180a0d8689ade99e8b23043034b5e3b72"
+      "hash": "c9de9487404e43a3a23aea1d84693f97ea5304e3"
     },
     {
       "path": "config/konkrete/locals/pl_pl.local",
@@ -575,7 +579,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "1f9efa9000fabcab180e00aab309743fcb541266"
+      "hash": "3d34b44a89a183d600927508872de6c7be8f7466"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -595,7 +599,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "5c9ec1ddd66a8e2ad57c5ba8bf529727421d9e71"
+      "hash": "1f323ab87f130817f3cf870b11e1b092c061f627"
     },
     {
       "path": "config/minihud.json",
@@ -1302,6 +1306,10 @@
       "hash": "98a2f37dfb7e85778d9f6bd887ca74b729b4e8d2"
     },
     {
+      "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
+      "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
+    },
+    {
       "path": "mods/easiervillagertrading-1.19-pre2-fabric0.53.3-1.5.4.jar",
       "hash": "769ee2440620933106b84b36b0ad35150254817a"
     },
@@ -1358,6 +1366,10 @@
       "hash": "a902d02898363ca1ae8058940219b5230d09cda1"
     },
     {
+      "path": "mods/modmenu-4.0.0.jar",
+      "hash": "04be7e499bf67be0fea40d15f17a9ec47f21c309"
+    },
+    {
       "path": "mods/lithium-fabric-mc1.19-0.8.0.jar",
       "hash": "87c0df9cb98b5457624a2de08ddb951a2a71c77a"
     },
@@ -1410,6 +1422,10 @@
       "hash": "3632c08137f87e86d8aaa6a613876eb234d1c5f1"
     },
     {
+      "path": "mods/cullleaves-2.3.4.jar",
+      "hash": "f11b20125832126dd62405a346b528f4e055e464"
+    },
+    {
       "path": "mods/[fabirc-1.19]AllMusic-2.5.11.jar",
       "hash": "2166abb8d1b216369217443e4f5f48b8263fdf58"
     },
@@ -1450,6 +1466,10 @@
       "hash": "881a3e15f05c6693fc353264037ea1b3200820ff"
     },
     {
+      "path": "mods/dynamic-fps-2.2.0.jar",
+      "hash": "8d264374dc08df87777fb51b94c781476c315bb5"
+    },
+    {
       "path": "mods/cullparticles-2.0.jar",
       "hash": "d8bdfac6ff57aa0e21b8e1cc51bd797a4d254543"
     },
@@ -1468,6 +1488,10 @@
     {
       "path": "mods/mcwifipnp-1.5.4-1.19-pre1-fabric.jar",
       "hash": "b6ff9388e4e1f1b45211670d948f04ec7b5085e9"
+    },
+    {
+      "path": "mods/ferritecore-5.0.0-fabric.jar",
+      "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
     },
     {
       "path": "mods/worldedit-fabric-mc1.19-pre1-7.2.11-SNAPSHOT-dist.jar",
@@ -57791,7 +57815,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "ddb489af5cfebf13a7acf4a085dba19eb389ea31"
+      "hash": "b29c1cb6797b0ab431bf54464d5dce001fb81b64"
     }
   ],
   "addons": [
