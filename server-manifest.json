@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b14",
+  "version": "1.19b15",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -1284,26 +1284,6 @@
     {
       "path": "config/EssentialClient/PlayerClient.json",
       "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
-    },
-    {
-      "path": "config/EssentialClient/.history/ScriptConfig_20220616081953.json",
-      "hash": "9c1cc383d4f3224086f6d780c73d6f55089dc1f8"
-    },
-    {
-      "path": "config/EssentialClient/.history/ScriptConfig_20220614203651.json",
-      "hash": "e0a788db501b015815cf913d9e668f64b56da7cf"
-    },
-    {
-      "path": "config/EssentialClient/.history/Scripts/xplusQuickSearch_20220616081854.arucas",
-      "hash": "bebccb99b831c85fa8ebb44e1930c9bcb59bc6f4"
-    },
-    {
-      "path": "config/EssentialClient/.history/Scripts/xplusQuickSearch_20220616081832.arucas",
-      "hash": "a1207d14f0967e58f9587256f6dcf4d26a3b65fa"
-    },
-    {
-      "path": "config/EssentialClient/.history/Scripts/xplusQuickSearch_20220614203708.arucas",
-      "hash": "5214a337dbdaf96cd0701dc42111a8cd46c45842"
     },
     {
       "path": "config/EssentialClient/ScriptConfig.json",
