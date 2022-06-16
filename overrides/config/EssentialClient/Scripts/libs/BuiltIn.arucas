@@ -266,6 +266,12 @@ class String {
  */
 class Math {
     /*
+     * The value of e
+     * The type of the field is Number
+     * This field is not assignable
+     */
+    static var e;
+    /*
      * The value of root 2
      * The type of the field is Number
      * This field is not assignable
@@ -277,12 +283,6 @@ class Math {
      * This field is not assignable
      */
     static var pi;
-    /*
-     * The value of e
-     * The type of the field is Number
-     * This field is not assignable
-     */
-    static var e;
 
     /*
      * Returns the tangent of a number
