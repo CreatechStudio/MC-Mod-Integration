@@ -1,0 +1,94 @@
+/* Native, implemented in Java
+ * This class is similar to Java streams, allowing for easy modifications of collections.
+ * Import with 'import Collector from util.Collection'
+ */
+class Collector {
+    /*
+     * If there are values in the collector that are collections they will be expanded, 
+     * collections inside collections are not flattened, you would have to call this method again
+     * Returns - Collector: a new Collector with the expanded values
+     */
+    fun flatten();
+
+    /*
+     * This filters the collection using the predicate
+     * Parameter - Function (predicate): a function that takes a value and returns Boolean, true if it should be kept, false if not
+     * Returns - Collector: the filtered collection
+     * Throws - Error: Predicate must return Boolean
+     */
+    fun filter(predicate);
+
+    /*
+     * This puts all the values in the collector into a set and returns it
+     * Returns - Set: a set with all the values in the collector
+     */
+    fun toSet();
+
+    /*
+     * This iterates over all the values in the Collector and calls the passed in function with each value
+     * Parameter - Function (function): a function that takes a value and returns nothing
+     * Returns - Collector: the Collector
+     */
+    fun forEach(function);
+
+    /*
+     * This checks if none of the values in the collection match the predicate
+     * Parameter - Function (predicate): a function that takes a value and returns Boolean, true if it matches, false if not
+     * Returns - Boolean: true if none of the values match the predicate, false if not
+     * Throws - Error: Predicate must return Boolean
+     */
+    fun noneMatch(predicate);
+
+    /*
+     * This puts all the values in the collector into a list and returns it
+     * Returns - List: a list with all the values in the collector
+     */
+    fun toList();
+
+    /*
+     * This maps the values in Collector to a new value
+     * Parameter - Function (mapper): a function that takes a value and returns a new value
+     * Returns - Collector: a new Collector with the mapped values
+     */
+    fun map(mapper);
+
+    /*
+     * This checks if all the values in the collection match the predicate
+     * Parameter - Function (predicate): a function that takes a value and returns Boolean, true if it matches, false if not
+     * Returns - Boolean: true if all the values match the predicate, false if not
+     * Throws - Error: Predicate must return Boolean
+     */
+    fun allMatch(predicate);
+
+    /*
+     * This checks if any of the values in the collection match the predicate
+     * Parameter - Function (predicate): a function that takes a value and returns Boolean, true if it matches, false if not
+     * Returns - Boolean: true if any of the values match the predicate, false if not
+     * Throws - Error: Predicate must return Boolean
+     */
+    fun anyMatch(predicate);
+
+    /*
+     * This creates a collector for a collection
+     * Parameter - Value (value...): the values you want to evaluate
+     * Returns - Collector: the collector
+     */
+    static fun of(value...);
+
+    /*
+     * This creates a collector for a collection
+     * Parameter - Collection (collection): the collection of values you want to evaluate
+     * Returns - Collector: the collector
+     * Throws - Error: ... is not a collection
+     */
+    static fun of(collection);
+
+    /*
+     * This checks if the value is a collection
+     * Parameter - Value (value): the value you want to check
+     * Returns - Boolean: true if the value is a collection
+     */
+    static fun isCollection(value);
+}
+
+

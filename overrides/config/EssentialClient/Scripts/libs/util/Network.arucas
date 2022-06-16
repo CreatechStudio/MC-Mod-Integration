@@ -1,0 +1,30 @@
+/* Native, implemented in Java
+ * Allows you to do http requests. This is a utility class and cannot be constructed.
+ * Import with 'import Network from util.Network'
+ */
+class Network {
+    /*
+     * Downloads a file from an url to a file
+     * Parameter - String (url): the url to download from
+     * Parameter - File (file): the file to download to
+     * Returns - Boolean: whether the download was successful
+     */
+    static fun downloadFile(url, file);
+
+    /*
+     * Opens an url in the default browser
+     * Parameter - String (url): the url to open
+     * Throws - Error: Failed to open url ...
+     */
+    static fun openUrl(url);
+
+    /*
+     * Requests an url and returns the response
+     * Parameter - String (url): the url to request
+     * Returns - String: the response from the url
+     * Throws - Error: Failed to request data from ...
+     */
+    static fun requestUrl(url);
+}
+
+
