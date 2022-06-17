@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b16",
+  "version": "1.19b17",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -315,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "3859c825c688d69f568ae76c4ce70db01192bfdf"
+      "hash": "dee8cfb8af2297c850b1895cf685d3371f417b57"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "ee6e2606814a7ae853d99e87fb238e4e9fc021f4"
+      "hash": "885f9b90a5a2ae36bc9ab6df7694d93e585b5a24"
     },
     {
       "path": "config/armorchroma.json",
@@ -723,7 +723,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "16815802e8c714c7a1ee12311e2a1883206f0dbb"
+      "hash": "88949040ccecfbb24dcd18b0f528387cda866119"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -743,7 +743,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "c3763fc09c191714f81070723f3dc1118c02d4eb"
+      "hash": "3783120ea7702d30748109e012f641d047b91599"
     },
     {
       "path": "config/minihud.json",
@@ -1311,7 +1311,7 @@
     },
     {
       "path": "config/EssentialClient/Scripts/libs/Minecraft.arucas",
-      "hash": "850f23e9ec16e0f8655966737e363de2887ae590"
+      "hash": "e486a5140e8987bb19cb7c5a6a9f7ed5b035b543"
     },
     {
       "path": "config/EssentialClient/Scripts/libs/BuiltIn.arucas",
@@ -1335,7 +1335,7 @@
     },
     {
       "path": "config/EssentialClient/CarpetClient.json",
-      "hash": "385ca87ab208a5944c786ec716e8b1543d83d2cc"
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
     },
     {
       "path": "config/EssentialClient/ClientKeyBinds.json",
@@ -9239,7 +9239,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "6e3b2cf4774ac742f71ffb21a289e58547056679"
+      "hash": "73a49ca44a6ab6e6b288d35fd15c192ba8570030"
     },
     {
       "path": "options.txt",
