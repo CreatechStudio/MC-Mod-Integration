@@ -676,7 +676,7 @@
   {
     "name": "updateSuppressionCrashFix",
     "type": "BOOLEAN",
-    "description": "Fixes updates suppression causing server crashes.\n§3From: gnembon/carpet-extra",
+    "description": "No longer fixes an actual crash, the crash is only possible if you use: `reintroduceinstantblockupdates`\n§3From: fxmorin/carpet-fixes",
     "extras": null,
     "default": false
   },
@@ -2841,6 +2841,13 @@
     "default": false
   },
   {
+    "name": "lecternBlockDupeFix",
+    "type": "BOOLEAN",
+    "description": "Fixes a lectern block dupe, it just dupes the lectern block\n§3From: fxmorin/carpet-fixes",
+    "extras": null,
+    "default": false
+  },
+  {
     "name": "cameraModeTeleportBlacklist",
     "type": "BOOLEAN",
     "description": "Prevents players from teleporting to players in spectator\n§3From: Super-Santa/EssentialAddons",
@@ -4411,6 +4418,13 @@
     "name": "creeperDropCompletely",
     "type": "BOOLEAN",
     "description": "Creeper explosions will have a 100% drop rate\n§3From: Ivan-1F/Ivan-Carpet-Addition",
+    "extras": null,
+    "default": false
+  },
+  {
+    "name": "chestBoatDupeFix",
+    "type": "BOOLEAN",
+    "description": "Fixes multiple dupes using chest boats\n§3From: fxmorin/carpet-fixes",
     "extras": null,
     "default": false
   },

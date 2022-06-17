@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b15",
+  "version": "1.19b16",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -306,10 +306,6 @@
       "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
     },
     {
-      "path": "servers.dat_old",
-      "hash": "a5b60fa5fd43338d6c13ed9ccba4b2925f4bf615"
-    },
-    {
       "path": "config/continuity.json",
       "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd"
     },
@@ -319,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "b11897acc3c14aa2aaaa4ebbda98615a390f8022"
+      "hash": "3859c825c688d69f568ae76c4ce70db01192bfdf"
     },
     {
       "path": "config/collective-fabric.json",
@@ -463,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "8d8886ef846bf716ac3ac5dc9cb6998d7e8f2935"
+      "hash": "ee6e2606814a7ae853d99e87fb238e4e9fc021f4"
     },
     {
       "path": "config/armorchroma.json",
@@ -475,7 +471,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "a67745138b47f8cb727cd82168348d40bc83db36"
+      "hash": "abbea2dde55363c36084d05b44d8fdf539174993"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -727,7 +723,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "9121a616d7052771f15655a0f2cb227c3449594a"
+      "hash": "16815802e8c714c7a1ee12311e2a1883206f0dbb"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -747,7 +743,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "2170786c3ea703f0f17845fec6968f9f85ab5dbb"
+      "hash": "c3763fc09c191714f81070723f3dc1118c02d4eb"
     },
     {
       "path": "config/minihud.json",
@@ -1339,7 +1335,7 @@
     },
     {
       "path": "config/EssentialClient/CarpetClient.json",
-      "hash": "d1de998ad5e8ac984b4b6df0a3333d50753eeba9"
+      "hash": "385ca87ab208a5944c786ec716e8b1543d83d2cc"
     },
     {
       "path": "config/EssentialClient/ClientKeyBinds.json",
@@ -1666,10 +1662,6 @@
       "hash": "f11b20125832126dd62405a346b528f4e055e464"
     },
     {
-      "path": "mods/[fabirc-1.19]AllMusic-2.5.11.jar",
-      "hash": "2166abb8d1b216369217443e4f5f48b8263fdf58"
-    },
-    {
       "path": "mods/minihud-fabric-22w19a-0.22.0.jar",
       "hash": "6aaae8b277a97955bd51efc73ac8e7aef30af73f"
     },
@@ -1684,6 +1676,10 @@
     {
       "path": "mods/item-model-fix-1.0.3+1.18.jar",
       "hash": "619c14a9aeb4055b9a466944841eaef33e29d062"
+    },
+    {
+      "path": "mods/[fabirc-1.19]AllMusic-2.5.12.jar",
+      "hash": "3254e931a740480998294052b9c8f5fb4c97fe0e"
     },
     {
       "path": "mods/CullLessLeaves-1.0.2.jar",
