@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b17",
+  "version": "1.19b18",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -315,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "dee8cfb8af2297c850b1895cf685d3371f417b57"
+      "hash": "2f323ae1e71d1d86d3e6c803b46234496bfaf5ab"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "885f9b90a5a2ae36bc9ab6df7694d93e585b5a24"
+      "hash": "aef579bf05e9e0a9a4f78998f894c5ef1b2d3519"
     },
     {
       "path": "config/armorchroma.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "abbea2dde55363c36084d05b44d8fdf539174993"
+      "hash": "8e634648d721159d6a3c47beb02ccbbd218be241"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -723,7 +723,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "88949040ccecfbb24dcd18b0f528387cda866119"
+      "hash": "fc692796f936696e08cfe10bedae7845e5584e6e"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -743,7 +743,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "3783120ea7702d30748109e012f641d047b91599"
+      "hash": "aa97e5c30cf9e365215891318f89273c6a08b378"
     },
     {
       "path": "config/minihud.json",
@@ -1335,7 +1335,7 @@
     },
     {
       "path": "config/EssentialClient/CarpetClient.json",
-      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+      "hash": "385ca87ab208a5944c786ec716e8b1543d83d2cc"
     },
     {
       "path": "config/EssentialClient/ClientKeyBinds.json",
@@ -9239,11 +9239,11 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "73a49ca44a6ab6e6b288d35fd15c192ba8570030"
+      "hash": "7c8a2be47462dbaa49901a17f167c6054b78fca7"
     },
     {
       "path": "options.txt",
-      "hash": "5b76c9334b93c2e932038f9699de7cdae689af00"
+      "hash": "d1269f6055d1685aff341b042c843eae7f9863de"
     }
   ],
   "addons": [

@@ -21,7 +21,7 @@ toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:1.0
+fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","cullleaves/smartleaves","file/Xaeros","file/masa-chn","file/siyuanheiti","file/Createch ClassicOre","file/Createch Basic"]
+resourcePacks:["continuity/glass_pane_culling_fix","vanilla","continuity/default","armorchroma/alternative-icons","Fabric Mods","cullleaves/smartleaves","file/Xaeros","file/masa-chn","file/siyuanheiti","file/Createch Basic"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
