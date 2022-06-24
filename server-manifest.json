@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b18",
+  "version": "1.19b19",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -315,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "2f323ae1e71d1d86d3e6c803b46234496bfaf5ab"
+      "hash": "5e648adee6d4994b835e93ec4f40126497b3c44e"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,11 +459,15 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "aef579bf05e9e0a9a4f78998f894c5ef1b2d3519"
+      "hash": "bfd31a6bee43b0e30814c0b7553891b8fd7b2090"
     },
     {
       "path": "config/armorchroma.json",
       "hash": "3960fbbf6e5dd55f89ec3f21d3439a4483f5dafb"
+    },
+    {
+      "path": "config/NoChatReports.json",
+      "hash": "eaa5d5608e6b929a388f63d4a52e5801afcbe73d"
     },
     {
       "path": "config/cem.conf",
@@ -723,7 +727,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "fc692796f936696e08cfe10bedae7845e5584e6e"
+      "hash": "c9dd5ff5b39519311bc1448506decf317246d79a"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -743,7 +747,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "aa97e5c30cf9e365215891318f89273c6a08b378"
+      "hash": "0f00a46d9fa1fab408925ef078dccca5b96215d9"
     },
     {
       "path": "config/minihud.json",
@@ -1311,11 +1315,11 @@
     },
     {
       "path": "config/EssentialClient/Scripts/libs/Minecraft.arucas",
-      "hash": "e486a5140e8987bb19cb7c5a6a9f7ed5b035b543"
+      "hash": "850f23e9ec16e0f8655966737e363de2887ae590"
     },
     {
       "path": "config/EssentialClient/Scripts/libs/BuiltIn.arucas",
-      "hash": "40d32753c3b1cece1f0c7fcfc26410246dcc692b"
+      "hash": "df1b6bb630d7a48c42041b9ca831d562d774a4c4"
     },
     {
       "path": "config/EssentialClient/Scripts/cmips.arucas",
@@ -1335,7 +1339,7 @@
     },
     {
       "path": "config/EssentialClient/CarpetClient.json",
-      "hash": "385ca87ab208a5944c786ec716e8b1543d83d2cc"
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
     },
     {
       "path": "config/EssentialClient/ClientKeyBinds.json",
@@ -1624,6 +1628,10 @@
     {
       "path": "mods/badpackets-fabric-0.1.2.jar",
       "hash": "098653c88addec413623a78c20e2f001e5647079"
+    },
+    {
+      "path": "mods/NoChatReports-FABRIC-1.19-v1.2.0.jar",
+      "hash": "06c35f22a82b428ea454b84319ab400639fbd25f"
     },
     {
       "path": "mods/wthit-fabric-5.1.1.jar",

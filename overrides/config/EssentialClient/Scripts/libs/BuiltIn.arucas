@@ -266,17 +266,17 @@ class String {
  */
 class Math {
     /*
-     * The value of e
-     * The type of the field is Number
-     * This field is not assignable
-     */
-    static var e;
-    /*
      * The value of root 2
      * The type of the field is Number
      * This field is not assignable
      */
     static var root2;
+    /*
+     * The value of e
+     * The type of the field is Number
+     * This field is not assignable
+     */
+    static var e;
     /*
      * The value of pi
      * The type of the field is Number
