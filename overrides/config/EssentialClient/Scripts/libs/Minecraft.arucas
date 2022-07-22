@@ -852,16 +852,16 @@ class ConfigHandler {
     fun getName();
 
     /*
-     * Adds a config to the handler
-     * Parameter - Config (config): The config to add
-     */
-    fun addConfig(config);
-
-    /*
      * Gets whether or not the configs will be saved when the script ends
      * Returns - Boolean: Whether or not the configs will be saved when the script ends
      */
     fun willSaveOnClose();
+
+    /*
+     * Adds a config to the handler
+     * Parameter - Config (config): The config to add
+     */
+    fun addConfig(config);
 
     /*
      * Sets whether or not the configs should be saved when the script ends, by default this is true
