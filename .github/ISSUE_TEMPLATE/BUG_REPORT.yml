@@ -27,6 +27,15 @@ body:
       value: "1. "
     validations:
       required: true
+  - type: textarea
+    id: recurrent
+    attributes: 
+      label: 你认为造成此问题的模组
+      description: 在下方的编辑框填写（多个模组需换行请直接回车，会为你添加标号）
+      placeholder: 能看到这个？说明你没有看描述，请自己加上“1. ”
+      value: "1. "
+    validations:
+      required: true
   - type: dropdown
     id: systype
     attributes: 
