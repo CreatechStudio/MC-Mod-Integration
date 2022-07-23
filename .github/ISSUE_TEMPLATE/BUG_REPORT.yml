@@ -55,6 +55,16 @@ body:
       placeholder: 请自行搜索如何查看版本
     validations:
       required: true
+   - type: input
+    id: javaversion
+    attributes:
+      label: JDK版本
+      description: 填写你正在使用的JDK版本，例如 openjdk 17.0.3 2022-04-19 LTS
+OpenJDK Runtime Environment Zulu17.34+19-CA (build 17.0.3+7-LTS)
+OpenJDK 64-Bit Server VM Zulu17.34+19-CA (build 17.0.3+7-LTS, mixed mode, sharing)
+      placeholder: 请在终端或命令提示符中输入java --version，如果使用的是便携版Java，请先切换到对应目录后再查询版本
+    validations:
+      required: true
   - type: textarea
     id: launchlog
     attributes: 
@@ -71,7 +81,7 @@ body:
       description: 还有什么要补充的吗？
       placeholder: |
         提示：
-        你可以提供Java版本、你使用了什么额外的模组
+        你可以提供你使用了什么额外的模组
         你还可以提供截图和文件（直接拖动文件到编辑框）
   - type: checkboxes
     id: agreement
