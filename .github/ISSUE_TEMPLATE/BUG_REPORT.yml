@@ -55,7 +55,7 @@ body:
       placeholder: 请自行搜索如何查看版本
     validations:
       required: true
-   - type: input
+  - type: input
     id: javaversion
     attributes:
       label: JDK版本
