@@ -1,14 +1,10 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b20",
+  "version": "1.19b20b",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
-    {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
-    },
     {
       "path": "ModTranslations/durabilityviewer.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
@@ -315,7 +311,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "3c2132801ab752f0b672788e60810b56f9527f8d"
+      "hash": "dc85e91e83152297ad5b80f4a224117d3c743beb"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,7 +455,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "f7bb757674d067d51a12b86003d9987ea9bb251e"
+      "hash": "e1ac690ecb59a16a90309ac03a498d872634cf93"
     },
     {
       "path": "config/armorchroma.json",
@@ -475,7 +471,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "abbea2dde55363c36084d05b44d8fdf539174993"
+      "hash": "ae4ae84a0bc726acdb98a60c8063e27af3eff2ef"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -739,7 +735,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "2ccc5ee8ae2f1936ee0d582b3541b2aee01d0060"
+      "hash": "26bff22852ca225e742b69c5b00e38c0e61e852b"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -759,7 +755,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "2a3a7e0713a51681a82a910719964de5309da1ae"
+      "hash": "92da1083c81e504d3ea4d29900466c3ae748ddce"
     },
     {
       "path": "config/minihud.json",
@@ -1327,11 +1323,11 @@
     },
     {
       "path": "config/EssentialClient/Scripts/libs/Minecraft.arucas",
-      "hash": "e486a5140e8987bb19cb7c5a6a9f7ed5b035b543"
+      "hash": "339c9e14e4c20514e1089b6f458cdf4c2ce4bb7a"
     },
     {
       "path": "config/EssentialClient/Scripts/libs/BuiltIn.arucas",
-      "hash": "df1b6bb630d7a48c42041b9ca831d562d774a4c4"
+      "hash": "dd8222d642e7fdc3526e92c9da8dcf602af296df"
     },
     {
       "path": "config/EssentialClient/Scripts/cmips.arucas",
@@ -1551,7 +1547,7 @@
     },
     {
       "path": "config/fast-chest.properties",
-      "hash": "1ba719fb0cf0c4ac9caa1f052c7188c0056cb77b"
+      "hash": "4485cd5d1800ee6884f5bc6b8540a3793e5946e1"
     },
     {
       "path": "mods/extraplayerrenderer-1.19-1.0.0.jar",
@@ -9244,6 +9240,3798 @@
     {
       "path": "resourcepacks/Createch Basic/pack.mcmeta",
       "hash": "2d9850d0e8bcff6cfa4650c79fc81e402f604162"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/LICENSE",
+      "hash": "1eba7caf09a39110ad2f542e3ed8700d1a69c6d3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/pack.png",
+      "hash": "a2feac2030296b8a137a5f714a3b9cc91bfa394f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/entity/zombie/drowned_e.png",
+      "hash": "d0a40acb496d2011b30e97438b5c9a1621a96aa8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/entity/ghast/ghast_shooting_e.png",
+      "hash": "31e0c270c52077f071724fb5d50e0749f4c0a67d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_22.png",
+      "hash": "70781c3e335751b443e3f4e2daa50290585b82ae"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/spruce_boat_model.png",
+      "hash": "65a4c7d3bf180b8cabda19e6b3c303c8e2bb341a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_23.png",
+      "hash": "3fcec66404e6bfe6d46d307ad79c2ddf7b8843cd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_09.png",
+      "hash": "8b0162924fc15ec6505612f2c059f104cbc73ab9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_21.png",
+      "hash": "d5fb81938718fb6fda62b724a136a32f94e7feb5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/glow_item_frame_s.png",
+      "hash": "3cf13cf4314871f9a7c5a7db7978576df0286e94"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_front.png",
+      "hash": "7d8d66af426568327f943b6f18f7087fc195c593"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_20.png",
+      "hash": "a44ab839e9eb0dbcfb6d08f1b929bf64ed7ee1ed"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_08.png",
+      "hash": "2d1a63cd4a8bc0916574b8c335ee0c00a75f6807"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/minecart_model.png",
+      "hash": "986f3a3b7d6e95adb3b8298653536b0f2e8c493f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_30.png",
+      "hash": "4ce48c33bb7cb0678e2e0023fe96fc59f8f92c6f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_24.png",
+      "hash": "37866e52292fc99d42d55d104c3cd1e5e461c508"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_18.png",
+      "hash": "7ac500db97fd8021ef2d7464ffe536ee49b2a4e1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/honey_bottle.png",
+      "hash": "bd30f1a7a1d737205b55e18a07a6b51d26a6f1a8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_19.png",
+      "hash": "6b2f4f081657cbcf32962b32d817bee816aa1aa9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_25.png",
+      "hash": "a6a526473bf0edebde13cd2bcd5c7d2d1f4b88d7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_31.png",
+      "hash": "deaf74e5861f3f3509a1b11e5896beb71e9dc7fd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/potion.png",
+      "hash": "a2ee2a776b4e28578b0a74247e0029502168b70c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_27.png",
+      "hash": "8bc993d3178b2a4b4b764c94735e8dee57519385"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/birch_boat_model.png",
+      "hash": "0e683c2da8db62eeed1ec26b16080d95b4f66789"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/glow_item_frame_empty.png",
+      "hash": "f941973c9f01f75390bad56743885d4751f60d33"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/clock_back.png",
+      "hash": "5a97f7c9831b9b3a38e5d51dc985d2048692ced9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_26.png",
+      "hash": "787cb9f73af10bc89882924e9f0f79529732dca0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/empty.png",
+      "hash": "5125002c75804fbcf3e4ba4cdd8fede276d3c172"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/oak_boat_model.png",
+      "hash": "88df995738ae15882c3afdf99aff3bfe6bd0fc63"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/acacia_boat_model.png",
+      "hash": "4b0d426da66b7c920c65a89f3ffb7dac4c48b170"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/glow_item_frame_empty_s.png",
+      "hash": "9e86e321235c3224eaf9c9e65c20fb8fba6ae456"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/enchanting_table_book.png",
+      "hash": "8788d141ed1fd1f4a45484cf0251255b1c564269"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/item_frame_empty.png",
+      "hash": "2b9b34aec00283640113ac06083b57d1e60a9471"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/dark_oak_boat_model.png",
+      "hash": "d534bd5a63d74279bd7a4707bdf70869cf58feac"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/end_crystal_model.png",
+      "hash": "5fc4188e2d48b852867a4f9a82fedb16575d9a29"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/chest_model.png",
+      "hash": "c92a2594ef1890504b45fef2705c490b5c4e28ce"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_firework.png",
+      "hash": "695da48e0356b7e559fb855dd319ded62097dd4a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_back.png",
+      "hash": "7813e1ab738f6694ecea63ed3612f9910f7f763e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_03.png",
+      "hash": "975b9380995a27cbd0673b4eb93d8d18ef7c3072"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_17.png",
+      "hash": "f00b86c620bff6fd6bbb6a794ab4008bb83c71a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_5.png",
+      "hash": "2eb2d82b28650793d5d1ac85eab28c90c52763eb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_4.png",
+      "hash": "e9d8434b1f5cc4cca3a872e86ef2ded691e2cd05"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/potion_splash.png",
+      "hash": "f9f6bdf27d57ece132fad56b5dca7844d25761e3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/dragon_breath.png",
+      "hash": "08dc7234111df2518b118854e978a67a32eda25c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_16.png",
+      "hash": "4908e20ba38724e5039a6f62be801cf13f0bb101"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_02.png",
+      "hash": "bdc05e488f5f965c7781a89399464a6056dd9d1a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_28.png",
+      "hash": "96c60c33fa3100cbb335af9bf3dffe6de2d5c7a4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_14.png",
+      "hash": "61bcc15e56b24f7d39762042cb7d95baf39ffa42"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_00.png",
+      "hash": "fbed57efa5027e4da7000013e0b681c121410c61"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_6.png",
+      "hash": "afb7d82397e4d54255c26a656dc92ca915813f47"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_7.png",
+      "hash": "6ba06747899b519688f8903b9f9a8d5f5046ac90"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_01.png",
+      "hash": "85be8f938641b7a542a25202cbd3c02b1012e844"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_15.png",
+      "hash": "471d73523022756bc12ca3f722e1bb85704de01a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_29.png",
+      "hash": "9fdfeefef6678cb70234f5a168ae6a2ec723464a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_11.png",
+      "hash": "28aedb8afe1ba684380f93e38a5b285dd0276b19"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_05.png",
+      "hash": "5621526197d38a88cd941deb9764c64ee6b0ce94"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_3.png",
+      "hash": "8cdfba0066dc45ee23a98efa856b96912b714fa1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/jungle_boat_model.png",
+      "hash": "2890baae53d72ab3fd6659ed01135019e38d6718"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_2.png",
+      "hash": "b69cb5fd9bc72dea4c92064c98e122ee87bb4a85"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_04.png",
+      "hash": "606969574fe64c685ed07e581dd81e1d720eb9bb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_10.png",
+      "hash": "546265fa1a79ef4f5e42a7db5ae18d22fc706083"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_06.png",
+      "hash": "ff0f4dc1d6084e5f53051ff101604273e9812c4a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_12.png",
+      "hash": "377f1befe70f3548fcde0d6e1d9c015f87b47796"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_bottom.png",
+      "hash": "5d5a60f93b3e3f31378224afb2e7cb133953f5f2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_0.png",
+      "hash": "8cdee890640dc30f467753dfa50ddbf0b1d9a3e9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_arrow.png",
+      "hash": "61ff48f3f4838327a67c2b9735fb2877e274cd16"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_pulling_1.png",
+      "hash": "6c678042f80565ae89051d082871dcc248110022"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_13.png",
+      "hash": "83bb67563fa7b7b39e0822f6cf26776ffab67613"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/compass_07.png",
+      "hash": "7399497a011d54ae08c17b90aa0e4a4afd8a9334"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/item/crossbow_standby.png",
+      "hash": "1772461708cd2bf5a6ac3510e27addf1c0f07be7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_back_e_s.png",
+      "hash": "f10115e082d3885b11612ad087a96a329ae4bc11"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side2_e_s.png",
+      "hash": "1e91cfd420828c517a3b07d33ec86fbeca82daf4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/redstone_ore_on_s.png",
+      "hash": "64ae20d4a03f7ad14d3609713c56954084e9ab04"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_conditional_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jungle_door_bottom1.png",
+      "hash": "47e202a1fda9e2330109b154e2eb3f6fa5fd5343"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_door_top.png",
+      "hash": "7f75f613924ea988bd1ee8f03de2143b95bc08be"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_side_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_top_e_s.png.mcmeta",
+      "hash": "0c8068dc998512dd53943767a52fb0dc1dcd530c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/oak_door_bottom1.png",
+      "hash": "781c730a6d11dcf6801a475f21c89a8274c2a453"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/smoker_front_on_s.png",
+      "hash": "e1097ed511880343d916b380f5ac94ac34269fc3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/iron_door_top2.png",
+      "hash": "a210abb0424297e385605e907264f0d82519e32b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_campfire_log_lit_s.png.mcmeta",
+      "hash": "cb302ecd5aa57c8ca1268664c00ad92185f7ea12"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/brewing_stand_bottle.png",
+      "hash": "12b1517b3f68f5cd4d8490c58a75f736c2d8d519"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/birch_door_top1.png",
+      "hash": "7e242855d3b109fd7b3fc4f1dc0a6980cbc7e89b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_conditional_e_s.png",
+      "hash": "2ce06f66969f06861251bfe9b47ddd068d865cb5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jukebox_disc.png.mcmeta",
+      "hash": "4a6c61eff4c5d40140eeca6f5ed1dcc1a72c3971"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/dark_oak_trapdoor1.png",
+      "hash": "88e5dc592a6c2373f445f4bc7456f2498986c802"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_back_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_front_e.png",
+      "hash": "6d3b5117f3f52827ddf6d4b6dc390b47a06f007a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_top_e_s.png",
+      "hash": "d6f1a5f8094954090853a5603a1e0534c20e6aa0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_conditional_e_s.png",
+      "hash": "2ce06f66969f06861251bfe9b47ddd068d865cb5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/iron_door_top1.png",
+      "hash": "e182fe9922785c62a98e31978e65fc7001fad0f5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/deepslate_redstone_ore_on.png",
+      "hash": "1c14dcb6496726deff70aa5a3c72ac940393350c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/blast_furnace_front_on_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_door_top2.png",
+      "hash": "c30094b80c55d0869455c8351de779575be8e820"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_back_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_conditional_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/comparator_on_e_s.png",
+      "hash": "39dfde6c03745d67b4cb3582acc3d89969f0a69d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail_wood_redstone_on_e.png",
+      "hash": "f07f88a8b23cbfc399e1bb9767b234bf377a2ecf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side3_e_s.png",
+      "hash": "dfef584be6c8fc2319053e342018f23ff0d4958a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jack_o_lantern_s.png",
+      "hash": "9907380415a8c6f21f3adcde1112c9bca517b7ea"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail_wood_redstone.png",
+      "hash": "ba25aac6a0f8a39867943075e36895d0e3bdb9c4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_side_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lantern_s.png.mcmeta",
+      "hash": "6c9acdbf7272830f25052b2f60646514440bb4f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_door_top1.png",
+      "hash": "db22c0c6136bc2187633e4790c486119fb4f6a41"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_side_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lantern.png.mcmeta",
+      "hash": "5a4d73a0cf1e92be6967b68eede03e7b07e48add"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_side_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/oak_trapdoor2.png",
+      "hash": "17f9aa09c83e3d2970f4a7fa8c8f616e11bd4238"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_trapdoor2.png",
+      "hash": "ae91ac880cf12a40dfa7b4bb79e41f892298046b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_bottom_e_s.png",
+      "hash": "7ee2f3c6facb3ee160d1a92ec44a05630c34b45b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_top_e.png",
+      "hash": "b4b42bec2d3a7e1cd7a221935a348df06b1bad26"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeater_on_e.png",
+      "hash": "2b9d32ef60aac749405b807f25ab9f0298d148ad"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_front_e_s.png",
+      "hash": "95f4aa87f768f81c18e354e8d4aa4e0017089ab8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jungle_door_top1.png",
+      "hash": "c87aa7b1a17235bdd4e6d2cf658eaa50604c9889"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_front_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/redstone_ore_on.png",
+      "hash": "18e5b3f5ba5dd4d74679c19a113fdfd10581babf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_side_e_s.png",
+      "hash": "3e34e48494baa10316092cb512c05ab3f419f86a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/campfire_log_lit_s.png",
+      "hash": "eeff1e944f1da26a5dba2a1d56d6d4a0814e3074"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/spruce_trapdoor1.png",
+      "hash": "b655feae04b1db5b4e656c7f4fee83741a92a70b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/oak_trapdoor1.png",
+      "hash": "bd175cda9f7e97b700092df6addacd1a92f11542"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_trapdoor1.png",
+      "hash": "b50464f25f0920556c6788004a291fdc9a2ce7a3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/furnace_in.png",
+      "hash": "8b02160dd62a05f85ce4b1c46f8a2b587192d2a8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_door_top1.png",
+      "hash": "61cf0a37ab957f27ccfb222d389d6def33c8b81b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_lantern_s.png.mcmeta",
+      "hash": "6c9acdbf7272830f25052b2f60646514440bb4f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_torch_s.png",
+      "hash": "2e9d456cdd7b9bdb81919da9e038b02a5ef29ba8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side1_e_s.png",
+      "hash": "78706036b647574321ac3b3ddbc5fc13c132699b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_back_e.png",
+      "hash": "120e485555125cf93dc950a2574a94a6f085b0f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_front_e.png",
+      "hash": "6d3b5117f3f52827ddf6d4b6dc390b47a06f007a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jungle_door_top2.png",
+      "hash": "1263604d0fb1a4f7d4169f27c32ea65a6b42e0a8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/detector_rail_on_e_s.png",
+      "hash": "48d79a22aeeb7b8c966776c032b01e873cbef91d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/piston_arm.png",
+      "hash": "3857eef6b6ffe0e1f511818d6ec076287ca92bfe"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_conditional_e.png",
+      "hash": "dfb7bba498b017999365d30f5b469ddd14086a92"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lava_still_s.png",
+      "hash": "ee3cf334565f8ee3f7cc6520cfa23f4fea68ed89"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_back_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/deepslate_redstone_ore_on_s.png",
+      "hash": "64ae20d4a03f7ad14d3609713c56954084e9ab04"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_conditional_e.png",
+      "hash": "a4de1a98cbac98f3dcc886fe52c866634227ecd7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side0_e_s.png",
+      "hash": "1fb36b3b199f0eb17144928c74b82dfe21755cd9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/birch_door_bottom1.png",
+      "hash": "2ce8e18727198604a1d8e94771e1a8c61fe089d0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/smoker_front_on_s.png.mcmeta",
+      "hash": "820c95d42f667bdffb7333ddc67c8bdb576dc240"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_conditional_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_back_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/furnace_front_on_s.png",
+      "hash": "aeb60833023f2a3dffe4e619a2a278ddfc27bf71"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_back_e.png",
+      "hash": "120e485555125cf93dc950a2574a94a6f085b0f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/loom_top2.png",
+      "hash": "fda6a9c3156bf039231a1faabee08b2cef9d6811"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/redstone_torch_e.png",
+      "hash": "b023cc56d3610109d5d74be21b05f80048401be9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/brewing_stand_e_s.png",
+      "hash": "8214a5d85b87d1b3bb4c1dd5eddc2c413f1842a6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_lantern_s.png",
+      "hash": "24820f747a0b378c1443be0dfdbe8e87fda8b69d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_side_e.png",
+      "hash": "804db9e95d9b462b510a67cdbcf52d4d27495458"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/campfire_fire_s.png.mcmeta",
+      "hash": "11af65f9ec75a1e408a003168b0610b3965b4ed6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lava_flow_s.png.mcmeta",
+      "hash": "12e4a8093d2cf4d1edf99db861f1681f7e318427"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/sea_lantern_s.png.mcmeta",
+      "hash": "7d292c07b1f99adc4a1748ed565b74480ab1d1a1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_trapdoor2.png",
+      "hash": "19cb1a3e49b097af7d0cb3a558d83a8eeeedcd23"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/iron_trapdoor_1.png",
+      "hash": "e26b097bc3cf94cc22660ab0957fa63d7505d793"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_back_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lava_still_s.png.mcmeta",
+      "hash": "b85de4b2735450ed3f4b34ff138ad8970464518d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/oak_door_top2.png",
+      "hash": "aa5fd2c04fbbf627dbbedfb5d7fd69bb2041e720"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_back_e_s.png",
+      "hash": "f7d35965666c76f07f0588820873659b582bdc53"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_front_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_fire_0_s.png.mcmeta",
+      "hash": "9a1bb44e3105889b4d155e06c0b7e8c14f8449e8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_back_e.png",
+      "hash": "120e485555125cf93dc950a2574a94a6f085b0f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_lantern.png.mcmeta",
+      "hash": "5a4d73a0cf1e92be6967b68eede03e7b07e48add"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side4_e.png",
+      "hash": "b53d0c7cb5ebe3e8b1fd1a827aba3cd6069a7da1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/spruce_door_top1.png",
+      "hash": "65ee752be88349be94e0bc34ab42051798362770"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_front_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_side_e.png",
+      "hash": "4585dd053c2539c9f6a93fd80340cbc7ed6eb3e5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_conditional_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_conditional_e_s.png",
+      "hash": "55972f72128b93d217a22c0beea4ad92dea62dfd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/powered_rail.png",
+      "hash": "a6743a68e0af87917c05478c0ed1d178f01db88a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/sea_pickle_e.png",
+      "hash": "49f38c38c6a2036fe0e8c4db33e32f0cc6176ab8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jungle_trapdoor1.png",
+      "hash": "baf6cb78f77c0a1ffda67fbc3d61b71bd8da9cb0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_front_e.png",
+      "hash": "6d3b5117f3f52827ddf6d4b6dc390b47a06f007a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_trapdoor1.png",
+      "hash": "1b20bad5a558dc4e8ae69684325e12edda7d079e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_back_e_s.png",
+      "hash": "f7d35965666c76f07f0588820873659b582bdc53"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/iron_trapdoor_2.png",
+      "hash": "f80e62fae785b54ba24b2b409523e372a128126d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/shroomlight_s.png",
+      "hash": "91325de0da7201c0411f7b2b7e2e460427528937"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_front_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_door_top1.png",
+      "hash": "bc023a8e30c8c47af921c7e1d969f2f1a8cd3d72"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/oak_door_top1.png",
+      "hash": "9832d24e4b1b297e56a93762db6f4979017c27ca"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_campfire_fire_s.png",
+      "hash": "c84ede1de0f574668f94c6efde7128c8d9de7b4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/fire_1_s.png",
+      "hash": "838ad090408b74f85fb85d8b56082bd15bea783d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_side_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jungle_trapdoor2.png",
+      "hash": "d83cd20349674f0254d8311eb0263209f30a01c0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/magma_s.png",
+      "hash": "5779030e6ff04de057f65d44899e5e5feb781304"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/torch_s.png",
+      "hash": "2c14f38935538471da8cc302b8b5437c36a29109"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_conditional_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/beacon_s.png",
+      "hash": "dc8547d5d2551cf3e3f8de882ef3297072ab3e50"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/activator_rail_on.png",
+      "hash": "4da109fd872e1925a5764154885ff0b742393054"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_conditional_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_door_bottom1.png",
+      "hash": "1ce99913740dc0fe2a10af08b71a2aa2da43071b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_fire_1_s.png",
+      "hash": "838ad090408b74f85fb85d8b56082bd15bea783d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_side_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_fire_1_s.png.mcmeta",
+      "hash": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/spruce_door_bottom1.png",
+      "hash": "738a4061ab8401231358a2db6227ad407cd63ea8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_side_e.png",
+      "hash": "4585dd053c2539c9f6a93fd80340cbc7ed6eb3e5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side2_e.png",
+      "hash": "a2df92fab83a5e77c1bf9b7dc6583ea7e2d153e2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/piston_inner.png",
+      "hash": "50189118833e2e55887d035065b8e9ff6b291db8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_front_e_s.png",
+      "hash": "0672fcbe0e71d606f7eac74651e787aeba8db30d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side4_e_s.png",
+      "hash": "f1890742ec56e1ba07119115ea0a070b5f9d832e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side0_e.png",
+      "hash": "0482f529f0c518e5d93a052390ad07f7a4d39ad8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeater_on_e_s.png",
+      "hash": "51a25a329c3fd9722a766dde0107840192092986"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_top_off_s.png",
+      "hash": "833295a7130f3a441a4beba93c98e534230fda84"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/blast_furnace_front_on_s.png",
+      "hash": "740a6859d5a88bb184c3f99177fd373d45ef28dc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/observer_back_on_e.png",
+      "hash": "f3183669269cddbeaff422e16f27502bcf3afebe"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/detector_rail.png",
+      "hash": "1caf9463fd808cc5ceaa5a914dd196eef3d63db9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_door_top.png",
+      "hash": "0511d97cc3e42bc2db3b8997cad28e6821805c11"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/brewing_stand_e.png",
+      "hash": "073e8b302b3926cef023e61858e8d4c147a5768f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/sea_pickle_e_s.png",
+      "hash": "d189a38081374a705522bcb36ca6912e83a208a5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_bottom_e.png",
+      "hash": "68d182094f968646670cb4d482c8852fc4b0bb00"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_side_e_s.png",
+      "hash": "44ec607357324ad5442dd91b2136b71b4d5eea99"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_campfire_fire_s.png.mcmeta",
+      "hash": "11af65f9ec75a1e408a003168b0610b3965b4ed6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/warped_fungus_base.png",
+      "hash": "e1af1715944e7ca96e46ccd939703ccba0ec6fad"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_door_bottom1.png",
+      "hash": "4e828c1535a1bd11fe1e1c06a961a3c419ccfe90"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_front_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail_wood_redstone_on.png",
+      "hash": "f1e4e2258a6fe10e475eb7c0526ee7b634558643"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/fire_0_s.png.mcmeta",
+      "hash": "9a1bb44e3105889b4d155e06c0b7e8c14f8449e8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/fire_0_s.png",
+      "hash": "5e19dbf2815eb4829203a7142859e79acea8339f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lantern_s.png",
+      "hash": "11a08723548536e06e90b54ec11491d8c149d376"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/redstone_lamp_on_s.png",
+      "hash": "c3d48f3d8170da04849ac2ce7401a46a3108cade"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_top_e.png.mcmeta",
+      "hash": "0c8068dc998512dd53943767a52fb0dc1dcd530c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_campfire_log_lit_s.png",
+      "hash": "eeff1e944f1da26a5dba2a1d56d6d4a0814e3074"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/birch_trapdoor1.png",
+      "hash": "faa18dbc89d92566e8f3dff2df0d70ddbb1f8cd2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_door_bottom2.png",
+      "hash": "d14b7ad3bc63d0d79328725886e40031c2c34881"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/sea_lantern_s.png",
+      "hash": "f1b7af1d25ca42440f42b47ea7ce65250388cc3f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_side_e_s.png",
+      "hash": "44ec607357324ad5442dd91b2136b71b4d5eea99"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/detector_rail_on_e.png",
+      "hash": "fa183aa5a113f5bd6ff8095b2740f96d8ded305a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/campfire_fire_s.png",
+      "hash": "c84ede1de0f574668f94c6efde7128c8d9de7b4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/dark_oak_door_top1.png",
+      "hash": "bd0aeb56d87e9971db9d4be01f19b58f9031b172"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_front_e.png.mcmeta",
+      "hash": "71db6b671a2d23287bdfd78c2427a0ad3b7cdd74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_trapdoor2.png",
+      "hash": "e2083de64ff8e11c5400138bdc648320c02f0a56"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/command_block_front_e_s.png",
+      "hash": "0672fcbe0e71d606f7eac74651e787aeba8db30d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_fungus_base.png",
+      "hash": "5372fde8f2d34bdfe12e9c8f8f7a1f2f0716329e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crimson_door_bottom1.png",
+      "hash": "52cd156b49b02243c3782007fd14f734ca93bf66"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/campfire_log_lit_s.png.mcmeta",
+      "hash": "cb302ecd5aa57c8ca1268664c00ad92185f7ea12"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail_wood_redstone_on_e_s.png",
+      "hash": "5d6b8ed6c4ff53cb6c5bda63826a2e622d9fbed5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side1_e.png",
+      "hash": "c2905e92ba56db41edb74331b134d8c19850afe5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/fire_1_s.png.mcmeta",
+      "hash": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/magma_s.png.mcmeta",
+      "hash": "d20ee3a7bc131ca8a240f907583904b94686d30d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail.png",
+      "hash": "f108be8f408452c82fd0168fef11ab8aef10a381"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/redstone_torch_e_s.png",
+      "hash": "950ff91dff9d848d47b1999906759c326bdfb9cb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/glowstone_s.png",
+      "hash": "c7fd1f936fda396322818261c8e250c4a79783bc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/iron_door_bottom1.png",
+      "hash": "5ca7e53c9d30b03142fdf0f87929f92729b7ae42"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/beehive_front.png",
+      "hash": "aacc84151fcb7b72831b4c5592c287f670e91457"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/detector_rail_on.png",
+      "hash": "e3d44a9622bcf791ab0f448ee9e9e4d63ae41ad0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/comparator_on_e.png",
+      "hash": "7251f483f424cd89c041e75b97a84dc3d7f91a66"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/observer_back_on_e_s.png",
+      "hash": "547fc81b212f9e86686ecd200e5f088b2d2fae74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/crying_obsidian_s.png",
+      "hash": "3ee456ab89017805dcdaf19b6bfe6965e0c6c7aa"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/furnace_inside.png",
+      "hash": "4fe0f89086563e078a4d8a39d64122bc3fdbf76a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_trapdoor3.png",
+      "hash": "437ec03b56491925b8f2e5bf1dad30e9c575efb6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/acacia_trapdoor1.png",
+      "hash": "421af0c1cbd046d1f32e58fd4525a8c65e582408"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/activator_rail.png",
+      "hash": "a352d2bb380a0daa13edc6b939fbb6345c80dd91"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/dark_oak_door_bottom1.png",
+      "hash": "3548aa5a709ea35d75582e89e091d4a39077c6cc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/rail_wood.png",
+      "hash": "d7348e5fddbeeaaead2a6586784951f927a13427"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/powered_rail_on.png",
+      "hash": "7624d5d713149b0bb7f8022978522b2ba05ef136"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/jukebox_disc.png",
+      "hash": "cf8a8a504bf42fcd6ffbdd1c6bbf21c42584b2a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/respawn_anchor_side3_e.png",
+      "hash": "db15f2c4d82bc44fb54818d18717e89478fcc533"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/lava_flow_s.png",
+      "hash": "af68445143f96b39b7fd685ad8976ab7c4c493d9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/bookshelf.png",
+      "hash": "66b9ee62d8b6592e7aa024cccc6143d0bade0a38"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/soul_fire_0_s.png",
+      "hash": "5e19dbf2815eb4829203a7142859e79acea8339f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/repeating_command_block_conditional_e.png",
+      "hash": "dfb7bba498b017999365d30f5b469ddd14086a92"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/end_rod_s.png",
+      "hash": "45247dabce14ff40a507f4bf246d57135a790955"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/textures/block/chain_command_block_back_e_s.png.mcmeta",
+      "hash": "9db8893cc2cc4435b9c0ee9c4a161eff45488ff8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/acacia_door.json",
+      "hash": "c9fda3518fa8e99da4778a43502849f5638ed331"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_48.json",
+      "hash": "f3b51f97e8dce691b5e5729f909f919c0046e7f8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/furnace_minecart.json",
+      "hash": "ce02616836d0113bfa848539253fccc905360790"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/blue_stained_glass_pane.json",
+      "hash": "7bb80f2a802a488e777b20f165063bf22b9b48f6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_20.json",
+      "hash": "ac6777708586ca2298019a0f55d33fdc3a269572"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/campfire.json",
+      "hash": "c73d1114ab0ba6351ba9eb707c944b073cffceb2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_09.json",
+      "hash": "2b40cf52bf3e03dfe8a6757b3a7a80aa35f22dc7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/powered_rail.json",
+      "hash": "e0835ad90a2e28d62a80feea1c1797acb5348f70"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/honey_bottle.json",
+      "hash": "6e67a6b05910ba9d5944952489d8c6a364af6f3c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/cauldron.json",
+      "hash": "c94cac39eb0bf073c5c2e3512ed7773dfb7f2706"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_25.json",
+      "hash": "6bae68a4a4f3fc07c5bce4d1223d5af7f968c6c3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/stone_shovel.json",
+      "hash": "6ea0a2eb88564dfbd81d54031ebd1bd3302989d9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/glass_bottle.json",
+      "hash": "a0084daed119df4d2ab0d586008126df1651abd1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/debug_stick.json",
+      "hash": "e534b18f74489914f30ce241fa2cac02683a57bc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_33.json",
+      "hash": "6ca740e22b68aba78e4ca4bfdbe942de692b224c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/glow_item_frame.json",
+      "hash": "2c5b47fc2af3627a2a365aa4637d21c61f7f9ea0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/shovel.json",
+      "hash": "cb1590291996b57225625aa03b09ff97be2b74d5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_13.json",
+      "hash": "aef4c940f96c4de4ed8f6a77ba06ede261935184"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crimson_door.json",
+      "hash": "4ec844cfcc6e609d8356252bf08a335de8b10edf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock.json",
+      "hash": "1a375c2c97a58f5d883ea2fef997ae508ac0b398"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_44.json",
+      "hash": "94816178e7f9d6999599002ae129c78e0c65f240"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/spyglass_in_hand.json",
+      "hash": "832f9b598d8567d45d671cd715bef1d01a850f1d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_52.json",
+      "hash": "e9c5ab9cd4d02b0392a112252262addcd5f072e4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_05.json",
+      "hash": "28477939a50ac7767d11fcc0f095125f34823e12"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/candle.json",
+      "hash": "ad592e00bc6b98102dfb23b41011a5a5640755ba"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_1.json",
+      "hash": "f2e3c2dbc85bc60dc632dd850b8c998abd5435d1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lantern.json",
+      "hash": "fcb6ea312c67acfb5e7ba485a471ac9243b5614a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_29.json",
+      "hash": "edb269f8e221295cc9d196b70bf2bd983998dee6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_00.json",
+      "hash": "caabaa8028cc1a60e5ac2ae4302f5df0f616f66b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/hopper_minecart.json",
+      "hash": "dc6acfd89b0bdb98956c6a17c17ff2bc78397b50"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/end_crystal.json",
+      "hash": "4023f0bb3413c9b3739dd8e17bc69590cf54be2d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/acacia_boat.json",
+      "hash": "04cbd0df9ffd42638f97b3c125f7004654b0c469"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/diamond_sword.json",
+      "hash": "a7f3896d4ce8485414e06c0febb994b5ede3bd0a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/stone_sword.json",
+      "hash": "1a2d0573e03cc4c9371f71e14e6d2aaefb29fb62"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/display_handheld.json",
+      "hash": "6738d77c5c8e6c4b712ffd4e35b4a14c0bfefd47"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_17.json",
+      "hash": "fe031368a2bc5c2a68df9c9b363ee20e449b6d20"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/birch_door.json",
+      "hash": "fcfb6c5e5a12a52f4526cc2f770d2d487fa55bab"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/comparator.json",
+      "hash": "bdcb4282e6b20f09181ebe78f548f51410929dbb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_01.json",
+      "hash": "8c2f2e788ca091aee389a4af73ba7ee0dde42e01"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_0.json",
+      "hash": "34cd02600d48f7a86b970f7e36d5029b2a03b89a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/purple_candle.json",
+      "hash": "aee263367cb1a3cee5639b0abb0dc7503998f9a5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_28.json",
+      "hash": "e6b9947e1640c4f97b0b771a1feb194d8f94c4e2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/minecart.json",
+      "hash": "3f850a30f3fe1fe4a8637780d0c11c931b4b694f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/bell.json",
+      "hash": "f51f5ea720ef6d01b70c4d9825cfd22915294fc8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/generated.json",
+      "hash": "7b4c882086ce8c87e555a7c9124a81e454780dc4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/fishing_rod.json",
+      "hash": "5a72bad7ff979389e8288f45f2214b3b27c0e8a4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_04.json",
+      "hash": "c2930fa34b9fdef706f304d6352c984abe67917f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/soul_torch.json",
+      "hash": "b7245712f200c1b2d9ed5d64166b0407cddd7546"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/soul_lantern.json",
+      "hash": "6e6479b12a5d85fb0c8740e7d3557b1711120aab"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_53.json",
+      "hash": "47efc95260506546e31630cac06a173ec5c8075b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/warped_fungus.json",
+      "hash": "f5925911f2f942bf1332c11c0a50b301afe25203"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_45.json",
+      "hash": "667bf6993eb4ea409b17addab5fb4140e9438633"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_12.json",
+      "hash": "c0f369649937fe1b8183153066c638934c671a7c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/display_generated.json",
+      "hash": "b513d66f6746984fc3c1a9456e3a938859631d7f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_32.json",
+      "hash": "378307464b029a20ff4d5c2bac9ec6de3c9698ed"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_24.json",
+      "hash": "3305c0e64f6359884fb9f99660a2057a647d7c84"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/orange_candle.json",
+      "hash": "4bc45e38488d433c35efc80bab9fcb1e3dba996d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_08.json",
+      "hash": "6756dea04f7e59651e5cee5a812aeb96d8538de5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/fishing_rod_cast.json",
+      "hash": "a7da9489af8233e8f7d6078eef460451afe23007"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_21.json",
+      "hash": "a70de8dfb9a86367b99118a983e88c3a3c46dd76"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_49.json",
+      "hash": "8b0a87f7489f388256d1279609b97b971d5d22a1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/birch_boat.json",
+      "hash": "ec99ba2b38a97373d91e78c7ef0dc55a803f498d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/display_handheld_rod.json",
+      "hash": "615c11946d58a593832809ae88f482016ea40900"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_15.json",
+      "hash": "32c844510710325eeb0d777d876d1796dca4de43"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/oak_boat.json",
+      "hash": "d3697c5f1b0382ba74e18aed5c6b290268fbc4a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_42.json",
+      "hash": "f22e3b1b8f54456e93f1c7c55c6da694898f49ec"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crimson_fungus.json",
+      "hash": "d92759fbc5460f62fad47991e7b174107b735e8c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_54.json",
+      "hash": "dc9baaa241f9ec68a15676a4a41c940a0a8dda47"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_03.json",
+      "hash": "85606fb81b3c7d6cea5fce080f71d61f5d0015f5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/shears.json",
+      "hash": "2ff91aff50c4a53e6b387a048380b1c25dbeda46"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_7.json",
+      "hash": "cc4780eedbd63c20b738e700c86da8e61e205b10"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/tnt_minecart.json",
+      "hash": "2ccf1623574c181663d193118c6dcb1dac26a199"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_06.json",
+      "hash": "5b4315f5da22d4cbc7d9347e1a49b7cf2bef385e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/white_candle.json",
+      "hash": "f389d1dcc363a7204509f01224fef7048ef76475"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_39.json",
+      "hash": "11568efb7d2a8e670391b9fb33ca93414fc402de"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_10.json",
+      "hash": "dae3130d933d4298deb819e545021bc148bc1041"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_30.json",
+      "hash": "812f8b8d75511aaf63145794d07dcf080e6c654d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/purple_stained_glass_pane.json",
+      "hash": "dd67a9e66887147e0ef079f8c1707270f52b1e4a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_19.json",
+      "hash": "129d781980783c3c9a7726da169c0fd84e3c75ec"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/pickaxe.json",
+      "hash": "84c78d7155024086218a2dcf3b8fea5534435da6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_58.json",
+      "hash": "2f51af7cb2b5f836ee94dbb50071ccd4d7f5c269"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_26.json",
+      "hash": "06b18955be4d0ebc0f66b81f5276bc1fea956360"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/warped_fungus_on_a_stick.json",
+      "hash": "b8cfd29bab24bbbf4b7c19a05e21c3092b36f8f7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/end_rod.json",
+      "hash": "899408e56804bf0a528e9a3bce41afa547d710ab"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/light_blue_candle.json",
+      "hash": "364efe091dc75c116200cf27d0257de6f8a06f3e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/sword.json",
+      "hash": "5dce13c515d6bb1a3a203b2c55240e25880b80d5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/blue_candle.json",
+      "hash": "690733a2b6e37bee45b581c3971d2573813bb9ca"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass.json",
+      "hash": "b10bc09a6da3437567fae4b627b28d5aadf53a4e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/brown_candle.json",
+      "hash": "3bfdd573094e5bd061bf6e33495ab8324aba9e07"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_23.json",
+      "hash": "6bf1f896113735fbb81e8d32f1f2d1ef8c2ec38f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/pink_candle.json",
+      "hash": "cd857cc35d6452603ae54e7e4f191faa78184fc9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_35.json",
+      "hash": "920c6f5f0ab2ca4dbe2819e0b00b5b1179b6aa43"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/oak_door.json",
+      "hash": "965f58681564c25f5a9fdce81b3606db5e706dd1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/wooden_sword.json",
+      "hash": "4344ea3a3710a6b5afe6dc49977db83984d6a797"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_62.json",
+      "hash": "afa9c84c78a2ad1395f886a69eba7e61d783aa56"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_63.json",
+      "hash": "29f9014a24c11418cfa90812c4a6a626b45afea8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_34.json",
+      "hash": "4385f9f93a964556140e298e41265f1385686883"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_axe.json",
+      "hash": "b94f7ddfb1ceba4cf5ead63db618fff79aa0e224"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/diamond_axe.json",
+      "hash": "e702342470eb4a74d24ba931f9071ea6afbac9d9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_22.json",
+      "hash": "1b9f139863fbc1cd9f5e1d8e481b3daad2c05715"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/gray_stained_glass_pane.json",
+      "hash": "0a39525ed1b7a43762c3f716acc73270b5edb1f4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/warped_door.json",
+      "hash": "a4c40660e24f0bf0c3d6187bf83e7a0fbcdd64b3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_27.json",
+      "hash": "a905d076611c50941e649b72358e234a1393c63e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_bars.json",
+      "hash": "45495932d7c79254bea4a665f4f4b99d775f1a0e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_59.json",
+      "hash": "8e37451cbe05921e3244ff555ab56d7d23471ea4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/yellow_stained_glass_pane.json",
+      "hash": "0ebc7fafe2823ecbd190f0677d0288587fd21d2b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/diamond_hoe.json",
+      "hash": "4b488ead84493f530dd283e489312598bd55d2ca"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/brown_stained_glass_pane.json",
+      "hash": "ad5c3ca4977ad40b1f34605000572ef6a5e9901c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lever.json",
+      "hash": "6cf25cc588134585e51d9018c1970b6ed54e6cc7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_hoe.json",
+      "hash": "b3b55fb3bdb3abf4631a898295f2d8ba6731561e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_18.json",
+      "hash": "f9841f68424748e4c07984412fef05ac355e8dc3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/command_block_minecart.json",
+      "hash": "ca11c5ce450ef057b1fc4dba17dee0448293decc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/dark_oak_boat.json",
+      "hash": "e4f9fa528ea3a8654a7f10c8f5e0e44a95d53f5e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_31.json",
+      "hash": "06efca118c823914dd683edd6063e7a6e01b0e2a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/wooden_hoe.json",
+      "hash": "beb12514ffb96f9e5fef24d23631dd1d78705e00"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/dark_oak_door.json",
+      "hash": "1e23c50d306e05de3b5f8e719ecf87e02e056e4e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_11.json",
+      "hash": "baf90ab5e62e031fe890cc7068768a838358e80c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_38.json",
+      "hash": "ab66884a96a501cb719ea138d2cc4c980c4493ed"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_07.json",
+      "hash": "fd653362b4443ffa33ffe4112f0997610aa9963b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_6.json",
+      "hash": "4da62b25f161e69df14b4963cdf34ac620eef7f8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_02.json",
+      "hash": "3dc604e96ce4349158ebb725161cf13cceb1d6b7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_55.json",
+      "hash": "b97a13ec0df0e3e67ce5fd76c2ea952754cbd204"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_43.json",
+      "hash": "a2df06f22fa990baf0029ac6dc907fdc2f153f92"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_14.json",
+      "hash": "091ac083520453be5c2bde257edd74426e6fb6cf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/wooden_axe.json",
+      "hash": "751e09b48bab5401f3a8118e3c837c9ccb95ac13"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/gray_candle.json",
+      "hash": "6408177000839502462688993a5a014ebbde332c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/spruce_door.json",
+      "hash": "43efc7f8dd68c2898d306593e408a6c29fe0c0bf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/wooden_shovel.json",
+      "hash": "72cb2f039447a10c853a902c5bab4d56e32e304d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_12.json",
+      "hash": "364d51b20c7a67d094631ca2635cc146402d0e82"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/stone_hoe.json",
+      "hash": "e668c52951e23d5520d2f673ec17ade4a7c072f7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/wooden_pickaxe.json",
+      "hash": "c8305b7b50670b3d2f3681514701ab7ebb6141ff"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/light_gray_candle.json",
+      "hash": "6d8f3b23452849c88e9c6e49c46d89638599b7ee"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/diamond_shovel.json",
+      "hash": "5237c8985519e05c4ef7594a2ae2676453a9cab2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_04.json",
+      "hash": "91c0c936c8bbb6ba9720afbca53b5e6db8765e7d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/stone_pickaxe.json",
+      "hash": "4ec8d2fe1bb9e9e9d8e830a3cb33965699906cef"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lime_stained_glass_pane.json",
+      "hash": "b9bb5d6c79e188871788998e554f80ec8d93538a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_5.json",
+      "hash": "7d0fe20dc75e4d7f452ee18ec513cfd811deb6ac"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/golden_pickaxe.json",
+      "hash": "4f81fb97e10f4c0c1f6982e6c2acfd30c9607c6c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lightning_rod.json",
+      "hash": "20f096583232567963a35fb55f314cf45f3f3b1e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_28.json",
+      "hash": "fd86377533b82883abc65805bb3edc234fa96c1c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_01.json",
+      "hash": "c48d93a45247882045513f36b6e4d3283530bc60"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_56.json",
+      "hash": "ee62040e6a718ac3d5ef226f5a4ce1132554ae87"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lime_candle.json",
+      "hash": "e8fe6b0c25fe13a01ea34f956f93ad123ec9b3c0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/stone_axe.json",
+      "hash": "10c4877a6a4c34c59c1e2dbfd8b6fdaa9a663d30"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_40.json",
+      "hash": "1d4160de613b2ca5f3adf99ef9e794599fbfaab3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/netherite_shovel.json",
+      "hash": "1fd409d8595c0e7364ebc22977435d6dbfbed0bf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_17.json",
+      "hash": "0c163ad9d5fe2393442ef9382fce47828edb68d7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_60.json",
+      "hash": "7565afc35942750ce9d6174e90bff0a986c6aa1f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/chain.json",
+      "hash": "3c522824be24596f80f861995ed63780866bb038"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/ladder.json",
+      "hash": "55a97fe9c2798ba9af6223d306aa566105862a43"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_37.json",
+      "hash": "4a11f263d3eca69976eaf541bceebc0d40e94c64"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/orange_stained_glass_pane.json",
+      "hash": "5645e170bff8c1f60473242a41200c5f0d8a2b97"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/painting.json",
+      "hash": "00fc0e79f140c2d3568ebb4a396a9f4889563425"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_21.json",
+      "hash": "faea5be71a725bfeed9f5b3b28158769aea1a411"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/golden_sword.json",
+      "hash": "9aa8a8b744cd6a3d6dfd4bec60fbf9bf36bd5ce2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_08.json",
+      "hash": "f296a3012a4304cad72f9628de8d6087673f713c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/chest_minecart.json",
+      "hash": "2e49e697222fd21439aa44d93fe3bc1d115328b6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_24.json",
+      "hash": "a716b7f169cf4f883d44b19e37345aace420d877"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/enchanting_table.json",
+      "hash": "5cb656e5bb8d35aba29a7c0e94543486d6316378"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/spruce_boat.json",
+      "hash": "64502eb4aeb230ccf52e1cb9e734853a16702fc6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/pink_stained_glass_pane.json",
+      "hash": "f2f45e36bd8a339d11a865a5e94d714a9d460ca5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow.json",
+      "hash": "387eadb0d14c754d725f48b82804907fcb3cd6c3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_sword.json",
+      "hash": "6d507f214e8f128b8e26a1875126adc5daf000b3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/flower_pot.json",
+      "hash": "b29a616dc699821d81156533de67431c308e65b7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/activator_rail.json",
+      "hash": "c317b0102eabd598035e27b800a0338868c3452a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/red_mushroom.json",
+      "hash": "ce71bffaaf3b409f05175c9a1a47b27684ea6ac6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_25.json",
+      "hash": "b4dabca195cc538df1aa68c13a303e84741899ae"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_09.json",
+      "hash": "c73f352033d73be120490d28c9088f8d6b7cb202"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/soul_campfire.json",
+      "hash": "dff7114bac8c33545d43ad196bb14b0f24d83be7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/diamond_pickaxe.json",
+      "hash": "ebceb3be529ba0fd6f5745d578e13b2bd71b2e4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_20.json",
+      "hash": "6b30ee7af19e9d564ec9798d569dfb13f6d269aa"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/light_gray_stained_glass_pane.json",
+      "hash": "d6c053629683489e0b83a25d3133ce9bce3afaf0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/netherite_sword.json",
+      "hash": "7577d3effc8711c1a4623a928ed42c82fd165ad6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_36.json",
+      "hash": "a86ba88211cd1626a1053e1c8c7c88521624be72"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/lingering_potion.json",
+      "hash": "96693fb825ed286717c6cd025dfaea732cdd11bc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_61.json",
+      "hash": "883889202e85d119e77340b8523bc416319ec797"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/netherite_axe.json",
+      "hash": "15f3175765ddd85438c5c013aaf4a17a49244091"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_16.json",
+      "hash": "3d7bfd3d40f02f251f59a8f653e1c0f1f6465441"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_41.json",
+      "hash": "f2592fb45ada501e6dd56fbdca31109ab134d019"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/cyan_stained_glass_pane.json",
+      "hash": "82d0e385d749be3b95b2a5888374586cfdaa2cf8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_57.json",
+      "hash": "488a15b56747b26b6ea55d7de7c4601185cabc14"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_29.json",
+      "hash": "fca524d07ea23ea01ef134a6a957dc82afe10337"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/green_candle.json",
+      "hash": "f8c9fe276cf8c07e44e16fd0f68df48e6e89cb89"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/netherite_pickaxe.json",
+      "hash": "d5a079df1b9b5159275800e668734975f850444e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_shovel.json",
+      "hash": "cb36ce8dda22fbb059d406817c01bbc17f91d860"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_4.json",
+      "hash": "0803a4e12f82d6cce4ee9ce4f7c40fd20ad63248"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_05.json",
+      "hash": "343498364c71a178c53739792939017635a61745"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/glass_pane.json",
+      "hash": "0ee4521b97bf285a3078289625fbe9664a80a05f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_13.json",
+      "hash": "2fe80b1c578d3fff41913b849b83f3457df22af9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/netherite_hoe.json",
+      "hash": "ae0075a1d1e51d0bfed014ca287b91e3e2daf644"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/brewing_stand.json",
+      "hash": "69108328ee2b49d236c4e513474f6bea8b4a16c4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/magenta_candle.json",
+      "hash": "6114bda8035ee614896bbafa515ac33be393caaf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_31.json",
+      "hash": "3036aef5416bad94ffc2f886313e44999a15f7aa"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_18.json",
+      "hash": "3768970b7841be180386392afed21dcb543b0c58"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_27.json",
+      "hash": "6ef238f4be862ea0b75e41228e33fcc5d2c2ed31"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_22.json",
+      "hash": "1b6d7f0481fa5960645352e7ec254fe434889690"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/dragon_breath.json",
+      "hash": "012a71338b0e8de0fdd775ebfc1de3d422dc1f28"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/red_candle.json",
+      "hash": "879a8e045fb7e16e341de328ce387a0e23c274ab"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/hopper.json",
+      "hash": "c4e68647ba5bcd2c59b78c4d604cbcc75f7fb48e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_arrow.json",
+      "hash": "53a42982d9b0979021f38b2c1ec5a4d45e0ba4dd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/red_stained_glass_pane.json",
+      "hash": "a13403f817d70f6e83cb4fdd6e848c3d95279b54"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/light_blue_stained_glass_pane.json",
+      "hash": "cea8c10c486b38bda866c2f4042dff103299df3c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/carrot_on_a_stick.json",
+      "hash": "aeebeaa0e4d90266d119e13b87ab3b65b2d05c73"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/green_stained_glass_pane.json",
+      "hash": "069d1aa1f832e551d91e4eaf4d983fbfe1654af3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_pickaxe.json",
+      "hash": "5064e8e6013a45e82807847abd31958721a9ae9e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_14.json",
+      "hash": "5adae2023cfcda1e75c21a3d3cb9d78767e3c51c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/torch.json",
+      "hash": "778e4ef88d669e7eb024c3d588fd4a0185840c8e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/black_candle.json",
+      "hash": "2021f45fbc7724509caa06c712e81eaab11ed857"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_02.json",
+      "hash": "51be0bd0e933b063bcdc6c0109e8d24acdac31e8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_3.json",
+      "hash": "dba1954e290268aac291f735fede49d66d569436"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/detector_rail.json",
+      "hash": "df81f5380759f3a8a25f087b0164ccd9d0931139"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/yellow_candle.json",
+      "hash": "17dd37af309ceaca8dc815eb3cc4bd7d072f9079"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_07.json",
+      "hash": "743590ea9573a5e0b19a5b832f7f159d0c94e5a6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/rail.json",
+      "hash": "33da556252e4b65dccbec8f9dacfa76ef461c1fe"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_50.json",
+      "hash": "8a5a07c33e481571d911a51e235f51501d214363"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_46.json",
+      "hash": "557c5fd38febf880a7ae11b2f0ff7bd69544b60c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_11.json",
+      "hash": "c78987755f1642b9a743bb183afc4ece00d38545"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/tripwire_hook.json",
+      "hash": "08e171c4a1d951413f0303644dff671604bae1e7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/redstone_torch.json",
+      "hash": "0c898d757c678b6610bf3b6f83e636c413b59145"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_10.json",
+      "hash": "014899f7655c55fa1885e0450e0a110c1b468f7e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/splash_potion.json",
+      "hash": "3edcefd0184c145bc011a747380645aff3b24b57"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/sea_pickle.json",
+      "hash": "2a9c5a1986625378c9566fe17097a841028d08ab"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_47.json",
+      "hash": "5f5d69346944cee2e518d27bbb41c476e4de1314"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_51.json",
+      "hash": "c43926a5fc94c2581c2c3493b9e5240ea16307d8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_firework.json",
+      "hash": "82882efcf84d7e21da915e22352cadbf35eb5418"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_06.json",
+      "hash": "85e68cedebde398da9cab1efe567bc181ab2c455"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/item_frame.json",
+      "hash": "62f1a7bd4c71b551db2465d351547efb3281ccf9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/potion.json",
+      "hash": "4a4f534b57b396916627cf7d28b707d9e5fb5839"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/crossbow_pulling_2.json",
+      "hash": "af54393f103b7ce85273b698221260b98a8967f5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_03.json",
+      "hash": "0fa9ce7fc4c121aefb0455637d77369b2ddb272e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/cyan_candle.json",
+      "hash": "e87c374db9cb626afff3bc31c4d63b99127b74c6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/brown_mushroom.json",
+      "hash": "23ad242fdd69bb7a4f098c6cb8ae2eca850d4fe1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/door.json",
+      "hash": "967fa772753dea05463dc7b88cd6394111c5f583"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/jungle_door.json",
+      "hash": "9945637caac5d910687db0c84b25d78a77a51df3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_15.json",
+      "hash": "54f935cc162f98d4930b0b4c8586f7c41993a537"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/iron_door.json",
+      "hash": "e64a3a42480af91fe28edc00e8a6b84b27e4595b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/armor_stand.json",
+      "hash": "b8283e8b688b02ec0606f062e11174ccada85c5c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/golden_hoe.json",
+      "hash": "58a9df2016bbaf9c908f61a45d1d81ce7991b790"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/hoe.json",
+      "hash": "fdce4dfaa18dd15ff6f6e30a6c8ee327149e51e8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/boat.json",
+      "hash": "be288e82cf40c2f5f409e618ffdb8030e13c693d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/black_stained_glass_pane.json",
+      "hash": "34d5efab2ae66e32c8ee2ab29ef89d070f44e6f0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/jungle_boat.json",
+      "hash": "e1cd5d06bac30b3320ae0bb101787a2877152665"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/golden_shovel.json",
+      "hash": "90c01d7457af4a607b0ca3cf8c3688835d894913"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/repeater.json",
+      "hash": "ba98fbeda49236abed428e1a7bdcefefa29f3fc5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_23.json",
+      "hash": "7f418c5a00c9e8d8c20287f45e331f5928bf5461"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_26.json",
+      "hash": "a7dc8c838d6e29587e5e79e50db8767ec95642d3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/compass_19.json",
+      "hash": "d066dec68d6e14913ece21557f7c00c4bf564dc3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/axe.json",
+      "hash": "4089eca3199ef2b5c7df833fd039b9a9bbee1f1f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/clock_30.json",
+      "hash": "749b03fe99e3c36b8e763fd6f129d36d420c9ff3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/golden_axe.json",
+      "hash": "b478efb7461870fd4858f2cf9e8af998a3d2affc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/magenta_stained_glass_pane.json",
+      "hash": "66383b57fecad39c5179f3cb519be821ad8f86a1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/item/white_stained_glass_pane.json",
+      "hash": "d1d9dd48de085d743de496fc37bf4ff188ab0374"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dropper.json",
+      "hash": "7c1940f03936da43b412eff85adff5ec852032bd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail_on_raised_ne.json",
+      "hash": "a56ba03b691c740d120f7289d37515fe90189f3f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/furnace_on.json",
+      "hash": "9adf536301a179a878cbb1d5ecf5d00b7c54aa98"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_fern.json",
+      "hash": "7da3a9394a3f5a52ff5b4f80912dbd19e2c9fdb0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_door_bottom_hinge.json",
+      "hash": "f3b1e3669eecd48d557f66913ead89fe777e2bbf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/observer_on.json",
+      "hash": "8da7fcdc0c4b1460a6f52e16f83fa2a05e6b0091"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_crimson_fungus.json",
+      "hash": "e1a9a10e63734ded7f373aa16995253cea3c4962"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_door_bottom.json",
+      "hash": "3299fd418e375b2b23cac203ac07e7fb31fd7c69"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/four_sea_pickles.json",
+      "hash": "71e9b64451ee0503b500d3df1a3ad4bd517e02f4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cobweb.json",
+      "hash": "6655e0ceb818eb103ca9f523742f3a7e531e6532"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/beehive.json",
+      "hash": "fc56fb01187143860bd6e95aeae31ba04a1d8f93"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/campfire.json",
+      "hash": "eae617f91031246ec5ad0259a255f4511bf42690"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail.json",
+      "hash": "06db55beb673e7d197bee17ef2aa4716b3d1c94a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/coral_wall_fan.json",
+      "hash": "198b5cbdc67a2efc10fcff125eaaf9083b86c8d4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/emerald_ore.json",
+      "hash": "fd209a3a5e16573c2270145a5c46e364dde170e7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/azalea_leaves.json",
+      "hash": "dcd15813fb85824847eb978aa1d36fe221d6d078"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice4.json",
+      "hash": "f4126496bc98b3cfa6cfd3eb7ccda23da03810e8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_2tick.json",
+      "hash": "3331482762b52526d61414c9138e166c4c9cad21"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_3tick.json",
+      "hash": "b096682b82d0bb34673ee5cbb1a179fed5a00df8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_azure_bluet.json",
+      "hash": "3ea4fc757b2b12a1ea040afdc307feb1cf6e1f4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cauldron.json",
+      "hash": "ce019934e02a6c59bbf0df4e2b209fe1cc719b5f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_door_bottom.json",
+      "hash": "b795f96a6d7d49f119b90564eab7484574d0b685"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_trapdoor_open.json",
+      "hash": "814f8a580be48ba82bf4bbbc51117a7cca64e96c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_lamp_on.json",
+      "hash": "3e3b4b1cb4baacd51b19489a237b49090a9ef1d2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spawner.json",
+      "hash": "fb1d5963f716842ad68b70792c208a70d5174a30"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail_raised_ne.json",
+      "hash": "2afea53ba0f705e0978c0c87c5b630fb5446e329"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_2tick_on.json",
+      "hash": "11020795cb7a105ba70044d28e5b59791d5b032e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/fletching_table.json",
+      "hash": "e541e861a2c93f3e0b4ec664de94fe15ebdf5fec"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_lamp.json",
+      "hash": "091ad0d6a4742a41129b88d76aa4eed0e8c53cd4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/light_gray_stained_glass.json",
+      "hash": "0d0d39a3c4ec363d7aed525f1f65e99b3ec8b87e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_door_bottom_hinge.json",
+      "hash": "3edb153ec196ec79d80c32658fa0bf7dd669a10a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_glass_pane_noside_alt.json",
+      "hash": "5383ae9d6bccfc0ddb939bd9728941a8ea8ff4f9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail_on_raised_sw.json",
+      "hash": "639b8b8d72969a486c21a3c6aee9f634552b3a95"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side.json",
+      "hash": "593dcef62b49719627a363702e7d770cce6d562f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_door_top.json",
+      "hash": "7c69ee94187d1ad584114146a2616afc676b25a4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/azure_bluet.json",
+      "hash": "cfc706bf0dc66a4f34a156b658b32c08018850c5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_cap.json",
+      "hash": "a2bf60e42e4619f9906856b61bb4c34e961e0453"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail_raised_sw.json",
+      "hash": "0abf76fda713a5cfa49320b8468557e0ef022ca3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/trapdoor_display.json",
+      "hash": "fcec579c19aaa587687f764a02b91df70a2ed135"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/beehive_honey.json",
+      "hash": "d6d11b3f43109224541671e3bfc91b1d7c31cf34"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/observer.json",
+      "hash": "a584ede4dfa2d388c1d042f52b8a5a2684626b6f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lever_on.json",
+      "hash": "f2d2e3c6bad82afe01c47ce9be34f35576520055"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_door_top_hinge.json",
+      "hash": "6d55ed872666467fc35880f524fbe52e5e5d1260"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_redstone_ore_on.json",
+      "hash": "a6bbac57c8333cc119cca2edf077579fe319b18f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lily_of_the_valley.json",
+      "hash": "faad657277da15e1c10e5d287ee60f81a99f564b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bee_nest_honey.json",
+      "hash": "403dd856954405964f223f1bfbb6a1ffa9982b4c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/sticky_piston_inventory.json",
+      "hash": "2d5142fbef29914b9bda1a59dcdb57537c8fca07"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_3tick_locked.json",
+      "hash": "a593dd524d118d18b3a427a95539ea7007f05920"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_door_top.json",
+      "hash": "a7a5fb3c94a1766dcf6e5cae8f65b461343fc6a6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_bottle2.json",
+      "hash": "fe5db90a08cdbd29835479f07ed9707b3e32ec36"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flower.json",
+      "hash": "552eeb05d3d2b2c5e6332620fab444bc9977b54d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lightning_rod_on.json",
+      "hash": "5b568c91349928255da11109c25ca68d5eb83dc0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_4tick_locked.json",
+      "hash": "5ea61f6c358a21cd6ac03812e42e39614927809b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brown_stained_glass.json",
+      "hash": "6d4d3ebb3664408fe99d7fa2c69c9202dba5ff16"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/four_dead_sea_pickles.json",
+      "hash": "214f8538cdff2317e998b24ec4af9e769c15f2be"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_glass_pane_noside.json",
+      "hash": "1a5e67c2392783536179054258f1a7611a159f6a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/comparator.json",
+      "hash": "19f3590a0ab994fdbd17c43d75ad20c0f274d8b1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/comparator_subtract.json",
+      "hash": "7c8518dab1681bd73379bc86454e81eeae230174"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail_raised_sw.json",
+      "hash": "5fd5f8fd325cb0b1bcb5b70be0c5b35843f24835"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/soul_torch.json",
+      "hash": "af55a9c9332f53270ee2167e40f4ae32f4aa007c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dispenser_vertical.json",
+      "hash": "131e0a9160aca178ee501db9729bd656dd4f9e4c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/sculk_sensor.json",
+      "hash": "255170d05d6516ee71a9fe0bf9182865d40eeacf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_wither_rose.json",
+      "hash": "f2910e0d9db48c80a341224a851ff796e3c1d526"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_trapdoor_top.json",
+      "hash": "7fcc96679e1bac240d0aa8f9bf777ab7582cb1f1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/azalea_leaves_flowers.json",
+      "hash": "9b0cbed076e8f5fc5e391316821fb485bf23ff2e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_trapdoor_top_open.json",
+      "hash": "6b1243c260d101589dadc2a47a4799560a36f41b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_fungus.json",
+      "hash": "f8f40e72efbdfe0e58d0cce8267055974215d356"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dropper_vertical.json",
+      "hash": "4c6be100b2807bb6b5cda2f96661218105058cc6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_fence_gate_wall.json",
+      "hash": "ec3d0ce26e00e1eb97505737639831b2220f17b4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_door_top_hinge.json",
+      "hash": "277161d36081720cc79e2bed5273812365f440b7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_trapdoor_bottom.json",
+      "hash": "791d31df7fa2adab7adb83a3da8e6e35f6cd59f2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_cauldron_full.json",
+      "hash": "62dfb118e451141517b199a655e576383616a0e1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_piston_head.json",
+      "hash": "20fe3590bdbd93fc19537135df68063ed3036893"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_door_bottom_hinge.json",
+      "hash": "d7697bc4101e17655b6fb5d8c96aee400dd35686"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/melon.json",
+      "hash": "10bdbfebbf00d3294eb12483747ffc2d6c01067c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/pink_stained_glass.json",
+      "hash": "b9b2c9b1ef51d6ca2f8a498b694feedeadf586e0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/wither_rose.json",
+      "hash": "8a3e79ef10ef89aa2d013362fc8a81b535182919"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice5.json",
+      "hash": "af35149b5126c2196f4b24fdebbfe29f98735e3b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dried_kelp_block.json",
+      "hash": "a01f97d4d74c9b4f799f073cc9c254ef903196bd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_trapdoor_open.json",
+      "hash": "3bc00ee2f03c5aeee289c388dd744f5231574d70"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_door_top.json",
+      "hash": "1c5544f4e6385c073cd46e943169915d637ca0c2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jack_o_lantern.json",
+      "hash": "22164b339ac3d1046bbc779821320ddccaaf7b46"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_trapdoor_top.json",
+      "hash": "2b3c783cd9b9d1b273c1774ffab39b6758741d03"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_lily_of_the_valley.json",
+      "hash": "3a673e46716866ac9c8d28b8c7cb4656c2479eb4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tripwire_hook_attached.json",
+      "hash": "be33287f44866fc38148a8b1dca0d8395dbbb373"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_cornflower.json",
+      "hash": "899ea7f51c6311410cffbf6d0165e807ecfef730"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tripwire_hook_attached_on.json",
+      "hash": "1379621eee68437abde6bfb99274d1008ee19ce4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dispenser.json",
+      "hash": "da593c1b28438a24a6d60eadb44b88f04ebc5816"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_diamond_ore.json",
+      "hash": "5ea045d45551ee998b6fc1a8c40f2c91b09cb945"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_door_top_hinge.json",
+      "hash": "1fd0db359a91e6b1f1b0d0058cbee5906e3b59b9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_3tick_on_locked.json",
+      "hash": "dd704f4870ca9b2169782f7683bde3170f806e48"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_ore_on.json",
+      "hash": "3b8ea7e025f777accf1ea7394925509583605d4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_gold_ore.json",
+      "hash": "f184270e400ff5663b9e8281a1d19004229c822b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cactus.json",
+      "hash": "3faed4714b0552e0fc265579b9268a0702eeda7b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_fungus.json",
+      "hash": "ac0a6eb6efe639d39d1f46d99f3c4008e35acd34"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_empty1.json",
+      "hash": "44b9371d6a2842d8b210dfc89875fd0b0a4c2c37"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_cactus.json",
+      "hash": "e8328365bc044340422a478439fe43b1b7a79b11"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_piston.json",
+      "hash": "1b3ddaaecc547211ffa609fc33102b39268052fa"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_hanging_lantern.json",
+      "hash": "5a137f2740e29a2f7d2e7b35334f800c9cf4769d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cyan_stained_glass.json",
+      "hash": "f39f5ea8995c597ec88c9943c49f3f2422267130"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail_on_raised_sw.json",
+      "hash": "55270c06de166bc8b573b1e2b5d12d8f8ae0adb6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/barrel_open.json",
+      "hash": "87653529abef4c026e03cccd483f1996d691fd0d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_4tick_on.json",
+      "hash": "bc8d01d1b70a054b894c85be6f5fda96c6d46f2e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_redstone_ore.json",
+      "hash": "6d8f0ee39f41a17a691c740f19c1d29e40f2a8e6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_trapdoor_open.json",
+      "hash": "3053a4ee05d238b4078b139f2c51e5836294bd31"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_trapdoor_top_open.json",
+      "hash": "075d71fd9c51ee7378724e99802f4b4071dd29c1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail_raised_sw.json",
+      "hash": "d18a9e05ac2f5924005d235c2bcbf5eb09972e8b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/smoker.json",
+      "hash": "8fef5cc1495709c5923db16c8c8ecc4386bf4b7d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_door_top.json",
+      "hash": "3300c6a19dbdfd91a3a4e3c7c817325e684152d5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_azalea_bush.json",
+      "hash": "a7dc6bdb34acbbbc922deed4b8caec2f08b14b0f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_glass_pane_side_alt.json",
+      "hash": "017cafa79b5d4ca694fc6c3a05141d3e48b631e4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_trapdoor_top.json",
+      "hash": "cabb53107f40a9d86406a6e094aebcc4aef8f605"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/fern.json",
+      "hash": "dc512bf327b4b3b8e0fa0f42074b8c8149926307"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/respawn_anchor_0.json",
+      "hash": "8e6ec0c01eafd0f6f5b3acff908d4aff93d396e2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_torch.json",
+      "hash": "0e694d12e3a32c541bb73a9325fade07d892868e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_door_top_hinge.json",
+      "hash": "1a5c6fb232c76cb4ae21aa1aa646e70a33e038c4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cocoa_stage2.json",
+      "hash": "b8044d71d8059747ae045b1e6c52ab35a5e14fe8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lapis_ore.json",
+      "hash": "110d2c5a0f9d744535b323320fc4893887d61e90"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/gold_ore.json",
+      "hash": "da2f2c6fc946aea59db355a4ab17528e40ce1ccc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/barrel.json",
+      "hash": "c59224e970e77c0a92ac88a42b03b852148daf2e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/red_stained_glass.json",
+      "hash": "517595283e63be081f6a5d5591952540a3386b35"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_trapdoor_open.json",
+      "hash": "f86f22f7af550b2496b4be9083837d8c6efb183d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/gray_stained_glass.json",
+      "hash": "08f8b8a7572b80ff0b7b5a4cc4bcff11bcbdbd57"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail_raised_ne.json",
+      "hash": "cb8d30d513d593b24735eb7cfaee4f7e9499e890"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_door_top.json",
+      "hash": "9e1e7ce8495298049f1d6d09060e8d7cebd7cd12"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail_on_raised_ne.json",
+      "hash": "39099e38b9ebcc70ae7c6320eefbf69dcbf50cd2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_cake_with_candle.json",
+      "hash": "1a7b723942cd24aca100bf620d1873e7a2ba8aa3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/gilded_blackstone.json",
+      "hash": "61e1f73afef0680c6477401b9950ce18f2b62031"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_trapdoor_bottom.json",
+      "hash": "d458d5864681cbd54ea7587763239a64784cc37f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tnt.json",
+      "hash": "a23b48c0aa0fbe1aefff39243baa220b48e231b8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flower_pot_cross.json",
+      "hash": "d40811e66a44ff23a5ecee1d0c0686b8bf697d3e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_door_top_hinge.json",
+      "hash": "2227556f7f65b95e6032eb46f17fd2f00ffe5a11"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flower2.json",
+      "hash": "9d912074229012e533e53cde5022bf04d4da7291"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_cauldron_level2.json",
+      "hash": "55ea8bdae024aeef6192b1d889bf33cbf6eeb56d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/pumpkin.json",
+      "hash": "f21f214dd9503c8f28734486f258152b27e065d8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/comparator_on.json",
+      "hash": "d6b7dcc49601bdd31d44f2a1f52460064c24c9ea"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_trapdoor_bottom.json",
+      "hash": "f946cee1413cccc120cd9bfce10c5a19c366a81f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice2.json",
+      "hash": "df1f9373cc5ecb1d610403b71493a55ebc7bde70"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_bamboo.json",
+      "hash": "384abf9bd502008967c06d0457d980c8f009c8b6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_door_bottom_hinge.json",
+      "hash": "63d792ae472e996817f62ba81a8092b38f749d2f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/glass.json",
+      "hash": "28ddb20095a3715f5877ec86ed9cb7543a483970"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/poppy.json",
+      "hash": "8f11d64f4b774dd05482bbb4a13ec6a32271c8a9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_door_top_hinge.json",
+      "hash": "4cbe03187b7f634c53842bfdcd2d11f285946fc6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_four_turtle_eggs.json",
+      "hash": "009154e427c24850657ffc35a3ad1ea9a4ae1d1b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_fence_gate.json",
+      "hash": "a678ce5c53aa8278fa4096401714f9b73ee597b6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bookshelf.json",
+      "hash": "6e03b3b9ab698c3df95135f0c4a08f8b7d478413"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lodestone.json",
+      "hash": "1961487ace0131a83bba083e72b646ab1355f2df"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/orange_stained_glass.json",
+      "hash": "ea2a7754006933b7fe15301a459c9579c09c8095"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_door_bottom.json",
+      "hash": "1e69707e523cdc1ad05c1b23525e61f253669054"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice3.json",
+      "hash": "0d7ef64a3e1c4732fcab1c2d157dfee3a7f2df5e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_trapdoor_open.json",
+      "hash": "6fc4d225bef57ada5769db1c9143f43d8e282751"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_4tick.json",
+      "hash": "cf9b04afcde2554ea582ba6234a8732f2eae0c32"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/note_block.json",
+      "hash": "0f10787359edda47c2de91861cbc58bed647b986"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/coal_ore.json",
+      "hash": "34b6767cbfd784d0a29709d528f0095462a965a6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_trapdoor_bottom.json",
+      "hash": "d04d8b4903900994bdb474fc83613bd65f6a23d3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lever.json",
+      "hash": "782ad2646bd4c8c1a165f0c85dfc9927d61eb3da"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flowers_pot_cross2.json",
+      "hash": "edff273b662ec18c6bd143693faa1d5a71cf6684"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_trapdoor_bottom.json",
+      "hash": "9c307442e2e86fbfd49b4c06cf3620d6f5c6220c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/nether_gold_ore.json",
+      "hash": "d00c1f7bebfdd7638fa15a230f71ef847c4ffe46"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/sugar_cane.json",
+      "hash": "3108d169f83b13e6659e3b900ed299c252cc38d8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail_raised_ne.json",
+      "hash": "1a77966348b75539f89e397fcdc3f6405f91d6a8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_farmland.json",
+      "hash": "91d53f214512a96f3a6cd51d0563383dede0f241"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_red_tulip.json",
+      "hash": "a2fb9b66ef3fb80888efdefd047a066c2950f170"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_trapdoor_top.json",
+      "hash": "f65a4b1649e37ac546ee6741d82f43bda4463566"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_pink_tulip.json",
+      "hash": "97b26956418b8643f8f99eeef90f93232638108f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_piston_head_short.json",
+      "hash": "e56374b0de1a224eca82416424fb41430bd83087"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_1tick_on.json",
+      "hash": "011bb836646a78da62782d5b412d81bf3ac029ea"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/magenta_stained_glass.json",
+      "hash": "0c787c9db4e38f48fd97ec253f23522c158a69e6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/respawn_anchor_1.json",
+      "hash": "8bd63b8a6b576f64371b1192e9f16b27db335e7e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_lantern.json",
+      "hash": "378e4fae39cfb25ca7fb27bd5c2b49dc277f62a9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_door_bottom_hinge.json",
+      "hash": "f1b548f9f79fffcc2dbecacb912ff2702a04abef"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_lapis_ore.json",
+      "hash": "82f7b8e3ff9df68303ff45ccaba1ed9776e01310"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_trapdoor_top_open.json",
+      "hash": "15ef7042abebf2301d946afb694da67080637a5c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_2tick_locked.json",
+      "hash": "015f7eebefe6724c47d63fdfa36710232e0ec952"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_anvil.json",
+      "hash": "c81b5288afda7d928369b4f0567e004d4dc1b03f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_coal_ore.json",
+      "hash": "efe4c06eedf41f8ee0379d6649406394f1e807bc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_trapdoor_top_open.json",
+      "hash": "1b97f911613682ffc5e8f658034d00d738168191"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/soul_wall_torch.json",
+      "hash": "342bdb1dabcc164ba4f189d887fb799ba4851d48"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/green_stained_glass.json",
+      "hash": "18e7c4d22b270bb2c8fe316148b6d9d20ab0767e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_empty0.json",
+      "hash": "39790055451217194939eee56774e919b7c265c7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/comparator_on_subtract.json",
+      "hash": "167e6a119eedf37106c925933217bfb95fe8a08d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cocoa_stage0.json",
+      "hash": "ea809176b7faf03b59b47e4dc991eeeac939972f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tripwire_hook_on.json",
+      "hash": "edc48eb16ebba8a9278adf22b9f7707624b15dd2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/smithing_table.json",
+      "hash": "c65b3b8527654b8d44781ef79e69090b867e7842"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/respawn_anchor_2.json",
+      "hash": "1527939497a3eee851d866f63b8ae50bf00f90d3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/blast_furnace.json",
+      "hash": "352d0c005ccce7695b2a6604a127b25291a50f4d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail_on.json",
+      "hash": "080bfe4ff62be3cc2a4f61bec9d4355543acb332"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/copper_ore.json",
+      "hash": "5d01349a69f114e7b88d658c8c65ced2b2109085"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lightning_rod.json",
+      "hash": "1c06c0727389ff84eb02066d7921b7d754a87df2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_trapdoor_top.json",
+      "hash": "5531bf7beff8442d81f952a59c5bfe56c8975cdb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/loom.json",
+      "hash": "85f82902bf9eacab82044d7886dd050b15046b6b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/two_dead_sea_pickles.json",
+      "hash": "e405da4f7566d2243339a6d8bc295da69b3d1316"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_door_top.json",
+      "hash": "c6c884fed5b11849d6a19fed696acebf1eead0da"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_ore.json",
+      "hash": "ca353672ec387ee61ee1f7ab7d09166c67610dd0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/purple_stained_glass.json",
+      "hash": "2ffeab37787bd1c9559a6ba4223a67efd0890ad9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jukebox.json",
+      "hash": "c72fc94ed243f706a96921d34d345b59c736f775"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_trapdoor_open.json",
+      "hash": "224a3e4d8511b0400117f3617869c41e2c8b57a9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_allium.json",
+      "hash": "97140691a7f9a6196847835a70ab0b730bcbabe2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_ore.json",
+      "hash": "5d1198f10ec18cfda37d340b66fa7b8fbb8eaf06"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/composter.json",
+      "hash": "7d0ce5b42a5b540276d70801dd0e80a9b79375c6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_trapdoor_top_open.json",
+      "hash": "f1fecd239d209c3422d19c367450d8e582ebb0b7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/allium.json",
+      "hash": "6bd4a2b506e40384f918b87102dd76270dd80f32"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_door_bottom_hinge.json",
+      "hash": "56c0062f11526c0e6f9b1721bf5b2f219a46c6b8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_door_top_hinge.json",
+      "hash": "72681c7e02289554a1755185809acd0a1790fd3c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/three_dead_sea_pickles.json",
+      "hash": "3ecb976326bff8f3eb1eaa11a819739e334217af"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cornflower.json",
+      "hash": "f29970e85d873940c16e557e8aae038c9723e71f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/diamond_ore.json",
+      "hash": "3e6a53d11b935e4dcca30af03c9ecfb742d1136f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cartography_table.json",
+      "hash": "cf4d3ecb6fb5ccd6c52890d3ccffb3138e0d271a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/chain.json",
+      "hash": "8399cf0892458b29fe1a8d67fc19f18af805c5ba"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/ladder.json",
+      "hash": "7f078294cfaf80396fd17abb6e529751db0b587a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flowers_pot_cross.json",
+      "hash": "834f17c25db6dd33282db5ba43807808507354d6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_door_top.json",
+      "hash": "5e0c56e194bb916a6b3b9d42696f559e92951ff7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/powered_rail_on.json",
+      "hash": "0be58f6ec6250f326baccbc392f37dd65d7e4935"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_door_top.json",
+      "hash": "07e942512f25fc6b35f92471fa1791286fed92a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crafting_table.json",
+      "hash": "418f948c740c9e21be185b4d4b7929b80bb6e25b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_iron_ore.json",
+      "hash": "ad8e7c8dfda8d436f967f9fac7849b79a97a42d8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_copper_ore.json",
+      "hash": "8e0ccbdd012a1dea0c8398288df65894797e2e36"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/enchanting_table.json",
+      "hash": "d4edee89ec677f862a65b0cb6db8026ffcdf4fa1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_red_mushroom.json",
+      "hash": "bd8c0141ffc7f64245bd26bf8b7658eaf1d6ff46"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_side.json",
+      "hash": "7297ee877ca5496a19876f1de3f4250fe7ea4d66"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side_alt0.json",
+      "hash": "8649da8170db730e8616a9f93c4a13e38f66e4db"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side_alt1.json",
+      "hash": "d82e1c001496bb6b55e37ef4c88ec98749efa5a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/white_tulip.json",
+      "hash": "4225f02157d797be7df31c71887fd51463c451a0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flower_pot.json",
+      "hash": "a7ad6a36289b66a6015365ddafe4c5de806054d2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_trapdoor_top_open.json",
+      "hash": "b63586880c7711d6fde3ff6e1179c299829eecfc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_glass_pane_side.json",
+      "hash": "9c3a3709a2a470060e7ae00c532bd477d74121bf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_4tick_on_locked.json",
+      "hash": "da7cc79b1852dc0131b2519fe8756ad369efb0e6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail.json",
+      "hash": "d6d0522748e05e865c9aa9817b5953977cb7be1d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/rail_corner.json",
+      "hash": "656ccb5a27ca42a123ca90daa0dc68b908367037"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/smoker_on.json",
+      "hash": "c177df4d6e8770c0696f666e5d6ff4c743ba6898"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_trapdoor_bottom.json",
+      "hash": "e49041c573c35ca5f7f02eec73f76f5be9f5706a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/azalea.json",
+      "hash": "a685f0e709c303556abc21e4b947957c1e5f2e47"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/red_mushroom.json",
+      "hash": "fc07ec7566c80e0e6b226083291f071bcecc809e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_door_top_hinge.json",
+      "hash": "7ac7b04fa846896afd6d8455e88d8b71e0b2b8b3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_daylight_detector.json",
+      "hash": "0a314a4174e524207f38b66da01bda2b714ddf1e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_door_bottom.json",
+      "hash": "445e41bea3a8ea3fb2b5b4ee9ea0d63bf504e06b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_cauldron_level1.json",
+      "hash": "81f873b7b553380a5c85faff66d2519cdbbfdc3f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice1.json",
+      "hash": "e49cd3ba8236df900f6ba76db6d9da15171d45c1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dragon_egg.json",
+      "hash": "440904fa14c767e8383e8f1556f04c490934901b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/rail_raised_ne.json",
+      "hash": "7b1bbe6c9c3af757c715c4bfdb233035ed2b069d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_brown_mushroom.json",
+      "hash": "b71e2de81776b3240bb8da4ed33e25758f5352e1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_door_bottom.json",
+      "hash": "e11e7f52cde32001360f15988e6d87ad8b46c680"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail_on_raised_sw.json",
+      "hash": "cf934ff68e526bb44adad2242dc97c0f02ff03f8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bee_nest.json",
+      "hash": "8a3ddcc5d179bb075e9e9d65c3837257de652e55"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/hay_block.json",
+      "hash": "85efed8240e6098ed7cc508e500ca2604d04d7e9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_empty2.json",
+      "hash": "3e735012b0b230e3216e528a94b74d10a2d20444"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_trapdoor_top_open.json",
+      "hash": "f5c2f02c101844d3bcce19c8c2b402fa8e84d318"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side_alt.json",
+      "hash": "6a862b967af2a1c12c9f188a014ac07fe3d47a27"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_up.json",
+      "hash": "56eca12d449ec53e7354a920f584bdb47010f631"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/light_blue_stained_glass.json",
+      "hash": "8cbe36db478b497666621d8debb5387847c902e9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_3tick_on.json",
+      "hash": "e1cf1fc12d8b4f091ab41c5112168589f3aa3ce9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_warped_fungus.json",
+      "hash": "9b71d71766bbfe36674ecae962c3f58fdc0adfd3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/deepslate_emerald_ore.json",
+      "hash": "d96faea20ec84d56a52ff712840583d6237876cc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake.json",
+      "hash": "8f8ca318a7e7e63922545fc11092f5bba11bf22a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jukebox_on.json",
+      "hash": "ccf478fc0f96d60c1490fa0d72c6b394621e8e6c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_trapdoor_bottom.json",
+      "hash": "246642296118ebd9a6e5eb93bf41453c0a8143d8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_1tick.json",
+      "hash": "1e1a25974e4d240eedd993d4dfe33c56c1d77f26"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail_on.json",
+      "hash": "78c2ca9478c3e979246d04495f77dd53e96bbd98"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/respawn_anchor_3.json",
+      "hash": "2c7433bfb156f890c3a838e03333d8c8f9178d9d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/jungle_trapdoor_top.json",
+      "hash": "c4ef62b3b52eae422a73a19afbc1b3fa8176e9d7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_white_tulip.json",
+      "hash": "e3eef662935221dc18724040ed73804e95dbb9bc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cocoa_stage1.json",
+      "hash": "4b284bfd844b699eea2e5181e0da0d279b6edb75"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/beacon.json",
+      "hash": "be8d5ecd019afbb1821d9fda0b40421a44ee3c14"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_trapdoor_open.json",
+      "hash": "f2c200189748b8f546eb450490710da5e01860c7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/template_campfire.json",
+      "hash": "b307061cf48acb2a35a5472d955af571aedcaca2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand.json",
+      "hash": "473ded7e1411b93b116aa4b8c730012537bc7fad"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/piston_extended.json",
+      "hash": "d936d2d280ca640c7c766012dc83d44f769a82e6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/furnace.json",
+      "hash": "39bf66fc01dbea171ad73640e0ae756a73228784"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_trapdoor_top.json",
+      "hash": "df5fd9370acecf48d180a23bb724411fa747b5aa"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/cake_slice6.json",
+      "hash": "91166c1c1beb905a501ddba680202901009033b9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/blue_orchid.json",
+      "hash": "90e17386f7ce819b744e319693569e27aa64b695"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side1.json",
+      "hash": "197e686c8af6e56bd49ffaf9ae577d70618b0a4f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/hopper.json",
+      "hash": "dc93850561338f8f2e9d69731bb1b09d90b12879"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/yellow_stained_glass.json",
+      "hash": "9418cd1bff62c9d3110461e41b632479fca0db88"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/acacia_door_bottom.json",
+      "hash": "7d33c24573e8b3a1ee1b0ce2fdbd5c5198ef99dd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lectern.json",
+      "hash": "cb6832bf2a466de7420d7b2acf56d6e403249c20"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/three_sea_pickles.json",
+      "hash": "a021de3332e06d5b3f7a60ba2af5e91fd52b7d65"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lime_stained_glass.json",
+      "hash": "a6a123de7642094c68f4d3b45902e4bcaefac558"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_bottle0.json",
+      "hash": "5d64c655e305f0bfe189750b139dedd206e75337"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tinted_glass.json",
+      "hash": "f64acd46ba88608391cc3ab08d9fff9cf1003473"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/respawn_anchor_4.json",
+      "hash": "08411413d3bb6adf0be925a590b54af0388831ac"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/torch.json",
+      "hash": "e3a17f4b30314037d312df0d16709035f28eaa8a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_poppy.json",
+      "hash": "33b35a6a126fec92555cf1deb2e3d70c6ddb4f61"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/spruce_door_bottom_hinge.json",
+      "hash": "4be66896b4904e572d3c2eec82b2b247dc996b9b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/wall_torch.json",
+      "hash": "a18370bb71a725deb0c381659e60d0792fcbf700"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/leaves.json",
+      "hash": "d840b3f0aec5a5e223d61f8bed933532ced54117"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/nether_quartz_ore.json",
+      "hash": "baea360b31039b56eeb4c7a1377a1f0a7bdd6f65"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/birch_trapdoor_top_open.json",
+      "hash": "b70e371de27598f9c4c2dd8bba494879af993955"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_trapdoor_bottom.json",
+      "hash": "77972c31370699ea061c8094fc92ce8e6756a347"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/blast_furnace_on.json",
+      "hash": "0c7933299bab16576049e598836a41560525cdef"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_cap_alt.json",
+      "hash": "b0b41b0b98b3aafa24a9d44ddd2a9d8575f33625"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_blue_orchid.json",
+      "hash": "6b3a99bd62f32119d8d8b873d76db05d91a85305"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/detector_rail.json",
+      "hash": "caecab23f65ecebad884f489016a4908bb722ea0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_2tick_on_locked.json",
+      "hash": "11520726579b9e16ce80ac2143dcd57e44b97643"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/stonecutter.json",
+      "hash": "906e8c009901312aee9e122ba2d535c8bb029ddf"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_1tick_locked.json",
+      "hash": "0c2e8bb89e32770aab50eb1f0a532002c636399d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/warped_trapdoor_top.json",
+      "hash": "715921a4a35b11ef0aa9425976463eb614e07db4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/white_stained_glass.json",
+      "hash": "92a0c67443245ae38f803ba469de74f7465d18e1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_door_bottom_hinge.json",
+      "hash": "0a1275ad705038644577dab1af6d91802d47fc14"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/pink_tulip.json",
+      "hash": "f64bea80de9b0cb6e4a106aee4de7fb508729133"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/rail.json",
+      "hash": "71984875e847e92354cfadd6ba1deaff39566bb0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bamboo_small_leaves.json",
+      "hash": "255ad5436beec79a606266ae599ae093e62684e0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_door_top.json",
+      "hash": "497a34a5bd264c0d7f0c1348b9e73105fd67ce4a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_flowering_azalea_bush.json",
+      "hash": "5fc88f1b7f1af9f5224e439a7f1c1dd0ca10e6bb"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/end_portal_frame.json",
+      "hash": "ffcc0717578073e9ee68a9c73a31dd7a8bc46c08"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/orange_tulip.json",
+      "hash": "bfa4743cbc1cf393e9fb8d4eabaa8aa8f8096ee8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_trapdoor_open.json",
+      "hash": "6313f8e6f98986b8e41ff20de83f25609c40a765"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/tripwire_hook.json",
+      "hash": "9ceec003ebf0591ae8fdea1858dcf4abb7d7cb85"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/hay_block_horizontal.json",
+      "hash": "8a8577f78dfacf59372d4c99ad78306419bad76c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/piston_inventory.json",
+      "hash": "fdd6cdab1a2703d962d621a93cd97357f17e9896"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/sea_pickle.json",
+      "hash": "bc9d176e4d8564e0b284eb8a1db3726bc1aa6cc8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/lily_pad.json",
+      "hash": "7eec8045234070d9fe0b401c3e09639441f9ec0b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_door_bottom.json",
+      "hash": "4fb2f441cbfdea2fb47749f519957878dc99a5fe"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/chorus_plant.json",
+      "hash": "630cb6b243df5f474d2b54eb9796e59bf9af4e5a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bamboo_large_leaves.json",
+      "hash": "2d50a4c3fb44a9871f4b3682e1d2a7935aec6cb5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_orange_tulip.json",
+      "hash": "6450d6fada1dbe81ff148c1c980ca568c97dd96e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_door_top_hinge.json",
+      "hash": "cd9fa84cf1826ef9c46fff206e67e8f3fadc9955"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/chorus_flower.json",
+      "hash": "15db2321a5b3b7efb8926274cb32d55ab1c72fd3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/chorus_flower_dead.json",
+      "hash": "12981726dd2e6f94025f08dcfea992e2df35e923"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/two_sea_pickles.json",
+      "hash": "b7ce5661932f84026eec95d206ae825885de4d68"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_dot.json",
+      "hash": "300b00feafc797723a4eb605cc72dd2313429c0c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_door_bottom.json",
+      "hash": "46c24453a75efb1c2834069ddba68c7d9b1c2ed8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_post_ends.json",
+      "hash": "b088de31e072b8d3633ce2a0e650569532437838"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oxeye_daisy.json",
+      "hash": "da80dd137e45ddad009baeecc2f0ff36c5c723a1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/crimson_door_bottom_hinge.json",
+      "hash": "9b7d938a6910764be16697fec6a0c25fada58841"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_trapdoor_open.json",
+      "hash": "d01c8a5c59f08ce8c7a9a9956dfed1f88f489f78"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brown_mushroom.json",
+      "hash": "1e5dd48d8280a6f398435aea7ccb089b0f01d878"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/rail_raised_sw.json",
+      "hash": "9dd483e186919843e9a7f6b15c183618cdd07744"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/repeater_1tick_on_locked.json",
+      "hash": "f93cf2ee34a43329aa42bb5e05bfbf749eb8ac26"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/brewing_stand_bottle1.json",
+      "hash": "41b2b68f88c71e324945f74c49e7729424d40dba"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/hopper_side.json",
+      "hash": "8dc2b868963f4a53e2166bbdc5cec0f62d2227c2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/bell_floor.json",
+      "hash": "bba7c4f68113e43fae0b6116e25b4eeb3c726b0b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dark_oak_door_bottom.json",
+      "hash": "165868685c22fe9fc414eb57b10846fc0a5585ee"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_side_alt.json",
+      "hash": "8a56b688365592fc83c48bc736700caa61c93315"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/oak_trapdoor_top.json",
+      "hash": "36fc5f0383bdfc8388bbe7ec95836bb9187513c3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/activator_rail_on_raised_ne.json",
+      "hash": "e4f949908288e8119a78f15a7d0854fbc158bbd0"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/redstone_dust_side0.json",
+      "hash": "554ce8f19b068cf11cdd9afc9d172577390be632"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/potted_oxeye_daisy.json",
+      "hash": "8ffe277660d73b2bd3e3eb4727a9893601578793"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/blue_stained_glass.json",
+      "hash": "693f09a3776e1e1356fa69136e32580c4c9a9b57"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/carved_pumpkin.json",
+      "hash": "8d41b901f43acc52c71b15baa9a2c861f917b012"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_trapdoor_bottom.json",
+      "hash": "9a6b63652fb4d7912c5b2d2e7e1de18a32f87c01"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/dead_sea_pickle.json",
+      "hash": "33c158e9c39f55ba142a1cba178573b4f6e61ae1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/black_stained_glass.json",
+      "hash": "b4cd8d175ae572f86635547620ea51d6b42ea94f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_bars_post.json",
+      "hash": "127de094c2331b2aae352e48755b77fe3f794787"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/flowering_azalea.json",
+      "hash": "90eeef4a2992887e495090db63b5e414a50bf588"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/red_tulip.json",
+      "hash": "f9b1c1a15c6d311c677d3f55e8d44fd37f8db267"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/models/block/iron_trapdoor_top_open.json",
+      "hash": "2f8ce2029672d7dc06bd6e1239329739514be109"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/lang/en_us.json",
+      "hash": "3a24dcc184dbbdce2198075ed79f01510d9cbed2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/potted_crimson_fungus.json",
+      "hash": "7906966392d00ee85df58b4bc28de094cb50662c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/dark_oak_trapdoor.json",
+      "hash": "d0ae160024240c8f11e6d82d66121d7eacc54a69"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/warped_fungus.json",
+      "hash": "51ec92a623ce7e008229e7296ff00f08636ec930"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/crimson_fungus.json",
+      "hash": "4a1fe29fab011a61edc56536a4f9e5b3a831a1d1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/spruce_trapdoor.json",
+      "hash": "887150952cf5ea9d7b7d69d7da0efb51af1b9207"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/oak_trapdoor.json",
+      "hash": "9d0581bc5805b4e6361be43c84f64788b890c38b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/warped_trapdoor.json",
+      "hash": "0e278efe86774cab9af96f8c13eb171690bc3d5b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/jukebox.json",
+      "hash": "25f8423d67ac9559d1ea5f11a4497adecd234ba8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/redstone_ore.json",
+      "hash": "0de670b6e0f659e5b3b6daaec1e2df0c9390f7ef"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/jungle_trapdoor.json",
+      "hash": "34e79eda0d8e7ecdf3f46603ca7fa74d8eb5fe1e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/crimson_trapdoor.json",
+      "hash": "3d705aacf7069478d32642bafc71235fc8bd1a78"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/potted_red_mushroom.json",
+      "hash": "b01d768b6b874a23b201c74c5b9ba51c598d3a2f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/red_mushroom.json",
+      "hash": "26240681c9086e0c884e863db0909b0976f0274e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/potted_brown_mushroom.json",
+      "hash": "b0fb22668d3760c7d82172be685cfc6ca00f06c9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/potted_warped_fungus.json",
+      "hash": "e187f80bd8159af69d293ffa5f69fad9d1237089"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/birch_trapdoor.json",
+      "hash": "7a2d43c5ebb2d070d3e9a9b1344cf74a73f5d05a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/iron_trapdoor.json",
+      "hash": "0e9341d33a97b6bce37d6c2162f968a5e8d7dd13"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/brown_mushroom.json",
+      "hash": "8cb20d38ebc244b77aadaee41da98634bdc6d060"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/blockstates/acacia_trapdoor.json",
+      "hash": "b63186561ca8811af5c06dbebe92d743c7834b37"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/emissive.properties",
+      "hash": "7d18b771368eb06d8674c2013ecf280e4e5999ff"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_tail.jpm",
+      "hash": "855f3bb2a7f723c98015aba8bac3201b21409f17"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/skeleton.jem",
+      "hash": "6c209375d687d74523b0e295c4a7fe3a13289c61"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/puffer_fish_small.jem",
+      "hash": "3c8c87f4303ef17fba04ad222f6f4e5c44230b50"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/shulker.jem",
+      "hash": "1e51af69584f8e20145f9cfc7023d93fb59f03d9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_lid_right.jpm",
+      "hash": "8029b70f7573a8e1916ed88e3a122d7dc6e53b1b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_knob.jpm",
+      "hash": "403fc5fa77969638c08606d0e14f8b994007291c"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_fin_back.jpm",
+      "hash": "1a6937266283df4204c3d96d29ef55a8204912c1"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_knob_right.jpm",
+      "hash": "a35bf249c523517372f0f1bd372ba81597d85b99"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_head.jpm",
+      "hash": "929155705ca2c52c0f3198f950ef7b3f010aee98"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/null.jpm",
+      "hash": "31d5179c8a3c2ca892f6df36fc16446a93ce10c9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/ender_chest.jem",
+      "hash": "1b8da8d7ba3157289cd62b2b91294f65cf6b979a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_flipping_page_right.jpm",
+      "hash": "9e862943f06307e6f276404acc95a2d979736e65"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/shulker_head.jpm",
+      "hash": "e2f7a7a900b49dd26c9f95f31aa5e26f0c12945a"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_spine.jpm",
+      "hash": "bf42c7c69592f78722cd0de8b85ac9917d24706f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_cover_right.jpm",
+      "hash": "4bde53d70e0d26b87244f4433866b0ace95def49"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/conduit.jem",
+      "hash": "ba411b5dd7b02d6a63c0a6a3b37cfa9f0b9e8995"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/puffer_fish_medium.jem",
+      "hash": "b22aaf572be01d0f3a30174e6658cd6469fb2761"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/stray.jem",
+      "hash": "6c209375d687d74523b0e295c4a7fe3a13289c61"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_body_front.jpm",
+      "hash": "918c5e496762087e99d09c0f7ff40f68ab3b86c8"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/skeleton_limbs.jpm",
+      "hash": "061d3afa4377f0816224eaebb1cd81dcf25aad42"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/head_skeleton.jem",
+      "hash": "208d475fe9217c5831cbf6ba94aec2a4bb4d91e4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_fin_left.jpm",
+      "hash": "cc8946d6525b86f8d82ca1ff60887610b60438a5"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_pages_left.jpm",
+      "hash": "919763531b5f35e535323598ec290d0509d7164d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/puffer_fish_big.jem",
+      "hash": "4cc9babc1068f0ad848bcb3203b15287c63a42d7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/head_wither_skeleton.jem",
+      "hash": "208d475fe9217c5831cbf6ba94aec2a4bb4d91e4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_fin_tail.jpm",
+      "hash": "38304e854f9074b2ee396ee6fd8537881c4da6be"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_knob_left.jpm",
+      "hash": "e54521b582945bc69a22dd5c374e06ea0ffeb1b4"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_fin_left.jpm",
+      "hash": "f7e82bd9e78f6ddf9c228db681b2fc5a68c8103d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_fin_right.jpm",
+      "hash": "33988bdcf03fd9e5170f3a9141319fc5128fd3e9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/skeleton_body.jpm",
+      "hash": "4e0f8cc853ebbf9a1e21e54617d2c3e5dfed6a3e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/trapped_chest_large.jem",
+      "hash": "94080083b9b911e318d06548371f18e886db91e2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/wither_skeleton.jem",
+      "hash": "6c209375d687d74523b0e295c4a7fe3a13289c61"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_fin_back_1.jpm",
+      "hash": "f42ae0d0f61d991123d6b64261afc2a377cdcc75"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/skeleton_head.jpm",
+      "hash": "b382a92fe2a5e21cf8b59a2370b8340fd895e139"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_tail.jpm",
+      "hash": "38304e854f9074b2ee396ee6fd8537881c4da6be"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/enchanting_book.jem",
+      "hash": "299c7ee4094364fd4d23a2e839a9597c4213fb74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_head.jpm",
+      "hash": "08c2787be02d3658b6c4f2ca0d513ce948cddd10"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/lectern_book.jem",
+      "hash": "299c7ee4094364fd4d23a2e839a9597c4213fb74"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_cover_left.jpm",
+      "hash": "5720e66c0bafac8440cef394eae25234ef4ecb0e"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_fin_back_2.jpm",
+      "hash": "37e6346b4c4169bd16eb202776843474222a3a81"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/bed.jem",
+      "hash": "d18a01d4fc10b7d41070c34ec41cc19c2a05a562"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/shulker_box.jem",
+      "hash": "80b0c84cbb044604ba681bd927d0985d1585df07"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_fin_right.jpm",
+      "hash": "a6a144cdc1fe1757a840f95a568aa662d8fcae1b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/shulker_box_lid.jpm",
+      "hash": "f2c26880d6979604408506e95ea44660b5501a17"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod.jem",
+      "hash": "bb55b5dfe6fd184dd3b791abc8cebc497897ecd7"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/ender_chest_base.jpm",
+      "hash": "b1e0853287a38d4639901610f58fe9d978c6e99d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest.jem",
+      "hash": "214ef8865ec9fd73c15f997cae7bef68f537726f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/trapped_chest.jem",
+      "hash": "214ef8865ec9fd73c15f997cae7bef68f537726f"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/bed_head.jpm",
+      "hash": "6242c271da7078aa596e5ebdcfe08dd515d809b9"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_flipping_page_left.jpm",
+      "hash": "fe8aafe572e4659009352ae0fc60087a03abaec3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_base.jpm",
+      "hash": "7a74a16dfbc172fdf941e1ca1bd294e206f53ec3"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/bell.jem",
+      "hash": "70e39fd2b927b351f62fcab9f6adc9158d3916dc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_lid_left.jpm",
+      "hash": "f70758d8d4c48c4570dff4fe800081612716cbd6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_base_right.jpm",
+      "hash": "038f3b005a3dd0a5cfcbc954c23963c619392ed2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/bed_foot.jpm",
+      "hash": "bcf37c7f9f04a968134e808ffe286c7312420387"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon_body_back.jpm",
+      "hash": "8f5b4bf22c81b768b5f0c749de61f871e71d0704"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/book_pages_right.jpm",
+      "hash": "c3bd0bd8774678209efbaf9e9f390a0ea53a20b6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/shulker_box_base.jpm",
+      "hash": "d60eb2c1b52a9a1eb9e570ab414c0ed68cbe314d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_body.jpm",
+      "hash": "82735ed457af1c64cb36fda73303d6a5354b1f9d"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/salmon.jem",
+      "hash": "1f25362cdc719a0a0a7c53fa1f4661426ac36cbc"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/cod_nose.jpm",
+      "hash": "11700fae7b565bc167c5c40a03be1b1736d77df6"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large.jem",
+      "hash": "94080083b9b911e318d06548371f18e886db91e2"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/conduit_base.jpm",
+      "hash": "a7f4e139dca02ec416da123c8ba8c817963b9547"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_large_base_left.jpm",
+      "hash": "6ffc9324393b0e71d5f95c22d24cbb5ba3c0b7cd"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/assets/minecraft/optifine/cem/chest_lid.jpm",
+      "hash": "8c7d8815b23d5c962aafde5a8d44bbc948b3c98b"
+    },
+    {
+      "path": "resourcepacks/3D.Default.1.19.v1.4.2/pack.mcmeta",
+      "hash": "75c46064d8b0d99cadfd48fc57060fa59fc98ec8"
     },
     {
       "path": "resourcepacks/masa-chn/pack.png",

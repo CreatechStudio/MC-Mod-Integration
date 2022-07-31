@@ -852,16 +852,16 @@ class ConfigHandler {
     fun getName();
 
     /*
-     * Gets whether or not the configs will be saved when the script ends
-     * Returns - Boolean: Whether or not the configs will be saved when the script ends
-     */
-    fun willSaveOnClose();
-
-    /*
      * Adds a config to the handler
      * Parameter - Config (config): The config to add
      */
     fun addConfig(config);
+
+    /*
+     * Gets whether or not the configs will be saved when the script ends
+     * Returns - Boolean: Whether or not the configs will be saved when the script ends
+     */
+    fun willSaveOnClose();
 
     /*
      * Sets whether or not the configs should be saved when the script ends, by default this is true
@@ -1437,17 +1437,17 @@ class LineShape {
     fun getRed();
 
     /*
-     * This returns the RGB value of the shape as a list
-     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
-     */
-    fun getRGBList();
-
-    /*
      * This sets the blue value of the shape, using a single value
      * Parameter - Number (blue): the amount of blue between 0 - 255
      * Throws - Error: Colour ... is out of bounds, must be between 0 - 255
      */
     fun setBlue(blue);
+
+    /*
+     * This returns the RGB value of the shape as a list
+     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
+     */
+    fun getRGBList();
 
     /*
      * This sets the outline pixel width of the shape, using a single value
@@ -1860,17 +1860,17 @@ class BoxShape {
     fun getRed();
 
     /*
-     * This returns the RGB value of the shape as a list
-     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
-     */
-    fun getRGBList();
-
-    /*
      * This sets the blue value of the shape, using a single value
      * Parameter - Number (blue): the amount of blue between 0 - 255
      * Throws - Error: Colour ... is out of bounds, must be between 0 - 255
      */
     fun setBlue(blue);
+
+    /*
+     * This returns the RGB value of the shape as a list
+     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
+     */
+    fun getRGBList();
 
     /*
      * This sets the outline pixel width of the shape, using a single value
@@ -4453,17 +4453,17 @@ class SphereShape {
     fun getRed();
 
     /*
-     * This returns the RGB value of the shape as a list
-     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
-     */
-    fun getRGBList();
-
-    /*
      * This sets the blue value of the shape, using a single value
      * Parameter - Number (blue): the amount of blue between 0 - 255
      * Throws - Error: Colour ... is out of bounds, must be between 0 - 255
      */
     fun setBlue(blue);
+
+    /*
+     * This returns the RGB value of the shape as a list
+     * Returns - List: the RGB value of the shape as a list in the form [red, green, blue]
+     */
+    fun getRGBList();
 
     /*
      * This sets the outline pixel width of the shape, using a single value
