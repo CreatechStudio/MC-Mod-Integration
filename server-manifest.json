@@ -1,10 +1,14 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b20b",
+  "version": "1.19b21",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
     {
       "path": "ModTranslations/durabilityviewer.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
@@ -1267,7 +1271,7 @@
     },
     {
       "path": "config/startup/1.jpg",
-      "hash": "d656fdd2ed65d7e52c675cd6df1856a09d3de28a"
+      "hash": "74c304a7f778dab3d38b4d96e1b338addb55c74e"
     },
     {
       "path": "config/startup/logo.ogg",
