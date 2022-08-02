@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19b21",
+  "version": "1.19b21b",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -607,7 +607,7 @@
     },
     {
       "path": "config/drippyloadingscreen/customization/ctslogo.dllayout",
-      "hash": "f6bbf75c52d8621f4233a09a252a0b0f4bb39a3b"
+      "hash": "208ca22b5c2e3d8435f612be1956cfac847e4c9c"
     },
     {
       "path": "config/drippyloadingscreen/config.cfg",
@@ -1271,7 +1271,7 @@
     },
     {
       "path": "config/startup/1.jpg",
-      "hash": "74c304a7f778dab3d38b4d96e1b338addb55c74e"
+      "hash": "ac9751bd38547552ce7b1974c468a6844d59a663"
     },
     {
       "path": "config/startup/logo.ogg",

@@ -78,7 +78,7 @@ customization {
   action = addcustomprogressbar
   height = 9
   direction = right
-  barcolor = #00BFFF
+  barcolor = #FA8072
   backgroundcolor = #F8F8FF
 }
 
