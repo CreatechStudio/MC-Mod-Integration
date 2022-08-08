@@ -31,11 +31,11 @@ body:
     id: bugmod
     attributes: 
       label: 你认为造成此问题的模组
-      description: 在下方的编辑框填写（多个模组需换行请直接回车，会为你添加标号）
+      description: 在下方的编辑框填写（多个模组需换行请直接回车，会为你添加标号），若不清楚请留空！
       placeholder: 能看到这个？说明你没有看描述，请自己加上“1. ”
       value: "1. "
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: systype
     attributes: 
@@ -60,7 +60,7 @@ body:
     attributes:
       label: JDK版本
       description: 填写你正在使用的JDK版本，例如 openjdk 17.0.3 2022-04-19 LTS OpenJDK Runtime Environment Zulu17.34+19-CA (build 17.0.3+7-LTS) OpenJDK 64-Bit Server VM Zulu17.34+19-CA (build 17.0.3+7-LTS, mixed mode, sharing)
-      placeholder: 请在终端或命令提示符中输入java --version，如果使用的是便携版Java，请先切换到对应目录后再查询版本
+      placeholder: 请在终端或命令提示符中输入java --version
     validations:
       required: true
   - type: textarea
