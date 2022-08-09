@@ -11,6 +11,7 @@
 			"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}",
 			"{mode:\"SURVIVAL\",type:\"roughlyenoughitems:gamemode\"}"
 		],
+		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": true,
 		"favoritesEnabled": true,
@@ -159,6 +160,7 @@
 		"isFocusModeZoomed": false
 	},
 	"functionality": {
+		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.

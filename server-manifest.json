@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b1",
+  "version": "1.19.2b2",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -147,7 +147,7 @@
     },
     {
       "path": "ModTranslations/assets/antighost/lang/ro_ro.json",
-      "hash": "104b16916beca9bf2474be8ad21da4c87fe516b4"
+      "hash": "cef8437a396d65c28788c15d8bf3db367a44a715"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/fr_ca.json",
@@ -163,7 +163,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/tr_tr.json",
-      "hash": "7634040a1fea09681c4437c409314e2f5e3e849d"
+      "hash": "10ac44af11f1b5a6c49cad503cf23f9060fad94b"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/es_ve.json",
@@ -283,7 +283,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/uk_ua.json",
-      "hash": "dc52754868439c7cc2cfafbb4f9e8b638c4a03b9"
+      "hash": "cbce86301c4f5f2410d180d2b4209a5698e163ef"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/es_uy.json",
@@ -291,7 +291,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/ro_ro.json",
-      "hash": "dc52754868439c7cc2cfafbb4f9e8b638c4a03b9"
+      "hash": "84f3e2cd6a1b9e33705e8c3ed872b6ad7a99f34b"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/fr_ca.json",
@@ -315,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "dc85e91e83152297ad5b80f4a224117d3c743beb"
+      "hash": "6308a31dd40a901f33be32354797173eceaf6650"
     },
     {
       "path": "config/collective-fabric.json",
@@ -451,7 +451,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "4d260c228885a28dee103d1c55945127263b193b"
+      "hash": "3544805ec5982b9fbdc8b02d64607406f90be3ab"
     },
     {
       "path": "config/smoothboot.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "e1ac690ecb59a16a90309ac03a498d872634cf93"
+      "hash": "931d207965356944294e85dfea800f25f9a10b3e"
     },
     {
       "path": "config/armorchroma.json",
@@ -467,7 +467,7 @@
     },
     {
       "path": "config/NoChatReports.json",
-      "hash": "eaa5d5608e6b929a388f63d4a52e5801afcbe73d"
+      "hash": "c76fcd36014eeed319383464a5615527594bdc62"
     },
     {
       "path": "config/cem.conf",
@@ -475,7 +475,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "ae4ae84a0bc726acdb98a60c8063e27af3eff2ef"
+      "hash": "e30851b7840a8c59594ad8253688361eff13c86a"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -495,7 +495,7 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "0d34b54a882dac77881166d5c4c03580ceea312b"
+      "hash": "3617b062c4c52d53e676e9246fc7f5b4200e7c82"
     },
     {
       "path": "config/memoryusagescreen.toml",
@@ -510,12 +510,16 @@
       "hash": "b916c22778fa6bac611250b52d898cac4cc9f55c"
     },
     {
+      "path": "config/inventoryhud.json",
+      "hash": "874a69d11975f569676b639481471fc09db8eee6"
+    },
+    {
       "path": "config/modmenu.json",
       "hash": "a2d00b0abe940aa88659c554493ce4dfd6f79e29"
     },
     {
       "path": "config/capes.json5",
-      "hash": "5105c6df0412dc508f50a4636a92fcaa29fdc4cb"
+      "hash": "7166b76fd1f9b524014cd9fcd897aeca16f7a8d1"
     },
     {
       "path": "config/durabilityviewer.json",
@@ -547,15 +551,15 @@
     },
     {
       "path": "config/litematica.json",
-      "hash": "0eee6cb047ed540b8279e02681e8712094a81015"
+      "hash": "78651409dba09deb1fb56da292e679a2ebb512df"
     },
     {
       "path": "config/ViaFabric/viafabric.yml",
-      "hash": "c5402cf4fe9e6f94e3235cb4ce14a3d14722ed01"
+      "hash": "e383fc13201584cc3dc2fccb7bc8f5934a1807c6"
     },
     {
       "path": "config/ViaFabric/viaversion.yml",
-      "hash": "9d455481e6ba1df6ce9526d5833012128ba88a94"
+      "hash": "3ffb98e9768be08d5ed602e75d893666a30d91f6"
     },
     {
       "path": "config/chat_heads.json5",
@@ -567,11 +571,15 @@
     },
     {
       "path": "config/entityculling.json",
-      "hash": "b6eebd5c52b3e223562c936451623a5b46d4ddf4"
+      "hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf"
     },
     {
       "path": "config/enhanced_attack_indicator.json",
       "hash": "359188bbc8ceec03ba6ab021578cb729d1d23086"
+    },
+    {
+      "path": "config/paperdoll.json",
+      "hash": "c334f2b7f5de1e23b8bfdae5b335548d3bc182ee"
     },
     {
       "path": "config/sodium-extra.properties",
@@ -579,7 +587,7 @@
     },
     {
       "path": "config/shulkerboxtooltip.json5",
-      "hash": "a38018139a93ec03cb66a575cc1d0a1f3f1eed7d"
+      "hash": "db02769823ce2c2186fdf184c7d6c54a3c4378a9"
     },
     {
       "path": "config/cullleaves.json",
@@ -588,6 +596,10 @@
     {
       "path": "config/midnightlib.json",
       "hash": "d026466a4e64a38595bca68cdf50e296cc721ef6"
+    },
+    {
+      "path": "config/moreculling.toml",
+      "hash": "ad010ba8556057ad09348e01ef58016dd58ba44c"
     },
     {
       "path": "config/sodium-mixins.properties",
@@ -619,7 +631,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "c585b70104aef700459af4c3bb8115903250c391"
+      "hash": "1f7382482e51a065176bf6cf223e55471da25f7a"
     },
     {
       "path": "config/roughlyenoughitems/changelog.txt",
@@ -632,6 +644,10 @@
     {
       "path": "config/presencefootsteps/userconfig.json",
       "hash": "a5fafc378a45e82063af835c41ac1e21648bc511"
+    },
+    {
+      "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
+      "hash": "2a263a8d0835b036860140ce68ad6592674e5bcb"
     },
     {
       "path": "config/stendhal/stendhal.properties",
@@ -647,7 +663,7 @@
     },
     {
       "path": "config/itemscroller.json",
-      "hash": "2ecd3362283b85a9c65ab663946aad2f9e07b0f8"
+      "hash": "4e7d6a1df42630d46317e88d59a9e86e2f0288bc"
     },
     {
       "path": "config/inventoryprofilesnext/inventoryprofiles.json",
@@ -715,7 +731,7 @@
     },
     {
       "path": "config/held-item-info.json",
-      "hash": "98547012b3c95db7f968e8d1b4f38310ba51c9c4"
+      "hash": "077fec37e49cfc66e627df416f46205962c7ba10"
     },
     {
       "path": "config/tweakmyclient.json",
@@ -734,12 +750,20 @@
       "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
     },
     {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "7cb19ba180277a267ab4ac2eb8c9f5bdd74cbc68"
+    },
+    {
       "path": "config/voicechat/username-cache.json",
-      "hash": "e7352ce7149a3d05d53f3c2886c9c962ba3a1252"
+      "hash": "1cacc43338649289b32810d1d03fb429ceb127c5"
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "26bff22852ca225e742b69c5b00e38c0e61e852b"
+      "hash": "afd158946333c320946728f853bc8586d0d98212"
+    },
+    {
+      "path": "config/farsight.json",
+      "hash": "8a17674c33f36a23738ec3d15eb20010e1097638"
     },
     {
       "path": "config/worldeditcui.config.json",
@@ -759,11 +783,11 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "92da1083c81e504d3ea4d29900466c3ae748ddce"
+      "hash": "adfcfc711b1106301a1ff7934b0d2cd7993b5fa0"
     },
     {
       "path": "config/minihud.json",
-      "hash": "7122d64f8c79e91af49b4d6c99b82a536e70a977"
+      "hash": "d25ba0bbc3bf39e4f7551def41acfaa7604e0449"
     },
     {
       "path": "config/MouseTweaks.cfg",
@@ -787,7 +811,7 @@
     },
     {
       "path": "config/worldedit/worldedit.properties",
-      "hash": "3e255e0df723089308b649ebb09a4f37169a131c"
+      "hash": "5a31965d64855cda3d5a7bef539e220545e63069"
     },
     {
       "path": "config/worldedit/.archive-unpack/2e1dd752/sl/strings.json",
@@ -1291,7 +1315,7 @@
     },
     {
       "path": "config/notenoughanimations.json",
-      "hash": "b75527ee3dec86cb2701bacb5812a82354ecb8c3"
+      "hash": "5fd1d953dbcfec5b83d9dd2287a22765da2b5ea1"
     },
     {
       "path": "config/advancementinfo.json5",
@@ -1310,8 +1334,12 @@
       "hash": "6834907e526daa9a68ba4f0b836b415e9a50467d"
     },
     {
+      "path": "config/minecraftcapes.json",
+      "hash": "2e9400fecdc28c8a5e2dfe9991e5bd93b6f645c0"
+    },
+    {
       "path": "config/gamma_utils.json5",
-      "hash": "e5004e3bb1d9183212f30d26382b7fc9aa4a1d0e"
+      "hash": "1f05f9d6bf43f9e57a10c871fc87187d43f70e97"
     },
     {
       "path": "config/beautifiedchatclient-fabric.json",
@@ -1459,7 +1487,7 @@
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "d4b9afdc0dce612e0cc3266f8a790a17841d0431"
+      "hash": "d686b1d073cd3d76e0a25fd1c41828c48b33f0c3"
     },
     {
       "path": "config/citresewn.json",
@@ -1476,6 +1504,14 @@
     {
       "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
       "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
+    },
+    {
+      "path": "mods/paperdoll-fabric-1.1.1-mc1.19.1.jar",
+      "hash": "87e46e83e0edcc1823c80f64a99fe8fe6e3d1600"
+    },
+    {
+      "path": "mods/cherishedworlds-fabric-6.0.0+1.19.1.jar",
+      "hash": "f3d3937492f48fb6bd118d150791ccd04d546586"
     },
     {
       "path": "mods/Fabric-1.18-SmoothSwapping-0.4.4.jar",
@@ -1576,6 +1612,10 @@
     {
       "path": "mods/iris-mc1.19.1-1.2.6.jar",
       "hash": "4d1676bca816ce282199882628375a45e7a9e97d"
+    },
+    {
+      "path": "mods/boathud-1.1.1.jar",
+      "hash": "78ac7b61e6f5f397d0b1adc886adc68a15fd138b"
     },
     {
       "path": "mods/continuity-2.0.0+1.19.jar",
@@ -1718,8 +1758,20 @@
       "hash": "83e9829da639037c6cd2375669b4705c5ff7d871"
     },
     {
+      "path": "mods/bettertaskbar-fabric-1.18.2-1.4.jar",
+      "hash": "76be2b26331007f9ecd1d5f37798b46a34512167"
+    },
+    {
+      "path": "mods/draggable-resource-packs-mc1.19-3.0.0+build.6.jar",
+      "hash": "f48f9933f5bb15020cc61c6a32169260d6018610"
+    },
+    {
       "path": "mods/itemscroller-fabric-1.19.1-0.17.1.jar",
       "hash": "8f3bd237dc65b32df217af2e1a5f1ded08256061"
+    },
+    {
+      "path": "mods/BetterPingDisplay-Fabric-1.19-1.1.1.jar",
+      "hash": "619331a589027fe5bc8bf401afb076bcf0ecc6c0"
     },
     {
       "path": "mods/ferritecore-5.0.0-fabric.jar",
@@ -1864,6 +1916,14 @@
     {
       "path": "shaderpacks/[配置要求-极限]Sildurs Vibrant Shaders v1.28 Extreme.zip",
       "hash": "917f1cc30a61b13750068a3d726e4cd14b69bc1c"
+    },
+    {
+      "path": "resourcepacks/Createch ClassicOre/pack.png",
+      "hash": "a829e6925804c0363ae1ea7174ec7ade7e6bb86b"
+    },
+    {
+      "path": "resourcepacks/Createch ClassicOre/pack.mcmeta",
+      "hash": "2431e70ea5a64e46939daff58d0bd2cd5b5b25da"
     },
     {
       "path": "resourcepacks/nianyekeji/LICENSE",
@@ -13063,7 +13123,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "d1269f6055d1685aff341b042c843eae7f9863de"
+      "hash": "5216f74e490280e1d5131183741697c1049ce0ec"
     }
   ],
   "addons": [

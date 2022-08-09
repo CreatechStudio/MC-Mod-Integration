@@ -4,6 +4,7 @@
   "respectHideFlags": true,
   "lineHeight": 8,
   "offsetPerExtraLine": 0.3334,
+  "verticalOffset": 0,
   "baseFadeDuration": 2.0,
   "fadeDurationPerExtraLine": 0.2,
   "showName": true,
@@ -14,6 +15,7 @@
   "showCommandBlockInfo": true,
   "maxCommandLines": 2,
   "showBeehiveContent": true,
+  "showCrossbowProjectiles": true,
   "showLore": true,
   "maxLoreLines": 3,
   "removePlusNbt": true,
@@ -21,9 +23,11 @@
   "showSignText": true,
   "showMusicDiscDescription": true,
   "showBookMeta": true,
-  "showPatternName": true,
-  "showFishInBucket": true,
-  "showOnlyFilteredEnchants": false,
-  "filteredEnchants": [],
-  "filteredEnchantIds": []
+  "showFilledMapId": false,
+  "showBannerPatternName": true,
+  "showBannerPatterns": false,
+  "showEntityBucketContent": true,
+  "showHiddenLinesCount": true,
+  "showOnlyFilteredEnchantments": false,
+  "filteredEnchantments": []
 }

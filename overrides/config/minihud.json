@@ -488,7 +488,9 @@
     "Village Main": "#3054CB4E",
     "Village Components": "#3054CB4E",
     "Witch Hut Main": "#30BE1DFC",
-    "Witch Hut Components": "#300099FF"
+    "Witch Hut Components": "#300099FF",
+    "Unknown Main": "#50FFFFFF",
+    "Unknown Components": "#50FFFFFF"
   },
   "StructureHotkeys": {
     "Toggle Bastion Remnant": {
@@ -544,6 +546,9 @@
     },
     "Toggle Witch Hut": {
       "keys": ""
+    },
+    "Toggle Unknown": {
+      "keys": ""
     }
   },
   "StructureToggles": {
@@ -564,7 +569,8 @@
     "Shipwreck": false,
     "Stronghold": false,
     "Village": false,
-    "Witch Hut": false
+    "Witch Hut": false,
+    "Unknown": false
   },
   "config_version": 1
 }
