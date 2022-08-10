@@ -15,7 +15,7 @@ body:
     attributes: 
       label: 问题描述
       description: 在下方的编辑框描述你的问题
-      placeholder: 请尽可能说明你遇到的问题，包括你是如何使用插件的，配置文件有没有调过等等
+      placeholder: 请尽可能说明你遇到的问题，包括你是如何使用模组的，配置文件有没有调过等等
     validations:
       required: true
   - type: textarea
