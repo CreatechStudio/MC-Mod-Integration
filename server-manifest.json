@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b2",
+  "version": "1.19.2b3",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -315,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "6308a31dd40a901f33be32354797173eceaf6650"
+      "hash": "a109649998bdb4bbec298df688613a1b60fa6cae"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "931d207965356944294e85dfea800f25f9a10b3e"
+      "hash": "ab0cb72d7388e4bc8778d4442d72b5d21695036f"
     },
     {
       "path": "config/armorchroma.json",
@@ -475,7 +475,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "e30851b7840a8c59594ad8253688361eff13c86a"
+      "hash": "21e111942dc32df4549e497985b36a160d53b93e"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -511,7 +511,7 @@
     },
     {
       "path": "config/inventoryhud.json",
-      "hash": "874a69d11975f569676b639481471fc09db8eee6"
+      "hash": "19374f746f38f4e290fa3a384e35fa9b629a319d"
     },
     {
       "path": "config/modmenu.json",
@@ -759,7 +759,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "afd158946333c320946728f853bc8586d0d98212"
+      "hash": "e5a029f6493fae4ee458b8809be9a69574d15caf"
     },
     {
       "path": "config/farsight.json",
@@ -783,7 +783,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "adfcfc711b1106301a1ff7934b0d2cd7993b5fa0"
+      "hash": "d3b5709d82cbc47195f809d8b2d3446405dcca32"
     },
     {
       "path": "config/minihud.json",
@@ -13119,7 +13119,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "bc876a585087770724fa21f213d37204bd0ed1d2"
+      "hash": "22caabc947cedfa1726181559e08e7d2092509a1"
     },
     {
       "path": "options.txt",
