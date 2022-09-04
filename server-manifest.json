@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b3",
+  "version": "1.19.2b4",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -306,6 +306,10 @@
       "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
     },
     {
+      "path": "irisUpdateInfo.json",
+      "hash": "fcb467128cd7c12afb44eb030a942d45451d44be"
+    },
+    {
       "path": "config/continuity.json",
       "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd"
     },
@@ -315,7 +319,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "a109649998bdb4bbec298df688613a1b60fa6cae"
+      "hash": "f3ba3291c3c4e64c587204b73475e41c3a467e92"
     },
     {
       "path": "config/collective-fabric.json",
@@ -459,7 +463,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "ab0cb72d7388e4bc8778d4442d72b5d21695036f"
+      "hash": "86311288bb0539337ce2f4671778158afa3e8ba0"
     },
     {
       "path": "config/armorchroma.json",
@@ -475,7 +479,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "21e111942dc32df4549e497985b36a160d53b93e"
+      "hash": "157e63ad47645b5ca3fa0eef909f23b08d8c787b"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -500,6 +504,10 @@
     {
       "path": "config/memoryusagescreen.toml",
       "hash": "61e43e56fbdc154094cbecd659efae65b8bd7cd5"
+    },
+    {
+      "path": "config/pistorder.properties",
+      "hash": "025ec8873c3c0cf44cb8bc2ccc1ecf7123b02f98"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -759,7 +767,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "e5a029f6493fae4ee458b8809be9a69574d15caf"
+      "hash": "fc9665885619a706d847aa3b0882b5ec45430a08"
     },
     {
       "path": "config/farsight.json",
@@ -783,7 +791,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "d3b5709d82cbc47195f809d8b2d3446405dcca32"
+      "hash": "d48bbfd2f542848b331fc9fa80c5665f602d7980"
     },
     {
       "path": "config/minihud.json",
@@ -1502,6 +1510,10 @@
       "hash": "4485cd5d1800ee6884f5bc6b8540a3793e5946e1"
     },
     {
+      "path": "mods/pistorder-mc1.19-v1.5.0-fabric.jar",
+      "hash": "f5c269af5abed80b6580ebae8dd6f7dadc7e3495"
+    },
+    {
       "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
       "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
     },
@@ -1900,6 +1912,10 @@
     {
       "path": "shaderpacks/[配置要求-极限-光追]Sildurs Vibrant Shaders v1.28 Extreme-VL.zip",
       "hash": "3445bef0b2763a4b669e4a60be0ecfbd297ab2fc"
+    },
+    {
+      "path": "shaderpacks/BSL_v8.1.03.zip",
+      "hash": "700065336f6936f65bf288de6d5dee08abd803d0"
     },
     {
       "path": "shaderpacks/[配置要求-低]Sildurs Vibrant Shaders v1.28 Lite.zip",
@@ -13119,11 +13135,11 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "22caabc947cedfa1726181559e08e7d2092509a1"
+      "hash": "ab1fe0a7a0d74926817f76ae1e7fa06987fd8b83"
     },
     {
       "path": "options.txt",
-      "hash": "5216f74e490280e1d5131183741697c1049ce0ec"
+      "hash": "34f848ec2f24f093935e01e09bb3386ee59c3294"
     }
   ],
   "addons": [

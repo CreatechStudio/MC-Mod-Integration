@@ -177,6 +177,7 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.semicolon
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_pistorder.clear_display:key.keyboard.p
 soundCategory_master:0.106529385
 soundCategory_music:0.0
 soundCategory_record:1.0
