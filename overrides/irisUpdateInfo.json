@@ -1,9 +1,0 @@
-{
-  "semanticVersion": "1.2.8",
-  "updateInfo": {
-    "en_us": "Iris 1.2.8 has released, improving performance, fixing minor bugs, and updating to Sodium 0.4.4. Download it at: {link}"
-},
-  "modHost": "Modrinth",
-  "modDownload": "https://modrinth.com/mod/iris",
-  "installer": "https://irisshaders.net"
-}

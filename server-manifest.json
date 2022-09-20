@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b4",
+  "version": "1.19.2b5",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -306,10 +306,6 @@
       "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
     },
     {
-      "path": "irisUpdateInfo.json",
-      "hash": "fcb467128cd7c12afb44eb030a942d45451d44be"
-    },
-    {
       "path": "config/continuity.json",
       "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd"
     },
@@ -319,7 +315,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "f3ba3291c3c4e64c587204b73475e41c3a467e92"
+      "hash": "b26bf3da8756de969521ddac2ff365147ed35bcf"
     },
     {
       "path": "config/collective-fabric.json",
@@ -463,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "86311288bb0539337ce2f4671778158afa3e8ba0"
+      "hash": "cf6c116224e31d887761ad24a9d244a64d1cb222"
     },
     {
       "path": "config/armorchroma.json",
@@ -479,7 +475,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "157e63ad47645b5ca3fa0eef909f23b08d8c787b"
+      "hash": "e30851b7840a8c59594ad8253688361eff13c86a"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -507,7 +503,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "025ec8873c3c0cf44cb8bc2ccc1ecf7123b02f98"
+      "hash": "1cc60e1169f6729e606b43c98b705bb28f3061c8"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -767,7 +763,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "fc9665885619a706d847aa3b0882b5ec45430a08"
+      "hash": "ccb2c29fed7b73da9f429c5a0bed1883adabcdcd"
     },
     {
       "path": "config/farsight.json",
@@ -791,7 +787,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "d48bbfd2f542848b331fc9fa80c5665f602d7980"
+      "hash": "83b85b844395f7938a6000f2d35bd87169297486"
     },
     {
       "path": "config/minihud.json",
@@ -1852,6 +1848,10 @@
     {
       "path": "mods/fabric-api-0.59.0+1.19.2.jar",
       "hash": "d2254514b5c41fae491839045769601c51c546db"
+    },
+    {
+      "path": "mods/morechathistory-1.19.1-1.1.1.jar",
+      "hash": "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
     },
     {
       "path": "mods/indium-1.0.7+mc1.19.jar",
