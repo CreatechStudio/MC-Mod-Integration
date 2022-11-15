@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b5",
+  "version": "1.19.2b6",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -459,7 +459,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "cf6c116224e31d887761ad24a9d244a64d1cb222"
+      "hash": "8b2c7869029e96e4389395d7d6214d58129f2bdd"
     },
     {
       "path": "config/armorchroma.json",
@@ -763,7 +763,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "ccb2c29fed7b73da9f429c5a0bed1883adabcdcd"
+      "hash": "dbe58bd867332ad638725323a80c4eb29e304787"
     },
     {
       "path": "config/farsight.json",
@@ -787,7 +787,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "83b85b844395f7938a6000f2d35bd87169297486"
+      "hash": "3ab5f00e9f4a0f1897c145621c5cc6e30861a6cf"
     },
     {
       "path": "config/minihud.json",
@@ -1299,7 +1299,7 @@
     },
     {
       "path": "config/startup/1.jpg",
-      "hash": "ac9751bd38547552ce7b1974c468a6844d59a663"
+      "hash": "fb1849879ea469d5cdc97fe5d4ecc8b715363559"
     },
     {
       "path": "config/startup/logo.ogg",
