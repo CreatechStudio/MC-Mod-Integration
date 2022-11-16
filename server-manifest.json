@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b6",
+  "version": "1.19.2b7",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -1562,6 +1562,10 @@
       "hash": "0fba42bf4bd3a5f469fff4b0881598bbd3430846"
     },
     {
+      "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+      "hash": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+    },
+    {
       "path": "mods/Drippy-Loading-Screen-Mod-Fabric-1.19.jar",
       "hash": "07d4cf04f427ad37edf75e0541bfa3b1a7ce9031"
     },
@@ -1590,6 +1594,10 @@
       "hash": "7ee229677850f289ffc0b105718d0adcba2c3773"
     },
     {
+      "path": "mods/language-reload-1.3.2.jar",
+      "hash": "f35701734ae863b9736f35e09b1f3658b4b60d23"
+    },
+    {
       "path": "mods/shulkerboxtooltip-3.1.1+1.19.jar",
       "hash": "281e8f4316a6921cecf8059ac7b744c4e5eafe16"
     },
@@ -1610,16 +1618,12 @@
       "hash": "99cc4f9150cf808df60390000725463e427d1bea"
     },
     {
+      "path": "mods/fabric-language-kotlin-1.8.6+kotlin.1.7.21.jar",
+      "hash": "edaaceb0f31f7d33a077e998e0ad9415a821aedd"
+    },
+    {
       "path": "mods/entity-outliner-1.2.4+1.19.jar",
       "hash": "6448d3559d8595b70460877db12218807c807174"
-    },
-    {
-      "path": "mods/sodium-fabric-mc1.19-0.4.2+build.16.jar",
-      "hash": "6c1b055bce99d0bf64733e0ff95f347e4cd171f3"
-    },
-    {
-      "path": "mods/iris-mc1.19.1-1.2.6.jar",
-      "hash": "4d1676bca816ce282199882628375a45e7a9e97d"
     },
     {
       "path": "mods/boathud-1.1.1.jar",
@@ -1632,6 +1636,10 @@
     {
       "path": "mods/viafabric-0.4.8+15-main.jar",
       "hash": "3bdd69b33d432d8ca73424a599527297eded9a41"
+    },
+    {
+      "path": "mods/betterstats-1.4.3.jar",
+      "hash": "5f153bf07665886c822a36ddd824d0f6007e6100"
     },
     {
       "path": "mods/konkrete_fabric_1.5.0_MC_1.19.1.jar",
@@ -1650,12 +1658,24 @@
       "hash": "94213a170b77e44566b36fbe868c0f9490822294"
     },
     {
+      "path": "mods/no-resource-pack-warnings-1.0.0.jar",
+      "hash": "3b69e8d0ea05343008abe0eb65cd5c9ffa21df8c"
+    },
+    {
       "path": "mods/cullleaves-2.3.4.jar",
       "hash": "f11b20125832126dd62405a346b528f4e055e464"
     },
     {
       "path": "mods/advancementinfo-1.19.1-fabric0.58.5-1.3.1.jar",
       "hash": "9ba152030c480c329653f3ae654b3fca5421c23a"
+    },
+    {
+      "path": "mods/sodium-extra-0.4.12+mc1.19.2-build.72.jar",
+      "hash": "da2c9faab95af43f5666eeca18523412dc0d779c"
+    },
+    {
+      "path": "mods/EnchantmentDescriptions-Forge-1.18.2-10.0.9.jar",
+      "hash": "e3642bc2cbd4f1700c1fe267f543589bbb370bce"
     },
     {
       "path": "mods/worldedit-mod-7.2.11-beta-01.jar",
@@ -1684,6 +1704,10 @@
     {
       "path": "mods/tooltipfix-1.0.5-1.19.jar",
       "hash": "8dd951713909e327ae42deb22d0102dc0de07b83"
+    },
+    {
+      "path": "mods/iris-mc1.19.2-1.4.0.jar",
+      "hash": "2e62f68c5ae5b4b38728e84ab7779023677bd78a"
     },
     {
       "path": "mods/fast-chest-1.3+1.19.jar",
@@ -1722,12 +1746,20 @@
       "hash": "5da0d10efb27e8cc3db902ef5e2480d608fabf71"
     },
     {
+      "path": "mods/memoryleakfix-1.19-0.7.0.jar",
+      "hash": "cc153c887bc2eb785da032e88388fa3f414d095e"
+    },
+    {
       "path": "mods/mcwifipnp-1.5.6-1.19.1-fabric.jar",
       "hash": "a3ab3ee4e1581a958bb3ab30e563e168f5086f20"
     },
     {
       "path": "mods/dynamic-fps-2.2.0.jar",
       "hash": "8d264374dc08df87777fb51b94c781476c315bb5"
+    },
+    {
+      "path": "mods/Bookshelf-Fabric-1.19.2-16.1.11.jar",
+      "hash": "958c0f7e9e35597e285e1b51543c016c0d13cad0"
     },
     {
       "path": "mods/NoChatReports-FABRIC-1.19.2-v1.9.0.jar",
@@ -1752,10 +1784,6 @@
     {
       "path": "mods/lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
-    },
-    {
-      "path": "mods/sodium-extra-0.4.6+mc1.19-build.47.jar",
-      "hash": "e9c3a6b3a9fbe3db3dbb98da3ed53e3f7e557149"
     },
     {
       "path": "mods/BetterF3-1.3.2-Fabric-1.19.jar",
@@ -1806,12 +1834,20 @@
       "hash": "e6e2c47485255994f9a2acfd474418e8a790ec48"
     },
     {
+      "path": "mods/BetterAdvancements-Fabric-1.19.2-0.2.2.142.jar",
+      "hash": "80193c5596a77ea8dc1b81bc292907e153d0a6ee"
+    },
+    {
       "path": "mods/magiclib-1.19.2-0.5.37.jar",
       "hash": "7c3be588ea7c849e05e6c801eebee3aca8464285"
     },
     {
       "path": "mods/voicechat-fabric-1.19.2-2.3.2.jar",
       "hash": "bd7a17b94db3e45acc3ea139fe8dd10d9360ca15"
+    },
+    {
+      "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
+      "hash": "de6fe932555604345477db89b59d59249909c640"
     },
     {
       "path": "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar",
@@ -1854,10 +1890,6 @@
       "hash": "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
     },
     {
-      "path": "mods/indium-1.0.7+mc1.19.jar",
-      "hash": "1f97081fa8da5e2876481da2917c76dcf689382b"
-    },
-    {
       "path": "mods/cloth-api-4.0.65.jar",
       "hash": "be86c751c4e8e54c539abd8530f6d84f97c8188c"
     },
@@ -1882,8 +1914,16 @@
       "hash": "1d6175cee479a4fac60fc314e988e70485bd29b1"
     },
     {
+      "path": "mods/indium-1.0.9+mc1.19.2.jar",
+      "hash": "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+    },
+    {
       "path": "mods/armorchroma-1.2.2.jar",
       "hash": "ed585831437d81aed8658fff92bce35ea9566857"
+    },
+    {
+      "path": "mods/Tips-Fabric-1.19.2-8.0.3.jar",
+      "hash": "e2483459b0514a4639685833b13d5fc101a975c4"
     },
     {
       "path": "mods/bsvsb-3.0.1.jar",
