@@ -25,12 +25,19 @@
   },
   "render_settings": {
     "fog_distance": 16,
+    "fog_start": 100,
+    "multi_dimension_fog_control": false,
+    "dimensionFogDistance": {},
+    "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
     "painting": true,
     "piston": true,
-    "beacon_beam": true
+    "beacon_beam": true,
+    "enchanting_table_book": true,
+    "item_frame_name_tag": true,
+    "player_name_tag": true
   },
   "extra_settings": {
     "overlay_corner": "TOP_LEFT",
@@ -39,9 +46,13 @@
     "show_f_p_s_extended": true,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
-    "use_adaptive_sync": true,
+    "use_adaptive_sync": false,
     "cloud_height": 319,
     "toasts": true,
+    "advancement_toast": true,
+    "recipe_toast": true,
+    "system_toast": true,
+    "tutorial_toast": true,
     "instant_sneak": false,
     "prevent_shaders": false
   },
