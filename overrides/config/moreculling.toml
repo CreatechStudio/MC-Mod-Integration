@@ -9,3 +9,7 @@ leavesCullingMode = "DEFAULT"
 leavesCullingDepth = 2
 includeMangroveRoots = false
 powderSnowCulling = true
+useOnModdedBlocksByDefault = true
+
+[modCompatibility]
+minecraft = true

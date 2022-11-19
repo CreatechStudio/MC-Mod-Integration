@@ -37,5 +37,7 @@
     "base2": 1000,
     "red": 1,
     "blue": 50
-  }
+  },
+  "customSplashLines": [],
+  "addDefaultSplashLines": true
 }
