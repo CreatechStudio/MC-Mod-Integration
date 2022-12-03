@@ -5,7 +5,6 @@ allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
-radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
@@ -103,13 +102,10 @@ chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
 keepUnlockedWhenEnlarged:false
 enlargedMinimapAToggle:false
-displayStainedGlass:true
-waypointOnMapScale:0
 displayPacPlayers:true
 displayClaims:true
 displayCurrentClaim:true
-claimsFillOpacity:46
-claimsBorderOpacity:80
+claimsOpacity:80
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false

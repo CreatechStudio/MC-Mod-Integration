@@ -124,8 +124,6 @@ key_key.entity-outliner.outline:key.keyboard.o
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.unknown
 key_key.gamma_utils.decrease_gamma:key.keyboard.unknown
-key_key.gamma_utils.max_gamma:key.keyboard.unknown
-key_key.gamma_utils.min_gamma:key.keyboard.unknown
 key_key.gamma_utils.night_vision_toggle:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.i
 key_key.inventoryhud.openconfig:key.keyboard.o
@@ -168,7 +166,6 @@ key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
-key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y

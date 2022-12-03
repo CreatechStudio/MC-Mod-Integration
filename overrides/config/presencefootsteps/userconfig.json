@@ -5,6 +5,5 @@
   "runningVolumeIncrease": 0,
   "stance": "UNKNOWN",
   "multiplayer": true,
-  "global": true,
-  "targetEntities": "ALL"
+  "global": true
 }

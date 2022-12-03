@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b9",
+  "version": "1.19.2b10",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -319,7 +319,11 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "76e25d97d78dd93cd93793077bff514707e86143"
+      "hash": "bba3055de4310d3a9b75d680eeb26701622781b3"
+    },
+    {
+      "path": "config/collective-fabric.json",
+      "hash": "4368c579ee43c53bf25e8e518e14229d3250f9b8"
     },
     {
       "path": "config/animatica.properties",
@@ -459,7 +463,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "30b840a0ac84d26587d7d1058cfb4ee8d61c3019"
+      "hash": "c21b7294233638d3480c45c4476132de5c9e8533"
     },
     {
       "path": "config/armorchroma.json",
@@ -479,7 +483,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "9dca8c2c51cf828bdc8f850ada75c91fe517c368"
+      "hash": "beb5d758516543c7069f97aee5ff2a3fbab75877"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -503,7 +507,7 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "fc4c98e3b8d1d85cb68cb18c0f298404c68b0f54"
+      "hash": "3617b062c4c52d53e676e9246fc7f5b4200e7c82"
     },
     {
       "path": "config/memoryusagescreen.toml",
@@ -511,7 +515,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "bdd98ead1556b06cd9d20d92f5a0b31de5e9f08b"
+      "hash": "3396ac57673899c72e16189f717fad5f3d8f0492"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -547,7 +551,7 @@
     },
     {
       "path": "config/tips.json",
-      "hash": "982a7db6b84ea218963aad79c11f4bbf29730fba"
+      "hash": "64c08ce6b1f7501296882cdc5f8fe9376a2dbc17"
     },
     {
       "path": "config/colormatic.properties",
@@ -615,7 +619,7 @@
     },
     {
       "path": "config/moreculling.toml",
-      "hash": "16daa0908758646345f6c78fad83e5e4ee0eccaf"
+      "hash": "ad010ba8556057ad09348e01ef58016dd58ba44c"
     },
     {
       "path": "config/sodium-mixins.properties",
@@ -643,11 +647,11 @@
     },
     {
       "path": "config/drippyloadingscreen/locals/en_us.local",
-      "hash": "f1e3f568b3adc72bce65075ffc31162ee052272a"
+      "hash": "316ab51bfbc53d3ab00c8a38117c1aacd0299063"
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "515b9ff24dd7010fd920b2c2ef13d04c5bc14b20"
+      "hash": "6b3492cd84c69876698bf44595e2d8fe824fad7e"
     },
     {
       "path": "config/roughlyenoughitems/changelog.txt",
@@ -659,7 +663,7 @@
     },
     {
       "path": "config/presencefootsteps/userconfig.json",
-      "hash": "46a0fa50b5bc1a41291e1147ff63b1bb4ff2f6c7"
+      "hash": "a5fafc378a45e82063af835c41ac1e21648bc511"
     },
     {
       "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
@@ -791,7 +795,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "8552836ff5078f945f616c40bdd1840bc0c73251"
+      "hash": "e0c5fec59ccfb0bbf03ddb2a7f7a75ff2ff1c2ea"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -803,7 +807,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "fa8cf6c7b32eee0a6740c93cb5a0b8f7e65dcae0"
+      "hash": "20d29bbf77f3c78ab4d43ef60af61ddf336ff3af"
     },
     {
       "path": "config/farsight.json",
@@ -827,7 +831,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "7829527c0d746749c4ca6b708f61ef31853dd166"
+      "hash": "6804429683489e12e82fc66d800bbbed718bdb4b"
     },
     {
       "path": "config/minihud.json",
@@ -1786,10 +1790,6 @@
       "hash": "5da0d10efb27e8cc3db902ef5e2480d608fabf71"
     },
     {
-      "path": "mods/memoryleakfix-1.19-0.7.0.jar",
-      "hash": "cc153c887bc2eb785da032e88388fa3f414d095e"
-    },
-    {
       "path": "mods/mcwifipnp-1.5.6-1.19.1-fabric.jar",
       "hash": "a3ab3ee4e1581a958bb3ab30e563e168f5086f20"
     },
@@ -1816,10 +1816,6 @@
     {
       "path": "mods/moreculling-1.19.1-0.9.0.jar",
       "hash": "c0bb75c19a48d425df670a756c6693319bea3599"
-    },
-    {
-      "path": "mods/MinecraftCapes+Fabric+1.19-12.0.4.jar",
-      "hash": "d6a3d574fa5e0ae6b6a4ad783ed8fd94c027438f"
     },
     {
       "path": "mods/lazydfu-0.1.3.jar",
@@ -13219,7 +13215,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "4842930db6b1765482096f0149760705366d9d2d"
+      "hash": "34f848ec2f24f093935e01e09bb3386ee59c3294"
     }
   ],
   "addons": [
