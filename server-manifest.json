@@ -3,7 +3,7 @@
   "author": "CreatechStudio Shanghai Inc.",
   "version": "1.19.2b11",
   "description": "",
-  "fileApi": "http://mci.createchstudio.com",
+  "fileApi": "https://mci.createchstudio.com",
   "files": [
     {
       "path": "log4j2.xml",
