@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b10",
+  "version": "1.19.2b11",
   "description": "",
   "fileApi": "http://mci.createchstudio.com",
   "files": [
@@ -1666,6 +1666,10 @@
       "hash": "6448d3559d8595b70460877db12218807c807174"
     },
     {
+      "path": "mods/FpsReducer2-fabric-1.19.2-2.1.jar",
+      "hash": "d927224666708f8bfa5cc85ede35407a647a2c3b"
+    },
+    {
       "path": "mods/boathud-1.1.1.jar",
       "hash": "78ac7b61e6f5f397d0b1adc886adc68a15fd138b"
     },
@@ -1748,10 +1752,6 @@
     {
       "path": "mods/tooltipfix-1.0.5-1.19.jar",
       "hash": "8dd951713909e327ae42deb22d0102dc0de07b83"
-    },
-    {
-      "path": "mods/iris-mc1.19.2-1.4.0.jar",
-      "hash": "2e62f68c5ae5b4b38728e84ab7779023677bd78a"
     },
     {
       "path": "mods/fast-chest-1.3+1.19.jar",
@@ -1848,6 +1848,10 @@
     {
       "path": "mods/ferritecore-5.0.0-fabric.jar",
       "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
+    },
+    {
+      "path": "mods/iris-mc1.19.2-1.4.5.jar",
+      "hash": "d3ce7b31222b386ae8d776c4112605976abcbe4a"
     },
     {
       "path": "mods/Autofish-0.9.5-fabric-mc1.19.jar",
@@ -2016,6 +2020,10 @@
     {
       "path": "resourcepacks/Createch ClassicOre/pack.mcmeta",
       "hash": "2431e70ea5a64e46939daff58d0bd2cd5b5b25da"
+    },
+    {
+      "path": "resourcepacks/Stefan\u0027sEnchantedBooks.zip",
+      "hash": "4a8f18909ada7e2be005e257ae9a02c2f463c75c"
     },
     {
       "path": "resourcepacks/nianyekeji/LICENSE",
@@ -13210,8 +13218,12 @@
       "hash": "d1397ec55ce37b9b5427fa4822e9327a96160743"
     },
     {
+      "path": "resourcepacks/Default-Dark-Mode-1.19-v1.3.4.zip",
+      "hash": "4b944eb6e9fbe144b7c06cc7a29e94897d0fb778"
+    },
+    {
       "path": "hmclversion.cfg",
-      "hash": "ab1fe0a7a0d74926817f76ae1e7fa06987fd8b83"
+      "hash": "6bf7810411b322f70a57207e3d450bf2a3c7ba93"
     },
     {
       "path": "options.txt",
