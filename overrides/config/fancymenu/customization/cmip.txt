@@ -9,6 +9,11 @@ customization-meta {
 }
 
 customization {
+  path = config/titlescreen/wp.png
+  action = texturizebackground
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -31,10 +36,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -331
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
   action = movebutton
-  y = -46
+  y = 48
 }
 
 customization {
@@ -51,10 +57,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-centered
-  x = -331
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
   action = movebutton
-  y = 2
+  y = 96
 }
 
 customization {
@@ -101,10 +108,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -331
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
   action = movebutton
-  y = -70
+  y = 24
 }
 
 customization {
@@ -116,10 +124,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = mid-centered
-  x = -331
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
   action = movebutton
-  y = -22
+  y = 72
 }
 
 customization {
@@ -137,10 +146,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -331
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
   action = movebutton
-  y = 26
+  y = 120
 }
 
 customization {
@@ -184,50 +194,49 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = top-left
   splash_color = #ffff00
-  hidden = false
-  x = 334
+  hidden = true
+  x = 58
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = 1d1a2e1a-c3bf-4589-9d72-8f53c4ccc2ca1670644323290
-  y = -65
+  y = 50
   height = 30
 }
 
 customization {
-  path = config/titlescreen/wp.png
-  orientation = top-left
-  x = 0
-  width = %guiwidth%
-  action = addtexture
-  actionid = e8702376-126b-4c4f-9de6-3224b1ee6cff1670670484638
-  y = 0
-  height = %guiheight%
-}
-
-customization {
+  vr:showif:windowheightbiggerthan = true
+  orientation = element
+  vr:value:windowwidthbiggerthan = 1363
+  vr:value:windowheightbiggerthan = 614
   path = config/titlescreen/cmip-title.png
-  orientation = mid-centered
-  x = 35
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 299
   width = 335
   action = addtexture
   actionid = b197318e-6d40-48e3-b10e-9203843371571670646486287
-  y = -128
+  y = -63
+  vr:showif:windowwidthbiggerthan = true
   height = 63
 }
 
 customization {
-  showname = true
-  orientation = mid-centered
-  crouching = false
-  x = -182
+  vr:showif:windowheightbiggerthan = true
+  orientation = element
+  vr:value:windowwidthbiggerthan = 1363
   slim = true
+  scale = 65
+  vr:value:windowheightbiggerthan = 614
+  showname = true
+  crouching = false
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 130
   actionid = c65a96e1-a27e-4e91-8587-3450c9e56e781670645393698
   action = addentity
-  y = 46
-  scale = 65
+  y = 130
+  vr:showif:windowwidthbiggerthan = true
   playername = %playername%
   parrot = true
 }
@@ -274,22 +283,27 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  vr:showif:windowheightbiggerthan = true
+  orientation = element
   enable_scrolling = true
   shadow = true
+  vr:value:windowwidthbiggerthan = 1363
   scale = 1.0
   source = https://mci.createchstudio.com/notice.txt
   text_border = 0
   case_mode = normal
+  vr:value:windowheightbiggerthan = 614
   source_mode = web
   line_spacing = 1
-  x = 35
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 299
   width = 335
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 54fdbb6d-7dcc-434d-b841-f22b5ea526e11670669251779
-  y = -45
+  y = 40
+  vr:showif:windowwidthbiggerthan = true
   alignment = left
-  height = 233
+  height = 149
 }
 
 customization {
@@ -308,18 +322,41 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = top-left
   restartbackgroundanimations = true
   buttonaction = join_last_world
   label = 上次游玩
+  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/2)-300","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2","decimal":"true"}}
   loopbackgroundanimations = true
   hoverlabel = 加入上次世界/服务器
-  x = -331
+  x = 0
   width = 79
   actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   action = addbutton
-  y = -94
+  y = 0
   value = 
   height = 20
+}
+
+customization {
+  vr:showif:windowheightbiggerthan = true
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  vr:value:windowwidthbiggerthan = 1363
+  rotation = -20.0
+  scale = 1.0
+  refresh = true
+  bouncing = true
+  vr:value:windowheightbiggerthan = 614
+  vanilla-like = true
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 583
+  actionid = 036f3dfb-37d8-4359-8868-7a97952c2a441670678872342
+  action = addsplash
+  y = -9
+  vr:showif:windowwidthbiggerthan = true
+  text = 那是内存泄漏吗?
 }
 
