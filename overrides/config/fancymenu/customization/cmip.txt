@@ -1,0 +1,275 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-left
+  x = 0
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = bottom-right
+  x = -154
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -331
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -331
+  action = movebutton
+  y = 2
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = 选项
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -46
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 46
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = 你确定？
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-right
+  x = -20
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -331
+  action = movebutton
+  y = -70
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = -331
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Realms
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -331
+  action = movebutton
+  y = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 238
+  action = deep_customization_element:title_screen_branding
+  actionid = 69c745cd-d750-4ea3-bef8-f5a9cb430c921670644323280
+  y = 464
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 9c5cd0f6-9699-4927-bcc6-c6cc6bfbd5001670644323289
+  y = 219
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = e7073473-1147-4467-8364-41d9ed3365c81670644323289
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = bottom-left
+  splash_color = #ffff00
+  hidden = false
+  x = 711
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 1d1a2e1a-c3bf-4589-9d72-8f53c4ccc2ca1670644323290
+  y = -301
+  height = 30
+}
+
+customization {
+  path = config/titlescreen/wp.png
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = e5e50a20-8e5c-4f2b-b698-18c518eb39191670650586980
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  path = config/titlescreen/cmip-title.png
+  orientation = mid-centered
+  x = 67
+  width = 335
+  action = addtexture
+  actionid = b197318e-6d40-48e3-b10e-9203843371571670646486287
+  y = -133
+  height = 63
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = -182
+  slim = true
+  actionid = c65a96e1-a27e-4e91-8587-3450c9e56e781670645393698
+  action = addentity
+  y = 46
+  scale = 65
+  playername = %playername%
+  parrot = true
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 0
+  width = 50
+  audio_source:15e1fdaf-cc72-4929-983d-5bb9988004c31670646885318 = config/startup/logo.ogg;EXTERNAL_LOCAL;100;0
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = e88ebdd0-cd93-428c-b4d3-30a0dc0092221670646869299
+  y = 0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = 更新日志
+  loopbackgroundanimations = true
+  hoverlabel = CreatechStudio
+  x = -131
+  width = 82
+  actionid = 8afcfb1a-e0ff-4036-a12d-13014edaa6e31670647311903
+  action = addbutton
+  y = -20
+  value = https://github.com/CreatechStudio/MC-Mod-Integration/releases
+  height = 20
+}
+
+customization {
+  path = config/titlescreen/logo.png
+  orientation = bottom-left
+  x = 0
+  width = 73
+  action = addtexture
+  actionid = c4660e37-24c3-4a00-b1ff-51a95bb7f8491670650441414
+  y = -40
+  height = 39
+}
+

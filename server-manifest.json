@@ -1,9 +1,9 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b11",
+  "version": "1.19.2b12",
   "description": "",
-  "fileApi": "http://mci.createchstudio.com",
+  "fileApi": "https://mci.createchstudio.com",
   "files": [
     {
       "path": "log4j2.xml",
@@ -22,12 +22,16 @@
       "hash": "a530455f33a760c5731289ee1c7361cae8aa0b50"
     },
     {
+      "path": "ModTranslations/assets/antighost/lang/hu_hu.json",
+      "hash": "924bcf3ea748115e19928ebeeecf5b3661f4890b"
+    },
+    {
       "path": "ModTranslations/assets/antighost/lang/es_ve.json",
       "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/pt_pt.json",
-      "hash": "b8405f982bfe32a88f6f4569804d533b6815ef60"
+      "hash": "36ab82b09b3a32d34cf61914532e51b22789a841"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/zh_hk.json",
@@ -102,6 +106,10 @@
       "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
     },
     {
+      "path": "ModTranslations/assets/antighost/lang/vi_vn.json",
+      "hash": "597bd493202988ca353d655215c651f85ec3850e"
+    },
+    {
       "path": "ModTranslations/assets/antighost/lang/ru_ru.json",
       "hash": "0c94d3846c2dd7f0caef9afb8b6be669f58af914"
     },
@@ -119,7 +127,7 @@
     },
     {
       "path": "ModTranslations/assets/antighost/lang/pt_br.json",
-      "hash": "b8405f982bfe32a88f6f4569804d533b6815ef60"
+      "hash": "4ab04343708a5ca7725156c245032f8a73dec976"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/zh_tw.json",
@@ -131,7 +139,7 @@
     },
     {
       "path": "ModTranslations/assets/antighost/lang/sr_sp.json",
-      "hash": "104b16916beca9bf2474be8ad21da4c87fe516b4"
+      "hash": "1ce33657e84712c2e9fb64fb442a6ca3274b2c07"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/cs_cz.json",
@@ -175,7 +183,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/zh_hk.json",
-      "hash": "aa237765607aaacabf6ca76db7244b0003f22f56"
+      "hash": "78e2051e14a6638e0258ef504bbc27c276642aca"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/sv_se.json",
@@ -211,7 +219,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/zh_cn.json",
-      "hash": "aa237765607aaacabf6ca76db7244b0003f22f56"
+      "hash": "78e2051e14a6638e0258ef504bbc27c276642aca"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/es_cl.json",
@@ -283,7 +291,7 @@
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/uk_ua.json",
-      "hash": "cbce86301c4f5f2410d180d2b4209a5698e163ef"
+      "hash": "1afe140abb3b1fd8123bac123960a9b48d86c758"
     },
     {
       "path": "ModTranslations/assets/durabilityviewer/lang/es_uy.json",
@@ -319,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "bba3055de4310d3a9b75d680eeb26701622781b3"
+      "hash": "1a3b47edcd13b39fceeecc8ff2cc48953847d284"
     },
     {
       "path": "config/collective-fabric.json",
@@ -463,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "c21b7294233638d3480c45c4476132de5c9e8533"
+      "hash": "ee618df490ee86e77c1853ef53b4de38c1b731ac"
     },
     {
       "path": "config/armorchroma.json",
@@ -483,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "beb5d758516543c7069f97aee5ff2a3fbab75877"
+      "hash": "1ca7d1663fc8f84b6a946f17ac2a4dec625d5dad"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -515,7 +523,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "3396ac57673899c72e16189f717fad5f3d8f0492"
+      "hash": "b9ae7c91032ea3522e77a86be07442ae290bb7a9"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -538,6 +546,18 @@
       "hash": "7166b76fd1f9b524014cd9fcd897aeca16f7a8d1"
     },
     {
+      "path": "config/titlescreen/logo.png",
+      "hash": "a030b62d05c72435f97421f51c5151b261a32278"
+    },
+    {
+      "path": "config/titlescreen/cmip-title.png",
+      "hash": "ada6b2bb2784b6ff53d2e8c7a4fb9d28ba9b06b2"
+    },
+    {
+      "path": "config/titlescreen/wp.png",
+      "hash": "43cbe91ff02c3fc4400e2925161d89fb6c326390"
+    },
+    {
       "path": "config/durabilityviewer.json",
       "hash": "3860fa9f3dbeb046ac5158e592cd50eb2c09ed77"
     },
@@ -552,6 +572,86 @@
     {
       "path": "config/tips.json",
       "hash": "64c08ce6b1f7501296882cdc5f8fe9376a2dbc17"
+    },
+    {
+      "path": "config/fancymenu/customization/receiveworld.txt",
+      "hash": "a581967e770c04d11d4769c40bc563a9b9891eb1"
+    },
+    {
+      "path": "config/fancymenu/customization/world.txt",
+      "hash": "6b634413be59d5e959bb87a69af217ec2559e90d"
+    },
+    {
+      "path": "config/fancymenu/customization/load.txt",
+      "hash": "1f2544ef848e2025abd9cf312fd7a3afc292a1d2"
+    },
+    {
+      "path": "config/fancymenu/customization/server.txt",
+      "hash": "e198aeda1ce1f4ff6e849d107ec7f3153311e93a"
+    },
+    {
+      "path": "config/fancymenu/customization/cmip.txt",
+      "hash": "cc28fd016f13082e76866eeda78607ff91ebe8f2"
+    },
+    {
+      "path": "config/fancymenu/customization/serverlist.txt",
+      "hash": "cf56e756af1b9f707e55f68b13eb6bdee33a5ad4"
+    },
+    {
+      "path": "config/fancymenu/customization/worldload.txt",
+      "hash": "03b838ec9971bd2d72ca535d6d36908969dbcac3"
+    },
+    {
+      "path": "config/fancymenu/customization/tips.txt",
+      "hash": "d7a9307e489b5e4c32be2eee9372a9065fbf99af"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "d7849d4e1bd3acc4b334f793cb3f1478ecc961a2"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "8f3ac4cb29e0f229eccd5940bc78f48240fb0e22"
+    },
+    {
+      "path": "config/fancymenu/extensions/fmaudio/config.cfg",
+      "hash": "c38c5e44b189d802adfd1dc790a21e89146a38ea"
+    },
+    {
+      "path": "config/fancymenu/extensions/fmaudio/locals/en_us.local",
+      "hash": "c676caa982acdb468ea573b90fbb7953f3068242"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "f2772891ddd29ab1929dd5b3509b705aaa532306"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6"
+    },
+    {
+      "path": "config/fancymenu/animations/start/animation.properties",
+      "hash": "cedcf78e3a762c0c49e9fc9377202f91cc440e7f"
     },
     {
       "path": "config/colormatic.properties",
@@ -588,6 +688,14 @@
     {
       "path": "config/citresewn-defaults.json",
       "hash": "0cb297b69dea869c0a2479cc08141a2e4f8b370b"
+    },
+    {
+      "path": "config/fpsreducer.json",
+      "hash": "4c39ac50b96d1baa2a1120614cb5a9b21642d469"
+    },
+    {
+      "path": "config/loadmyresources/config.cfg",
+      "hash": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc"
     },
     {
       "path": "config/entityculling.json",
@@ -795,7 +903,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "e0c5fec59ccfb0bbf03ddb2a7f7a75ff2ff1c2ea"
+      "hash": "3f160face5daf790eeb2c613b28aa2618985aec8"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -807,7 +915,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "20d29bbf77f3c78ab4d43ef60af61ddf336ff3af"
+      "hash": "403b59b67a935bfcf07eb1238f617d318a97c58f"
     },
     {
       "path": "config/farsight.json",
@@ -831,7 +939,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "6804429683489e12e82fc66d800bbbed718bdb4b"
+      "hash": "829daaf97559d4e1de6f467fb88b59e633a3815c"
     },
     {
       "path": "config/minihud.json",
@@ -1550,6 +1658,302 @@
       "hash": "4485cd5d1800ee6884f5bc6b8540a3793e5946e1"
     },
     {
+      "path": "resources/start/frames_main/63.jpg",
+      "hash": "a73365c0c2f02a96bdacc8c88cf97edcfef209fc"
+    },
+    {
+      "path": "resources/start/frames_main/62.jpg",
+      "hash": "fc9178fdc9069639520309fd6c9974d45132d34b"
+    },
+    {
+      "path": "resources/start/frames_main/74.jpg",
+      "hash": "89b7b5b74d4012a605e8201e686616c30253b802"
+    },
+    {
+      "path": "resources/start/frames_main/60.jpg",
+      "hash": "5a7cbac6fcb43235a6dc95f461c632dd5abd0788"
+    },
+    {
+      "path": "resources/start/frames_main/48.jpg",
+      "hash": "4eb37c71e28eb5e7db26fd6664f764f5fb6a01a6"
+    },
+    {
+      "path": "resources/start/frames_main/49.jpg",
+      "hash": "1a86bd7d0c865a6005d4480e4a08d58e2bbb3ba6"
+    },
+    {
+      "path": "resources/start/frames_main/61.jpg",
+      "hash": "f9344a047da821dbbddfd132e93389b5f3e0f74d"
+    },
+    {
+      "path": "resources/start/frames_main/59.jpg",
+      "hash": "ebb3c5a28a4e06d0efcb0fa20e3bda64a1f611e6"
+    },
+    {
+      "path": "resources/start/frames_main/71.jpg",
+      "hash": "40c00f1aa43f25de8405bc8645d602131b5b8377"
+    },
+    {
+      "path": "resources/start/frames_main/65.jpg",
+      "hash": "57f8e5eecb8e83bebb35b1f8c12a57f33c7e069e"
+    },
+    {
+      "path": "resources/start/frames_main/64.jpg",
+      "hash": "8fbd2507fb8a1c6fdfc49c51e9ecff7b6f8d5c18"
+    },
+    {
+      "path": "resources/start/frames_main/70.jpg",
+      "hash": "7134e5c92ef909fb40a838a5212b421e657b17d2"
+    },
+    {
+      "path": "resources/start/frames_main/58.jpg",
+      "hash": "880b72445aa7dc1701c05a4c839b5a9336952f67"
+    },
+    {
+      "path": "resources/start/frames_main/8.jpg",
+      "hash": "8bb44c1db90e878c4ccee9a48656286fdec06750"
+    },
+    {
+      "path": "resources/start/frames_main/66.jpg",
+      "hash": "b8807e2c9ec9f2a5efcbf987e62924a528c14939"
+    },
+    {
+      "path": "resources/start/frames_main/72.jpg",
+      "hash": "6d42538781850cbc0e458ed840867b8416ca1c6a"
+    },
+    {
+      "path": "resources/start/frames_main/73.jpg",
+      "hash": "d464a9368d6366589798e4843441fde1b99bad75"
+    },
+    {
+      "path": "resources/start/frames_main/67.jpg",
+      "hash": "0d8efc9a1e1c2bddcf0c6eec7bca7afff21181bd"
+    },
+    {
+      "path": "resources/start/frames_main/9.jpg",
+      "hash": "5f65e3b5a36868b2af2df09d06ac3d20bb6a4a1e"
+    },
+    {
+      "path": "resources/start/frames_main/14.jpg",
+      "hash": "d4550dfa13e2780f5ea79880f695641c86d4420e"
+    },
+    {
+      "path": "resources/start/frames_main/28.jpg",
+      "hash": "392f395fea676ad946b286bf5952294d9e9a3fdc"
+    },
+    {
+      "path": "resources/start/frames_main/29.jpg",
+      "hash": "38937d538758f16eeed6a87cc04631b0fb8b6540"
+    },
+    {
+      "path": "resources/start/frames_main/15.jpg",
+      "hash": "6b1e7d9eeb3b9b9fadd87c65c32bd974aa0b214d"
+    },
+    {
+      "path": "resources/start/frames_main/17.jpg",
+      "hash": "a0c60154215c7f58241301c068c36a912a0e6a83"
+    },
+    {
+      "path": "resources/start/frames_main/16.jpg",
+      "hash": "03ef55921a7fab4d513918b38447ff194c1026e0"
+    },
+    {
+      "path": "resources/start/frames_main/12.jpg",
+      "hash": "1106e09bb7ac9ba6d191d880097ff38c7a581b8c"
+    },
+    {
+      "path": "resources/start/frames_main/13.jpg",
+      "hash": "f3680b572549dfe78854de7596b387179ade4aea"
+    },
+    {
+      "path": "resources/start/frames_main/39.jpg",
+      "hash": "ecd1dfd54fbaf1689047da694fdc9d066b51f82b"
+    },
+    {
+      "path": "resources/start/frames_main/11.jpg",
+      "hash": "722356aa88d24a1a3286e528461403347ff8b785"
+    },
+    {
+      "path": "resources/start/frames_main/10.jpg",
+      "hash": "b309b0e8f75e9dda439f3828ba91c00baefcf431"
+    },
+    {
+      "path": "resources/start/frames_main/38.jpg",
+      "hash": "43589528b45f58ccbefd4263dced93f7d6cae925"
+    },
+    {
+      "path": "resources/start/frames_main/21.jpg",
+      "hash": "791fb4d40d8737e0ef75c569b376bc85cc1f9e83"
+    },
+    {
+      "path": "resources/start/frames_main/35.jpg",
+      "hash": "0a8c8845a13728cd16fd2c1b766a46afaab39aff"
+    },
+    {
+      "path": "resources/start/frames_main/34.jpg",
+      "hash": "75928dd0cc71340505aab52efb38ff7f49f07146"
+    },
+    {
+      "path": "resources/start/frames_main/20.jpg",
+      "hash": "6a0215685924de3db4d94279478d5a0d481c8636"
+    },
+    {
+      "path": "resources/start/frames_main/36.jpg",
+      "hash": "0f5c53f02611b0a50093cae939a6c42736862c7a"
+    },
+    {
+      "path": "resources/start/frames_main/22.jpg",
+      "hash": "ecf6eb849a675c0a84cea367ea0736d2b0fb16c1"
+    },
+    {
+      "path": "resources/start/frames_main/23.jpg",
+      "hash": "90c8448c48030de0846be880351cfafb414979a0"
+    },
+    {
+      "path": "resources/start/frames_main/37.jpg",
+      "hash": "d9fbdf34d97b7376d7e29fbba0597979179b060a"
+    },
+    {
+      "path": "resources/start/frames_main/33.jpg",
+      "hash": "aefda274f5013d258d3d26a194d9c2333b6d94f4"
+    },
+    {
+      "path": "resources/start/frames_main/27.jpg",
+      "hash": "bf0aa595fdd8d248cfcd0007e8a10e0029b4c570"
+    },
+    {
+      "path": "resources/start/frames_main/26.jpg",
+      "hash": "9e44b7667c6798e1813392be040f7a9f74d36a4b"
+    },
+    {
+      "path": "resources/start/frames_main/32.jpg",
+      "hash": "149e24751d3d913601a5afcd6cf1b4fccc78c84a"
+    },
+    {
+      "path": "resources/start/frames_main/18.jpg",
+      "hash": "707f9c62fe458abef3fbbc755691981fd49414db"
+    },
+    {
+      "path": "resources/start/frames_main/24.jpg",
+      "hash": "8618f689db91abd59033fb7548f0df1501eef427"
+    },
+    {
+      "path": "resources/start/frames_main/30.jpg",
+      "hash": "94adca5225e20583b94e57f1a352f929ac89080a"
+    },
+    {
+      "path": "resources/start/frames_main/31.jpg",
+      "hash": "958d9d1fb1354b8b88dbed6f6f4fbdc830444d55"
+    },
+    {
+      "path": "resources/start/frames_main/25.jpg",
+      "hash": "a17e26999204dd8eface6769c63695d867d488f7"
+    },
+    {
+      "path": "resources/start/frames_main/19.jpg",
+      "hash": "1b6c05b825d139645934be2790c7dd6b0bc9d316"
+    },
+    {
+      "path": "resources/start/frames_main/42.jpg",
+      "hash": "9af817f088390030b8eea314e54a4be9f491723c"
+    },
+    {
+      "path": "resources/start/frames_main/4.jpg",
+      "hash": "d1b2de47500ac84acbc248169db210bdce19ea5d"
+    },
+    {
+      "path": "resources/start/frames_main/56.jpg",
+      "hash": "605c69f851e7c8491cf9b356fda78165d76becd2"
+    },
+    {
+      "path": "resources/start/frames_main/5.jpg",
+      "hash": "515acd11dac477445b62edaaeefc2b809fceaaec"
+    },
+    {
+      "path": "resources/start/frames_main/57.jpg",
+      "hash": "1ceea6b6d8f26b2e2ca5caf5c41146379eaf675a"
+    },
+    {
+      "path": "resources/start/frames_main/43.jpg",
+      "hash": "55248c02687885e994ed43a92d1481295b0af0e6"
+    },
+    {
+      "path": "resources/start/frames_main/55.jpg",
+      "hash": "7824458bec3479efc2677b461a168b839ddb7390"
+    },
+    {
+      "path": "resources/start/frames_main/7.jpg",
+      "hash": "431ebbf305d25b704d50038a76d00d4f8cd82745"
+    },
+    {
+      "path": "resources/start/frames_main/41.jpg",
+      "hash": "f007beff763893233ef57245e2106297db2e6f59"
+    },
+    {
+      "path": "resources/start/frames_main/69.jpg",
+      "hash": "016bf621e8631d907373b5d5c1daf171189574dc"
+    },
+    {
+      "path": "resources/start/frames_main/68.jpg",
+      "hash": "2c72b485ed5b2fb41c647ccc2374895b01cc1bce"
+    },
+    {
+      "path": "resources/start/frames_main/40.jpg",
+      "hash": "e54773d9dff357fb10571408abe437dda52e450f"
+    },
+    {
+      "path": "resources/start/frames_main/54.jpg",
+      "hash": "32e2d75b8b5ce9a4c60e4f2fc25929f577f2eace"
+    },
+    {
+      "path": "resources/start/frames_main/6.jpg",
+      "hash": "a50462170b743214788e5906caf560669cf19f71"
+    },
+    {
+      "path": "resources/start/frames_main/2.jpg",
+      "hash": "b89a9b07a94fedea25f87989ab6d673ae643eb2b"
+    },
+    {
+      "path": "resources/start/frames_main/50.jpg",
+      "hash": "7034fa14fdc010077d07b95beae7ad705e0c064b"
+    },
+    {
+      "path": "resources/start/frames_main/44.jpg",
+      "hash": "6d22cc31797102d5a8954bb2a6debd98418bd561"
+    },
+    {
+      "path": "resources/start/frames_main/45.jpg",
+      "hash": "1018b45f55910dc7d873fd3d341c0bae25e550a8"
+    },
+    {
+      "path": "resources/start/frames_main/3.jpg",
+      "hash": "a2de8409ab6c94b2ad64e679e177672e3d767ed2"
+    },
+    {
+      "path": "resources/start/frames_main/51.jpg",
+      "hash": "cee009c11495c13c4b8f7e3eeef4a93079bac713"
+    },
+    {
+      "path": "resources/start/frames_main/47.jpg",
+      "hash": "53f23e0ffa3ec1c5ef7f0ec8ff539067137c8562"
+    },
+    {
+      "path": "resources/start/frames_main/53.jpg",
+      "hash": "264ea902ce042b958c59d0e4ae72479053a8cfca"
+    },
+    {
+      "path": "resources/start/frames_main/1.jpg",
+      "hash": "e02ebe6f1e0f4b1a785c473f5a959260d5e483e0"
+    },
+    {
+      "path": "resources/start/frames_main/52.jpg",
+      "hash": "db2baf6011523c7159f0401c461840c8c5e16e03"
+    },
+    {
+      "path": "resources/start/frames_main/46.jpg",
+      "hash": "ed840adde58cf6fbeb7568192a4fc1bbec215477"
+    },
+    {
       "path": "mods/pistorder-mc1.19-v1.5.0-fabric.jar",
       "hash": "f5c269af5abed80b6580ebae8dd6f7dadc7e3495"
     },
@@ -1686,10 +2090,6 @@
       "hash": "5f153bf07665886c822a36ddd824d0f6007e6100"
     },
     {
-      "path": "mods/konkrete_fabric_1.5.0_MC_1.19.1.jar",
-      "hash": "962fec42357f414a8e5de01a0fc39367602f1068"
-    },
-    {
       "path": "mods/farsight-fabric-1.19.1-2.0.jar",
       "hash": "a4cdb689ff5ce24bf443da0f2d0ea637e1fe24aa"
     },
@@ -1762,6 +2162,10 @@
       "hash": "7456c9569dc1c10abf1b1c66a00782a218176b57"
     },
     {
+      "path": "mods/loadmyresources_fabric_1.0.4_MC_1.19-1.19.2.jar",
+      "hash": "61a63cbc4c76a3dcadf9f3f6cf0d2674ede90d7b"
+    },
+    {
       "path": "mods/wthit-fabric-5.9.0.jar",
       "hash": "dbc64e55788fa44575b432d8a7c66a35e9d5a1ff"
     },
@@ -1822,6 +2226,10 @@
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
     },
     {
+      "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.19.jar",
+      "hash": "8cacea52d388d995b1841390ef6a44da1a4a877f"
+    },
+    {
       "path": "mods/BetterF3-1.3.2-Fabric-1.19.jar",
       "hash": "c65443f1ac63aa7e5c16e379557641b76827cf9b"
     },
@@ -1852,6 +2260,10 @@
     {
       "path": "mods/iris-mc1.19.2-1.4.5.jar",
       "hash": "d3ce7b31222b386ae8d776c4112605976abcbe4a"
+    },
+    {
+      "path": "mods/fancymenu_fabric_2.13.0_MC_1.19-1.19.2.jar",
+      "hash": "323511aff1643a602407933a1cc7e12e6277e44a"
     },
     {
       "path": "mods/Autofish-0.9.5-fabric-mc1.19.jar",
@@ -1928,6 +2340,10 @@
     {
       "path": "mods/morechathistory-1.19.1-1.1.1.jar",
       "hash": "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar",
+      "hash": "4317c1801cb1ea88107e65cc571c86a4a70aa514"
     },
     {
       "path": "mods/cloth-api-4.0.65.jar",
@@ -13227,7 +13643,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "34f848ec2f24f093935e01e09bb3386ee59c3294"
+      "hash": "a2db3a1e4232bd6239ab873e121101b976766174"
     }
   ],
   "addons": [
