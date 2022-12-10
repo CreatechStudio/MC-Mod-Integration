@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "1a3b47edcd13b39fceeecc8ff2cc48953847d284"
+      "hash": "9b777882c5d6f44df54c331a0150a4ead5130016"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "ee618df490ee86e77c1853ef53b4de38c1b731ac"
+      "hash": "a8c06d557d809ff5799a08d6aabea2a401e34fe6"
     },
     {
       "path": "config/armorchroma.json",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "1ca7d1663fc8f84b6a946f17ac2a4dec625d5dad"
+      "hash": "e30851b7840a8c59594ad8253688361eff13c86a"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -523,7 +523,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "b9ae7c91032ea3522e77a86be07442ae290bb7a9"
+      "hash": "b362ab0223d4cbf5e31cc52e60e4d79f694f2c7b"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -555,7 +555,7 @@
     },
     {
       "path": "config/titlescreen/wp.png",
-      "hash": "43cbe91ff02c3fc4400e2925161d89fb6c326390"
+      "hash": "495b6b4b6398d026590159d7dcde2b5ac9c7845d"
     },
     {
       "path": "config/durabilityviewer.json",
@@ -591,7 +591,7 @@
     },
     {
       "path": "config/fancymenu/customization/cmip.txt",
-      "hash": "cc28fd016f13082e76866eeda78607ff91ebe8f2"
+      "hash": "6334d9989ba294d86e717efba1df0f6e254674f1"
     },
     {
       "path": "config/fancymenu/customization/serverlist.txt",
@@ -607,11 +607,11 @@
     },
     {
       "path": "config/fancymenu/config.txt",
-      "hash": "d7849d4e1bd3acc4b334f793cb3f1478ecc961a2"
+      "hash": "ed0b1d41d5aa021f0b620a8af9c74b85213cf86f"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
-      "hash": "8f3ac4cb29e0f229eccd5940bc78f48240fb0e22"
+      "hash": "6f757c16fe567b749a35053de38a7a59bbf1c105"
     },
     {
       "path": "config/fancymenu/extensions/fmaudio/config.cfg",
@@ -903,7 +903,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "3f160face5daf790eeb2c613b28aa2618985aec8"
+      "hash": "d26c73db606ecee639752028c548d8af66f1a91c"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -915,7 +915,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "403b59b67a935bfcf07eb1238f617d318a97c58f"
+      "hash": "ebcf1be0b2f97ef7188c1c835f70a6719fa1b024"
     },
     {
       "path": "config/farsight.json",
@@ -939,7 +939,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "829daaf97559d4e1de6f467fb88b59e633a3815c"
+      "hash": "4f59313911601d7695d65147a1316cc2d308d283"
     },
     {
       "path": "config/minihud.json",
@@ -13643,7 +13643,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "a2db3a1e4232bd6239ab873e121101b976766174"
+      "hash": "473b94e6f9de86fc2fcd9db7a8d9ca96edd715ac"
     }
   ],
   "addons": [

@@ -114,8 +114,6 @@ key_key.hotbar.9:key.keyboard.9
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.wi_zoom.zoom:key.keyboard.c
 key_key.antighost.reveal:key.keyboard.g
 key_key.autofish.open_gui:key.keyboard.j

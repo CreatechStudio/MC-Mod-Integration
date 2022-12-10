@@ -15,16 +15,16 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = bottom-left
+  orientation = top-left
   x = 0
   action = movebutton
-  y = -10
+  y = 0
 }
 
 customization {
   identifier = %id=604346%
   orientation = bottom-right
-  x = -154
+  x = -182
   action = movebutton
   y = -20
 }
@@ -184,15 +184,15 @@ customization {
 }
 
 customization {
-  orientation = bottom-left
+  orientation = mid-centered
   splash_color = #ffff00
   hidden = false
-  x = 711
+  x = 334
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = 1d1a2e1a-c3bf-4589-9d72-8f53c4ccc2ca1670644323290
-  y = -301
+  y = -65
   height = 30
 }
 
@@ -202,7 +202,7 @@ customization {
   x = 0
   width = %guiwidth%
   action = addtexture
-  actionid = e5e50a20-8e5c-4f2b-b698-18c518eb39191670650586980
+  actionid = e8702376-126b-4c4f-9de6-3224b1ee6cff1670670484638
   y = 0
   height = %guiheight%
 }
@@ -210,11 +210,11 @@ customization {
 customization {
   path = config/titlescreen/cmip-title.png
   orientation = mid-centered
-  x = 67
+  x = 35
   width = 335
   action = addtexture
   actionid = b197318e-6d40-48e3-b10e-9203843371571670646486287
-  y = -133
+  y = -128
   height = 63
 }
 
@@ -266,10 +266,60 @@ customization {
   path = config/titlescreen/logo.png
   orientation = bottom-left
   x = 0
-  width = 73
+  width = 76
   action = addtexture
   actionid = c4660e37-24c3-4a00-b1ff-51a95bb7f8491670650441414
-  y = -40
-  height = 39
+  y = -43
+  height = 43
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = https://mci.createchstudio.com/notice.txt
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = 35
+  width = 335
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 54fdbb6d-7dcc-434d-b841-f22b5ea526e11670669251779
+  y = -45
+  alignment = left
+  height = 233
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -159
+  width = 25
+  actionid = 75181b4e-7c9e-4bed-a8b7-95b1eff060641670669951702
+  action = addbutton
+  y = -20
+  label = 反馈
+  value = https://github.com/CreatechStudio/MC-Mod-Integration/issues/new/choose
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = join_last_world
+  label = 上次游玩
+  loopbackgroundanimations = true
+  hoverlabel = 加入上次世界/服务器
+  x = -331
+  width = 79
+  actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  action = addbutton
+  y = -94
+  value = 
+  height = 20
 }
 
