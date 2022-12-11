@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b12b",
+  "version": "1.19.2b13",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "9b777882c5d6f44df54c331a0150a4ead5130016"
+      "hash": "807b4ed43fb458c4d7957f112fd74dc9fd51d882"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "a8c06d557d809ff5799a08d6aabea2a401e34fe6"
+      "hash": "834b206c63290e0e0dd4d3ffd5f853d1a407a42d"
     },
     {
       "path": "config/armorchroma.json",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "e30851b7840a8c59594ad8253688361eff13c86a"
+      "hash": "9dca8c2c51cf828bdc8f850ada75c91fe517c368"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -523,7 +523,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "b362ab0223d4cbf5e31cc52e60e4d79f694f2c7b"
+      "hash": "7d303883fe3f0aa33d3b49ea2ed578d47afaee49"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -903,7 +903,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "d26c73db606ecee639752028c548d8af66f1a91c"
+      "hash": "52b6532b915977ecdf510627c4b512fd0fba7902"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -915,7 +915,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "ebcf1be0b2f97ef7188c1c835f70a6719fa1b024"
+      "hash": "5e6d2c0934f27f2706dad2104b276e7239dba171"
     },
     {
       "path": "config/farsight.json",
@@ -939,7 +939,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "4f59313911601d7695d65147a1316cc2d308d283"
+      "hash": "d70a0b0ec029e96a64f9025c0e606cd49e0400c1"
     },
     {
       "path": "config/minihud.json",
@@ -2392,6 +2392,10 @@
     {
       "path": "mods/WI-Zoom-1.4-MC1.19.1.jar",
       "hash": "77164ec45e2bf4b827c6aaad59837d52f6dc69da"
+    },
+    {
+      "path": "mods/MinecraftCapes+Fabric+1.19.2-12.2.2.jar",
+      "hash": "bb41350ea011b0203e8b6a6f0d673ae8b1123808"
     },
     {
       "path": "shaderpacks/[配置要求-中]Sildurs Vibrant Shaders v1.28 Medium.zip",
@@ -13643,7 +13647,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "473b94e6f9de86fc2fcd9db7a8d9ca96edd715ac"
+      "hash": "c3d2e965a298bb8a02cc7c0718a4034dc4d0aa46"
     }
   ],
   "addons": [
