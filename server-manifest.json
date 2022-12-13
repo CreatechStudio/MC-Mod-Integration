@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b13",
+  "version": "1.19.2b14",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -2092,10 +2092,6 @@
     {
       "path": "mods/farsight-fabric-1.19.1-2.0.jar",
       "hash": "a4cdb689ff5ce24bf443da0f2d0ea637e1fe24aa"
-    },
-    {
-      "path": "mods/autoreconnect-2.1.0-beta.jar",
-      "hash": "57de589fcb14ddf91cb682f2213c3aa750836cee"
     },
     {
       "path": "mods/InventoryProfilesNext-fabric-1.19-1.6.1.jar",
