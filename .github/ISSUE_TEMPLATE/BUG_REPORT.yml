@@ -67,8 +67,8 @@ body:
     id: launchlog
     attributes: 
       label: 启动日志
-      description: 在下方复制你的启动日志
-      placeholder: 请提供完整的启动日志，自以为知道问题所在而仅提供一两行将被直接关闭。
+      description: 在下方复制你的启动日志或复制crash-report文件夹内的崩溃报告
+      placeholder: 请提供完整的启动/错误日志，自以为知道问题所在而仅提供一两行将被直接关闭。
       render: text
     validations:
       required: true
