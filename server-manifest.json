@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b14",
+  "version": "1.19.2b14a",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -555,7 +555,7 @@
     },
     {
       "path": "config/titlescreen/wp.png",
-      "hash": "495b6b4b6398d026590159d7dcde2b5ac9c7845d"
+      "hash": "2762bb91770300e88fd17644b08abdb88c1439b4"
     },
     {
       "path": "config/durabilityviewer.json",
