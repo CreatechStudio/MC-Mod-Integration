@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b14a",
+  "version": "1.19.2b14b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -774,10 +774,6 @@
       "hash": "a5fafc378a45e82063af835c41ac1e21648bc511"
     },
     {
-      "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
-      "hash": "2a263a8d0835b036860140ce68ad6592674e5bcb"
-    },
-    {
       "path": "config/stendhal/stendhal.properties",
       "hash": "f77698497c92f2a5ff82e9c5c001a4838d9c8189"
     },
@@ -1488,10 +1484,6 @@
     {
       "path": "config/dashloader.json",
       "hash": "7ae05faff3feda8ef23692d59f68d4cf30deb1b7"
-    },
-    {
-      "path": "config/minecraftcapes.json",
-      "hash": "2e9400fecdc28c8a5e2dfe9991e5bd93b6f645c0"
     },
     {
       "path": "config/gamma_utils.json5",
@@ -2388,10 +2380,6 @@
     {
       "path": "mods/WI-Zoom-1.4-MC1.19.1.jar",
       "hash": "77164ec45e2bf4b827c6aaad59837d52f6dc69da"
-    },
-    {
-      "path": "mods/MinecraftCapes+Fabric+1.19.2-12.2.2.jar",
-      "hash": "bb41350ea011b0203e8b6a6f0d673ae8b1123808"
     },
     {
       "path": "shaderpacks/[配置要求-中]Sildurs Vibrant Shaders v1.28 Medium.zip",
