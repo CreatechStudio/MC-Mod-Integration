@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b14a",
+  "version": "1.19.2b14b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "807b4ed43fb458c4d7957f112fd74dc9fd51d882"
+      "hash": "c33c3ced0b85d8856354f0a28cf9e37181c0b9b8"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "834b206c63290e0e0dd4d3ffd5f853d1a407a42d"
+      "hash": "39f661bf9bd9c8ec70a9cf44f45169a03a2bb4ce"
     },
     {
       "path": "config/armorchroma.json",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "9dca8c2c51cf828bdc8f850ada75c91fe517c368"
+      "hash": "1728a196440938d51af9629bc734e5a0e8adf4fa"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -523,7 +523,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "7d303883fe3f0aa33d3b49ea2ed578d47afaee49"
+      "hash": "da73f03774381072bd9547a80c495c1fbf2453e6"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -775,7 +775,7 @@
     },
     {
       "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
-      "hash": "2a263a8d0835b036860140ce68ad6592674e5bcb"
+      "hash": "1347fb900eca7067cfec5f367363be3bbd5211ea"
     },
     {
       "path": "config/stendhal/stendhal.properties",
@@ -903,7 +903,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "52b6532b915977ecdf510627c4b512fd0fba7902"
+      "hash": "e36c6c202d718fd14af15dd9048751790f207537"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -915,7 +915,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "5e6d2c0934f27f2706dad2104b276e7239dba171"
+      "hash": "8bbf63834afbf012f1f51e865b4bfed7767f1945"
     },
     {
       "path": "config/farsight.json",
@@ -939,7 +939,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "d70a0b0ec029e96a64f9025c0e606cd49e0400c1"
+      "hash": "7fe9a68c07b0157e365e29610db1e3a0ff12d80e"
     },
     {
       "path": "config/minihud.json",
@@ -2034,6 +2034,10 @@
       "hash": "17692107aebb5cc8550698e8d3bf1606eb7ea07a"
     },
     {
+      "path": "mods/CustomSkinLoader_Fabric-14.15-SNAPSHOT-355.jar",
+      "hash": "8a6dccb0c5c4dac30a5529f49f458cbf7e6384e0"
+    },
+    {
       "path": "mods/minihud-fabric-1.19.1-0.23.1.jar",
       "hash": "7ee229677850f289ffc0b105718d0adcba2c3773"
     },
@@ -2136,10 +2140,6 @@
     {
       "path": "mods/architectury-6.0.35-fabric.jar",
       "hash": "07ee08a76b1a72e91fb3dc07fdbf6e1a4dcae256"
-    },
-    {
-      "path": "mods/CustomSkinLoader_Fabric-14.14-SNAPSHOT-343.jar",
-      "hash": "e080c15211a9433b0074272490948080985adc3d"
     },
     {
       "path": "mods/InGameAccountSwitcher-Fabric-1.19-8.0.1.jar",
@@ -13639,7 +13639,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "6bf7810411b322f70a57207e3d450bf2a3c7ba93"
+      "hash": "5c19f7eafc85145ac3718ab815b3b1b2a060fd5f"
     },
     {
       "path": "options.txt",
