@@ -1,2 +1,21 @@
-- name: Notify (Lark, Slack, Telegram)
-  uses: echoings/actions.notify@0.0.2
+on: push
+name: IM Notification Demo
+jobs:
+  notification:
+    name: IM Notification
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Notify to IM
+      uses: echoings/actions.notify@v0.1.0
+      with:
+        plat_type: 'Lark'
+        notify_title: 'Project Updated'
+        notify_message: 'Project updated, please check projects online status'
+      env:
+        NOTIFY_WEBHOOK: ${{ secrets.NOTIFY_WEBHOOK }}
+        NOTIFY_SIGNKEY: ${{ secrets.NOTIFY_SIGNKEY }}
+        # for Lark use
+        LARK_APP_ID: ${{ secrets.LARK_APP_ID }}
+        LARK_APP_SECRECT: ${{ secrets.LARK_APP_SECRECT }}
