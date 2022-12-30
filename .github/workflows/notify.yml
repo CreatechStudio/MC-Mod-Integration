@@ -11,8 +11,8 @@ jobs:
       uses: echoings/actions.notify@v0.1.0
       with:
         plat_type: 'Lark'
-        notify_title: 'Project Updated'
-        notify_message: 'Project updated, please check projects online status'
+        notify_title: '项目更新'
+        notify_message: '请点击下方链接查看详细'
       env:
         NOTIFY_WEBHOOK: ${{ secrets.NOTIFY_WEBHOOK }}
         NOTIFY_SIGNKEY: ${{ secrets.NOTIFY_SIGNKEY }}
