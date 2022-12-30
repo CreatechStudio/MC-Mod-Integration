@@ -1,6 +1,3 @@
-Merry Christmas!
-圣诞节快乐！
-
 当前最新整合包版本：1.19.2b14b
 更新内容：
   1.修复由Custom Skin Loader造成的游戏崩溃
