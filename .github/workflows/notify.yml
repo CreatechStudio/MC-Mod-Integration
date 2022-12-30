@@ -1,5 +1,5 @@
 on: push
-name: IM Notification Demo
+name: Createch Notification System
 jobs:
   notification:
     name: IM Notification
