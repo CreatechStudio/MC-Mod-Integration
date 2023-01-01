@@ -3,6 +3,7 @@ type = hud
 customization-meta {
   randomgroup = 1
   keepaspectratio = false
+  backgroundimage = config/startup/1.jpg
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
@@ -21,17 +22,6 @@ customization {
 }
 
 customization {
-  path = config/startup/1.jpg
-  orientation = top-left
-  x = 0
-  width = %guiwidth%
-  action = addtexture
-  actionid = e6b10a94-efa6-449b-8398-6024c9e279971655273918542
-  y = 0
-  height = %guiheight%
-}
-
-customization {
   audio_source:a8225d80-f5c3-419a-b984-5e106dc84c8c1655273495972 = config/startup/logo.ogg;EXTERNAL_LOCAL;100;0
   orientation = top-left
   loop = true
@@ -46,35 +36,35 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = bottom-left
   shadow = true
-  x = 2
+  x = 0
   textcolor = #ffffff
   action = addtext
   actionid = 150d7d82-c2c0-4285-b64e-c946c97f3fd21655273708407
-  y = 453
+  y = 0
   scale = 1.1
   alignment = left
-  value = Copyright 2022 CreatechStudio Shanghai Inc. & Mojang AB.
+  value = Copyright 2023 CreatechStudio Shanghai Inc. & Mojang AB.
 }
 
 customization {
   path = config/startup/logo.png
-  orientation = top-left
-  x = 215
+  orientation = mid-centered
+  x = 0
   width = 397
   action = addtexture
   actionid = d64050d2-33cb-4965-8dea-944aee18dec31655273640741
-  y = 95
+  y = 0
   height = 216
 }
 
 customization {
-  orientation = top-left
-  x = 204
+  orientation = mid-centered
+  x = 0
   width = 427
   actionid = 9fede3be-4282-4408-969d-3c284a923ab91655273345926
-  y = 344
+  y = 121
   action = addcustomprogressbar
   height = 9
   direction = right
