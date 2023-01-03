@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b15",
+  "version": "1.19.2b16",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -2254,10 +2254,6 @@
       "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
     },
     {
-      "path": "mods/iris-mc1.19.2-1.4.5.jar",
-      "hash": "d3ce7b31222b386ae8d776c4112605976abcbe4a"
-    },
-    {
       "path": "mods/fancymenu_fabric_2.13.0_MC_1.19-1.19.2.jar",
       "hash": "323511aff1643a602407933a1cc7e12e6277e44a"
     },
@@ -2316,6 +2312,10 @@
     {
       "path": "mods/auudio_fabric_1.0.3_MC_1.19.jar",
       "hash": "9ff95e29e0b2a40351f6b27cd919e7f048b22d8f"
+    },
+    {
+      "path": "mods/iris-mc1.19.2-1.5.0.jar",
+      "hash": "0fab5a9ac4bc30794e12b7478fcb2e7036f02b33"
     },
     {
       "path": "mods/carpet-extra-1.19.1-1.4.83.jar",
@@ -2398,12 +2398,16 @@
       "hash": "288dc4bc190ce36052f0d0b67d7a0916055d8a7e"
     },
     {
-      "path": "shaderpacks/[配置要求-高-动态模糊]Sildurs Vibrant Shaders v1.28 High-Motionblur.zip",
-      "hash": "37e10376104e0c9a260af331556a20c9e7b0036f"
+      "path": "shaderpacks/ComplementaryShaders_v4.7_pre1.zip",
+      "hash": "f308b1fb3eea3557b4bab61ec4afec47d905f285"
     },
     {
-      "path": "shaderpacks/ComplementaryShaders_v4.5.1.zip",
-      "hash": "e9082ec4b07e8348eb9489fcc1359fd13d5eb13a"
+      "path": "shaderpacks/Chocapic13_V9.1_Extreme_beta_5.zip",
+      "hash": "0a98d4f8409e9ffa1ab953e56d52aae0be17437d"
+    },
+    {
+      "path": "shaderpacks/[配置要求-高-动态模糊]Sildurs Vibrant Shaders v1.28 High-Motionblur.zip",
+      "hash": "37e10376104e0c9a260af331556a20c9e7b0036f"
     },
     {
       "path": "shaderpacks/[配置要求-极限-光追]Sildurs Vibrant Shaders v1.28 Extreme-VL.zip",

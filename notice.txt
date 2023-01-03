@@ -1,2 +1,10 @@
 新年快乐~
 Happy New Year~
+
+当前最新整合包版本：1.19.2b16
+更新内容：
+  1.更新Iris Shader至1.5.0
+	支持大部分Optifine光影
+  2.更新ComplementaryShaders至4.7-pre1
+请前往游戏Mod文件夹删除iris-mc1.19.2-1.4.5.jar后重启游戏
+点击下方更新日志查看历史更新
