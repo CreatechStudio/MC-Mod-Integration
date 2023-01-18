@@ -144,7 +144,7 @@
 
 ## 游戏截图
 
-![主界面](https://s1.ax1x.com/2023/01/03/pSiPUUO.png)
+![主界面](https://s1.ax1x.com/2023/01/18/pS3Nz0s.png)
 
 ![游戏内截图](https://s1.ax1x.com/2023/01/03/pSiPB2d.png)
 
