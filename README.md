@@ -374,43 +374,28 @@ wthit-fabric-5.9.0
 
 ### 光影清单
 
-BSL_v8.1.03
+根据部分作者的EULA，我们将不再提供直接下载，请在游戏内点击资源下载，选择你合适的文件下载。
 
-Chocapic13_V9.1_Extreme_beta_5
+这样做的好处有
 
-ComplementaryShaders_v4.7_pre1
-
-ComplementaryReimagined_r1.1.1
-
-[配置要求-低]Sildurs Vibrant Shaders v1.28 Lite
-
-[配置要求-中]Sildurs Vibrant Shaders v1.28 Medium
-
-[配置要求-高]Sildurs Vibrant Shaders v1.28 High
-
-[配置要求-高-动态模糊]Sildurs Vibrant Shaders v1.28 High-Motionblur
-
-[配置要求-极限]Sildurs Vibrant Shaders v1.28 Extreme
-
-[配置要求-极限-光追]Sildurs Vibrant Shaders v1.28 Extreme-VL
+- 节省用户磁盘空间
+- 减少首次启动下载时长
+- 减少分发网络负担
 
 ### 材质清单
 
-3D.Default.1.19.v1.4.2
-
-ClassisOre
-
-Stefan'sEnchantedBooks
-
 masa-chn
-
-思源黑体
-
-Default-Dark-Mod-1.19-v1.3.4
 
 Xaeros
 
-粘液科技
+
+根据部分作者的EULA，除了汉化外，我们将不再提供直接下载，请在游戏内点击资源下载，选择你合适的文件下载。
+
+这样做的好处有
+
+- 节省用户磁盘空间
+- 减少首次启动下载时长
+- 减少分发网络负担
 
 ## 帮助与反馈
 
