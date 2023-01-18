@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/diamond_block",
-    "author": "ybw0014",
-    "overrides": [
-        { "predicate": { "custom_model_data": 2400021}, "model": "item/ybw0014/litexpansion/blocks/advanced_machine_block"},
-        { "predicate": { "custom_model_data": 2500060}, "model": "item/ybw0014/infinityexpansion/singularities/diamond_singularity"}
-    ]
-}

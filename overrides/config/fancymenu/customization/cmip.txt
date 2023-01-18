@@ -29,7 +29,7 @@ customization {
 customization {
   identifier = %id=604346%
   orientation = bottom-right
-  x = -182
+  x = -209
   action = movebutton
   y = -20
 }
@@ -150,7 +150,7 @@ customization {
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 0
   action = movebutton
-  y = 120
+  y = 144
 }
 
 customization {
@@ -232,10 +232,10 @@ customization {
   showname = true
   crouching = false
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 130
+  x = 131
   actionid = c65a96e1-a27e-4e91-8587-3450c9e56e781670645393698
   action = addentity
-  y = 130
+  y = 150
   vr:showif:windowwidthbiggerthan = true
   playername = %playername%
   parrot = true
@@ -311,7 +311,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = -159
+  x = -186
   width = 25
   actionid = 75181b4e-7c9e-4bed-a8b7-95b1eff060641670669951702
   action = addbutton
@@ -326,15 +326,13 @@ customization {
   restartbackgroundanimations = true
   buttonaction = join_last_world
   label = 上次游玩
-  advanced_posx = {"placeholder":"calc","values":{"expression":"({"placeholder":"guiwidth"}/2)-300","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/2","decimal":"true"}}
   loopbackgroundanimations = true
   hoverlabel = 加入上次世界/服务器
-  x = 0
+  x = 124
   width = 79
   actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   action = addbutton
-  y = 0
+  y = 233
   value = 
   height = 20
 }
@@ -357,6 +355,38 @@ customization {
   action = addsplash
   y = -9
   vr:showif:windowwidthbiggerthan = true
-  text = 那是内存泄漏吗?
+  text = 永远不要打开从你不信任的人处得到的链接！
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = 资源下载
+  loopbackgroundanimations = true
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  width = 79
+  actionid = 6dbb10a6-2d2b-4dc0-9cd0-3eb6eae143881674014804495
+  action = addbutton
+  y = 120
+  value = https://drive.createchstudio.com/zh-CN/Game/Minecraft/
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  description = 此捐赠非必须，请按需捐赠，我们万分感谢
+  label = 捐赠
+  loopbackgroundanimations = true
+  x = -158
+  width = 24
+  actionid = 1f37b2b8-9220-46e7-83fa-add7004ec65f1674014826369
+  action = addbutton
+  y = -20
+  value = https://afdian.net/a/createchstudio
+  height = 20
 }
 
