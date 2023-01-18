@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b17b",
+  "version": "1.19.2b17c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "388a9fd0cee27e731b364ea3ebcaa228f4eb30de"
+      "hash": "93a5b10e1b3cbf91c10cf6361313752e6d74bde8"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "53092e4c7b4bd91fa90b2f45c8e362a4d0d96338"
+      "hash": "c5b2560b8a10773e29c358383a269db30b40b622"
     },
     {
       "path": "config/armorchroma.json",
@@ -523,7 +523,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "fbe7afd71999a8269e22476c121bb3cdf1dc5b39"
+      "hash": "1fda4300d2f722689f0a9d6f5bdf35d4801338f1"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -571,7 +571,7 @@
     },
     {
       "path": "config/tips.json",
-      "hash": "64c08ce6b1f7501296882cdc5f8fe9376a2dbc17"
+      "hash": "982a7db6b84ea218963aad79c11f4bbf29730fba"
     },
     {
       "path": "config/fancymenu/customization/receiveworld.txt",
@@ -635,7 +635,7 @@
     },
     {
       "path": "config/fancymenu/locals/en_us.local",
-      "hash": "f2772891ddd29ab1929dd5b3509b705aaa532306"
+      "hash": "510616cc674f1973fe06a47c464383a780a5e731"
     },
     {
       "path": "config/fancymenu/locals/de_de.local",
@@ -683,7 +683,7 @@
     },
     {
       "path": "config/chat_heads.json5",
-      "hash": "18ba993f9521c17c528821b3c1c5449b5b3f67d0"
+      "hash": "7b56b5682211bcb8be888f0b7d3241050081db58"
     },
     {
       "path": "config/citresewn-defaults.json",
@@ -755,11 +755,15 @@
     },
     {
       "path": "config/drippyloadingscreen/locals/en_us.local",
-      "hash": "316ab51bfbc53d3ab00c8a38117c1aacd0299063"
+      "hash": "1e862937d4b8d82ca7b792a61b4529ff94f82e59"
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "6b3492cd84c69876698bf44595e2d8fe824fad7e"
+      "hash": "7477f6662d0d35c35b17172ed456d78c532242ba"
+    },
+    {
+      "path": "config/roughlyenoughitems/hints.json",
+      "hash": "169a5096648b0911fd3f131ee148a67099c7f2f7"
     },
     {
       "path": "config/roughlyenoughitems/changelog.txt",
@@ -771,7 +775,7 @@
     },
     {
       "path": "config/presencefootsteps/userconfig.json",
-      "hash": "a5fafc378a45e82063af835c41ac1e21648bc511"
+      "hash": "46a0fa50b5bc1a41291e1147ff63b1bb4ff2f6c7"
     },
     {
       "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
@@ -879,7 +883,7 @@
     },
     {
       "path": "config/held-item-info.json",
-      "hash": "077fec37e49cfc66e627df416f46205962c7ba10"
+      "hash": "d859aa1b1bb77d5e6734af7f23dc5923f0fbcfe8"
     },
     {
       "path": "config/tweakmyclient.json",
@@ -907,7 +911,7 @@
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
-      "hash": "2169e927200c7dc129b640561e0e7dba9a434edf"
+      "hash": "741e28a0152b7d2fe8fb74f00151faff252418c3"
     },
     {
       "path": "config/voicechat/username-cache.json",
@@ -915,7 +919,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "054be75a565ec4004154120267f3e33e342807ac"
+      "hash": "fed9b065aa51b97a24a11e3f0c0587d5cdea3724"
     },
     {
       "path": "config/farsight.json",
@@ -939,7 +943,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "8e3396965292a91338234f42109b6ca9458acc30"
+      "hash": "7aadc56b2a41ffc8a359cffb722e1948eaf4bf2d"
     },
     {
       "path": "config/minihud.json",
@@ -1467,7 +1471,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "093602c5abc704fe32b5405d60fa6f36e0873804"
+      "hash": "69d3de8e3ff11b679746ad61bd3b27aab4d70f34"
     },
     {
       "path": "config/notenoughanimations.json",
@@ -1487,7 +1491,7 @@
     },
     {
       "path": "config/dashloader.json",
-      "hash": "7ae05faff3feda8ef23692d59f68d4cf30deb1b7"
+      "hash": "57ab9f3d1aef2d3245352076a373ce42f8129afa"
     },
     {
       "path": "config/minecraftcapes.json",
@@ -2030,10 +2034,6 @@
       "hash": "ff5520d7b10342358575220d88bd39c8cea80dad"
     },
     {
-      "path": "mods/[fabirc-1.19]AllMusic-2.6.0.jar",
-      "hash": "17692107aebb5cc8550698e8d3bf1606eb7ea07a"
-    },
-    {
       "path": "mods/CustomSkinLoader_Fabric-14.15-SNAPSHOT-355.jar",
       "hash": "8a6dccb0c5c4dac30a5529f49f458cbf7e6384e0"
     },
@@ -2180,6 +2180,10 @@
     {
       "path": "mods/MouseTweaks-fabric-mc1.19-2.22.jar",
       "hash": "6004ccf55a3013c54fdbef3b28613c3326231d2c"
+    },
+    {
+      "path": "mods/[fabric-1.19]AllMusic-2.6.5.jar",
+      "hash": "ac7dcff443e52ad9b2a7312796297b4e1e79cd5b"
     },
     {
       "path": "mods/fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar",
