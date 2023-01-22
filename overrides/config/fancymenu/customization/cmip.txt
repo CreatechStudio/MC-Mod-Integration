@@ -161,6 +161,22 @@ customization {
 }
 
 customization {
+  identifier = %id=400346%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 96
+}
+
+customization {
+  identifier = %id=400346%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 2
@@ -322,17 +338,17 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = join_last_world
   label = 上次游玩
   loopbackgroundanimations = true
   hoverlabel = 加入上次世界/服务器
-  x = 124
+  x = -294
   width = 79
   actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   action = addbutton
-  y = 225
+  y = -56
   value = 
   height = 20
 }
@@ -355,7 +371,7 @@ customization {
   action = addsplash
   y = -9
   vr:showif:windowwidthbiggerthan = true
-  text = 对着罗德（岛）石使用NullPointerException
+  text = 那是bug吗?
 }
 
 customization {
@@ -387,22 +403,6 @@ customization {
   action = addbutton
   y = -20
   value = https://afdian.net/a/createchstudio
-  height = 20
-}
-
-customization {
-  identifier = %id=400346%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
-  y = 96
-}
-
-customization {
-  identifier = %id=400346%
-  width = 79
-  action = resizebutton
   height = 20
 }
 

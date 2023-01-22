@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b18",
+  "version": "1.19.2b18a",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "e311c68e8b1ba5b3fda9f396883933331b4b46db"
+      "hash": "c1a03aa0698387a8fe2efab7d9ac0760a13cc91a"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "05ef21c75777df34e81f517a84f74f68f8ebbe48"
+      "hash": "854f19b20fac4df56e686d1564a5071a0766f394"
     },
     {
       "path": "config/armorchroma.json",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "157e63ad47645b5ca3fa0eef909f23b08d8c787b"
+      "hash": "9dca8c2c51cf828bdc8f850ada75c91fe517c368"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -527,7 +527,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "872fa6f51135d9c403131a54b057a24f6cac4782"
+      "hash": "c4e5d29ea6fdb282ef9e6508b3d8dd874a8973b8"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -595,7 +595,7 @@
     },
     {
       "path": "config/fancymenu/customization/cmip.txt",
-      "hash": "c93869c85df698999ecdc9615e9bcb288ae30a56"
+      "hash": "0079e11ef10cafed9328117c6da559947168ae09"
     },
     {
       "path": "config/fancymenu/customization/serverlist.txt",
@@ -911,7 +911,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "e4ec2fab22d054856da9590c2e309e5dfe50816a"
+      "hash": "c6e26ec6fbdbe1907d079b507e98fc1d0b8690ee"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -923,7 +923,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "f8b6662fa2c19747725510c6a704ef61dd67b767"
+      "hash": "7f0c624b0d2e65566f0124e721a3f9f07c6a08b8"
     },
     {
       "path": "config/farsight.json",
@@ -947,7 +947,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "72d546677f24cdc5acfe51eb81130277be6b203f"
+      "hash": "5d4903419030865fe88f99a514b65dd895671ece"
     },
     {
       "path": "config/minihud.json",
