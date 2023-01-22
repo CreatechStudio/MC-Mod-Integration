@@ -68,10 +68,8 @@
 		"filtering": {
 			"shouldFilterDisplays": true,
 			"filteringRules": [
-				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
-			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
@@ -79,8 +77,7 @@
 			// Declares whether REI should append mod names to entries.
 			"appendModNames": true,
 			// Declares whether favorites tooltip should be displayed.
-			"displayFavoritesTooltip": false,
-			"displayIMEHints": true
+			"displayFavoritesTooltip": false
 		},
 		"layout": {
 			// The ordering of the items on the entry panel.
@@ -114,7 +111,6 @@
 			"asyncSearch": true,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
-			"patchAsyncThreadCrash": true,
 			"tooltipSearch": "ALWAYS",
 			"tagSearch": "PREFIX",
 			"identifierSearch": "ALWAYS",

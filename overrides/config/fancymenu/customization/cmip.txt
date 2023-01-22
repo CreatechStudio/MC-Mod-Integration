@@ -35,16 +35,54 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = element
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 0
   action = movebutton
-  y = 48
+  y = 24
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = Realms
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 120
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   width = 79
   action = resizebutton
   height = 20
@@ -61,7 +99,7 @@ customization {
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 0
   action = movebutton
-  y = 96
+  y = 144
 }
 
 customization {
@@ -107,54 +145,16 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = element
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 0
   action = movebutton
-  y = 24
+  y = 48
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 79
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
-  y = 72
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  width = 79
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = Realms
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
-  y = 144
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   width = 79
   action = resizebutton
   height = 20
@@ -217,7 +217,7 @@ customization {
   width = 335
   action = addtexture
   actionid = b197318e-6d40-48e3-b10e-9203843371571670646486287
-  y = -63
+  y = -54
   vr:showif:windowwidthbiggerthan = true
   height = 63
 }
@@ -232,10 +232,10 @@ customization {
   showname = true
   crouching = false
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 131
+  x = 136
   actionid = c65a96e1-a27e-4e91-8587-3450c9e56e781670645393698
   action = addentity
-  y = 150
+  y = 157
   vr:showif:windowwidthbiggerthan = true
   playername = %playername%
   parrot = true
@@ -296,11 +296,11 @@ customization {
   source_mode = web
   line_spacing = 1
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 299
+  x = 300
   width = 335
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 54fdbb6d-7dcc-434d-b841-f22b5ea526e11670669251779
-  y = 40
+  y = 64
   vr:showif:windowwidthbiggerthan = true
   alignment = left
   height = 149
@@ -332,7 +332,7 @@ customization {
   width = 79
   actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   action = addbutton
-  y = 233
+  y = 225
   value = 
   height = 20
 }
@@ -355,7 +355,7 @@ customization {
   action = addsplash
   y = -9
   vr:showif:windowwidthbiggerthan = true
-  text = 永远不要打开从你不信任的人处得到的链接！
+  text = 对着罗德（岛）石使用NullPointerException
 }
 
 customization {
@@ -369,7 +369,7 @@ customization {
   width = 79
   actionid = 6dbb10a6-2d2b-4dc0-9cd0-3eb6eae143881674014804495
   action = addbutton
-  y = 120
+  y = 168
   value = https://drive.createchstudio.com/zh-CN/Game/Minecraft/
   height = 20
 }
@@ -387,6 +387,22 @@ customization {
   action = addbutton
   y = -20
   value = https://afdian.net/a/createchstudio
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 96
+}
+
+customization {
+  identifier = %id=400346%
+  width = 79
+  action = resizebutton
   height = 20
 }
 
