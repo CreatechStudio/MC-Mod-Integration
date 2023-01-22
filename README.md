@@ -109,6 +109,7 @@
 - 自定义斗篷
 - 语音插件（需要服务器配合）
 - 点歌插件（需要服务器配合）
+- 游戏内录制
 
 ### 优化
 
@@ -150,7 +151,7 @@
 
 ## 内容(文件名)清单
 
-### 模组清单
+### 模组清单（版本仅供参考）
 
 Autofish-0.9.5-fabric-mc1.19
 
@@ -347,6 +348,8 @@ paperdoll-fabric-1.1.1-mc1.19.1
 pistorder-mc1.19-v1.5.0-fabric
 
 reeses_sodium_options-1.4.4+mc1.19-build.47
+
+replaymod-1.19.1-2.6.10
 
 shulkerboxtooltip-3.1.1+1.19
 
