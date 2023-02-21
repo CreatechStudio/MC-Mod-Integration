@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b18a",
+  "version": "1.19.2b19",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -327,7 +327,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "c1a03aa0698387a8fe2efab7d9ac0760a13cc91a"
+      "hash": "69150a65372df491df34fce473eeb82130252241"
     },
     {
       "path": "config/collective-fabric.json",
@@ -471,7 +471,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "854f19b20fac4df56e686d1564a5071a0766f394"
+      "hash": "06bfa379695326bb289f86515c5776f9d43baebc"
     },
     {
       "path": "config/armorchroma.json",
@@ -491,7 +491,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "9dca8c2c51cf828bdc8f850ada75c91fe517c368"
+      "hash": "1728a196440938d51af9629bc734e5a0e8adf4fa"
     },
     {
       "path": "config/betterpingdisplay.json",
@@ -527,7 +527,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "c4e5d29ea6fdb282ef9e6508b3d8dd874a8973b8"
+      "hash": "a85e60100039ed0d0e14cd97e6cc157ca72572ea"
     },
     {
       "path": "config/slightguimodifications/config.json5",
@@ -559,7 +559,7 @@
     },
     {
       "path": "config/titlescreen/wp.png",
-      "hash": "dfcf44bec17e35f9a10909859a6b752b8efbed8d"
+      "hash": "0f00cd10bc330dbc3e186d24ad75d1c24c428da5"
     },
     {
       "path": "config/durabilityviewer.json",
@@ -911,7 +911,7 @@
     },
     {
       "path": "config/betterstats.properties",
-      "hash": "c6e26ec6fbdbe1907d079b507e98fc1d0b8690ee"
+      "hash": "c0d955b14c1f91f6000619f21f00d92dac52ea8f"
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -923,7 +923,7 @@
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
-      "hash": "7f0c624b0d2e65566f0124e721a3f9f07c6a08b8"
+      "hash": "ba79904606198e1e71e975dee95dad1d4c821f0a"
     },
     {
       "path": "config/farsight.json",
@@ -947,7 +947,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "5d4903419030865fe88f99a514b65dd895671ece"
+      "hash": "8991e00932b42909bb67f2cd14de88dd65a002f2"
     },
     {
       "path": "config/minihud.json",
@@ -1459,7 +1459,7 @@
     },
     {
       "path": "config/startup/1.jpg",
-      "hash": "fb1849879ea469d5cdc97fe5d4ecc8b715363559"
+      "hash": "b67aeafb5215a58678e7c16844b544903724ed76"
     },
     {
       "path": "config/startup/logo.ogg",
@@ -2523,11 +2523,11 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "a65f2eba0b62773253bf3e369ea50e083069b383"
+      "hash": "1a7d887f6425caaad7fe3ab69c4fec5372434e92"
     },
     {
       "path": "options.txt",
-      "hash": "c7ace588f624b2ebc0118671e2d5fb58668ed4fb"
+      "hash": "2bcd9f0b5536d2c1548c0227c8a1f05dba9703f7"
     }
   ],
   "addons": [
