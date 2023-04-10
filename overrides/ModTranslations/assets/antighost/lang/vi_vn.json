@@ -1,5 +1,5 @@
 {
-    "key.categories.antighost": "AntiGhost",
-    "key.antighost.reveal": "Tiết lộ khối ma",
-    "msg.request": "yêu cầu gửi lại các khối xung quanh bạn"
+    "key.categories.antighost": "Chống khối ma",
+    "key.antighost.reveal": "Chỉ dẫn đến các khối ma",
+    "msg.request": "Yêu cầu gửi lại các khối xung quanh bạn"
 }

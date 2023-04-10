@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = config/titlescreen/wp.png
+  path = config/titlescreen/bg.png
   action = texturizebackground
 }
 
@@ -32,6 +32,78 @@ customization {
   x = -209
   action = movebutton
   y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  x = 0
+  action = movebutton
+  y = 120
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 79
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = 选项
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -46
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 46
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = 你确定？
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-right
+  x = -20
+  action = movebutton
+  y = 0
 }
 
 customization {
@@ -78,99 +150,11 @@ customization {
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 0
   action = movebutton
-  y = 120
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 79
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
-  y = 144
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  width = 79
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  action = setbuttonlabel
-  value = 选项
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-right
-  x = -46
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 46
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = sethoverlabel
-  label = 你确定？
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = top-right
-  x = -20
-  action = movebutton
-  y = 0
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  width = 79
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=400346%
-  orientation = element
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 0
-  action = movebutton
   y = 96
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   width = 79
   action = resizebutton
   height = 20
@@ -223,38 +207,17 @@ customization {
 }
 
 customization {
-  vr:showif:windowheightbiggerthan = true
-  orientation = element
-  vr:value:windowwidthbiggerthan = 1363
-  vr:value:windowheightbiggerthan = 614
   path = config/titlescreen/cmip-title.png
+  orientation = element
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 299
   width = 335
+  [loading_requirement:fancymenu_loading_requirement_is_window_height_bigger_than][requirement_mode:if][req_id:9fde8bae-ce04-4d8c-b3cf-61690d54be361681122933139] = 614
   action = addtexture
   actionid = b197318e-6d40-48e3-b10e-9203843371571670646486287
   y = -54
-  vr:showif:windowwidthbiggerthan = true
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:0dc06bb5-7d4b-4e83-8a95-f61162a002791681122933139] = 1363
   height = 63
-}
-
-customization {
-  vr:showif:windowheightbiggerthan = true
-  orientation = element
-  vr:value:windowwidthbiggerthan = 1363
-  slim = true
-  scale = 65
-  vr:value:windowheightbiggerthan = 614
-  showname = true
-  crouching = false
-  orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
-  x = 136
-  actionid = c65a96e1-a27e-4e91-8587-3450c9e56e781670645393698
-  action = addentity
-  y = 157
-  vr:showif:windowwidthbiggerthan = true
-  playername = %playername%
-  parrot = true
 }
 
 customization {
@@ -273,17 +236,16 @@ customization {
 
 customization {
   orientation = bottom-right
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  label = 更新日志
   loopbackgroundanimations = true
   hoverlabel = CreatechStudio
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://github.com/CreatechStudio/MC-Mod-Integration/releases%btnaction_splitter_fm%
   x = -131
   width = 82
-  actionid = 8afcfb1a-e0ff-4036-a12d-13014edaa6e31670647311903
   action = addbutton
+  actionid = 8afcfb1a-e0ff-4036-a12d-13014edaa6e31670647311903
   y = -20
-  value = https://github.com/CreatechStudio/MC-Mod-Integration/releases
+  label = 更新日志
   height = 20
 }
 
@@ -299,16 +261,15 @@ customization {
 }
 
 customization {
-  vr:showif:windowheightbiggerthan = true
   orientation = element
   enable_scrolling = true
   shadow = true
-  vr:value:windowwidthbiggerthan = 1363
+  [loading_requirement:fancymenu_loading_requirement_is_window_height_bigger_than][requirement_mode:if][req_id:951d5eff-3f1f-4a71-aad9-96e67dce01351681122933149] = 614
   scale = 1.0
   source = https://mci.createchstudio.com/notice.txt
   text_border = 0
   case_mode = normal
-  vr:value:windowheightbiggerthan = 614
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:430c29f0-72e3-48d9-b9e0-4a87d143fd991681122933149] = 1363
   source_mode = web
   line_spacing = 1
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
@@ -317,7 +278,6 @@ customization {
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 54fdbb6d-7dcc-434d-b841-f22b5ea526e11670669251779
   y = 64
-  vr:showif:windowwidthbiggerthan = true
   alignment = left
   height = 149
 }
@@ -326,83 +286,77 @@ customization {
   orientation = bottom-right
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://github.com/CreatechStudio/MC-Mod-Integration/issues/new/choose%btnaction_splitter_fm%
   x = -186
   width = 25
-  actionid = 75181b4e-7c9e-4bed-a8b7-95b1eff060641670669951702
   action = addbutton
+  actionid = 75181b4e-7c9e-4bed-a8b7-95b1eff060641670669951702
   y = -20
   label = 反馈
-  value = https://github.com/CreatechStudio/MC-Mod-Integration/issues/new/choose
   height = 20
 }
 
 customization {
   orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = join_last_world
-  label = 上次游玩
   loopbackgroundanimations = true
   hoverlabel = 加入上次世界/服务器
+  restartbackgroundanimations = true
+  buttonaction = join_last_world;%btnaction_splitter_fm%
   x = -294
   width = 79
-  actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   action = addbutton
+  actionid = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   y = -56
-  value = 
+  label = 上次游玩
   height = 20
 }
 
 customization {
-  vr:showif:windowheightbiggerthan = true
   orientation = element
+  [loading_requirement:fancymenu_loading_requirement_is_window_height_bigger_than][requirement_mode:if][req_id:046570dd-469a-4a8e-8fb1-b8f20d6f533f1681122933152] = 614
   basecolor = #ffff00
   shadow = true
-  vr:value:windowwidthbiggerthan = 1363
   rotation = -20.0
   scale = 1.0
   refresh = true
   bouncing = true
-  vr:value:windowheightbiggerthan = 614
   vanilla-like = true
+  [loading_requirement:fancymenu_loading_requirement_is_window_width_bigger_than][requirement_mode:if][req_id:69dff276-95a8-4e22-8c5a-d317906f5cd51681122933152] = 1363
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
   x = 583
   actionid = 036f3dfb-37d8-4359-8868-7a97952c2a441670678872342
   action = addsplash
   y = -9
-  vr:showif:windowwidthbiggerthan = true
-  text = 那是bug吗?
+  text = You're going too fast!
 }
 
 customization {
   orientation = element
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  label = 资源下载
   loopbackgroundanimations = true
+  restartbackgroundanimations = true
   orientation_element = 03bbb50c-5845-4c5d-a3c1-3e922beeb9c41670670183072
+  buttonaction = openlink;https://drive.createchstudio.com/zh-CN/Game/Minecraft/%btnaction_splitter_fm%
   x = 0
   width = 79
-  actionid = 6dbb10a6-2d2b-4dc0-9cd0-3eb6eae143881674014804495
   action = addbutton
-  y = 168
-  value = https://drive.createchstudio.com/zh-CN/Game/Minecraft/
+  actionid = 6dbb10a6-2d2b-4dc0-9cd0-3eb6eae143881674014804495
+  y = 144
+  label = 资源下载
   height = 20
 }
 
 customization {
   orientation = bottom-right
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  description = 此捐赠非必须，请按需捐赠，我们万分感谢
-  label = 捐赠
   loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://afdian.net/a/createchstudio%btnaction_splitter_fm%
   x = -158
   width = 24
-  actionid = 1f37b2b8-9220-46e7-83fa-add7004ec65f1674014826369
   action = addbutton
+  actionid = 1f37b2b8-9220-46e7-83fa-add7004ec65f1674014826369
   y = -20
-  value = https://afdian.net/a/createchstudio
+  description = 此捐赠非必须，请按需捐赠，我们万分感谢
+  label = 捐赠
   height = 20
 }
 

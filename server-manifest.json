@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.2b19",
+  "version": "1.19.4b1",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -16,6 +16,10 @@
     {
       "path": "ModTranslations/antighost.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/id_id.json",
+      "hash": "c52d0d119ffceb732ed66981549c074bed63d573"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/tr_tr.json",
@@ -107,7 +111,7 @@
     },
     {
       "path": "ModTranslations/assets/antighost/lang/vi_vn.json",
-      "hash": "597bd493202988ca353d655215c651f85ec3850e"
+      "hash": "7335feae73f86d6ce7821880740286a66ca41631"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/ru_ru.json",
@@ -127,7 +131,7 @@
     },
     {
       "path": "ModTranslations/assets/antighost/lang/pt_br.json",
-      "hash": "4ab04343708a5ca7725156c245032f8a73dec976"
+      "hash": "ee437964914721e958638db87a5ab79589cd7039"
     },
     {
       "path": "ModTranslations/assets/antighost/lang/zh_tw.json",
@@ -314,242 +318,6 @@
       "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
     },
     {
-      "path": "config/continuity.json",
-      "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd"
-    },
-    {
-      "path": "config/orderly.json",
-      "hash": "29ff0c51e03144e0fafc430113e24acae016edaa"
-    },
-    {
-      "path": "config/collective-fabric.json5",
-      "hash": "01361ea7d970b87227c03ecaf39218519eae28dd"
-    },
-    {
-      "path": "config/iris.properties",
-      "hash": "69150a65372df491df34fce473eeb82130252241"
-    },
-    {
-      "path": "config/collective-fabric.json",
-      "hash": "4368c579ee43c53bf25e8e518e14229d3250f9b8"
-    },
-    {
-      "path": "config/animatica.properties",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "config/xaeroworldmap.txt",
-      "hash": "0bc428d7ef58291828b69fc817f344a6702b2174"
-    },
-    {
-      "path": "config/minihud/_____dim_minecraft_the_nether.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/61.mcmod.com.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/nmsl.pet_dim_minecraft_overworld.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/server.doyoulikevanyouxi.com.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/clientscript_test_dim_minecraft_overworld.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/localhost.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/play.molean.com.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/play.molean.com_dim_minecraft_world.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/xplus.plus_dim_minecraft_the_nether.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/61.mcmod.com_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/clientscript_test.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/play.lanzhoumc.cn_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/server.doyoulikevanyouxi.com_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/mc.qingzhou.fun.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/meawyo.me.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/play.lanzhoumc.cn.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/meawyo.me_dim_minecraft_overworld.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/v180.minemc.top_dim_minecraft_overworld.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/play.molean.com_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/xplus.plus_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/xplus.plus_dim_minecraft_the_end.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/xplus.plus.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/nmsl.pet.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/mc.qingzhou.fun_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/____.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/localhost_dim_minecraft_overworld.json",
-      "hash": "e708f04f738ce50f0f384bbb09fb8a6e50fa3537"
-    },
-    {
-      "path": "config/minihud/_____dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/v180.minemc.top.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/minihud/R18-nmsl.cn_dim_minecraft_overworld.json",
-      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe"
-    },
-    {
-      "path": "config/minihud/R18-nmsl.cn.json",
-      "hash": "63334c29f8821e7373ea30d1056de2651da42a93"
-    },
-    {
-      "path": "config/sodium-extra-options.json",
-      "hash": "3ce79c479bd5ca798e020f1e65b511fa558122e5"
-    },
-    {
-      "path": "config/smoothboot.json",
-      "hash": "26b95126b3312e4633dbc84c7d311612381c0695"
-    },
-    {
-      "path": "config/indium-renderer.properties",
-      "hash": "06bfa379695326bb289f86515c5776f9d43baebc"
-    },
-    {
-      "path": "config/armorchroma.json",
-      "hash": "3960fbbf6e5dd55f89ec3f21d3439a4483f5dafb"
-    },
-    {
-      "path": "config/NoChatReports.json",
-      "hash": "c76fcd36014eeed319383464a5615527594bdc62"
-    },
-    {
-      "path": "config/cem.conf",
-      "hash": "ff2aa81402a6e9e8d78ee53b24413ed22ed14331"
-    },
-    {
-      "path": "config/languagereload.json",
-      "hash": "4ce8870f4af2cf2fcfb0e49a58eb1d8d0a83e5c0"
-    },
-    {
-      "path": "config/xaerominimap_entities.json",
-      "hash": "1728a196440938d51af9629bc734e5a0e8adf4fa"
-    },
-    {
-      "path": "config/betterpingdisplay.json",
-      "hash": "51a7efebd32597a49b4c6f151b36845182ab339a"
-    },
-    {
-      "path": "config/firstperson.json",
-      "hash": "3fdafec28c2e5a08bba57904ecdddca1b9d96cfa"
-    },
-    {
-      "path": "config/appleskin.json5",
-      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
-    },
-    {
-      "path": "config/ommc.json",
-      "hash": "409f8d981eb87a150fa97163435672a68de7258f"
-    },
-    {
-      "path": "config/cull-less-leaves.json",
-      "hash": "62ff3023e189145815899d2d0b35b362fe5a9f5d"
-    },
-    {
-      "path": "config/xaerominimap.txt",
-      "hash": "3617b062c4c52d53e676e9246fc7f5b4200e7c82"
-    },
-    {
-      "path": "config/replaymod.json",
-      "hash": "6fbd1e6cd0f399776a9319e82c240e633878d9b1"
-    },
-    {
-      "path": "config/memoryusagescreen.toml",
-      "hash": "61e43e56fbdc154094cbecd659efae65b8bd7cd5"
-    },
-    {
-      "path": "config/pistorder.properties",
-      "hash": "a85e60100039ed0d0e14cd97e6cc157ca72572ea"
-    },
-    {
-      "path": "config/slightguimodifications/config.json5",
-      "hash": "7325806ed8d841061680d9240b2669dd2bec5901"
-    },
-    {
-      "path": "config/slightguimodifications/cts.groovy",
-      "hash": "b916c22778fa6bac611250b52d898cac4cc9f55c"
-    },
-    {
-      "path": "config/inventoryhud.json",
-      "hash": "19374f746f38f4e290fa3a384e35fa9b629a319d"
-    },
-    {
-      "path": "config/modmenu.json",
-      "hash": "a2d00b0abe940aa88659c554493ce4dfd6f79e29"
-    },
-    {
-      "path": "config/capes.json5",
-      "hash": "7166b76fd1f9b524014cd9fcd897aeca16f7a8d1"
-    },
-    {
       "path": "config/titlescreen/logo.png",
       "hash": "a030b62d05c72435f97421f51c5151b261a32278"
     },
@@ -558,24 +326,8 @@
       "hash": "ada6b2bb2784b6ff53d2e8c7a4fb9d28ba9b06b2"
     },
     {
-      "path": "config/titlescreen/wp.png",
-      "hash": "0f00cd10bc330dbc3e186d24ad75d1c24c428da5"
-    },
-    {
-      "path": "config/durabilityviewer.json",
-      "hash": "3860fa9f3dbeb046ac5158e592cd50eb2c09ed77"
-    },
-    {
-      "path": "config/flytre_lib.json5",
-      "hash": "e61e3802a63c77f0b8cbd210bb54ee04e6175ebd"
-    },
-    {
-      "path": "config/waveycapes.json",
-      "hash": "dd38a1c2404a73309d5feb3fdb9aefe161a7d3bf"
-    },
-    {
-      "path": "config/tips.json",
-      "hash": "64c08ce6b1f7501296882cdc5f8fe9376a2dbc17"
+      "path": "config/titlescreen/bg.png",
+      "hash": "3509f34277a1df3a86beffdb2eb949e94a3ad1f7"
     },
     {
       "path": "config/fancymenu/customization/receiveworld.txt",
@@ -595,7 +347,7 @@
     },
     {
       "path": "config/fancymenu/customization/cmip.txt",
-      "hash": "0079e11ef10cafed9328117c6da559947168ae09"
+      "hash": "aabf52683e352c77ee85366c3a51a462f6c13bb7"
     },
     {
       "path": "config/fancymenu/customization/serverlist.txt",
@@ -611,7 +363,7 @@
     },
     {
       "path": "config/fancymenu/config.txt",
-      "hash": "57b37159cf32693fed9a10ff513fd58a543cefc5"
+      "hash": "1007893720c080cd92c4c32092526da4f526b111"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
@@ -624,6 +376,14 @@
     {
       "path": "config/fancymenu/extensions/fmaudio/locals/en_us.local",
       "hash": "c676caa982acdb468ea573b90fbb7953f3068242"
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b"
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd"
     },
     {
       "path": "config/fancymenu/locals/pl_pl.local",
@@ -639,7 +399,7 @@
     },
     {
       "path": "config/fancymenu/locals/en_us.local",
-      "hash": "f2772891ddd29ab1929dd5b3509b705aaa532306"
+      "hash": "79204509991f6604c06cfc597f7b268d6c0e09f8"
     },
     {
       "path": "config/fancymenu/locals/de_de.local",
@@ -658,1012 +418,8 @@
       "hash": "cedcf78e3a762c0c49e9fc9377202f91cc440e7f"
     },
     {
-      "path": "config/colormatic.properties",
-      "hash": "77bfea84ee917b4d27e8f2f794316f2d897ed692"
-    },
-    {
-      "path": "config/better_loading_screen/config.json5",
-      "hash": "aae5fb9a38f09c275a01b5ff21585b8150851a3e"
-    },
-    {
-      "path": "config/better_loading_screen/background.png",
-      "hash": "833b847ca04097bdd2e53dd1be420643c0fce1b9"
-    },
-    {
-      "path": "config/auto_third_person.cfg",
-      "hash": "a69354202434e64ae939cab926c23ba08110abf3"
-    },
-    {
-      "path": "config/litematica.json",
-      "hash": "78651409dba09deb1fb56da292e679a2ebb512df"
-    },
-    {
-      "path": "config/ViaFabric/viafabric.yml",
-      "hash": "e383fc13201584cc3dc2fccb7bc8f5934a1807c6"
-    },
-    {
-      "path": "config/ViaFabric/viaversion.yml",
-      "hash": "3ffb98e9768be08d5ed602e75d893666a30d91f6"
-    },
-    {
-      "path": "config/chat_heads.json5",
-      "hash": "18ba993f9521c17c528821b3c1c5449b5b3f67d0"
-    },
-    {
-      "path": "config/citresewn-defaults.json",
-      "hash": "0cb297b69dea869c0a2479cc08141a2e4f8b370b"
-    },
-    {
-      "path": "config/fpsreducer.json",
-      "hash": "4c39ac50b96d1baa2a1120614cb5a9b21642d469"
-    },
-    {
-      "path": "config/loadmyresources/config.cfg",
-      "hash": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc"
-    },
-    {
-      "path": "config/entityculling.json",
-      "hash": "91e0e8ee93752a03681e1a3fd51c54bc6bcf76cf"
-    },
-    {
-      "path": "config/enhanced_attack_indicator.json",
-      "hash": "359188bbc8ceec03ba6ab021578cb729d1d23086"
-    },
-    {
-      "path": "config/paperdoll.json",
-      "hash": "c334f2b7f5de1e23b8bfdae5b335548d3bc182ee"
-    },
-    {
-      "path": "config/sodium-extra.properties",
-      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
-    },
-    {
-      "path": "config/shulkerboxtooltip.json5",
-      "hash": "db02769823ce2c2186fdf184c7d6c54a3c4378a9"
-    },
-    {
-      "path": "config/cullleaves.json",
-      "hash": "cdfa96297b1ef9db255932ac50b2c17a8d8f065b"
-    },
-    {
-      "path": "config/midnightlib.json",
-      "hash": "d026466a4e64a38595bca68cdf50e296cc721ef6"
-    },
-    {
-      "path": "config/moreculling.toml",
-      "hash": "ad010ba8556057ad09348e01ef58016dd58ba44c"
-    },
-    {
-      "path": "config/sodium-mixins.properties",
-      "hash": "09db7f09d6dfd063ec4c7c534102892d67655d98"
-    },
-    {
-      "path": "config/mousewheelie.hjson",
-      "hash": "d87107de7b1a242c3972883ac4359fcbab76cd9d"
-    },
-    {
-      "path": "config/carpet/default_carpet.conf",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "config/ferritecore.mixin.properties",
-      "hash": "ea1c60cab2ebbce91adf449936d16721ce3c107e"
-    },
-    {
-      "path": "config/drippyloadingscreen/customization/ctslogo.dllayout",
-      "hash": "1fde6baf653d923c70cc17ae3cf973956f7ce57c"
-    },
-    {
-      "path": "config/drippyloadingscreen/config.cfg",
-      "hash": "03f5281ede9d5128bbc2140208fecb7252830d37"
-    },
-    {
-      "path": "config/drippyloadingscreen/locals/en_us.local",
-      "hash": "316ab51bfbc53d3ab00c8a38117c1aacd0299063"
-    },
-    {
-      "path": "config/roughlyenoughitems/config.json5",
-      "hash": "6b3492cd84c69876698bf44595e2d8fe824fad7e"
-    },
-    {
-      "path": "config/roughlyenoughitems/hints.json",
-      "hash": "169a5096648b0911fd3f131ee148a67099c7f2f7"
-    },
-    {
-      "path": "config/roughlyenoughitems/changelog.txt",
-      "hash": "9c77b91cbc27142f1f21fab41dc32d22898cb479"
-    },
-    {
-      "path": "config/presencefootsteps/updater.json",
-      "hash": "75c10c3afddf1b1665036da06cd9c74d2ae84007"
-    },
-    {
-      "path": "config/presencefootsteps/userconfig.json",
-      "hash": "a5fafc378a45e82063af835c41ac1e21648bc511"
-    },
-    {
-      "path": "config/minecraftcapes/profile/71/71fade1c-117b-4fb4-9362-50902273b1f0",
-      "hash": "1347fb900eca7067cfec5f367363be3bbd5211ea"
-    },
-    {
-      "path": "config/stendhal/stendhal.properties",
-      "hash": "f77698497c92f2a5ff82e9c5c001a4838d9c8189"
-    },
-    {
-      "path": "config/fabric_loader_dependencies.json",
-      "hash": "6850a190c579d92205f8e85cab1ea06f883b9cbf"
-    },
-    {
-      "path": "config/easiervillagertrading.json",
-      "hash": "b3d6c5b660d21182fff1f75dd3545e9d59d24b0f"
-    },
-    {
-      "path": "config/NoChatReports/NCR-Common.json",
-      "hash": "19aa172ddae51d33bed85c07085998bcdf837961"
-    },
-    {
-      "path": "config/NoChatReports/NCR-ServerWhitelist.json",
-      "hash": "ce1db8a52976cd7fa539c671260b371d8f448c09"
-    },
-    {
-      "path": "config/NoChatReports/README.md",
-      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3"
-    },
-    {
-      "path": "config/NoChatReports/NCR-Encryption.json",
-      "hash": "664b6d6d7ed5a23a681af8a2b9c428ff937e07c6"
-    },
-    {
-      "path": "config/NoChatReports/NCR-Client.json",
-      "hash": "a86f9c3d4dd3a700f1a46ecde3752d6409e5b357"
-    },
-    {
-      "path": "config/itemscroller.json",
-      "hash": "4e7d6a1df42630d46317e88d59a9e86e2f0288bc"
-    },
-    {
-      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
-      "hash": "1d218f0112cd2b65fd1b569ef95dac4c22752972"
-    },
-    {
-      "path": "config/inventoryprofilesnext/integrationHints/upgraded-From-Pre-v1.2.5.json",
-      "hash": "0047a760e145b316bb01064313e2f41895243a05"
-    },
-    {
-      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
-    },
-    {
-      "path": "config/smoothswapping.json",
-      "hash": "a3b135f7908c976b5433882a3c5e17a06a0c030f"
-    },
-    {
-      "path": "config/dynamicfps.toml",
-      "hash": "c9de9487404e43a3a23aea1d84693f97ea5304e3"
-    },
-    {
-      "path": "config/konkrete/locals/pl_pl.local",
-      "hash": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
-    },
-    {
-      "path": "config/konkrete/locals/pt_br.local",
-      "hash": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
-    },
-    {
-      "path": "config/konkrete/locals/en_us.local",
-      "hash": "42badc338e767559db38a67bd3e8020a92000e56"
-    },
-    {
-      "path": "config/konkrete/locals/de_de.local",
-      "hash": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
-    },
-    {
-      "path": "config/mods-command.conf",
-      "hash": "99375936a72eb64810dca3a6008b2c7e0b8af0eb"
-    },
-    {
-      "path": "config/autofish.config",
-      "hash": "5560b5eba26a952295d8fd6f5ca64b6c77d0fb1e"
-    },
-    {
-      "path": "config/authme.json5",
-      "hash": "bcce6b853162aa5948301c0706f91952d84a9804"
-    },
-    {
-      "path": "config/magiclib.json",
-      "hash": "a62241621e2a98b4d5a1bc9cf3cf8923c261cc0e"
-    },
-    {
-      "path": "config/rrp.properties",
-      "hash": "e985c58d0ce8f2762c6020150d7c1cd74ed4a5f8"
-    },
-    {
-      "path": "config/itemmodelfix.json",
-      "hash": "d1245fd9f9e2785338cfb319f229dc37589d77dc"
-    },
-    {
       "path": "config/customwindowtitle-client.toml",
-      "hash": "41bafb5dcd9b2ff6bdb43818654600ec1ebbb0b5"
-    },
-    {
-      "path": "config/held-item-info.json",
-      "hash": "077fec37e49cfc66e627df416f46205962c7ba10"
-    },
-    {
-      "path": "config/tweakmyclient.json",
-      "hash": "29aaaee162d3bee31454c5ce03f6d36a22678915"
-    },
-    {
-      "path": "config/cull-less-leaves.toml",
-      "hash": "7ab579dba74eb932f815be8598dcba9bfb314eae"
-    },
-    {
-      "path": "config/draggable-resource-packs.json5",
-      "hash": "b67607d13e477db8e4650e77d75796e82f815e87"
-    },
-    {
-      "path": "config/fpsdisplay.json",
-      "hash": "5d12dd1e1371bfb4d70cfc98d2df4226b858f088"
-    },
-    {
-      "path": "config/xaeropatreon.txt",
-      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
-    },
-    {
-      "path": "config/betterstats.properties",
-      "hash": "c0d955b14c1f91f6000619f21f00d92dac52ea8f"
-    },
-    {
-      "path": "config/voicechat/voicechat-server.properties",
-      "hash": "741e28a0152b7d2fe8fb74f00151faff252418c3"
-    },
-    {
-      "path": "config/voicechat/username-cache.json",
-      "hash": "1cacc43338649289b32810d1d03fb429ceb127c5"
-    },
-    {
-      "path": "config/voicechat/voicechat-client.properties",
-      "hash": "ba79904606198e1e71e975dee95dad1d4c821f0a"
-    },
-    {
-      "path": "config/farsight.json",
-      "hash": "8a17674c33f36a23738ec3d15eb20010e1097638"
-    },
-    {
-      "path": "config/worldeditcui.config.json",
-      "hash": "9d2c1247526f8b3811e6e2ee53673bc3c79337f3"
-    },
-    {
-      "path": "config/waila/waila_plugins.json",
-      "hash": "a76331a82d6dee8c0056a3b9b60c71c568615eed"
-    },
-    {
-      "path": "config/waila/waila.json",
-      "hash": "68c20293979a2191dd3172bf629d83b3915d4565"
-    },
-    {
-      "path": "config/waila/blacklist.json",
-      "hash": "1128a7a6ba3b485802dae4c5b9850d313cebc5d3"
-    },
-    {
-      "path": "config/fabric/indigo-renderer.properties",
-      "hash": "8991e00932b42909bb67f2cd14de88dd65a002f2"
-    },
-    {
-      "path": "config/minihud.json",
-      "hash": "d25ba0bbc3bf39e4f7551def41acfaa7604e0449"
-    },
-    {
-      "path": "config/MouseTweaks.cfg",
-      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
-    },
-    {
-      "path": "config/tr7zwDonorSettings.json",
-      "hash": "6d1993e730a8f0e0b531b49bf0014fb9cdbc2f8f"
-    },
-    {
-      "path": "config/enhanced_bes.properties",
-      "hash": "e3843b6dc7241b48b020de3ec5c94a231c776f5a"
-    },
-    {
-      "path": "config/sodium-options.json",
-      "hash": "fd004d718df11bdb6c1f83d9272fbc35fa1b9a10"
-    },
-    {
-      "path": "config/malilib.json",
-      "hash": "38d9e77318ca57d5161d2aa76f26e0263dfa7f0e"
-    },
-    {
-      "path": "config/worldedit/worldedit.properties",
-      "hash": "5a31965d64855cda3d5a7bef539e220545e63069"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/szl/strings.json",
-      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sk/strings.json",
-      "hash": "3460136113848963844612776902d6fa4e6343c8"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/se/strings.json",
-      "hash": "0e89ce1223b6b90c69c809a56441d3a9480eeccb"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kab/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pl/strings.json",
-      "hash": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/vi/strings.json",
-      "hash": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sq/strings.json",
-      "hash": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/he/strings.json",
-      "hash": "bb1f9a33fb26ed2125279687066ce6647e588839"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ms/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mt/strings.json",
-      "hash": "235d227d4aeafb56c808c5257509d38c8c40e2c7"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lol/strings.json",
-      "hash": "53a9f018460300fb51ef613e0cec43f536546e34"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json",
-      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/be/strings.json",
-      "hash": "c60574caff3a7a6dd8846a49bf80fc25c41f394c"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/da/strings.json",
-      "hash": "0364013945a196df3d24a984753d19f80608f8ef"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/no/strings.json",
-      "hash": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json",
-      "hash": "f025a25029b0a7eebf37b2dac8eed5e567869867"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mn/strings.json",
-      "hash": "5a1347a5588e481dd86ab92dc3ad84f316ff602a"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kw/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json",
-      "hash": "dae16763f8f3309d7e52511b8bf387501fc35548"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/haw/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ja/strings.json",
-      "hash": "6616eb900ce6ebb4e5920c0925eeef7e3e37cfce"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/el/strings.json",
-      "hash": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ig/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lv/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json",
-      "hash": "bc9065046c72beada67cc91bde3d98770acbe288"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/oc/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json",
-      "hash": "ff503a4bf90a11bb6ccc2bca6d0b2dd57bf42003"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lb/strings.json",
-      "hash": "5184eb63dcc1b5280d91902c7285d1a827643960"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/it/strings.json",
-      "hash": "2f6a5db7985579763165efa2affb651460bc9eef"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ca/strings.json",
-      "hash": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/oj/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/is/strings.json",
-      "hash": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/cs/strings.json",
-      "hash": "6b9e4dad49b46fb700b18d0aa75d8461cd3b5c90"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json",
-      "hash": "324bb32bb400cfa4815f577c188eba10692a87e0"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json",
-      "hash": "00ce8803a69fae4dd4d65c55223ffc3dd6630fde"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json",
-      "hash": "33271dc0b40bc0d7a24b9f61d3131e3ae55a808a"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ru/strings.json",
-      "hash": "1be8e90bfec09a4d92d78cd496324b57f767f436"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/got/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/moh/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ro/strings.json",
-      "hash": "dbf641475bc55db3a776a6ca0088cdf835bc0e35"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json",
-      "hash": "1c5fc3b7478b635def45cc3103a9394fe6d35710"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/yo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json",
-      "hash": "daf2870641ffe834cee67eeec30c458a43c0eada"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/brb/strings.json",
-      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ido/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/so/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/yi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/enp/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json",
-      "hash": "5f9029381123f5822e27d2da308adcd52d15a58c"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/uk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sr/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/vec/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json",
-      "hash": "d76eba76d98123e6d72a0240eab564145a273764"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json",
-      "hash": "088167f7b1d4fec597fe4bab1ce83da896f4115e"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/mk/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ba/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/kn/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/bs/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json",
-      "hash": "8c8421d8d42a6da81087c5e70fb5e4b55851c0cb"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ar/strings.json",
-      "hash": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gl/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gv/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hr/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json",
-      "hash": "9ded7fe8c66acc4cd043e1ba18eafd2c75f61fb8"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hu/strings.json",
-      "hash": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nl/strings.json",
-      "hash": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/bg/strings.json",
-      "hash": "c0e34950ff125d70db2890a5bc2bc79286dfa4be"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/strings.json",
-      "hash": "792c944c9a71d1ac89669ee6e0b624a31094b1e4"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ast/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fil/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/af/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/hi/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ka/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/az/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/gd/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ko/strings.json",
-      "hash": "e7c8c8054a0da08d45547dec13f082097f4b2626"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fi/strings.json",
-      "hash": "a66a02e0ab974728bb02470ceef4fa5a3ba91721"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/eo/strings.json",
-      "hash": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/id/strings.json",
-      "hash": "396158aa200c2af801ba15826fa0356abb9f682c"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fr/strings.json",
-      "hash": "4e6d4f6957d9042ba1075e0f94c0b4ac8828a91d"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json",
-      "hash": "1b9d0d7339e86e204314d6d7eb6ae0fb089527b4"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/et/strings.json",
-      "hash": "7c9f8fc602d158667a112341b013ea8a0f662e30"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/li/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fa/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/lt/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/fo/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/cy/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nds/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/eu/strings.json",
-      "hash": "1e8a373d399d0a356eded4df368e06a6f18e8f63"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json",
-      "hash": "cc296ccb2a3a69a2bdb33d8f3137b7137619336d"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/ta/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/th/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json",
-      "hash": "68f394011931604ae0623fb3fdbb77b300791f10"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/swg/strings.json",
-      "hash": "02afc3e33312a76a16d423b54bc8ebc0cf682140"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/tr/strings.json",
-      "hash": "1154120fc7238ed77b82674268d4ea0b6da4fa0c"
-    },
-    {
-      "path": "config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json",
-      "hash": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
-    },
-    {
-      "path": "config/libgui.json5",
-      "hash": "aa2f828b3903fa48180cb314feb1107f4b4e42f2"
-    },
-    {
-      "path": "config/startup/logo.png",
-      "hash": "a030b62d05c72435f97421f51c5151b261a32278"
-    },
-    {
-      "path": "config/startup/mojang.png",
-      "hash": "878f76b34361566a8a7ef6a21be27d3dc39d3a62"
-    },
-    {
-      "path": "config/startup/1.jpg",
-      "hash": "b67aeafb5215a58678e7c16844b544903724ed76"
-    },
-    {
-      "path": "config/startup/logo.ogg",
-      "hash": "82f4a9b4af5caee7b698ba725b345ad3f1fc8f08"
-    },
-    {
-      "path": "config/lithium.properties",
-      "hash": "f4bb492c4e567251583252fffdbded3a6d441d2e"
-    },
-    {
-      "path": "config/respackopts/_respackopts.conf",
-      "hash": "8cabeac30d79226ddeea5acb7d5126e3b9c39954"
-    },
-    {
-      "path": "config/lambdynlights.toml",
-      "hash": "69d3de8e3ff11b679746ad61bd3b27aab4d70f34"
-    },
-    {
-      "path": "config/notenoughanimations.json",
-      "hash": "5fd1d953dbcfec5b83d9dd2287a22765da2b5ea1"
-    },
-    {
-      "path": "config/advancementinfo.json5",
-      "hash": "1bbc4d83d98beefbc7ffb1094e751f45fe483819"
-    },
-    {
-      "path": "config/entity_texture_features.json",
-      "hash": "64d729fc3c7ee48e350753649e9e1707e67fcb43"
-    },
-    {
-      "path": "config/voxelmap.properties",
-      "hash": "016f91afcfd3eab97bcc234d9f0e8c5a6742d20f"
-    },
-    {
-      "path": "config/dashloader.json",
-      "hash": "57ab9f3d1aef2d3245352076a373ce42f8129afa"
-    },
-    {
-      "path": "config/minecraftcapes.json",
-      "hash": "2e9400fecdc28c8a5e2dfe9991e5bd93b6f645c0"
-    },
-    {
-      "path": "config/gamma_utils.json5",
-      "hash": "1f05f9d6bf43f9e57a10c871fc87187d43f70e97"
-    },
-    {
-      "path": "config/beautifiedchatclient-fabric.json",
-      "hash": "a1490ecda4a581265ab25a32ba3319c6a08401f5"
-    },
-    {
-      "path": "config/litematica/litematica_R18-nmsl.cn.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_v180.minemc.top_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_play.molean.com_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_xplus.plus_dim_minecraft_the_end.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_play.lanzhoumc.cn.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica______dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_server.doyoulikevanyouxi.com_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_clientscript_test.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_meawyo.me_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_v180.minemc.top.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_R18-nmsl.cn_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_mc.qingzhou.fun_dim_minecraft_overworld.json",
-      "hash": "ac6699914b11e49842904e08aca34bb496bdca86"
-    },
-    {
-      "path": "config/litematica/litematica_play.lanzhoumc.cn_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_61.mcmod.com.json",
-      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
-    },
-    {
-      "path": "config/litematica/litematica_server.doyoulikevanyouxi.com.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_nmsl.pet.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_localhost.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_play.molean.com.json",
-      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
-    },
-    {
-      "path": "config/litematica/material_cache.nbt",
-      "hash": "41242d8fa1d6ab8b73b787b1b6cc346f47ce549b"
-    },
-    {
-      "path": "config/litematica/litematica_xplus.plus_dim_minecraft_overworld.json",
-      "hash": "ac6699914b11e49842904e08aca34bb496bdca86"
-    },
-    {
-      "path": "config/litematica/litematica_play.molean.com_dim_minecraft_world.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_xplus.plus_dim_minecraft_the_nether.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_61.mcmod.com_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica______dim_minecraft_the_nether.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_meawyo.me.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_mc.qingzhou.fun.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_____.json",
-      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
-    },
-    {
-      "path": "config/litematica/litematica_xplus.plus.json",
-      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895"
-    },
-    {
-      "path": "config/litematica/litematica_clientscript_test_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_nmsl.pet_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/litematica/litematica_localhost_dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55"
-    },
-    {
-      "path": "config/skinlayers.json",
-      "hash": "7391dca1102b84687c16421dff07ec7375bc8c5e"
-    },
-    {
-      "path": "config/crowdin.txt",
-      "hash": "f31ebd67175d181274cdb9457c4017ce098ffcf3"
-    },
-    {
-      "path": "config/boatiview/client.toml",
-      "hash": "c185dacbc9b54a55e495a2bb98a2276226bc9ab2"
-    },
-    {
-      "path": "config/guifollowers-fabric.json",
-      "hash": "dc606d5b0f7809b61e8676a48ea84e973a776c54"
-    },
-    {
-      "path": "config/tweakeroo.json",
-      "hash": "d686b1d073cd3d76e0a25fd1c41828c48b33f0c3"
-    },
-    {
-      "path": "config/citresewn.json",
-      "hash": "b86f1d616ffb757687cb05f7881d976e4cfd89b4"
-    },
-    {
-      "path": "config/masa_gadget_mod.json",
-      "hash": "98a2f37dfb7e85778d9f6bd887ca74b729b4e8d2"
-    },
-    {
-      "path": "config/fast-chest.properties",
-      "hash": "4485cd5d1800ee6884f5bc6b8540a3793e5946e1"
+      "hash": "d55b8b5e0f6ef475721295bc29259079f1c9cac2"
     },
     {
       "path": "resources/start/frames_main/63.jpg",
@@ -1962,448 +718,396 @@
       "hash": "ed840adde58cf6fbeb7568192a4fc1bbec215477"
     },
     {
-      "path": "mods/pistorder-mc1.19-v1.5.0-fabric.jar",
-      "hash": "f5c269af5abed80b6580ebae8dd6f7dadc7e3495"
+      "path": "mods/BetterAdvancements-Fabric-1.19.4-0.3.1.156.jar",
+      "hash": "60eb9c9ca75429e088a9d06b9ca0638f5dab4560"
     },
     {
-      "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
-      "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
+      "path": "mods/Tips-Fabric-1.19.4-10.0.2.jar",
+      "hash": "9c7803d00c884a1e3c869c9a14f2e9ae85a5178d"
     },
     {
-      "path": "mods/paperdoll-fabric-1.1.1-mc1.19.1.jar",
-      "hash": "87e46e83e0edcc1823c80f64a99fe8fe6e3d1600"
+      "path": "mods/PresenceFootsteps-1.8.0.jar",
+      "hash": "db130cb9a9364011f04a3907b864c30816ea58a3"
     },
     {
       "path": "mods/cherishedworlds-fabric-6.0.0+1.19.1.jar",
       "hash": "f3d3937492f48fb6bd118d150791ccd04d546586"
     },
     {
-      "path": "mods/Fabric-1.18-SmoothSwapping-0.4.4.jar",
-      "hash": "848e0c3a99974c8e21b2ea4e0ddc8205077a2ea6"
+      "path": "mods/konkrete_fabric_1.6.0-2_MC_1.19.4.jar",
+      "hash": "c9003f27465754d9aed87e668a8da42b45ad667f"
     },
     {
-      "path": "mods/enhancedblockentities-0.7.1+1.19.jar",
-      "hash": "78dd28b7d94ef3883e817a328be9e1d66aedaa24"
+      "path": "mods/shulkerboxtooltip-fabric-3.2.5+1.19.4.jar",
+      "hash": "72b5f04c478cb5a551fb3657d55d9ebc4758dc1a"
     },
     {
-      "path": "mods/modmenu-4.0.5.jar",
-      "hash": "1acf6cadf20243d753705e2212d88f90670e49fd"
+      "path": "mods/lambdynamiclights-2.3.0+1.19.4.jar",
+      "hash": "f6e1621f9ee31263919b75af6d6851089c355b02"
     },
     {
-      "path": "mods/DynamicSoundFilters-1.3.0+1.19.jar",
-      "hash": "c32f51cc7e24e7e8298ffd6f068e27d361c3f739"
+      "path": "mods/smoothboot-fabric-1.19.4-1.7.0.jar",
+      "hash": "295dd6dea9763a72ecf77682534d81b0129474fe"
     },
     {
-      "path": "mods/durabilityviewer-1.19-pre2-fabric0.53.3-1.10.3.jar",
-      "hash": "083f8a5951a30f5f1082ead47b934f6fe3bcea3d"
+      "path": "mods/farsight-fabric-1.19-3.4.jar",
+      "hash": "d78530ac3a1213fb19e7c655525ef58e1ece8d1c"
     },
     {
-      "path": "mods/oh-my-minecraft-client-1.19.2-0.5-beta+657858c.jar",
-      "hash": "09ab32563f30f62c841ab374e7580a815968f740"
+      "path": "mods/lithium-fabric-mc1.19.4-0.11.1.jar",
+      "hash": "69aa137957af4f0f701f6a7663c6d8646f84a1cc"
     },
     {
-      "path": "mods/RoughlyEnoughItems-9.1.520.jar",
-      "hash": "d59bcf25e656581972ebef5b360c306485a172d5"
+      "path": "mods/viafabric-0.4.10+32-dev.jar",
+      "hash": "924bbfe14ed942c36ff97d7d7a81a409c850446a"
     },
     {
-      "path": "mods/malilib-fabric-1.19.1-0.13.0.jar",
-      "hash": "288cb0558ec4d7334b1c10a76d317551cf7c884a"
+      "path": "mods/Smooth+Swapping+0.8.1+(1.19.4)-0.8.1.jar",
+      "hash": "39ce5284a43ede23e1ba1a791a8e7c80e5017fbd"
     },
     {
-      "path": "mods/badpackets-fabric-0.2.0.jar",
-      "hash": "8d0855fd49c43921108431501600d976b1927559"
+      "path": "mods/malilib-fabric-1.19.4-0.15.2.jar",
+      "hash": "e4fa824052f51d906dfef61085183d9362bcf202"
     },
     {
-      "path": "mods/orderly-2.0.1-alpha.2+custom-1.19.jar",
-      "hash": "0fba42bf4bd3a5f469fff4b0881598bbd3430846"
+      "path": "mods/BetterF3-6.0.0-Fabric-1.19.4-pre3.jar",
+      "hash": "e36035b62b8a7577acb0dc8871ccece272c9d23b"
     },
     {
-      "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
-      "hash": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+      "path": "mods/language-reload-1.5.5+1.19.4.jar",
+      "hash": "263f9a551974ddd3a1331468680b482bc56e0ff8"
     },
     {
-      "path": "mods/Drippy-Loading-Screen-Mod-Fabric-1.19.jar",
-      "hash": "07d4cf04f427ad37edf75e0541bfa3b1a7ce9031"
+      "path": "mods/badpackets-fabric-0.4.1.jar",
+      "hash": "64ed580b9a7c8d4da646944bd01c775c9aa9cb97"
     },
     {
-      "path": "mods/notenoughanimations-fabric-1.6.1-mc1.19.1.jar",
-      "hash": "ac38cd816611c7ac59addb9a632d62cddeaa6613"
+      "path": "mods/paperdoll-fabric-1.1.1-mc1.19.4.jar",
+      "hash": "ac86c468ea923122a3d41f1c20213827940f2337"
     },
     {
-      "path": "mods/antighost-1.19-fabric0.55.3-1.1.5.jar",
-      "hash": "8069aa7ae030d71ac98c462fb978575dd7f7b1df"
+      "path": "mods/continuity-3.0.0-beta.2+1.19.3.jar",
+      "hash": "229057727abf35e0469527b94d84d96e1770c156"
     },
     {
-      "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
-      "hash": "ff5520d7b10342358575220d88bd39c8cea80dad"
-    },
-    {
-      "path": "mods/CustomSkinLoader_Fabric-14.15-SNAPSHOT-355.jar",
-      "hash": "8a6dccb0c5c4dac30a5529f49f458cbf7e6384e0"
-    },
-    {
-      "path": "mods/minihud-fabric-1.19.1-0.23.1.jar",
-      "hash": "7ee229677850f289ffc0b105718d0adcba2c3773"
-    },
-    {
-      "path": "mods/language-reload-1.3.2.jar",
-      "hash": "f35701734ae863b9736f35e09b1f3658b4b60d23"
-    },
-    {
-      "path": "mods/shulkerboxtooltip-3.1.1+1.19.jar",
-      "hash": "281e8f4316a6921cecf8059ac7b744c4e5eafe16"
-    },
-    {
-      "path": "mods/CustomWindowTitle-Fabric-1.17.1+v1.1.1.jar",
-      "hash": "37a7b22dd075b1478a81cdc379900d1f9b19d326"
+      "path": "mods/InventoryProfilesNext-fabric-1.19.4-1.9.5.jar",
+      "hash": "ff6b427a6c01fde1085c98108f60a200b76a1b0f"
     },
     {
       "path": "mods/enhanced_attack_indicator-1.0.3+1.18.jar",
       "hash": "4efd20bb11923629e7ecb5a6b9fd227e4c235bc4"
     },
     {
-      "path": "mods/memoryleakfix-1.19.1-0.7.0.jar",
-      "hash": "9ef7b93df46b599f96d8c0dba32753373e5e8a1a"
+      "path": "mods/memoryleakfix-fabric-1.17+-1.0.0.jar",
+      "hash": "899018ccd70447efe2f198701aeb52bd5eed7c12"
     },
     {
-      "path": "mods/held-item-info-1.3.0.jar",
-      "hash": "99cc4f9150cf808df60390000725463e427d1bea"
+      "path": "mods/Gamma-Utils-1.6.14-mc1.19.4.jar",
+      "hash": "43629315b1f619f9ba75940b58f1e4286f94eeaf"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.8.6+kotlin.1.7.21.jar",
-      "hash": "edaaceb0f31f7d33a077e998e0ad9415a821aedd"
+      "path": "mods/auudio_fabric_1.0.3_MC_1.19.3.jar",
+      "hash": "eebbee3175a8108d4ec467920477de3805adff5d"
     },
     {
-      "path": "mods/entity-outliner-1.2.4+1.19.jar",
-      "hash": "6448d3559d8595b70460877db12218807c807174"
+      "path": "mods/boathud-1.1.3.jar",
+      "hash": "c196cba5fed1ec13e8ccb7d24c0c5a868615aa56"
     },
     {
-      "path": "mods/FpsReducer2-fabric-1.19.2-2.1.jar",
-      "hash": "d927224666708f8bfa5cc85ede35407a647a2c3b"
+      "path": "mods/held-item-info-1.4.2.jar",
+      "hash": "0d1071506adfaa1ac108d3bb52f8bcb66838a982"
     },
     {
-      "path": "mods/boathud-1.1.1.jar",
-      "hash": "78ac7b61e6f5f397d0b1adc886adc68a15fd138b"
+      "path": "mods/ferritecore-5.2.0-fabric.jar",
+      "hash": "ed6fa9a9365d4e58db6703479a44cc6aed5add2f"
     },
     {
-      "path": "mods/continuity-2.0.0+1.19.jar",
-      "hash": "ac4deeead3e1c4a3d54759f5d27c514f34f9115f"
+      "path": "mods/Autofish-0.9.8-fabric-mc1.19.3.jar",
+      "hash": "ca71722489fe24d8c9ec4d4dc0c73b933c82a7a0"
     },
     {
-      "path": "mods/viafabric-0.4.8+15-main.jar",
-      "hash": "3bdd69b33d432d8ca73424a599527297eded9a41"
+      "path": "mods/fabric-carpet-1.19.4-1.4.101+v230319.jar",
+      "hash": "a803dd477c1704acd3501ded6813f13d72852280"
     },
     {
-      "path": "mods/betterstats-1.4.3.jar",
-      "hash": "5f153bf07665886c822a36ddd824d0f6007e6100"
+      "path": "mods/capes-1.5.2+1.19.3-fabric.jar",
+      "hash": "2464dba794972e50e277b822efbf3025cd8ec68c"
     },
     {
-      "path": "mods/farsight-fabric-1.19.1-2.0.jar",
-      "hash": "a4cdb689ff5ce24bf443da0f2d0ea637e1fe24aa"
+      "path": "mods/bettertaskbar-fabric-mc1.19.3-1.6.1.jar",
+      "hash": "a295b78983d0167a4c28632cdeb10d881d5a0441"
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.19-1.6.1.jar",
-      "hash": "94213a170b77e44566b36fbe868c0f9490822294"
+      "path": "mods/MinecraftCapes Fabric 1.19.4-12.3.0.jar",
+      "hash": "237642e1e8c383e1a9b3b98524ad211225a3c472"
     },
     {
-      "path": "mods/no-resource-pack-warnings-1.0.0.jar",
-      "hash": "3b69e8d0ea05343008abe0eb65cd5c9ffa21df8c"
+      "path": "mods/wthit-fabric-7.2.1.jar",
+      "hash": "3678550eaeedae68ffbf42a0029fdc7cfdfdd39b"
     },
     {
-      "path": "mods/cullleaves-2.3.4.jar",
-      "hash": "f11b20125832126dd62405a346b528f4e055e464"
+      "path": "mods/worldedit-mod-7.2.14.jar",
+      "hash": "86290086a4f0d77e839d4003f13b01785afe7a4b"
     },
     {
-      "path": "mods/advancementinfo-1.19.1-fabric0.58.5-1.3.1.jar",
-      "hash": "9ba152030c480c329653f3ae654b3fca5421c23a"
+      "path": "mods/appleskin-fabric-mc1.19.4-2.4.3.jar",
+      "hash": "5d0ab28e92586731d88b3cc7f1c23585fbe84478"
     },
     {
-      "path": "mods/sodium-extra-0.4.12+mc1.19.2-build.72.jar",
-      "hash": "da2c9faab95af43f5666eeca18523412dc0d779c"
+      "path": "mods/tooltipfix-1.1.1-1.19.3.jar",
+      "hash": "2b2d1e86462a78684ea9c96c206ce06ee71a2d1c"
     },
     {
-      "path": "mods/EnchantmentDescriptions-Forge-1.18.2-10.0.9.jar",
-      "hash": "e3642bc2cbd4f1700c1fe267f543589bbb370bce"
+      "path": "mods/itemscroller-fabric-1.19.4-0.19.2.jar",
+      "hash": "12fe4d003aedd42136980e8117c20ed0e1b060c5"
     },
     {
-      "path": "mods/worldedit-mod-7.2.11-beta-01.jar",
-      "hash": "9155ef3f86b979c7de08d30ddca579916a5d4937"
+      "path": "mods/chat_heads-0.10.9-fabric-1.19.3.jar",
+      "hash": "61773a3f66c41e8d75357221903fd8a2ac892845"
     },
     {
-      "path": "mods/item-model-fix-1.0.3+1.18.jar",
-      "hash": "619c14a9aeb4055b9a466944841eaef33e29d062"
+      "path": "mods/magiclib-0.7.293+17aa28c-stable.jar",
+      "hash": "4ad2e17e84677348e75a9d96adf2d8413b63798d"
     },
     {
-      "path": "mods/waveycapes-fabric-1.2.0-mc1.19.jar",
-      "hash": "13f3402dbc3feb5877a51c21f2062180dd2bcbf2"
+      "path": "mods/Xaeros_Minimap_23.3.3_Fabric_1.19.4.jar",
+      "hash": "d625d3626bc5a4eeac5a11648e3fe251d1d6ba05"
     },
     {
-      "path": "mods/CullLessLeaves-1.0.2.jar",
-      "hash": "4acade75782079391dbf35ff654503d9e31255c2"
+      "path": "mods/minihud-fabric-1.19.4-0.26.2.jar",
+      "hash": "a52eec62cbad969f0a2faa7e30e8a47a9d2392e0"
     },
     {
-      "path": "mods/architectury-6.0.35-fabric.jar",
-      "hash": "07ee08a76b1a72e91fb3dc07fdbf6e1a4dcae256"
+      "path": "mods/loadmyresources_fabric_1.0.4_MC_1.19.3.jar",
+      "hash": "02728ca1575a2b897b11b51ad6367af802f0921a"
     },
     {
-      "path": "mods/InGameAccountSwitcher-Fabric-1.19-8.0.1.jar",
-      "hash": "8b28ba8decc9be24597391563d5bce2b8f669317"
+      "path": "mods/carpet-extra-1.19.4-1.4.100.jar",
+      "hash": "0f12ec03b7b84f76ed7c6854c70b2423f0308ac2"
     },
     {
-      "path": "mods/tooltipfix-1.0.5-1.19.jar",
-      "hash": "8dd951713909e327ae42deb22d0102dc0de07b83"
+      "path": "mods/waveycapes-fabric-1.3.2-mc1.19.3.jar",
+      "hash": "76819889cff9c6e3b2b081a3eec132fe1f383ab2"
     },
     {
-      "path": "mods/fast-chest-1.3+1.19.jar",
-      "hash": "a932bbbb832a1e6dc6fc659ce20528c4705e170b"
+      "path": "mods/no-resource-pack-warnings-1.2.0.jar",
+      "hash": "7f9c90214ba3061804f1217c001e18037fdaacbb"
     },
     {
-      "path": "mods/Controlling-fabric-1.19.1-10.0+4.jar",
-      "hash": "7456c9569dc1c10abf1b1c66a00782a218176b57"
+      "path": "mods/indium-1.0.15+mc1.19.4.jar",
+      "hash": "5391112f63ca8d07b370759da8480a8aafe0d483"
     },
     {
-      "path": "mods/loadmyresources_fabric_1.0.4_MC_1.19-1.19.2.jar",
-      "hash": "61a63cbc4c76a3dcadf9f3f6cf0d2674ede90d7b"
+      "path": "mods/betterstats-2.5.2+1.19.4.jar",
+      "hash": "ecef8e1ae36fb0e75fee1f704412850ced806bf2"
     },
     {
-      "path": "mods/wthit-fabric-5.9.0.jar",
-      "hash": "dbc64e55788fa44575b432d8a7c66a35e9d5a1ff"
+      "path": "mods/entityculling-fabric-1.6.2-mc1.19.4.jar",
+      "hash": "3a9381229408afa9d2c7d7e3fad017e5079ab20c"
     },
     {
-      "path": "mods/MasaGadget-1.19.2-3.0.0-beta+bc54082.jar",
-      "hash": "afa645412fb8ad67261abb44772a9d0d1ef4ad33"
+      "path": "mods/DynamicSoundFilters-1.4.0+1.19.4.jar",
+      "hash": "d9191ef34ceaa50a5309f2e43d5a7ec4e3c4c1e8"
     },
     {
-      "path": "mods/lithium-fabric-mc1.19.1-0.9.0-SNAPSHOT.jar",
-      "hash": "9f8dd2c1634b455e05c39a2bd2e45c4f2b298487"
+      "path": "mods/fancymenu_fabric_2.14.3_MC_1.19.4.jar",
+      "hash": "3f597e33f4691ed275390f40fc07779fc83a59b8"
     },
     {
       "path": "mods/betterbeds-1.2.0.jar",
       "hash": "970e34b6bc69a581aadca2786b9a4490319f35f9"
     },
     {
-      "path": "mods/MouseTweaks-fabric-mc1.19-2.22.jar",
-      "hash": "6004ccf55a3013c54fdbef3b28613c3326231d2c"
-    },
-    {
-      "path": "mods/[fabric-1.19]AllMusic-2.6.5.jar",
-      "hash": "ac7dcff443e52ad9b2a7312796297b4e1e79cd5b"
-    },
-    {
-      "path": "mods/fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar",
-      "hash": "e8a1dba4932c7b361525f17ed73636675765c5c9"
-    },
-    {
-      "path": "mods/optigui-1.1.1.jar",
-      "hash": "5da0d10efb27e8cc3db902ef5e2480d608fabf71"
-    },
-    {
-      "path": "mods/mcwifipnp-1.5.6-1.19.1-fabric.jar",
-      "hash": "a3ab3ee4e1581a958bb3ab30e563e168f5086f20"
+      "path": "mods/fabric-api-0.77.0+1.19.4.jar",
+      "hash": "b7b15b1f1fd5c2bcb31180093bf9e76d48824ebb"
     },
     {
       "path": "mods/dynamic-fps-2.2.0.jar",
       "hash": "8d264374dc08df87777fb51b94c781476c315bb5"
     },
     {
-      "path": "mods/Bookshelf-Fabric-1.19.2-16.1.11.jar",
-      "hash": "958c0f7e9e35597e285e1b51543c016c0d13cad0"
+      "path": "mods/voicechat-fabric-1.19.4-2.4.3.jar",
+      "hash": "91450b2125159be2ac2ede2fe0ab9e930323eb17"
     },
     {
-      "path": "mods/NoChatReports-FABRIC-1.19.2-v1.9.0.jar",
-      "hash": "75c3064b8233b19623667a2d1048502d3b1234bf"
-    },
-    {
-      "path": "mods/cullparticles-2.0.jar",
-      "hash": "d8bdfac6ff57aa0e21b8e1cc51bd797a4d254543"
-    },
-    {
-      "path": "mods/Xaeros_Minimap_22.13.0_Fabric_1.19.1.jar",
-      "hash": "45debb67d5dac407ef3fb561002ed38b4b3c1933"
-    },
-    {
-      "path": "mods/moreculling-1.19.1-0.9.0.jar",
-      "hash": "c0bb75c19a48d425df670a756c6693319bea3599"
+      "path": "mods/litematica-fabric-1.19.4-0.14.2.jar",
+      "hash": "334028392d6f815f03042afa13bd209cabbbae19"
     },
     {
       "path": "mods/lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
     },
     {
-      "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.19.jar",
-      "hash": "8cacea52d388d995b1841390ef6a44da1a4a877f"
+      "path": "mods/MouseTweaks-fabric-mc1.19.4-2.24.jar",
+      "hash": "92c18017770fff5ff956d1c22c1e1f2a3fd1031a"
     },
     {
-      "path": "mods/BetterF3-1.3.2-Fabric-1.19.jar",
-      "hash": "c65443f1ac63aa7e5c16e379557641b76827cf9b"
+      "path": "mods/EnchantmentDescriptions-Forge-1.19.4-15.0.1.jar",
+      "hash": "1410f10b54d8a07999c577432d230d37b9dd3929"
     },
     {
-      "path": "mods/Capes-1.4.4+1.19.jar",
-      "hash": "83e9829da639037c6cd2375669b4705c5ff7d871"
-    },
-    {
-      "path": "mods/bettertaskbar-fabric-1.18.2-1.4.jar",
-      "hash": "76be2b26331007f9ecd1d5f37798b46a34512167"
-    },
-    {
-      "path": "mods/draggable-resource-packs-mc1.19-3.0.0+build.6.jar",
-      "hash": "f48f9933f5bb15020cc61c6a32169260d6018610"
-    },
-    {
-      "path": "mods/itemscroller-fabric-1.19.1-0.17.1.jar",
-      "hash": "8f3bd237dc65b32df217af2e1a5f1ded08256061"
+      "path": "mods/fast-chest-1.4+1.19.3.jar",
+      "hash": "e4379c444259e7a335de476531827e06acf070ae"
     },
     {
       "path": "mods/BetterPingDisplay-Fabric-1.19-1.1.1.jar",
       "hash": "619331a589027fe5bc8bf401afb076bcf0ecc6c0"
     },
     {
-      "path": "mods/ferritecore-5.0.0-fabric.jar",
-      "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
+      "path": "mods/sodium-extra-0.4.18+mc1.19.4-build.100.jar",
+      "hash": "7e6d64f8a5ac5a64be79547e4a9a7d21e9f5597f"
     },
     {
-      "path": "mods/fancymenu_fabric_2.13.0_MC_1.19-1.19.2.jar",
-      "hash": "323511aff1643a602407933a1cc7e12e6277e44a"
+      "path": "mods/iris-mc1.19.4-1.6.0.jar",
+      "hash": "24de9db031847f22f28ef24de8a7509361fc0eb4"
     },
     {
-      "path": "mods/Autofish-0.9.5-fabric-mc1.19.jar",
-      "hash": "223f5c25c2f2984f4d9c94129917a8a3622b1f19"
+      "path": "mods/reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
+      "hash": "2e34574b591b4daddcc59f9c588bccdb2b69227d"
     },
     {
-      "path": "mods/Gamma-Utils-1.6.9-mc1.19.jar",
-      "hash": "483c0cbd72020444770f58c505f7fbb7912c06e2"
+      "path": "mods/MasaGadget-3.1.289+1ca4352-stable.jar",
+      "hash": "8e9e51a3c5bfc1ef2844cfb69e31d9cceefbc9c7"
     },
     {
-      "path": "mods/litematica-fabric-1.19.1-0.12.3.jar",
-      "hash": "6fe58622236fb1aafb13269075f1d2f5ab53ee1a"
+      "path": "mods/invhud.fabric.1.19.4-3.4.11.jar",
+      "hash": "d4c10d2d21688ae4ab04d33a1725157bb0bb129d"
     },
     {
-      "path": "mods/appleskin-fabric-mc1.19-2.4.0.jar",
-      "hash": "9c39064e418b7eb39c8ee4e4b0cb7e54b9cc8758"
+      "path": "mods/optigui-2.0.0-beta.3.jar",
+      "hash": "bb61c5649c1bb027df3f7f2b952fc4885c13eaee"
     },
     {
-      "path": "mods/collective-fabric-1.19.x-4.27.jar",
-      "hash": "e6e2c47485255994f9a2acfd474418e8a790ec48"
+      "path": "mods/KnowMyName-1.1.1-dev.jar",
+      "hash": "6ceb6ab81e02e7629397d182f332205124f37106"
     },
     {
-      "path": "mods/BetterAdvancements-Fabric-1.19.2-0.2.2.142.jar",
-      "hash": "80193c5596a77ea8dc1b81bc292907e153d0a6ee"
-    },
-    {
-      "path": "mods/magiclib-1.19.2-0.5.37.jar",
-      "hash": "7c3be588ea7c849e05e6c801eebee3aca8464285"
-    },
-    {
-      "path": "mods/voicechat-fabric-1.19.2-2.3.2.jar",
-      "hash": "bd7a17b94db3e45acc3ea139fe8dd10d9360ca15"
+      "path": "mods/XaerosWorldMap_1.29.5_Fabric_1.19.4.jar",
+      "hash": "93d203bc6fe080ad189749822687beade9cd7824"
     },
     {
       "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
       "hash": "de6fe932555604345477db89b59d59249909c640"
     },
     {
-      "path": "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar",
-      "hash": "07996117b63b384d30abb92d175c98500dfab04d"
+      "path": "mods/InGameAccountSwitcher-Fabric-1.19-8.0.1.2.jar",
+      "hash": "c7c18fa4a3e6d5085f8cecbe85da1e0fbf5630be"
     },
     {
-      "path": "mods/InventoryHUD-fabric-[1.19.1]+-3.4.2.jar",
-      "hash": "b57d8f07e4b004be297232681326b04976a2197e"
+      "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.19.4.jar",
+      "hash": "e99c068ea4359ebe8595ac2ba92057b280c04308"
     },
     {
-      "path": "mods/XaerosWorldMap_1.26.2_Fabric_1.19.1.jar",
-      "hash": "119e95aaf32c11105d7eaede7dd5df89c0a5e926"
+      "path": "mods/libIPN-fabric-1.19.4-2.0.4.jar",
+      "hash": "7bac6c3cb4bdcc36aaac5f525c79118aefe0cdcf"
     },
     {
-      "path": "mods/tweakeroo-fabric-1.19.1-0.14.2.jar",
-      "hash": "0d6e9b6a7a6b672561335702ac9102a4dff5081d"
+      "path": "mods/WI-Zoom-1.4-MC1.19.4.jar",
+      "hash": "51d4ea7d515c6bbf378c7077cc3be39166c59e16"
     },
     {
-      "path": "mods/auudio_fabric_1.0.3_MC_1.19.jar",
-      "hash": "9ff95e29e0b2a40351f6b27cd919e7f048b22d8f"
+      "path": "mods/CustomSkinLoader_Fabric-14.16.jar",
+      "hash": "cc332bf1f39bba3c23a1367b58085b1b84e93bdf"
     },
     {
-      "path": "mods/iris-mc1.19.2-1.5.0.jar",
-      "hash": "0fab5a9ac4bc30794e12b7478fcb2e7036f02b33"
+      "path": "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar",
+      "hash": "b060680929d7a6d130fb980a9f9907461df05fa1"
     },
     {
-      "path": "mods/carpet-extra-1.19.1-1.4.83.jar",
-      "hash": "aa5dc49f61db4a4aead9dc2d363ea090641b4211"
+      "path": "mods/CustomWindowTitle-Fabric-1.19.3+v1.1.2.jar",
+      "hash": "23c46327075f9315796a4099951071288b1a6959"
     },
     {
-      "path": "mods/easiervillagertrading-1.19.1-fabric0.58.5-1.5.4.jar",
-      "hash": "5df7c30b1ab95250238ac86327c1106a66732de2"
-    },
-    {
-      "path": "mods/chat_heads-0.7.0-fabric-1.19.1.jar",
-      "hash": "cffa67986aaede750cff58c6aea860b9f8c58401"
-    },
-    {
-      "path": "mods/fabric-api-0.59.0+1.19.2.jar",
-      "hash": "d2254514b5c41fae491839045769601c51c546db"
+      "path": "mods/resolution-control-plus-1.19.4-3.0.0.jar",
+      "hash": "1766a9597a91a3bbb9e657be9a52e9728d8a50cc"
     },
     {
       "path": "mods/morechathistory-1.19.1-1.1.1.jar",
       "hash": "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
     },
     {
-      "path": "mods/konkrete_fabric_1.6.0_MC_1.19.1-1.19.2.jar",
-      "hash": "4317c1801cb1ea88107e65cc571c86a4a70aa514"
+      "path": "mods/armorchroma-1.2.5.jar",
+      "hash": "cdce6c11f7c057286b95988e5ce726abbacde415"
     },
     {
-      "path": "mods/cloth-api-4.0.65.jar",
-      "hash": "be86c751c4e8e54c539abd8530f6d84f97c8188c"
+      "path": "mods/pistorder-mc1.19.4-rc2-v1.5.0-fabric.jar",
+      "hash": "406f11530467e30cb3f51472ec013c5d16a19098"
     },
     {
-      "path": "mods/dashloader-4.0.0+1.19.jar",
-      "hash": "c6ecf810365ef16714c6577caba86bd3dfdfa782"
+      "path": "mods/architectury-8.1.79-fabric.jar",
+      "hash": "9e7641900741f14114f01933586b243ae908652f"
     },
     {
-      "path": "mods/lambdynamiclights-2.1.2+1.19.jar",
-      "hash": "0f2b1a29beb9521e11046f76674d78ddc86e1371"
+      "path": "mods/advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar",
+      "hash": "81cb1e5413cf76977532eade93b6904a3a6db9dc"
     },
     {
-      "path": "mods/PresenceFootsteps-1.6.1.jar",
-      "hash": "6f634f842e3572c910352b73ff39faef9b43f043"
+      "path": "mods/RoughlyEnoughItems-11.0.597.jar",
+      "hash": "53eedebdeff9d1b44c7bb82f77afb2b3aadf65fb"
     },
     {
-      "path": "mods/imblockerfabric-1.0.19.jar",
-      "hash": "0d57173d69efe8eb441e538a2a85241705887c9a"
+      "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.1.jar",
+      "hash": "09129a9ad265b60776e18169993ef917535f4ba7"
     },
     {
-      "path": "mods/cloth-config-8.0.75-fabric.jar",
-      "hash": "1d6175cee479a4fac60fc314e988e70485bd29b1"
+      "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
+      "hash": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366"
     },
     {
-      "path": "mods/indium-1.0.9+mc1.19.2.jar",
-      "hash": "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+      "path": "mods/Controlling-fabric-1.19.4-11.0.0.2.jar",
+      "hash": "9fa8f5ac1d873e014965e040c1d66d8e732ab43c"
     },
     {
-      "path": "mods/armorchroma-1.2.2.jar",
-      "hash": "ed585831437d81aed8658fff92bce35ea9566857"
+      "path": "mods/Bookshelf-Fabric-1.19.4-18.0.2.jar",
+      "hash": "3b0b54c9f5d07c4df595952465201c66f426bcdb"
     },
     {
-      "path": "mods/Tips-Fabric-1.19.2-8.0.3.jar",
-      "hash": "e2483459b0514a4639685833b13d5fc101a975c4"
+      "path": "mods/easiervillagertrading-1.19.3-fabric0.68.1-1.5.4.jar",
+      "hash": "70430242aa794cfd33dba5317e8261d53bfdb61d"
     },
     {
-      "path": "mods/bsvsb-3.0.1.jar",
-      "hash": "0d59da5005b52ddef5ad0606a6d9b2886cf29e0b"
+      "path": "mods/collective-1.19.4-6.54.jar",
+      "hash": "ae27eee518ec78cd25d915960ede3c77e6cd082f"
     },
     {
-      "path": "mods/fabric-carpet-1.19.1-1.4.83+v220727.jar",
-      "hash": "217011afdab1a41395dd0ec37095497ca8eb8c79"
+      "path": "mods/draggable-resource-packs-mc1.19-3.0.1+build.9.jar",
+      "hash": "94eefa919014feaa0cb243d31ffe96d77cd1e68d"
     },
     {
-      "path": "mods/WI-Zoom-1.4-MC1.19.1.jar",
-      "hash": "77164ec45e2bf4b827c6aaad59837d52f6dc69da"
+      "path": "mods/notenoughanimations-fabric-1.6.3-mc1.19.4.jar",
+      "hash": "56c43e38294bff3089cfdcd35f16c5e81a240e8c"
     },
     {
-      "path": "mods/replaymod-1.19.1-2.6.10.jar",
-      "hash": "e3c8c976218c1138c7a14595a7673e8d461d39b1"
+      "path": "mods/litematica-printer-1.19.2-3.1.jar",
+      "hash": "eb51980f01a3c858972c0dc9af0ea24faf3a54a9"
     },
     {
-      "path": "mods/MinecraftCapes+Fabric+1.19.2-12.2.2.jar",
-      "hash": "bb41350ea011b0203e8b6a6f0d673ae8b1123808"
+      "path": "mods/tweakeroo-fabric-1.19.4-0.16.0.jar",
+      "hash": "b5a51c54db6387a92aef1c2f75621817b291c28c"
+    },
+    {
+      "path": "mods/mcwifipnp-1.6.4-1.19.4-fabric.jar",
+      "hash": "1d4002da6a2b0d5d489884e0ee457fde4a887560"
+    },
+    {
+      "path": "mods/moreculling-1.19.4-0.17.0.jar",
+      "hash": "91d4fdb4786d2dfe56a84dff552bcadbebc88cec"
+    },
+    {
+      "path": "mods/FpsReducer2-fabric-1.19.4-2.3.jar",
+      "hash": "7b33ea733a7a629040a64787f3044c4c471713d6"
+    },
+    {
+      "path": "mods/modmenu-6.1.0-rc.4.jar",
+      "hash": "d3ec07e6358e95b5ed775ea5a8b1ea938f108a53"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
+      "hash": "2a3d3f8aa263ba7748550a94e97cf760712bc2c6"
+    },
+    {
+      "path": "mods/dashloader-5.0.0-alpha.13+1.19.4.jar",
+      "hash": "8f7c028c7275dda2b4c82c29a2616f91b9f08d08"
     },
     {
       "path": "resourcepacks/Xaeros/pack.png",
@@ -2523,21 +1227,21 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "1a7d887f6425caaad7fe3ab69c4fec5372434e92"
+      "hash": "fdb310683cc15718c3682196229fb9076d849fce"
     },
     {
       "path": "options.txt",
-      "hash": "2bcd9f0b5536d2c1548c0227c8a1f05dba9703f7"
+      "hash": "45279fb04a39abac7e37d9556289d363bc93c6ed"
     }
   ],
   "addons": [
     {
       "id": "game",
-      "version": "1.19.2"
+      "version": "1.19.4"
     },
     {
       "id": "fabric",
-      "version": "0.14.9"
+      "version": "0.14.19"
     }
   ]
 }
