@@ -61,9 +61,10 @@
 | 游戏版本 | 模组加载器 | 支持状况 | 下载链接                                                     |
 | -------- | ---------- | -------- | ------------------------------------------------------------ |
 | 1.20     | Fabric     | 测试版   | 内部测试                                                     |
+| 1.19.4   | Fabric     | 正常更新 | [下载](https://github.com/CreatechStudio/MC-Mod-Integration/releases/tag/Downloader) |
 | 1.19.3   | Fabric     | 不受支持 | /                                                            |
-| 1.19.2   | Fabric     | 正常更新 | [下载](https://github.com/CreatechStudio/MC-Mod-Integration/releases/tag/Downloader) |
-| 1.19     | Fabric     | 停止更新 | [下载(不建议下载)](https://github.com/CreatechStudio/MC-Mod-Integration/releases/tag/1.19b21) |
+| 1.19.2   | Fabric     | 停止更新 | /                                                            |
+| 1.19     | Fabric     | 停止更新 | /                                                            |
 
 ## 内容摘要
 
@@ -145,7 +146,7 @@
 
 ## 游戏截图
 
-![主界面](https://s1.ax1x.com/2023/01/18/pS3Nz0s.png)
+![主界面](https://s1.ax1x.com/2023/04/10/ppqy0bV.png)
 
 ![游戏内截图](https://s1.ax1x.com/2023/01/03/pSiPB2d.png)
 
@@ -153,227 +154,201 @@
 
 ### 模组清单（版本仅供参考）
 
-Autofish-0.9.5-fabric-mc1.19
+architectury-8.1.79-fabric
 
-BetterAdvancements-Fabric-1.19.2-0.2.2.142
+advancementinfo-1.19.4-fabric0.76.0-1.3.1
 
-BetterF3-1.3.2-Fabric-1.19
+antighost-1.19.3-fabric0.68.1-1.1.5
 
-BetterPingDisplay-Fabric-1.19-1.1.1
+appleskin-fabric-mc1.19.4-2.4.3
 
-Bookshelf-Fabric-1.19.2-16.1.11
+armorchroma-1.2.5
 
-Capes-1.4.4+1.19
+Autofish-0.9.8-fabric-mc1.19.3
 
-Controlling-fabric-1.19.1-10.0+4
+auudio_fabric_1.0.3_MC_1.19.3
 
-CullLessLeaves-1.0.2
+badpackets-fabric-0.4.1
 
-CustomSkinLoader_Fabric-14.15-SNAPSHOT-355
-
-CustomWindowTitle-Fabric-1.17.1+v1.1.1
-
-Drippy-Loading-Screen-Mod-Fabric-1.19
-
-DynamicSoundFilters-1.3.0+1.19
-
-EnchantmentDescriptions-Forge-1.18.2-10.0.9
-
-Fabric-1.18-SmoothSwapping-0.4.4
-
-FpsReducer2-fabric-1.19.2-2.1
-
-Gamma-Utils-1.6.9-mc1.19
-
-InGameAccountSwitcher-Fabric-1.19-8.0.1
-
-InventoryHUD-fabric-[1.19.1]+-3.4.2
-
-InventoryProfilesNext-fabric-1.19-1.6.1
-
-MasaGadget-1.19.2-3.0.0-beta+bc54082
-
-MinecraftCapes+Fabric+1.19.2-12.2.2
-
-MouseTweaks-fabric-mc1.19-2.22
-
-NoChatReports-FABRIC-1.19.2-v1.9.0
-
-PresenceFootsteps-1.6.1
-
-RoughlyEnoughItems-9.1.520
-
-Tips-Fabric-1.19.2-8.0.3
-
-WI-Zoom-1.4-MC1.19.1
-
-XaerosWorldMap_1.26.2_Fabric_1.19.1
-
-Xaeros_Minimap_22.13.0_Fabric_1.19.1
-
-[fabirc-1.19]AllMusic-2.6.0
-
-advancementinfo-1.19.1-fabric0.58.5-1.3.1
-
-antighost-1.19-fabric0.55.3-1.1.5
-
-appleskin-fabric-mc1.19-2.4.0
-
-architectury-6.0.35-fabric
-
-armorchroma-1.2.2
-
-auudio_fabric_1.0.3_MC_1.19
-
-badpackets-fabric-0.2.0
+BetterAdvancements-Fabric-1.19.4-0.3.1.156
 
 betterbeds-1.2.0
 
-betterstats-1.4.3
+BetterF3-6.0.0-Fabric-1.19.4-pre3
 
-bettertaskbar-fabric-1.18.2-1.4
+BetterPingDisplay-Fabric-1.19-1.1.1
 
-boathud-1.1.1
+betterstats-2.5.2+1.19.4
 
-bsvsb-3.0.1
+bettertaskbar-fabric-mc1.19.3-1.6.1
 
-carpet-extra-1.19.1-1.4.83
+boathud-1.1.3
 
-chat_heads-0.7.0-fabric-1.19.1
+Bookshelf-Fabric-1.19.4-18.0.2
+
+capes-1.5.2+1.19.3-fabric
+
+carpet-extra-1.19.4-1.4.100
+
+chat_heads-0.10.9-fabric-1.19.3
 
 cherishedworlds-fabric-6.0.0+1.19.1
 
-cloth-api-4.0.65
+collective-1.19.4-6.54
 
-cloth-config-8.0.75-fabric
+continuity-3.0.0-beta.2+1.19.3
 
-collective-fabric-1.19.x-4.27
+Controlling-fabric-1.19.4-11.0.0.2
 
-continuity-2.0.0+1.19
+CustomSkinLoader_Fabric-14.16
 
-cullleaves-2.3.4
+CustomWindowTitle-Fabric-1.19.3+v1.1.2
 
-cullparticles-2.0
+dashloader-5.0.0-alpha.13+1.19.4
 
-dashloader-4.0.0+1.19
-
-draggable-resource-packs-mc1.19-3.0.0+build.6
-
-durabilityviewer-1.19-pre2-fabric0.53.3-1.10.3
+draggable-resource-packs-mc1.19-3.0.1+build.9
 
 dynamic-fps-2.2.0
 
-easiervillagertrading-1.19.1-fabric0.58.5-1.5.4
+DynamicSoundFilters-1.4.0+1.19.4
+
+easiervillagertrading-1.19.3-fabric0.68.1-1.5.4
+
+EnchantmentDescriptions-Forge-1.19.4-15.0.1
 
 enhanced_attack_indicator-1.0.3+1.18
 
-enhancedblockentities-0.7.1+1.19
+entityculling-fabric-1.6.2-mc1.19.4
 
-entity-outliner-1.2.4+1.19
+fabric-api-0.77.0+1.19.4
 
-entityculling-fabric-1.5.2-mc1.19
+fabric-carpet-1.19.4-1.4.101+v230319
 
-fabric-api-0.59.0+1.19.2
+fabric-language-kotlin-1.9.3+kotlin.1.8.20
 
-fabric-carpet-1.19.1-1.4.83+v220727
+fancymenu_fabric_2.14.3_MC_1.19.4
 
-fabric-language-kotlin-1.8.2+kotlin.1.7.10
+farsight-fabric-1.19-3.4
 
-fabric-language-kotlin-1.8.6+kotlin.1.7.21
+fast-chest-1.4+1.19.3
 
-fancymenu_fabric_2.13.0_MC_1.19-1.19.2
+ferritecore-5.2.0-fabric
 
-farsight-fabric-1.19.1-2.0
+fm_audio_extension_fabric_1.1.1_MC_1.19.4
 
-fast-chest-1.3+1.19
+FpsReducer2-fabric-1.19.4-2.3
 
-ferritecore-5.0.0-fabric
+Gamma-Utils-1.6.14-mc1.19.4
 
-fm_audio_extension_fabric_1.1.1_MC_1.19
+held-item-info-1.4.2
 
-held-item-info-1.3.0
+indium-1.0.15+mc1.19.4
 
-imblockerfabric-1.0.19
+InGameAccountSwitcher-Fabric-1.19-8.0.1.2
 
-indium-1.0.9+mc1.19.2
+InventoryProfilesNext-fabric-1.19.4-1.9.5
 
-iris-mc1.19.2-1.5.0
+invhud.fabric.1.19.4-3.4.11
 
-item-model-fix-1.0.3+1.18
+iris-mc1.19.4-1.6.0
 
-itemscroller-fabric-1.19.1-0.17.1
+itemscroller-fabric-1.19.4-0.19.2
 
-konkrete_fabric_1.6.0_MC_1.19.1-1.19.2
+KnowMyName-1.1.1-dev
 
-lambdynamiclights-2.1.2+1.19
+konkrete_fabric_1.6.0-2_MC_1.19.4
 
-language-reload-1.3.2
+lambdynamiclights-2.3.0+1.19.4
+
+language-reload-1.5.5+1.19.4
 
 lazydfu-0.1.3
 
-litematica-fabric-1.19.1-0.12.3
+libIPN-fabric-1.19.4-2.0.4
 
-lithium-fabric-mc1.19.1-0.9.0-SNAPSHOT
+litematica-fabric-1.19.4-0.14.2
 
-loadmyresources_fabric_1.0.4_MC_1.19-1.19.2
+litematica-printer-1.19.2-3.1
 
-magiclib-1.19.2-0.5.37
+lithium-fabric-mc1.19.4-0.11.1
 
-malilib-fabric-1.19.1-0.13.0
+loadmyresources_fabric_1.0.4_MC_1.19.3
 
-mcwifipnp-1.5.6-1.19.1-fabric
+magiclib-0.7.293+17aa28c-stable
 
-memoryleakfix-1.19.1-0.7.0
+malilib-fabric-1.19.4-0.15.2
 
-minihud-fabric-1.19.1-0.23.1
+MasaGadget-3.1.289+1ca4352-stable
 
-modmenu-4.0.5
+mcwifipnp-1.6.4-1.19.4-fabric
+
+memoryleakfix-fabric-1.17+-1.0.0
+
+MinecraftCapes Fabric 1.19.4-12.3.0
+
+minihud-fabric-1.19.4-0.26.2
+
+modmenu-6.1.0-rc.4
 
 morechathistory-1.19.1-1.1.1
 
-moreculling-1.19.1-0.9.0
+moreculling-1.19.4-0.17.0
 
-no-resource-pack-warnings-1.0.0
+MouseTweaks-fabric-mc1.19.4-2.24
 
-notenoughanimations-fabric-1.6.1-mc1.19.1
+no-resource-pack-warnings-1.2.0
 
-oh-my-minecraft-client-1.19.2-0.5-beta+657858c
+NoChatReports-FABRIC-1.19.4-v2.1.1
 
-optigui-1.1.1
+notenoughanimations-fabric-1.6.3-mc1.19.4
 
-orderly-2.0.1-alpha.2+custom-1.19
+optigui-2.0.0-beta.3
 
-paperdoll-fabric-1.1.1-mc1.19.1
+paperdoll-fabric-1.1.1-mc1.19.4
 
-pistorder-mc1.19-v1.5.0-fabric
+pistorder-mc1.19.4-rc2-v1.5.0-fabric
 
-reeses_sodium_options-1.4.4+mc1.19-build.47
+PresenceFootsteps-1.8.0
 
-replaymod-1.19.1-2.6.10
+reeses_sodium_options-1.5.0+mc1.19.4-build.72
 
-shulkerboxtooltip-3.1.1+1.19
+resolution-control-plus-1.19.4-3.0.0
 
-smoothboot-fabric-1.19-1.7.1
+RoughlyEnoughItems-11.0.597
 
-sodium-extra-0.4.12+mc1.19.2-build.72
+shulkerboxtooltip-fabric-3.2.5+1.19.4
 
-sodium-fabric-mc1.19.2-0.4.4+build.18
+Smooth+Swapping+0.8.1+(1.19.4)-0.8.1
+
+smoothboot-fabric-1.19.4-1.7.0
+
+sodium-extra-0.4.18+mc1.19.4-build.100
+
+sodium-fabric-mc1.19.4-0.4.10+build.24
 
 starlight-1.1.1+fabric.ae22326
 
-tooltipfix-1.0.5-1.19
+Tips-Fabric-1.19.4-10.0.2
 
-tweakeroo-fabric-1.19.1-0.14.2
+tooltipfix-1.1.1-1.19.3
 
-viafabric-0.4.8+15-main
+tweakeroo-fabric-1.19.4-0.16.0
 
-voicechat-fabric-1.19.2-2.3.2
+viafabric-0.4.10+32-dev
 
-waveycapes-fabric-1.2.0-mc1.19
+voicechat-fabric-1.19.4-2.4.3
 
-worldedit-mod-7.2.11-beta-01
+waveycapes-fabric-1.3.2-mc1.19.3
 
-wthit-fabric-5.9.0
+WI-Zoom-1.4-MC1.19.4
+
+worldedit-mod-7.2.14
+
+wthit-fabric-7.2.1
+
+Xaeros_Minimap_23.3.3_Fabric_1.19.4
+
+XaerosWorldMap_1.29.5_Fabric_1.19.4
 
 ### 光影清单
 
