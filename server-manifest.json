@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b2",
+  "version": "1.19.4b3",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -762,12 +762,12 @@
       "hash": "69aa137957af4f0f701f6a7663c6d8646f84a1cc"
     },
     {
-      "path": "mods/Smooth+Swapping+0.8.1+(1.19.4)-0.8.1.jar",
-      "hash": "39ce5284a43ede23e1ba1a791a8e7c80e5017fbd"
+      "path": "mods/malilib-fabric-1.19.4-0.15.3.jar",
+      "hash": "557ad3dfbb1599a77a9570b441e0466316521e41"
     },
     {
-      "path": "mods/malilib-fabric-1.19.4-0.15.2.jar",
-      "hash": "e4fa824052f51d906dfef61085183d9362bcf202"
+      "path": "mods/Smooth+Swapping+0.8.1+(1.19.4)-0.8.1.jar",
+      "hash": "39ce5284a43ede23e1ba1a791a8e7c80e5017fbd"
     },
     {
       "path": "mods/BetterF3-6.0.0-Fabric-1.19.4-pre3.jar",
@@ -804,6 +804,10 @@
     {
       "path": "mods/memoryleakfix-fabric-1.17+-1.0.0.jar",
       "hash": "899018ccd70447efe2f198701aeb52bd5eed7c12"
+    },
+    {
+      "path": "mods/KnowMyName-1.2.0-dev.jar",
+      "hash": "c730594e78828325002edd6c85007ac39d31f472"
     },
     {
       "path": "mods/Gamma-Utils-1.6.14-mc1.19.4.jar",
@@ -976,10 +980,6 @@
     {
       "path": "mods/optigui-2.0.0-beta.3.jar",
       "hash": "bb61c5649c1bb027df3f7f2b952fc4885c13eaee"
-    },
-    {
-      "path": "mods/KnowMyName-1.1.1-dev.jar",
-      "hash": "6ceb6ab81e02e7629397d182f332205124f37106"
     },
     {
       "path": "mods/XaerosWorldMap_1.29.5_Fabric_1.19.4.jar",
