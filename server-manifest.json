@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b4",
+  "version": "1.19.b4a",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -926,10 +926,6 @@
       "hash": "8d264374dc08df87777fb51b94c781476c315bb5"
     },
     {
-      "path": "mods/iris-mc1.19.2-1.6.1.jar",
-      "hash": "b33019df6fad5be485409eb3bac92007aa31401e"
-    },
-    {
       "path": "mods/litematica-fabric-1.19.4-0.14.2.jar",
       "hash": "334028392d6f815f03042afa13bd209cabbbae19"
     },
@@ -956,6 +952,10 @@
     {
       "path": "mods/sodium-extra-0.4.18+mc1.19.4-build.100.jar",
       "hash": "7e6d64f8a5ac5a64be79547e4a9a7d21e9f5597f"
+    },
+    {
+      "path": "mods/iris-mc1.19.4-1.6.0.jar",
+      "hash": "24de9db031847f22f28ef24de8a7509361fc0eb4"
     },
     {
       "path": "mods/reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
