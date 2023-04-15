@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b4b",
+  "version": "1.19.4b5",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -726,6 +726,10 @@
       "hash": "9c7803d00c884a1e3c869c9a14f2e9ae85a5178d"
     },
     {
+      "path": "mods/ImmediatelyFast-1.1.12+1.19.4.jar",
+      "hash": "5decd30626ebbb25550eec1487d86a09fb4f9174"
+    },
+    {
       "path": "mods/PresenceFootsteps-1.8.0.jar",
       "hash": "db130cb9a9364011f04a3907b864c30816ea58a3"
     },
@@ -766,6 +770,10 @@
       "hash": "557ad3dfbb1599a77a9570b441e0466316521e41"
     },
     {
+      "path": "mods/connectivity-fabric-1.19.3-3.9.jar",
+      "hash": "f2dd77a9c07e95fee079f1b133bf1c06555a9ecb"
+    },
+    {
       "path": "mods/Smooth+Swapping+0.8.1+(1.19.4)-0.8.1.jar",
       "hash": "39ce5284a43ede23e1ba1a791a8e7c80e5017fbd"
     },
@@ -778,12 +786,20 @@
       "hash": "b72413d475bb48a2835b1efe71944b43b9070b93"
     },
     {
+      "path": "mods/servercore-1.3.5-1.19.4.jar",
+      "hash": "8d96407754d9a6c0fc6dca2a1da6da95e93bc1b4"
+    },
+    {
       "path": "mods/language-reload-1.5.5+1.19.4.jar",
       "hash": "263f9a551974ddd3a1331468680b482bc56e0ff8"
     },
     {
       "path": "mods/badpackets-fabric-0.4.1.jar",
       "hash": "64ed580b9a7c8d4da646944bd01c775c9aa9cb97"
+    },
+    {
+      "path": "mods/3dskinlayers-fabric-1.5.3-mc1.19.4.jar",
+      "hash": "c5e7b680fbbbfdddf142185cef837fa0353d53b5"
     },
     {
       "path": "mods/paperdoll-fabric-1.1.1-mc1.19.4.jar",
@@ -810,6 +826,14 @@
       "hash": "c730594e78828325002edd6c85007ac39d31f472"
     },
     {
+      "path": "mods/noxesium-0.1.8.jar",
+      "hash": "be419ad2b8a3045f19abc0e365ec8a4b2ffa2589"
+    },
+    {
+      "path": "mods/exordium-fabric-1.0.3-mc1.19.4.jar",
+      "hash": "54ea87c77a50d6964edca6ef82c4e4fd251c50bc"
+    },
+    {
       "path": "mods/Gamma-Utils-1.6.14-mc1.19.4.jar",
       "hash": "43629315b1f619f9ba75940b58f1e4286f94eeaf"
     },
@@ -820,6 +844,10 @@
     {
       "path": "mods/boathud-1.1.3.jar",
       "hash": "c196cba5fed1ec13e8ccb7d24c0c5a868615aa56"
+    },
+    {
+      "path": "mods/MixinConflictHelper-1.2.0.jar",
+      "hash": "d25e635f1059d8eedbee106ca55ce12b7055a302"
     },
     {
       "path": "mods/held-item-info-1.4.2.jar",
@@ -884,6 +912,10 @@
     {
       "path": "mods/minihud-fabric-1.19.4-0.26.2.jar",
       "hash": "a52eec62cbad969f0a2faa7e30e8a47a9d2392e0"
+    },
+    {
+      "path": "mods/forgetmechunk-1.0.4-1.18.X-1.19.X.jar",
+      "hash": "ed03ad25fb8cbfae4637edd5a4dd6386d9a6231e"
     },
     {
       "path": "mods/loadmyresources_fabric_1.0.4_MC_1.19.3.jar",
@@ -978,6 +1010,10 @@
       "hash": "d4c10d2d21688ae4ab04d33a1725157bb0bb129d"
     },
     {
+      "path": "mods/krypton-0.2.2.jar",
+      "hash": "fb9166a88757582c5b8ca1627a0a275c05db4a5d"
+    },
+    {
       "path": "mods/optigui-2.0.0-beta.3.jar",
       "hash": "bb61c5649c1bb027df3f7f2b952fc4885c13eaee"
     },
@@ -1054,6 +1090,10 @@
       "hash": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366"
     },
     {
+      "path": "mods/alternate-current-mc1.19-1.5.0.jar",
+      "hash": "cd243c418e04a154b8dffc67bb1bfbf3a09d8769"
+    },
+    {
       "path": "mods/Controlling-fabric-1.19.4-11.0.0.2.jar",
       "hash": "9fa8f5ac1d873e014965e040c1d66d8e732ab43c"
     },
@@ -1068,6 +1108,10 @@
     {
       "path": "mods/collective-1.19.4-6.54.jar",
       "hash": "ae27eee518ec78cd25d915960ede3c77e6cd082f"
+    },
+    {
+      "path": "mods/fabricskyboxes-0.6.5+mc1.19.4.jar",
+      "hash": "1b05437fbc8a7f7f376ae8e93336092352e5ef3d"
     },
     {
       "path": "mods/draggable-resource-packs-mc1.19-3.0.1+build.9.jar",
