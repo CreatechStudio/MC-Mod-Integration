@@ -221,20 +221,6 @@ customization {
 }
 
 customization {
-  orientation = top-left
-  loop = true
-  channel = master
-  x = 0
-  width = 50
-  audio_source:15e1fdaf-cc72-4929-983d-5bb9988004c31670646885318 = config/startup/logo.ogg;EXTERNAL_LOCAL;100;0
-  action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = e88ebdd0-cd93-428c-b4d3-30a0dc0092221670646869299
-  y = 0
-  once_per_session = false
-  height = 50
-}
-
-customization {
   orientation = bottom-right
   loopbackgroundanimations = true
   hoverlabel = CreatechStudio

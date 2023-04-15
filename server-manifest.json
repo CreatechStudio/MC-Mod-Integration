@@ -1,10 +1,14 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.b4a",
+  "version": "1.19.4b4b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
+    {
+      "path": "log4j2.xml",
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
+    },
     {
       "path": "ModTranslations/durabilityviewer.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
@@ -343,7 +347,7 @@
     },
     {
       "path": "config/fancymenu/customization/cmip.txt",
-      "hash": "aabf52683e352c77ee85366c3a51a462f6c13bb7"
+      "hash": "c9b0e0765fc18d09a3f5f749bc9f333fb6fdafb4"
     },
     {
       "path": "config/fancymenu/customization/serverlist.txt",
@@ -954,10 +958,6 @@
       "hash": "7e6d64f8a5ac5a64be79547e4a9a7d21e9f5597f"
     },
     {
-      "path": "mods/iris-mc1.19.4-1.6.0.jar",
-      "hash": "24de9db031847f22f28ef24de8a7509361fc0eb4"
-    },
-    {
       "path": "mods/reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
       "hash": "2e34574b591b4daddcc59f9c588bccdb2b69227d"
     },
@@ -968,6 +968,10 @@
     {
       "path": "mods/voicechat-fabric-1.19.4-2.4.4.jar",
       "hash": "cc0d1c73b40ee64c27f7170cfaf7a580ede94a70"
+    },
+    {
+      "path": "mods/iris-mc1.19.4-1.6.1.jar",
+      "hash": "6fc8ea409fb248721701272e66d2c3bea283f94a"
     },
     {
       "path": "mods/invhud.fabric.1.19.4-3.4.11.jar",
