@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b6",
+  "version": "1.19.4b6a",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -416,6 +416,10 @@
     {
       "path": "config/fancymenu/animations/start/animation.properties",
       "hash": "cedcf78e3a762c0c49e9fc9377202f91cc440e7f"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "21de362b06ec7206b07a8288bac1e871f021ecd8"
     },
     {
       "path": "config/smoothswapping.json",
