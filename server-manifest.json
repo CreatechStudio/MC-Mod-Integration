@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b5",
+  "version": "1.19.4b6",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -418,6 +418,10 @@
       "hash": "cedcf78e3a762c0c49e9fc9377202f91cc440e7f"
     },
     {
+      "path": "config/smoothswapping.json",
+      "hash": "825935449b30dd392b2cc1c5a69eeabff567f33f"
+    },
+    {
       "path": "config/customwindowtitle-client.toml",
       "hash": "d55b8b5e0f6ef475721295bc29259079f1c9cac2"
     },
@@ -732,6 +736,10 @@
     {
       "path": "mods/PresenceFootsteps-1.8.0.jar",
       "hash": "db130cb9a9364011f04a3907b864c30816ea58a3"
+    },
+    {
+      "path": "mods/TieFix-1.13.0.jar",
+      "hash": "88f1f2499a9397f11b80861b4f6166bf4aed2d41"
     },
     {
       "path": "mods/cherishedworlds-fabric-6.0.0+1.19.1.jar",
