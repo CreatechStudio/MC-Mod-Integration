@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b6a",
+  "version": "1.19.4b6b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -732,10 +732,6 @@
     {
       "path": "mods/Tips-Fabric-1.19.4-10.0.2.jar",
       "hash": "9c7803d00c884a1e3c869c9a14f2e9ae85a5178d"
-    },
-    {
-      "path": "mods/ImmediatelyFast-1.1.12+1.19.4.jar",
-      "hash": "5decd30626ebbb25550eec1487d86a09fb4f9174"
     },
     {
       "path": "mods/PresenceFootsteps-1.8.0.jar",
