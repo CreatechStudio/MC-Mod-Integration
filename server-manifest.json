@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.19.4b6b",
+  "version": "1.19.4b6c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -960,10 +960,6 @@
     {
       "path": "mods/fancymenu_fabric_2.14.3_MC_1.19.4.jar",
       "hash": "3f597e33f4691ed275390f40fc07779fc83a59b8"
-    },
-    {
-      "path": "mods/betterbeds-1.2.0.jar",
-      "hash": "970e34b6bc69a581aadca2786b9a4490319f35f9"
     },
     {
       "path": "mods/dynamic-fps-2.2.0.jar",
