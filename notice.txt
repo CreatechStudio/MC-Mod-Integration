@@ -1,6 +1,23 @@
-当前最新整合包版本：1.19.4b7
+当前最新整合包版本：1.19.4b6
 
 更新内容：
-  1.更新了一坨模组
+  1.优化了生存模式下物品移动动画拖沓的问题
+  2.修复恼人的客户端问题
+    修复号：    
+        Fix: Allow opening GUIs in a nether portal
+        Fix: Hide the scoreboard when the F3 screen is shown
+        Fix: Show the experience bar
+        Fix: Display the item stack properly
+        Fix: Limit the text based on the default font
+        Fix: Linux/GNU: Opening chat sometimes writes 't'
+        Fix: Scroll the text properly
+        Fix: Handle mouse clicks properly
+        Fix: Disable the narrator hotkey by default (can be re-enabled in the configuration)
+        Fix: Add option to disable double-tap-to-sprint
+        Fix: Render the fishing line in the correct place
+        Fix: Render non-trident items in regular place while using riptide
+        Fix: Ignore climbable blocks when flying
+        Fix: Ignore depth strider's increased drag while using riptide
+        Fix: Disable telemetry by default (can be re-enabled in the configuration)
 
 点击下方更新日志查看历史更新
