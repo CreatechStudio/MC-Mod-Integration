@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b1d",
+  "version": "1.20b2",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -15184,10 +15184,6 @@
     {
       "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
       "hash": "6dab5c754ec04e671e505df685befcedef27f42e"
-    },
-    {
-      "path": "mods/do-a-barrel-roll-3.0.1+1.20-fabric.jar",
-      "hash": "9ae8cd4b539c9a39816a4d2c578cb8839eaaa083"
     },
     {
       "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.20.jar",
