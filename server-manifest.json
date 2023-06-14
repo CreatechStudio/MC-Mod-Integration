@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b1c",
+  "version": "1.20b1d",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -587,7 +587,7 @@
     },
     {
       "path": "config/fancymenu/animations/120_startup_230613/audio/mainaudio.wav",
-      "hash": "cb21251b945c05392f1e8b8275cfd109f5b6dad3"
+      "hash": "851bf8858f80aeb616691b65d331369ad9749710"
     },
     {
       "path": "config/chunksfadein.properties",
