@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b1b",
+  "version": "1.20b1c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -496,6 +496,98 @@
     {
       "path": "config/titlescreen/bg.png",
       "hash": "3509f34277a1df3a86beffdb2eb949e94a3ad1f7"
+    },
+    {
+      "path": "config/fancymenu/customization/receiveworld.txt",
+      "hash": "a581967e770c04d11d4769c40bc563a9b9891eb1"
+    },
+    {
+      "path": "config/fancymenu/customization/world.txt",
+      "hash": "6b634413be59d5e959bb87a69af217ec2559e90d"
+    },
+    {
+      "path": "config/fancymenu/customization/load.txt",
+      "hash": "1f2544ef848e2025abd9cf312fd7a3afc292a1d2"
+    },
+    {
+      "path": "config/fancymenu/customization/server.txt",
+      "hash": "e198aeda1ce1f4ff6e849d107ec7f3153311e93a"
+    },
+    {
+      "path": "config/fancymenu/customization/cmip.txt",
+      "hash": "314fc229cdb206b891cbd9b2727477aeebef7696"
+    },
+    {
+      "path": "config/fancymenu/customization/serverlist.txt",
+      "hash": "cf56e756af1b9f707e55f68b13eb6bdee33a5ad4"
+    },
+    {
+      "path": "config/fancymenu/customization/worldload.txt",
+      "hash": "03b838ec9971bd2d72ca535d6d36908969dbcac3"
+    },
+    {
+      "path": "config/fancymenu/customization/tips.txt",
+      "hash": "d7a9307e489b5e4c32be2eee9372a9065fbf99af"
+    },
+    {
+      "path": "config/fancymenu/config.txt",
+      "hash": "9046154029315d5866fb4bb8298a6808d99c6ca4"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "hash": "2adcf5d5e432ab4aa0605125243febaff5d83fc4"
+    },
+    {
+      "path": "config/fancymenu/extensions/fmaudio/config.cfg",
+      "hash": "c38c5e44b189d802adfd1dc790a21e89146a38ea"
+    },
+    {
+      "path": "config/fancymenu/extensions/fmaudio/locals/en_us.local",
+      "hash": "c676caa982acdb468ea573b90fbb7953f3068242"
+    },
+    {
+      "path": "config/fancymenu/locals/ru_ru.local",
+      "hash": "097bf0d21a71879b3a87508324bb11051c52ba1b"
+    },
+    {
+      "path": "config/fancymenu/locals/uk_ua.local",
+      "hash": "58a9404fd84d78331701a6e81c34382bae55a7dd"
+    },
+    {
+      "path": "config/fancymenu/locals/pl_pl.local",
+      "hash": "6b065a9ef9287ac5c88775c78f247f607764ad12"
+    },
+    {
+      "path": "config/fancymenu/locals/pt_br.local",
+      "hash": "ab64076d828f5700d3b7e5a5a312b76eaa3e1b16"
+    },
+    {
+      "path": "config/fancymenu/locals/zh_cn.local",
+      "hash": "8e166ec05744eb904901dbedcd5b9374c1ba8f97"
+    },
+    {
+      "path": "config/fancymenu/locals/en_us.local",
+      "hash": "ea7f22c6fa54909605b1d8cb4b45a1e0d8ca6a44"
+    },
+    {
+      "path": "config/fancymenu/locals/de_de.local",
+      "hash": "98b50323485e91e3cc989364873878e42386c372"
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "hash": "3eeef87ee5e7b978339ad53e5e97deecc694b849"
+    },
+    {
+      "path": "config/fancymenu/menu_identifiers.db",
+      "hash": "c4ffbfdf7e6bc0e711bd5ee8b59751d9b3c218b6"
+    },
+    {
+      "path": "config/fancymenu/animations/120_startup_230613/animation.properties",
+      "hash": "dfe2b7dc91b397884758b70d3fda3b787263964c"
+    },
+    {
+      "path": "config/fancymenu/animations/120_startup_230613/audio/mainaudio.wav",
+      "hash": "cb21251b945c05392f1e8b8275cfd109f5b6dad3"
     },
     {
       "path": "config/chunksfadein.properties",
