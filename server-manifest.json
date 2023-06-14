@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b1",
+  "version": "1.20b1b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -10,8 +10,172 @@
       "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
     },
     {
+      "path": "ModTranslations/durabilityviewer.timestamp",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
       "path": "ModTranslations/chunksfadein.timestamp",
       "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "ModTranslations/antighost.timestamp",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/id_id.json",
+      "hash": "c52d0d119ffceb732ed66981549c074bed63d573"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/tr_tr.json",
+      "hash": "a530455f33a760c5731289ee1c7361cae8aa0b50"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/hu_hu.json",
+      "hash": "924bcf3ea748115e19928ebeeecf5b3661f4890b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ve.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pt_pt.json",
+      "hash": "36ab82b09b3a32d34cf61914532e51b22789a841"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_hk.json",
+      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/sv_se.json",
+      "hash": "edda09727eea15eae75ce34004f9f5f1fa69bfeb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/no_no.json",
+      "hash": "f7c9fec8126bde33ccdc9a427503005989875251"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ko_kr.json",
+      "hash": "6051889ccec13a63c4cf0cbe7bb9915a3f57853d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_es.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_at.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ar.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nn_no.json",
+      "hash": "f7c9fec8126bde33ccdc9a427503005989875251"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ja_jp.json",
+      "hash": "73e3a3a189eb18df94c3db144ef4a1ed3366e8f8"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_cn.json",
+      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_cl.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/et_ee.json",
+      "hash": "983c5f2d91e98f1b713974b756b8f251e04cae48"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/el_gr.json",
+      "hash": "ab25a314827d151ffbd5abb2d2a37e00b0212cf0"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/it_it.json",
+      "hash": "2f76964055a91e485c18b732c82ed427079ec092"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fi_fi.json",
+      "hash": "b1b023c22e583ce9d8e591206afc8aca51d04292"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_ec.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_ch.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_mx.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/vi_vn.json",
+      "hash": "7335feae73f86d6ce7821880740286a66ca41631"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ru_ru.json",
+      "hash": "0c94d3846c2dd7f0caef9afb8b6be669f58af914"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nl_nl.json",
+      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/he_il.json",
+      "hash": "30253a672b0d557ad7c426a0b1aacf69a7d4f5a4"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/de_de.json",
+      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pt_br.json",
+      "hash": "ee437964914721e958638db87a5ab79589cd7039"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/zh_tw.json",
+      "hash": "e0c3e7e8b40b91841f3183a7ec8ffa81437e3b64"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fr_fr.json",
+      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/sr_sp.json",
+      "hash": "1ce33657e84712c2e9fb64fb442a6ca3274b2c07"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/cs_cz.json",
+      "hash": "a0827e3a77bf5cd17f4f04a7a6874bad97025e0e"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/uk_ua.json",
+      "hash": "a1d85dda4483a9f3972e928b8f71368c5ee75c39"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/es_uy.json",
+      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/ro_ro.json",
+      "hash": "cef8437a396d65c28788c15d8bf3db367a44a715"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/fr_ca.json",
+      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/pl_pl.json",
+      "hash": "74c34da253f259cc050b2d4cc553965cb785c72f"
+    },
+    {
+      "path": "ModTranslations/assets/antighost/lang/nl_be.json",
+      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95"
     },
     {
       "path": "ModTranslations/assets/chunksfadein/lang/ar_sa.json",
@@ -176,6 +340,150 @@
     {
       "path": "ModTranslations/assets/chunksfadein/lang/nl_be.json",
       "hash": "c20d82618dd3a0962f0b03a5bf719dc4f45f1668"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/tr_tr.json",
+      "hash": "10ac44af11f1b5a6c49cad503cf23f9060fad94b"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_ve.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/pt_pt.json",
+      "hash": "f83f6a82b1f8c56d27649ee4405cabc72b66aa34"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/zh_hk.json",
+      "hash": "78e2051e14a6638e0258ef504bbc27c276642aca"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/sv_se.json",
+      "hash": "dc52754868439c7cc2cfafbb4f9e8b638c4a03b9"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/no_no.json",
+      "hash": "688fcfe8cd0a1e03840dc07fe5c22190f4fd0f41"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/ko_kr.json",
+      "hash": "594f531a9d2e421c4ce6c7d0e2cc40d55e0ece78"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_es.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/de_at.json",
+      "hash": "554fbfabef9d65bd906599b54c9a988bec048ead"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_ar.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/nn_no.json",
+      "hash": "688fcfe8cd0a1e03840dc07fe5c22190f4fd0f41"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/ja_jp.json",
+      "hash": "e18091960e6951591cfb32f47df9e9443a49e815"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/zh_cn.json",
+      "hash": "78e2051e14a6638e0258ef504bbc27c276642aca"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_cl.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/et_ee.json",
+      "hash": "7abbe7e07fd633d20f52277767b232537c5291e2"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/el_gr.json",
+      "hash": "5ca41c7a5d19e4bcaeb1152eb63e59b3e91fdd11"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/it_it.json",
+      "hash": "c38e929a85b7e008a45d017a2321624fd4eb7114"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/fi_fi.json",
+      "hash": "167a9203ed1de2288e4da597f7b0e594e2bc5f51"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_ec.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/de_ch.json",
+      "hash": "554fbfabef9d65bd906599b54c9a988bec048ead"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_mx.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/ru_ru.json",
+      "hash": "800e9ba1712bf14f3d2f62f6b67105a0ab2b75dd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/nl_nl.json",
+      "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/he_il.json",
+      "hash": "25326379d770f8ed27f3618034f56ac3c8947b77"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/de_de.json",
+      "hash": "554fbfabef9d65bd906599b54c9a988bec048ead"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/pt_br.json",
+      "hash": "f83f6a82b1f8c56d27649ee4405cabc72b66aa34"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/zh_tw.json",
+      "hash": "554475698a653f2a3bf2acd28cb6c0317d0adcd4"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/fr_fr.json",
+      "hash": "329e5e82547702278fa009b3b6684562fd3e45ab"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/sr_sp.json",
+      "hash": "833476840020c875f789c15405d330a42de32184"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/cs_cz.json",
+      "hash": "df585076d31011ea1c1881976eac49651a6f4369"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/uk_ua.json",
+      "hash": "1afe140abb3b1fd8123bac123960a9b48d86c758"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/es_uy.json",
+      "hash": "605eae52609ae6cdef51a9c02bad44687a4595bd"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/ro_ro.json",
+      "hash": "3562cfab42d820322129000d08ef4fdf615fa26b"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/fr_ca.json",
+      "hash": "329e5e82547702278fa009b3b6684562fd3e45ab"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/pl_pl.json",
+      "hash": "979eb9707642770e90c33fdb35a675c021105e5c"
+    },
+    {
+      "path": "ModTranslations/assets/durabilityviewer/lang/nl_be.json",
+      "hash": "3addfd1e31ec58f0fe0a7905e912db2d784c094b"
     },
     {
       "path": "config/titlescreen/logo.png",
@@ -14994,90 +15302,6 @@
       "hash": "5a57ea73c3c7c0cc300d69611a9cad93baf8e9ab"
     },
     {
-      "path": "resourcepacks/Createch ClassicOre/pack.png",
-      "hash": "a829e6925804c0363ae1ea7174ec7ade7e6bb86b"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/item/raw_gold.png",
-      "hash": "837e0be0e74c037b34d6ebfaac3f5bfc0c2a1638"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/item/raw_copper.png",
-      "hash": "2320f1ba452ff48d2278a8f2b25624753d9a3066"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/item/raw_iron.png",
-      "hash": "c1c18f66f6c981bf4107268120b64977417a71ff"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_copper_ore.png",
-      "hash": "18d86e7da9373626e18ef0528bd7b9a74ddfe541"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/copper_ore.png",
-      "hash": "449f8d0e3f40a65aac63cc422fb808fb39cb8594"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/redstone_ore.png",
-      "hash": "e4abf0282eafef17464dab7a9ce34cc45d43975f"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/lapis_ore.png",
-      "hash": "ff37b0c5dfd7ba7c6db143d27e7ee38dc11bb598"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/coal_ore.png",
-      "hash": "a5962eb67458d9c838c36444d282e31855c581f0"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_lapis_ore.png",
-      "hash": "e3c68b8456bb16a9588f8ee78c476151aab56d5f"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_gold_ore.png",
-      "hash": "282f77cee1528bb19fa49ac439f42a95bf7207ac"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/iron_ore.png",
-      "hash": "a6be17afdd10ec887003064c3856345a3e9e9c2a"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/gold_ore.png",
-      "hash": "60a4d8741cb18932d2a91b1b483b8e6023a2c66d"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_emerald_ore.png",
-      "hash": "f9c3c6f26a7dae48269597eb9e5709ba9e4df471"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_redstone_ore.png",
-      "hash": "cacec5883bc9cac59f87a4fd1036c7363443e489"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_iron_ore.png",
-      "hash": "2223dcf67195c35c7cd57e9951957509c2fc2d30"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/emerald_ore.png",
-      "hash": "2c9bd42226825f2b6e69eb6a393c917cd0bab81e"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_coal_ore.png",
-      "hash": "66568f6e18dbde0e693d511f98871b43c79d7fda"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/deepslate_diamond_ore.png",
-      "hash": "d217cb8de29542aa34e21087d14c6e8ccd5094c3"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/assets/minecraft/textures/block/diamond_ore.png",
-      "hash": "aff1c172d6cfde884c56e04c0ffc0d4558948cdd"
-    },
-    {
-      "path": "resourcepacks/Createch ClassicOre/pack.mcmeta",
-      "hash": "2431e70ea5a64e46939daff58d0bd2cd5b5b25da"
-    },
-    {
       "path": "resourcepacks/Xaeros/pack.png",
       "hash": "65ca32fde1647f237747aa74e8b6ebc3b24c785b"
     },
@@ -15195,11 +15419,11 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "7eca301f2903ae5e4c7781976f99cb3cee3507ff"
+      "hash": "f85cedec7471b6225f586b606da0ea134299933c"
     },
     {
       "path": "options.txt",
-      "hash": "d6ccb26b57dcff40d26ddadc75baed6f55032c31"
+      "hash": "b2899fb6a7abf486b7df6e8fecd7dba11c1f0489"
     }
   ],
   "addons": [
