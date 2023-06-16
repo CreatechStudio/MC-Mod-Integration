@@ -18,7 +18,22 @@ customization {
   orientation = top-left
   x = 0
   action = movebutton
-  y = 0
+  y = 3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  width = 196
+  action = resizebutton
+  height = 7
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = bottom-right
+  x = -209
+  action = movebutton
+  y = -20
 }
 
 customization {
@@ -300,7 +315,7 @@ customization {
   actionid = 036f3dfb-37d8-4359-8868-7a97952c2a441670678872342
   action = addsplash
   y = -9
-  text = I see your vocabulary has improved!
+  text = Any computer is a laptop if you're brave enough!
 }
 
 customization {

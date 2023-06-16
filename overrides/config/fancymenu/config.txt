@@ -65,7 +65,7 @@ B:showvanillamovewarning = 'true';
 ##[ui]
 
 B:show_unicode_warning = 'false';
-F:uiscale = '2';
+F:uiscale = '2.2';
 
 
 ##[compatibility]
