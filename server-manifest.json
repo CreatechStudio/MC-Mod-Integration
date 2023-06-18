@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b2c",
+  "version": "1.20b2d",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -14962,12 +14962,20 @@
       "hash": "7c751ea4bc7efd08c95138ca1f39a0e546543076"
     },
     {
+      "path": "mods/advancementinfo-1.20-fabric0.83.0-1.3.1.jar",
+      "hash": "f9fec84bb07089fde690e227f79b0c519eb0437c"
+    },
+    {
       "path": "mods/invhud.fabric.1.20-3.4.13.jar",
       "hash": "35faefe13d3ae3426b270f154e4e97e9d9f50bdc"
     },
     {
       "path": "mods/MasaGadget-3.2.308+2c7a07f-stable.jar",
       "hash": "79a1438812da3ba970c77a1b559a94a74f246cf3"
+    },
+    {
+      "path": "mods/Gamma-Utils-1.7.15-mc1.20.1.jar",
+      "hash": "29dfccc5940a152d9bdd718c742c1636c25cb24e"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-4.0.2+1.20.jar",
@@ -14984,10 +14992,6 @@
     {
       "path": "mods/worldedit-fabric-mc1.20-rc1-7.2.15-SNAPSHOT-dist.jar",
       "hash": "e11415cc8e6c389082dbb7c2bb61c89cf77d3e4b"
-    },
-    {
-      "path": "mods/advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar.disabled",
-      "hash": "81cb1e5413cf76977532eade93b6904a3a6db9dc"
     },
     {
       "path": "mods/capes-1.5.2+1.20-fabric.jar",
@@ -15070,20 +15074,16 @@
       "hash": "f6e1621f9ee31263919b75af6d6851089c355b02"
     },
     {
-      "path": "mods/XaerosWorldMap_1.30.5_Fabric_1.20.jar",
-      "hash": "72d1e4a9904f1aa597e3f6baf33e8112e2c9b913"
-    },
-    {
       "path": "mods/PresenceFootsteps-1.9.0.jar",
       "hash": "e5ea35c6c326e6f5e6fe2a8af7cbc6a955515dbc"
     },
     {
-      "path": "mods/litematica-fabric-1.20.1-0.15.0.jar",
-      "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
+      "path": "mods/Jade-1.20-fabric-11.1.3.jar",
+      "hash": "12e5988562fe4be9bc49b0993353dc4f3b937cb3"
     },
     {
-      "path": "mods/Jade-1.20-fabric-11.1.2.jar",
-      "hash": "289f002685ae0529e833b99aab53727d9dce84bb"
+      "path": "mods/litematica-fabric-1.20.1-0.15.0.jar",
+      "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
     },
     {
       "path": "mods/notenoughanimations-fabric-1.6.4-mc1.20.jar",
@@ -15130,12 +15130,12 @@
       "hash": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
     },
     {
-      "path": "mods/betterstats-2.10-alpha.1+1.20.1.jar",
-      "hash": "c2a1b1ffaa0149b3e90b853dfa7b28bca9f6a2fc"
-    },
-    {
       "path": "mods/autofish-0.9.10-SNAPSHOT.jar",
       "hash": "124e2cc30a22c968fdd4e7da456d3c20035c995e"
+    },
+    {
+      "path": "mods/betterstats-2.10+1.20.1.jar",
+      "hash": "b9cc97788aa536db8b9357b964b176169cef1ac5"
     },
     {
       "path": "mods/Tips-Fabric-1.20-11.0.1.jar",
@@ -15222,10 +15222,6 @@
       "hash": "4d499819effd8afe811e5d93952fcc46765a00df"
     },
     {
-      "path": "mods/Gamma-Utils-1.7.14-mc1.20.jar",
-      "hash": "2e0337b864de5052b4f15192241dff5559fb6058"
-    },
-    {
       "path": "mods/appleskin-fabric-mc1.20-2.5.0.jar",
       "hash": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991"
     },
@@ -15264,6 +15260,10 @@
     {
       "path": "mods/yet-another-config-lib-fabric-3.0.1+1.20.jar",
       "hash": "16fecb6e49775715a8e15f9ee55dedace2f41f32"
+    },
+    {
+      "path": "mods/BetterAdvancements-Fabric-1.20-0.3.2.159.jar",
+      "hash": "26d32df8f9a245f65723db5d1c10e0b1003b2d8b"
     },
     {
       "path": "mods/tooltipfix-1.1.1-1.20.jar",
@@ -15342,16 +15342,16 @@
       "hash": "a70a9e7a9f3e3647a9538a581d305b563ba1f2df"
     },
     {
+      "path": "mods/XaerosWorldMap_1.30.6_Fabric_1.20.jar",
+      "hash": "3d00cd983b93bc885fca0596c7007aeade392645"
+    },
+    {
       "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar.disabled",
       "hash": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366"
     },
     {
       "path": "mods/iris-mc1.20-1.6.4.jar",
       "hash": "ec1491adc5dffeb0ab2f5da290b32cd4e45d58ad"
-    },
-    {
-      "path": "mods/BetterAdvancements-Fabric-1.19.4-0.3.1.156.jar.disabled",
-      "hash": "60eb9c9ca75429e088a9d06b9ca0638f5dab4560"
     },
     {
       "path": "mods/easiervillagertrading-1.19.3-fabric0.68.1-1.5.4.jar",
