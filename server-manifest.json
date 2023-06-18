@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b2b",
+  "version": "1.20b2c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -595,7 +595,7 @@
     },
     {
       "path": "config/ias.json",
-      "hash": "bf2ca097b4a0323ac94ddf3bb727cdc994cedd79"
+      "hash": "5b77673bd5988e7b1346407a723c08501f580aed"
     },
     {
       "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
@@ -14954,12 +14954,12 @@
       "hash": "e42025a25a395b1ec06ba7b42fa49ba15602b71d"
     },
     {
-      "path": "mods/litematica-fabric-1.20.0-0.14.3-nyan.1.jar",
-      "hash": "a32e4e82f4f2f00be75e4798faea689196131fe0"
-    },
-    {
       "path": "mods/screenshot-to-clipboard-1.0.9-fabric.jar",
       "hash": "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
+    },
+    {
+      "path": "mods/bettertaskbar-fabric-mc1.20-1.7.0.jar",
+      "hash": "7c751ea4bc7efd08c95138ca1f39a0e546543076"
     },
     {
       "path": "mods/invhud.fabric.1.20-3.4.13.jar",
@@ -14970,16 +14970,16 @@
       "hash": "79a1438812da3ba970c77a1b559a94a74f246cf3"
     },
     {
-      "path": "mods/betterstats-2.8.1+1.19.4.jar.old",
-      "hash": "5fe9ddc59c0c16c12f38b9b21923bf4dd0bdf724"
-    },
-    {
-      "path": "mods/tweakeroo-fabric-1.20.0-0.16.0-nyan_work-beta.1.jar",
-      "hash": "57236c0f710cc0b650cdde1511a5b2855ad933d8"
-    },
-    {
       "path": "mods/shulkerboxtooltip-fabric-4.0.2+1.20.jar",
       "hash": "2fc2c4ec46603aa645f75683ec31d90292cbadcf"
+    },
+    {
+      "path": "mods/carpet-tis-addition-mc1.20.1-v1.48.1.jar",
+      "hash": "00eb1bea9e60396f810168d3e04b2c6de61c3942"
+    },
+    {
+      "path": "mods/held-item-info-1.5.0.jar",
+      "hash": "495ebabae738f8c6dd97563e8b347781a5261fc2"
     },
     {
       "path": "mods/worldedit-fabric-mc1.20-rc1-7.2.15-SNAPSHOT-dist.jar",
@@ -15002,24 +15002,16 @@
       "hash": "ff2fb322da5ca3edc25b55234e0f883797e18647"
     },
     {
+      "path": "mods/tweakeroo-fabric-1.20.1-0.17.0.jar",
+      "hash": "1b2b2f3095e680cd1a51df95fe30a6cbb6c90854"
+    },
+    {
       "path": "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar",
       "hash": "b11e18bb09f06c3f8028fa2c090072976fa326d0"
     },
     {
-      "path": "mods/malilib-fabric-1.20.0-0.15.4-nyan.2.jar",
-      "hash": "8544b16564d74757ba2cc91a58d3ca4c1e94c208"
-    },
-    {
       "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.1.jar",
       "hash": "9a5edd0813913aaf0c0c4f0a4d7d393f5f544091"
-    },
-    {
-      "path": "mods/Xaeros_Minimap_23.4.4_Fabric_1.20.jar",
-      "hash": "b2460713b13e3ef19c10a01f21b9202886515f75"
-    },
-    {
-      "path": "mods/optigui-2.1.2.jar.disabled",
-      "hash": "ec6ee4f47fbe7850866ca2fac9aed14d9c4f0336"
     },
     {
       "path": "mods/BetterPingDisplay-Fabric-1.20-prerelease-1.1.1.jar",
@@ -15028,10 +15020,6 @@
     {
       "path": "mods/no-resource-pack-warnings-1.3.0.jar",
       "hash": "cf429f2de37fc3cd91980ef05bbf75396a3ffddb"
-    },
-    {
-      "path": "mods/XaerosWorldMap_1.30.4_Fabric_1.20.jar",
-      "hash": "5bc9f68dce831c73912ed00ae5352e70b3748997"
     },
     {
       "path": "mods/3dskinlayers-fabric-1.5.3-mc1.20.jar",
@@ -15070,10 +15058,6 @@
       "hash": "8fe5f5956879aae69b15d62ee7ef6f5042e6a086"
     },
     {
-      "path": "mods/bettertaskbar-fabric-mc1.19.3-1.6.1.jar.disabled",
-      "hash": "a295b78983d0167a4c28632cdeb10d881d5a0441"
-    },
-    {
       "path": "mods/CustomWindowTitle-Fabric-1.20+v1.2.0.jar",
       "hash": "180625c304e4d660a08c4c97e5ca24b50622f282"
     },
@@ -15086,12 +15070,16 @@
       "hash": "f6e1621f9ee31263919b75af6d6851089c355b02"
     },
     {
+      "path": "mods/XaerosWorldMap_1.30.5_Fabric_1.20.jar",
+      "hash": "72d1e4a9904f1aa597e3f6baf33e8112e2c9b913"
+    },
+    {
       "path": "mods/PresenceFootsteps-1.9.0.jar",
       "hash": "e5ea35c6c326e6f5e6fe2a8af7cbc6a955515dbc"
     },
     {
-      "path": "mods/held-item-info-1.4.2.jar",
-      "hash": "0d1071506adfaa1ac108d3bb52f8bcb66838a982"
+      "path": "mods/litematica-fabric-1.20.1-0.15.0.jar",
+      "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
     },
     {
       "path": "mods/Jade-1.20-fabric-11.1.2.jar",
@@ -15134,10 +15122,6 @@
       "hash": "ead7d081796c4eb5b7b468a14ac8e688c807d009"
     },
     {
-      "path": "mods/itemscroller-fabric-1.20.0-0.19.2-nyan.1.jar",
-      "hash": "fb1b1d8b07341d59c33280b97aef832e330216e9"
-    },
-    {
       "path": "mods/mcwifipnp-1.6.5-1.20-fabric.jar",
       "hash": "1cbc5f2fe624b1c06676353463961be7cf93a471"
     },
@@ -15166,8 +15150,8 @@
       "hash": "91bdb98be3cbe75823325125fd55d9cd7a4a92ac"
     },
     {
-      "path": "mods/carpet-tis-addition-mc1.20-v1.48.0.jar",
-      "hash": "1641b25e24bc4f959d5caadf97a410b81dfafd2f"
+      "path": "mods/minihud-fabric-1.20.1-0.27.0.jar",
+      "hash": "ab371c460a00cb18bfe41c49e5645dfe0e133d65"
     },
     {
       "path": "mods/litematica-printer-1.19.4-3.2.jar.disabled",
@@ -15188,6 +15172,10 @@
     {
       "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
       "hash": "6dab5c754ec04e671e505df685befcedef27f42e"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_23.5.0_Fabric_1.20.jar",
+      "hash": "d0d455112aea5603681f07255243faf387e65119"
     },
     {
       "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.20.jar",
@@ -15238,10 +15226,6 @@
       "hash": "2e0337b864de5052b4f15192241dff5559fb6058"
     },
     {
-      "path": "mods/armorchroma-1.2.5.jar.disabled",
-      "hash": "cdce6c11f7c057286b95988e5ce726abbacde415"
-    },
-    {
       "path": "mods/appleskin-fabric-mc1.20-2.5.0.jar",
       "hash": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991"
     },
@@ -15282,10 +15266,6 @@
       "hash": "16fecb6e49775715a8e15f9ee55dedace2f41f32"
     },
     {
-      "path": "mods/minihud-fabric-1.20.0-0.26.2-nyan.1.jar",
-      "hash": "0ee672a8356828ce3ee88dd9d9beaededff2c464"
-    },
-    {
       "path": "mods/tooltipfix-1.1.1-1.20.jar",
       "hash": "de704792c691e3d19316c87c21c9ad2bee6c66c3"
     },
@@ -15300,6 +15280,10 @@
     {
       "path": "mods/InventoryProfilesNext-fabric-1.20-1.10.3.jar",
       "hash": "fceb6a4ffc4c52097f50a56fbca01f1422ef89bd"
+    },
+    {
+      "path": "mods/armorchroma-1.2.6.jar",
+      "hash": "c346315627ca08987c972ce1b80cb92978ad4b03"
     },
     {
       "path": "mods/collective-1.20.0-6.57.jar",
@@ -15362,10 +15346,6 @@
       "hash": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366"
     },
     {
-      "path": "mods/KnowMyName-1.2.0-dev.jar.disabled",
-      "hash": "c730594e78828325002edd6c85007ac39d31f472"
-    },
-    {
       "path": "mods/iris-mc1.20-1.6.4.jar",
       "hash": "ec1491adc5dffeb0ab2f5da290b32cd4e45d58ad"
     },
@@ -15386,12 +15366,20 @@
       "hash": "2d0afdfa0978f67c3ea4d39309030656502be997"
     },
     {
+      "path": "mods/itemscroller-fabric-1.20.1-0.20.0.jar",
+      "hash": "076b4d6ea4eb24d74416641025379a5ab8cf6bb9"
+    },
+    {
       "path": "mods/chunksfadein-v1.0.1-1.20.jar",
       "hash": "150c082b864a6a56c1d77495790f23163bccb33c"
     },
     {
       "path": "mods/ferritecore-6.0.0-fabric.jar",
       "hash": "5a57ea73c3c7c0cc300d69611a9cad93baf8e9ab"
+    },
+    {
+      "path": "mods/malilib-fabric-1.20.1-0.16.0.jar",
+      "hash": "3c1283dc03a329fca6ef9609e64409087fefa486"
     },
     {
       "path": "resourcepacks/Xaeros/pack.png",
@@ -15515,7 +15503,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "b2899fb6a7abf486b7df6e8fecd7dba11c1f0489"
+      "hash": "181f1bb8e3b4e2f71983477dc56f68fa2c637c73"
     }
   ],
   "addons": [
