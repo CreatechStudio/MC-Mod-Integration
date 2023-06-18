@@ -60,7 +60,7 @@
 
 | 游戏版本 | 模组加载器 | 支持状况 | 下载链接                                                     |
 | -------- | ---------- | -------- | ------------------------------------------------------------ |
-| 1.20     | Fabric     | 测试版   | [下载](https://github.com/CreatechStudio/MC-Mod-Integration/releases/tag/Downloader) |
+| 1.20     | Fabric     | 正常更新 | [下载](https://github.com/CreatechStudio/MC-Mod-Integration/releases/tag/Downloader) |
 | 1.19.4   | Fabric     | 停止更新 | 请下载最新安装包，前往modpack.cfg，修改"fileApi"为https://32fb2c5e.mc-mod-integration.pages.dev |
 | 1.19.3   | Fabric     | 不受支持 | /                                                            |
 | 1.19.2   | Fabric     | 停止更新 | 请下载最新安装包，前往modpack.cfg，修改"fileApi"为https://6e5e0b23.mc-mod-integration.pages.dev |
