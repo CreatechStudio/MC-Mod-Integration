@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b2e",
+  "version": "1.20b2d",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -624,26 +624,6 @@
     {
       "path": "config/customwindowtitle-client.toml",
       "hash": "442345a54289f1d9468eaf674eb00ddbe2def182"
-    },
-    {
-      "path": "config/jade/jade.json",
-      "hash": "329cce25122d6120fcae22c5cd2192555a17a7a5"
-    },
-    {
-      "path": "config/jade/sort-order.json",
-      "hash": "155c56128ddefea6a7d18af4b5119a910cf82af6"
-    },
-    {
-      "path": "config/jade/hide-entities.json",
-      "hash": "9984b019823e8eaf19a40d0b7ee92590cb53b8e9"
-    },
-    {
-      "path": "config/jade/hide-blocks.json",
-      "hash": "4687cf45914c45a4a67441d1f440d7d89d0f6281"
-    },
-    {
-      "path": "config/jade/plugins.json",
-      "hash": "a746778afcf9753a3498a5d420c6dc390ddbd99d"
     },
     {
       "path": "resources/120_startup_230613/frames_intro/48.jpg",
@@ -14998,10 +14978,6 @@
       "hash": "29dfccc5940a152d9bdd718c742c1636c25cb24e"
     },
     {
-      "path": "mods/advanced-xray-fabric-1.20-1.5.0-build.16.jar",
-      "hash": "c78f10b1151a800322e4788d995497a01dea4729"
-    },
-    {
       "path": "mods/shulkerboxtooltip-fabric-4.0.2+1.20.jar",
       "hash": "2fc2c4ec46603aa645f75683ec31d90292cbadcf"
     },
@@ -15054,10 +15030,6 @@
       "hash": "34556f41a518682c305625a18b1bb14b4417d1b4"
     },
     {
-      "path": "mods/litematica-printer-1.20.1-3.2.1.jar",
-      "hash": "496db16e1d5c248a8ca71e1d8b0f2919ff599a9e"
-    },
-    {
       "path": "mods/moreculling-1.20-0.18.1.jar",
       "hash": "388ad05e95d8c317911a53d57fe960e68661c69a"
     },
@@ -15068,10 +15040,6 @@
     {
       "path": "mods/spark-1.10.41-fabric.jar",
       "hash": "21962249bae5a26fc1efa4caab3934cda134cf52"
-    },
-    {
-      "path": "mods/language-reload-1.5.8+1.20.1.jar",
-      "hash": "c6d1806fbf8c2cd5969f4d7ee51519ef5c3210d6"
     },
     {
       "path": "mods/RoughlyEnoughItems-12.0.625.jar",
@@ -15118,10 +15086,6 @@
       "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
     },
     {
-      "path": "mods/betterstats-2.10.1+1.20.1.jar",
-      "hash": "f9bca1b804e92341c4d74396ece0a961f0bad2f1"
-    },
-    {
       "path": "mods/notenoughanimations-fabric-1.6.4-mc1.20.jar",
       "hash": "8397ccb8afcf16e7f27e5f0d5ca5c2346ee5330d"
     },
@@ -15158,14 +15122,6 @@
       "hash": "ead7d081796c4eb5b7b468a14ac8e688c807d009"
     },
     {
-      "path": "mods/show-me-your-skin-1.6.6+1.20.jar",
-      "hash": "0d2501fb82f948480139fd600db9c9e2e8f247c9"
-    },
-    {
-      "path": "mods/yet-another-config-lib-fabric-3.0.2+1.20.jar",
-      "hash": "c1c8904d658393871840d19871238416793f661b"
-    },
-    {
       "path": "mods/mcwifipnp-1.6.5-1.20-fabric.jar",
       "hash": "1cbc5f2fe624b1c06676353463961be7cf93a471"
     },
@@ -15176,6 +15132,10 @@
     {
       "path": "mods/autofish-0.9.10-SNAPSHOT.jar",
       "hash": "124e2cc30a22c968fdd4e7da456d3c20035c995e"
+    },
+    {
+      "path": "mods/betterstats-2.10+1.20.1.jar",
+      "hash": "b9cc97788aa536db8b9357b964b176169cef1ac5"
     },
     {
       "path": "mods/Tips-Fabric-1.20-11.0.1.jar",
@@ -15194,6 +15154,10 @@
       "hash": "ab371c460a00cb18bfe41c49e5645dfe0e133d65"
     },
     {
+      "path": "mods/litematica-printer-1.19.4-3.2.jar.disabled",
+      "hash": "bb5c827ff2df956abafefa8aaf98baa60248c0a0"
+    },
+    {
       "path": "mods/voicechat-fabric-1.20-2.4.9.jar",
       "hash": "6118bb4f5179e64a97c2429dc26b13b0b9f8d3d3"
     },
@@ -15202,16 +15166,8 @@
       "hash": "29aa2acbd98c3ce9ec66313977e97ccb4c67d729"
     },
     {
-      "path": "mods/wthit-fabric-8.1.1.jar",
-      "hash": "9a8640b2af89537ade0da2d16f0c39bb5b76d04e"
-    },
-    {
       "path": "mods/Bookshelf-Fabric-1.20-19.0.15.jar",
       "hash": "0aba1451b9a1cbedf0826977a87942e117bc2533"
-    },
-    {
-      "path": "mods/entity-outliner-1.2.6+1.19.3.jar.disabled",
-      "hash": "a83c997097bbe63b38f8c336b316944685b6d237"
     },
     {
       "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
@@ -15234,6 +15190,10 @@
       "hash": "3b0bcacbb175ae6adbbb2af203fce3a37189e494"
     },
     {
+      "path": "mods/wthit-fabric-8.1.0.jar",
+      "hash": "0d134405754c9610d595a68cb6d23adaee67d600"
+    },
+    {
       "path": "mods/lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
     },
@@ -15242,16 +15202,16 @@
       "hash": "6cb2aa8b28401021fd6572a87ab8f2b5a463af60"
     },
     {
-      "path": "mods/alternate-current-mc1.20-1.7.0.jar",
-      "hash": "4136198cbd1ee00e906f33fc533e10a9324fc2b9"
+      "path": "mods/smoothswapping-0.9.2-1.20-fabric.jar",
+      "hash": "97e0efac6ee288554595373e6f21383cd33c9fb4"
+    },
+    {
+      "path": "mods/language-reload-1.5.7+1.20.jar",
+      "hash": "5e69cd99068102861258cc3aa2be4958f732e278"
     },
     {
       "path": "mods/architectury-9.0.8-fabric.jar",
       "hash": "8d8ee30fff69d5a1760c5ca9f680e908541dbfd8"
-    },
-    {
-      "path": "mods/smoothswapping-0.9.2-1.20-fabric.jar.disabled",
-      "hash": "97e0efac6ee288554595373e6f21383cd33c9fb4"
     },
     {
       "path": "mods/WI-Zoom-1.4-MC1.20.jar",
@@ -15260,10 +15220,6 @@
     {
       "path": "mods/krypton-0.2.3.jar",
       "hash": "4d499819effd8afe811e5d93952fcc46765a00df"
-    },
-    {
-      "path": "mods/dynamic-fps-2.4.0.jar",
-      "hash": "8f8dc48343df6bd07aad944f4fe09f33dc737184"
     },
     {
       "path": "mods/appleskin-fabric-mc1.20-2.5.0.jar",
@@ -15302,12 +15258,20 @@
       "hash": "5b0a8abdb05455dca76dd8fbd9919614c086a2a9"
     },
     {
+      "path": "mods/yet-another-config-lib-fabric-3.0.1+1.20.jar",
+      "hash": "16fecb6e49775715a8e15f9ee55dedace2f41f32"
+    },
+    {
       "path": "mods/BetterAdvancements-Fabric-1.20-0.3.2.159.jar",
       "hash": "26d32df8f9a245f65723db5d1c10e0b1003b2d8b"
     },
     {
       "path": "mods/tooltipfix-1.1.1-1.20.jar",
       "hash": "de704792c691e3d19316c87c21c9ad2bee6c66c3"
+    },
+    {
+      "path": "mods/dynamic-fps-2.3.0.jar",
+      "hash": "5aa5c98b9cc47dae201733d9c8fb86f8e9ac3a81"
     },
     {
       "path": "mods/viafabric-0.4.10+39-main.jar",
@@ -15362,6 +15326,10 @@
       "hash": "d9191ef34ceaa50a5309f2e43d5a7ec4e3c4c1e8"
     },
     {
+      "path": "mods/show-me-your-skin-1.6.5+1.20.jar",
+      "hash": "62e3b3559c6b3ee61b882f6cf491f7438231876a"
+    },
+    {
       "path": "mods/carpet-extra-1.20-1.4.112.jar",
       "hash": "b643b29f9dffb54181f4d3ecd393f76d0b519074"
     },
@@ -15388,6 +15356,10 @@
     {
       "path": "mods/easiervillagertrading-1.19.3-fabric0.68.1-1.5.4.jar",
       "hash": "70430242aa794cfd33dba5317e8261d53bfdb61d"
+    },
+    {
+      "path": "mods/alternate-current-mc1.20-1.6.0.jar",
+      "hash": "d374729615cdb59306a7bc8c4cdba37688f29965"
     },
     {
       "path": "mods/MinecraftCapes Fabric 1.20-12.3.5.jar",
