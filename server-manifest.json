@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b3",
+  "version": "1.20b3b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -15240,10 +15240,6 @@
     {
       "path": "mods/alternate-current-mc1.20-1.7.0.jar",
       "hash": "4136198cbd1ee00e906f33fc533e10a9324fc2b9"
-    },
-    {
-      "path": "mods/smoothswapping-0.9.2-1.20-fabric.jar",
-      "hash": "97e0efac6ee288554595373e6f21383cd33c9fb4"
     },
     {
       "path": "mods/architectury-9.0.8-fabric.jar",
