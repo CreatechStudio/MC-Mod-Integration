@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b3b",
+  "version": "1.20b3c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -14990,12 +14990,12 @@
       "hash": "79a1438812da3ba970c77a1b559a94a74f246cf3"
     },
     {
-      "path": "mods/carpet-tis-addition-mc1.20.1-v1.48.2.jar",
-      "hash": "297f45b89a1226ce3da07e6dbc4cdebc000c9811"
-    },
-    {
       "path": "mods/Gamma-Utils-1.7.15-mc1.20.1.jar",
       "hash": "29dfccc5940a152d9bdd718c742c1636c25cb24e"
+    },
+    {
+      "path": "mods/tweakeroo-fabric-1.20.1-0.17.1.jar",
+      "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
     },
     {
       "path": "mods/betterstats-2.10.3+1.20.1.jar",
@@ -15026,10 +15026,6 @@
       "hash": "ff2fb322da5ca3edc25b55234e0f883797e18647"
     },
     {
-      "path": "mods/tweakeroo-fabric-1.20.1-0.17.0.jar",
-      "hash": "1b2b2f3095e680cd1a51df95fe30a6cbb6c90854"
-    },
-    {
       "path": "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar",
       "hash": "b11e18bb09f06c3f8028fa2c090072976fa326d0"
     },
@@ -15040,6 +15036,10 @@
     {
       "path": "mods/no-resource-pack-warnings-1.3.0.jar",
       "hash": "cf429f2de37fc3cd91980ef05bbf75396a3ffddb"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-12.0.626.jar",
+      "hash": "5bb82eb4a5198c1cd49a89922c1abdc0d7b142ea"
     },
     {
       "path": "mods/3dskinlayers-fabric-1.5.3-mc1.20.jar",
@@ -15074,10 +15074,6 @@
       "hash": "c6d1806fbf8c2cd5969f4d7ee51519ef5c3210d6"
     },
     {
-      "path": "mods/RoughlyEnoughItems-12.0.625.jar",
-      "hash": "aa9d07583e035521f3fedc72571050736d52b99b"
-    },
-    {
       "path": "mods/continuity-3.0.0-beta.2+1.20.jar",
       "hash": "c5157819671612384834730a877eec5c484b5cf9"
     },
@@ -15100,6 +15096,10 @@
     {
       "path": "mods/indium-1.0.18+mc1.20.jar",
       "hash": "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
+    },
+    {
+      "path": "mods/carpet-tis-addition-mc1.20.1-v1.49.0.jar",
+      "hash": "08514ace00018a10c2d1c8304de2d292da87a1ff"
     },
     {
       "path": "mods/PresenceFootsteps-1.9.0.jar",
@@ -15150,8 +15150,8 @@
       "hash": "0d2501fb82f948480139fd600db9c9e2e8f247c9"
     },
     {
-      "path": "mods/yet-another-config-lib-fabric-3.0.2+1.20.jar",
-      "hash": "c1c8904d658393871840d19871238416793f661b"
+      "path": "mods/yet-another-config-lib-fabric-3.0.3+1.20.jar",
+      "hash": "779bca0b6b4e98f3601fe09b5977fbe12bbd9347"
     },
     {
       "path": "mods/mcwifipnp-1.6.5-1.20-fabric.jar",
@@ -15366,6 +15366,10 @@
       "hash": "93283fb514c5307ae1bc1fdbdb7d1666017609cb"
     },
     {
+      "path": "mods/malilib-fabric-1.20.1-0.16.1.jar",
+      "hash": "21136f084a6b3710a33fe982a73cdd10621595b5"
+    },
+    {
       "path": "mods/MinecraftCapes Fabric 1.20-12.3.5.jar",
       "hash": "2d0afdfa0978f67c3ea4d39309030656502be997"
     },
@@ -15384,10 +15388,6 @@
     {
       "path": "mods/ferritecore-6.0.0-fabric.jar",
       "hash": "5a57ea73c3c7c0cc300d69611a9cad93baf8e9ab"
-    },
-    {
-      "path": "mods/malilib-fabric-1.20.1-0.16.0.jar",
-      "hash": "3c1283dc03a329fca6ef9609e64409087fefa486"
     },
     {
       "path": "resourcepacks/Xaeros/pack.png",
