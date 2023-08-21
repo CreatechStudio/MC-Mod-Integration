@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20b3d",
+  "version": "1.20.1b1",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -623,7 +623,7 @@
     },
     {
       "path": "config/customwindowtitle-client.toml",
-      "hash": "442345a54289f1d9468eaf674eb00ddbe2def182"
+      "hash": "acf59a8ab74ee835536badb0b792fefe7480b82a"
     },
     {
       "path": "config/jade/jade.json",
@@ -14978,28 +14978,28 @@
       "hash": "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
     },
     {
+      "path": "mods/fabric-api-0.87.0+1.20.1.jar",
+      "hash": "95fec63d338a8fbe5133a9a5054eca364c9017ba"
+    },
+    {
       "path": "mods/bettertaskbar-fabric-mc1.20-1.7.0.jar",
       "hash": "7c751ea4bc7efd08c95138ca1f39a0e546543076"
     },
     {
-      "path": "mods/MasaGadget-3.2.308+2c7a07f-stable.jar",
-      "hash": "79a1438812da3ba970c77a1b559a94a74f246cf3"
-    },
-    {
-      "path": "mods/Gamma-Utils-1.7.15-mc1.20.1.jar",
-      "hash": "29dfccc5940a152d9bdd718c742c1636c25cb24e"
+      "path": "mods/mcwifipnp-1.6.6-1.20.1-fabric.jar",
+      "hash": "73c1fcc8ee3767766d9b750e22f68290c90943fa"
     },
     {
       "path": "mods/tweakeroo-fabric-1.20.1-0.17.1.jar",
       "hash": "2a18f5905f9e10c6a3b45388b4401ec135b3b3cf"
     },
     {
-      "path": "mods/Jade-1.20-fabric-11.2.2.jar",
-      "hash": "6dec6ffc0c8ded8dffcfd7831658e40431186df3"
-    },
-    {
       "path": "mods/betterstats-2.10.3+1.20.1.jar",
       "hash": "12fcb4fe11aa763afae26b8691de8cf8a4dcf82a"
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.6.4+mc1.20.1-build.94.jar",
+      "hash": "e7719e21ee8ee6d2738abdc436c099d8177acc34"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-4.0.2+1.20.jar",
@@ -15022,24 +15022,16 @@
       "hash": "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65"
     },
     {
-      "path": "mods/reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
-      "hash": "ff2fb322da5ca3edc25b55234e0f883797e18647"
-    },
-    {
-      "path": "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar",
-      "hash": "b11e18bb09f06c3f8028fa2c090072976fa326d0"
-    },
-    {
-      "path": "mods/BetterPingDisplay-Fabric-1.20-prerelease-1.1.1.jar",
-      "hash": "4336179a54c2ea3cad447c61e01683103e54e8e9"
+      "path": "mods/collective-1.20.1-6.65.jar",
+      "hash": "ed906fb381167f195ae28aabf3d94363f7f44697"
     },
     {
       "path": "mods/no-resource-pack-warnings-1.3.0.jar",
       "hash": "cf429f2de37fc3cd91980ef05bbf75396a3ffddb"
     },
     {
-      "path": "mods/invhud.fabric.1.20-3.4.14.jar",
-      "hash": "e03c8f61a843eda58e78cc80b2592d0746e4e8e5"
+      "path": "mods/magiclib-all-0.7.364+85d9866-stable.jar",
+      "hash": "36ff2f752ea284b0b53572084a78d43f932e91cc"
     },
     {
       "path": "mods/draggable_lists-mc1.20-1.0.0-build.5.jar",
@@ -15058,24 +15050,32 @@
       "hash": "64ed580b9a7c8d4da646944bd01c775c9aa9cb97"
     },
     {
-      "path": "mods/spark-1.10.41-fabric.jar",
-      "hash": "21962249bae5a26fc1efa4caab3934cda134cf52"
+      "path": "mods/voicechat-fabric-1.20.1-2.4.21.jar",
+      "hash": "51aeb3c0156d8ceebbd821be7fd383db5f02f90d"
     },
     {
-      "path": "mods/RoughlyEnoughItems-12.0.630.jar",
-      "hash": "bcc22ce0bdd22c3c9b13f4d6d50ae2900eb47bca"
+      "path": "mods/spark-1.10.41-fabric.jar",
+      "hash": "21962249bae5a26fc1efa4caab3934cda134cf52"
     },
     {
       "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
       "hash": "b99f23fb76aad5a944400717e6d71aa011c4d7f7"
     },
     {
+      "path": "mods/chat_heads-0.10.20-fabric-1.20.jar",
+      "hash": "edeabe8ac04275f066b452c0ca86ae465b5fb914"
+    },
+    {
       "path": "mods/language-reload-1.5.8+1.20.1.jar",
       "hash": "c6d1806fbf8c2cd5969f4d7ee51519ef5c3210d6"
     },
     {
-      "path": "mods/continuity-3.0.0-beta.2+1.20.jar",
-      "hash": "c5157819671612384834730a877eec5c484b5cf9"
+      "path": "mods/architectury-9.1.12-fabric.jar",
+      "hash": "add0fffa445ee2959b0898484732704a15156553"
+    },
+    {
+      "path": "mods/Xaeros_Minimap_23.6.2_Fabric_1.20.jar",
+      "hash": "a55f962f281ad8c11ac3ce581e7cfcc144f59a50"
     },
     {
       "path": "mods/konkrete_fabric_1.6.1_MC_1.20.jar",
@@ -15086,32 +15086,36 @@
       "hash": "175b3e1978bc210d8981959df651f363eb2852fe"
     },
     {
+      "path": "mods/indium-1.0.25+mc1.20.1.jar",
+      "hash": "5f7a6c0d6a3dfadc87d6135889ab937d09fdcaa0"
+    },
+    {
       "path": "mods/libIPN-fabric-1.20-3.0.2.jar",
       "hash": "7ca028553a1423d8f34ce31d6a6a31b1fcf57aeb"
     },
     {
-      "path": "mods/Controlling-fabric-1.20-12.0.2.jar",
-      "hash": "8fe5f5956879aae69b15d62ee7ef6f5042e6a086"
+      "path": "mods/iris-mc1.20.1-1.6.8.jar",
+      "hash": "942b1b3ea44a7880b55e3896d398a6c44a3e65be"
     },
     {
       "path": "mods/CustomWindowTitle-Fabric-1.20+v1.2.0.jar",
       "hash": "180625c304e4d660a08c4c97e5ca24b50622f282"
     },
     {
-      "path": "mods/indium-1.0.18+mc1.20.jar",
-      "hash": "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
+      "path": "mods/litematica-fabric-1.20.1-0.15.3.jar",
+      "hash": "427b04faee05fab436c52c3618e8e391a010b648"
     },
     {
-      "path": "mods/carpet-tis-addition-mc1.20.1-v1.49.0.jar",
-      "hash": "08514ace00018a10c2d1c8304de2d292da87a1ff"
+      "path": "mods/carpet-tis-addition-mc1.20.1-v1.50.1.jar",
+      "hash": "456f72a1b1b836cb8a3796109bf830b6bed0238e"
     },
     {
       "path": "mods/PresenceFootsteps-1.9.0.jar",
       "hash": "e5ea35c6c326e6f5e6fe2a8af7cbc6a955515dbc"
     },
     {
-      "path": "mods/litematica-fabric-1.20.1-0.15.0.jar",
-      "hash": "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
+      "path": "mods/EnchantmentDescriptions-Fabric-1.20.1-17.0.4.jar",
+      "hash": "f348bc17b031fb8bceaaf6f68d86b15610fcc305"
     },
     {
       "path": "mods/notenoughanimations-fabric-1.6.4-mc1.20.jar",
@@ -15134,84 +15138,80 @@
       "hash": "cbdf3e408ec0e2fb5d6ded4f32364ca4dd692e6d"
     },
     {
+      "path": "mods/yet-another-config-lib-fabric-3.1.0+1.20.jar",
+      "hash": "0c6d76e383439662c2f0871e170e6e465d2f84ef"
+    },
+    {
       "path": "mods/modmenu-7.0.1.jar",
       "hash": "7210fab34b5ffe9f43207e2a74c7d4b8cdf5b165"
     },
     {
-      "path": "mods/dashloader-5.0.0-beta.1+1.20.0.jar",
-      "hash": "2ba04e6d6876faf160367fbe4c8bf3a8ea301261"
+      "path": "mods/bedrock-miner-1.0.1.jar",
+      "hash": "7547188708b2494460aa3b11b5c27d2017a6b161"
     },
     {
       "path": "mods/waveycapes-fabric-1.4.0-mc1.20.jar",
       "hash": "ead7d081796c4eb5b7b468a14ac8e688c807d009"
     },
     {
-      "path": "mods/show-me-your-skin-1.6.7+1.20.jar",
-      "hash": "51498003619cbcfac9b1e788569ade8f41847858"
+      "path": "mods/RoughlyEnoughItems-12.0.645.jar",
+      "hash": "5df98a98e70985ed69f8e0183d876698c65955df"
     },
     {
-      "path": "mods/architectury-9.1.10-fabric.jar",
-      "hash": "f09e5f8e18aa42f80f6c51fd8fee539f1426dbbe"
-    },
-    {
-      "path": "mods/yet-another-config-lib-fabric-3.0.3+1.20.jar",
-      "hash": "779bca0b6b4e98f3601fe09b5977fbe12bbd9347"
-    },
-    {
-      "path": "mods/mcwifipnp-1.6.5-1.20-fabric.jar",
-      "hash": "1cbc5f2fe624b1c06676353463961be7cf93a471"
+      "path": "mods/Jade-1.20-fabric-11.5.1.jar",
+      "hash": "a5fa9b3e0c12183cba73c2d59c1aa716b210a78a"
     },
     {
       "path": "mods/starlight-1.1.2+fabric.dbc156f.jar",
       "hash": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
     },
     {
+      "path": "mods/Searchables-fabric-1.20.1-1.0.1.jar",
+      "hash": "9c05fbc3b731e09b3da6216ed65ececa39693b94"
+    },
+    {
       "path": "mods/autofish-0.9.10-SNAPSHOT.jar",
       "hash": "124e2cc30a22c968fdd4e7da456d3c20035c995e"
-    },
-    {
-      "path": "mods/Tips-Fabric-1.20-11.0.1.jar",
-      "hash": "62a5122c7630c56555e86716041cbea207901e84"
-    },
-    {
-      "path": "mods/magiclib-0.7.336+05361cf-stable.jar",
-      "hash": "33b22da11516a23e8e0852a53ddae42ea249a4a0"
-    },
-    {
-      "path": "mods/Searchables-fabric-1.20-1.0.2.jar",
-      "hash": "91bdb98be3cbe75823325125fd55d9cd7a4a92ac"
     },
     {
       "path": "mods/minihud-fabric-1.20.1-0.27.0.jar",
       "hash": "ab371c460a00cb18bfe41c49e5645dfe0e133d65"
     },
     {
-      "path": "mods/Bookshelf-Fabric-1.20-19.0.16.jar",
-      "hash": "9eeb43b5e76b083762ff22bad37cd970bdcc27bb"
+      "path": "mods/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
+      "hash": "c9c7a272b371dc3362cb40bfb4550f7d4be59002"
+    },
+    {
+      "path": "mods/dashloader-5.0.0-beta.2+1.20.0.jar",
+      "hash": "9aab141121c1e6850621cd8144da6e6c1c2ec80c"
+    },
+    {
+      "path": "mods/show-me-your-skin-1.6.10+1.20.jar",
+      "hash": "d8966e0979094aacb6421c78134a8bfe1a5207c8"
     },
     {
       "path": "mods/BetterF3-7.0.1-Fabric-1.20.1.jar",
       "hash": "106b8b7bdc698b8ced09c28ec089697dfbfbca1b"
     },
     {
-      "path": "mods/voicechat-fabric-1.20-2.4.9.jar",
-      "hash": "6118bb4f5179e64a97c2429dc26b13b0b9f8d3d3"
+      "path": "mods/fancymenu_fabric_2.14.9_MC_1.20.jar",
+      "hash": "c3d6f98a0eace33d5bc91c628668e49e36d5f0a9"
     },
     {
-      "path": "mods/fancymenu_fabric_2.14.7-3_MC_1.20.jar",
-      "hash": "29aa2acbd98c3ce9ec66313977e97ccb4c67d729"
+      "path": "mods/wthit-fabric-8.3.1.jar",
+      "hash": "7c23d1e40075bcb7eddbf4df5ab9d8c8241c3d4e"
     },
     {
-      "path": "mods/wthit-fabric-8.1.1.jar",
-      "hash": "9a8640b2af89537ade0da2d16f0c39bb5b76d04e"
+      "path": "mods/MasaGadget-all-3.2.318+67ab5b4-stable.jar",
+      "hash": "aa283af04e976faa1217a62a1d4970be217616c7"
+    },
+    {
+      "path": "mods/syncmatica-1.20.1-0.3.10.jar",
+      "hash": "3ff836dd8c00b728fc566af30650418b2457642d"
     },
     {
       "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
       "hash": "6dab5c754ec04e671e505df685befcedef27f42e"
-    },
-    {
-      "path": "mods/Xaeros_Minimap_23.5.0_Fabric_1.20.jar",
-      "hash": "d0d455112aea5603681f07255243faf387e65119"
     },
     {
       "path": "mods/fm_audio_extension_fabric_1.1.1_MC_1.20.jar",
@@ -15226,16 +15226,8 @@
       "hash": "9d873d3ac0a95de8dcd29cdde362b7fe72c4dc04"
     },
     {
-      "path": "mods/fabric-api-0.83.0+1.20.jar",
-      "hash": "3b0bcacbb175ae6adbbb2af203fce3a37189e494"
-    },
-    {
       "path": "mods/lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
-    },
-    {
-      "path": "mods/lambdynamiclights-2.3.1+1.20.1.jar",
-      "hash": "bb009883b87e45f069e83d44f2e6d559eee757e4"
     },
     {
       "path": "mods/armor_visibility-fabric-1.20-8.0.0.jar",
@@ -15246,12 +15238,16 @@
       "hash": "4136198cbd1ee00e906f33fc533e10a9324fc2b9"
     },
     {
-      "path": "mods/WI-Zoom-1.4-MC1.20.jar",
-      "hash": "6c72c4620112d39031dca5bd7d2e207364f070a8"
-    },
-    {
       "path": "mods/krypton-0.2.3.jar",
       "hash": "4d499819effd8afe811e5d93952fcc46765a00df"
+    },
+    {
+      "path": "mods/continuity-3.0.0-beta.3+1.20.1.jar",
+      "hash": "28fa0bc995fe240d17fcb1b2c8de8b0afd98213e"
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.20.1-0.11.2.jar",
+      "hash": "8f4642147e60827f728badac7a819d1a9f3b25d5"
     },
     {
       "path": "mods/dynamic-fps-2.4.0.jar",
@@ -15262,40 +15258,32 @@
       "hash": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991"
     },
     {
-      "path": "mods/EnchantmentDescriptions-Fabric-1.20-16.0.1.jar",
-      "hash": "f0b1678c313477883435b51fa162f972ed4e4b9a"
+      "path": "mods/chunksfadein-v1.0.3-1.20.jar.disabled",
+      "hash": "e854f69d4b374a80b7129ac88ccfe7dc1d92f6a2"
     },
     {
       "path": "mods/mixintrace-1.1.1+1.17.jar",
       "hash": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"
     },
     {
-      "path": "mods/sodium-extra-0.4.20+mc1.20-build.103.jar",
-      "hash": "6cf2844ca0cfd0b8adb8a0d86e0c635ce0c0f4ef"
-    },
-    {
-      "path": "mods/lithium-fabric-mc1.20-0.11.2.jar",
-      "hash": "c19b1fb8ffda09f5bd22cbef8691aa6fed181d90"
-    },
-    {
       "path": "mods/CarpetTCTCAddition-2.2.196+f4bc3a3-beta.jar",
       "hash": "b82e194f79d7df98d5ca1125857109908f5b5d31"
-    },
-    {
-      "path": "mods/chat_heads-0.10.16-fabric-1.20.jar",
-      "hash": "7cfe4582616798e33a98c23392edce5597febd55"
     },
     {
       "path": "mods/FpsReducer2-fabric-1.20-2.5.jar",
       "hash": "4ab443f92814c5e75bbb775ad7f784ff16c8feee"
     },
     {
+      "path": "mods/Bookshelf-Fabric-1.20.1-20.0.3.jar",
+      "hash": "de5842ab342b2009ca8f17ed7315a3392cc543fe"
+    },
+    {
       "path": "mods/ash-fabric-1.20-2.0.0-rc.2.jar",
       "hash": "5b0a8abdb05455dca76dd8fbd9919614c086a2a9"
     },
     {
-      "path": "mods/BetterAdvancements-Fabric-1.20-0.3.2.159.jar",
-      "hash": "26d32df8f9a245f65723db5d1c10e0b1003b2d8b"
+      "path": "mods/Gamma-Utils-1.7.16-mc1.20.1.jar",
+      "hash": "9ee543857f50fb5379f2281df10b64f28b3f4618"
     },
     {
       "path": "mods/tooltipfix-1.1.1-1.20.jar",
@@ -15306,16 +15294,16 @@
       "hash": "5d1cdbfde22cf7ea0e01d16443f6efa6e7211aec"
     },
     {
+      "path": "mods/WI-Zoom-1.4-MC1.20.1.jar",
+      "hash": "b41abe13c3a64d896758199bc37d1b9c196380fc"
+    },
+    {
       "path": "mods/InventoryProfilesNext-fabric-1.20-1.10.3.jar",
       "hash": "fceb6a4ffc4c52097f50a56fbca01f1422ef89bd"
     },
     {
       "path": "mods/armorchroma-1.2.6.jar",
       "hash": "c346315627ca08987c972ce1b80cb92978ad4b03"
-    },
-    {
-      "path": "mods/collective-1.20.0-6.57.jar",
-      "hash": "addd5b379eeed49ed0c2b6cce47525785dd4fb82"
     },
     {
       "path": "mods/MouseTweaks-fabric-mc1.20-2.25.jar",
@@ -15326,8 +15314,16 @@
       "hash": "6c2d46a3ee31d6d10430b2747d5b42fb1b7a5862"
     },
     {
+      "path": "mods/MinecraftCapes Fabric 1.20.1-12.3.6.jar",
+      "hash": "82eadf9752fabd5efa80153bb92bfb0f9b2e5975"
+    },
+    {
       "path": "mods/pistorder-mc1.20-v1.5.0-fabric.jar",
       "hash": "a9d8d8080a676d5f78c7bbfd591cf2f86c72d611"
+    },
+    {
+      "path": "mods/Tips-Fabric-1.20.1-12.0.2.jar",
+      "hash": "535b91d29993818e5d05be700f4f3adb6723e04a"
     },
     {
       "path": "mods/fast-chest-1.4+1.20.jar",
@@ -15338,32 +15334,36 @@
       "hash": "cf43e7a58fb62f75d664cce1b14a6064774e6547"
     },
     {
+      "path": "mods/XaerosWorldMap_1.33.0_Fabric_1.20.jar",
+      "hash": "cf654d1c7c468d307959acc2f4854e61ad8d197a"
+    },
+    {
       "path": "mods/morechathistory-1.19.1-1.1.1.jar",
       "hash": "b23419da24f1c7ae16c6e77e992a38491cccf2c8"
+    },
+    {
+      "path": "mods/invhud.fabric.1.20-3.4.18.jar",
+      "hash": "29b671852bb0d2c22dc7382dc502855e95297348"
     },
     {
       "path": "mods/CustomSkinLoader_Fabric-14.17.jar",
       "hash": "82b2c1b0d0fdb23fcb34ebe89ce157cb99e9874f"
     },
     {
-      "path": "mods/carpet-extra-1.20-1.4.112.jar",
-      "hash": "b643b29f9dffb54181f4d3ecd393f76d0b519074"
-    },
-    {
       "path": "mods/auudio_fabric_1.0.3_MC_1.20.jar",
       "hash": "eb1ade38a01784d74651257c77a433a71976cce4"
     },
     {
-      "path": "mods/XaerosWorldMap_1.30.6_Fabric_1.20.jar",
-      "hash": "3d00cd983b93bc885fca0596c7007aeade392645"
+      "path": "mods/Controlling-fabric-1.20.1-12.0.2.jar",
+      "hash": "8d6badebb7f2aea04793c92174dafa946b13f1e9"
     },
     {
-      "path": "mods/MinecraftCapes Fabric 1.20-12.3.6.jar",
-      "hash": "e0e8017d5b20d12852c55361494c258256a17fa3"
+      "path": "mods/sodium-fabric-mc1.20.1-0.5.2.jar",
+      "hash": "0bd317776db069f7ed1035f6b8ef628ebbe7779d"
     },
     {
-      "path": "mods/iris-mc1.20-1.6.4.jar",
-      "hash": "ec1491adc5dffeb0ab2f5da290b32cd4e45d58ad"
+      "path": "mods/sodium-extra-0.5.1+mc1.20.1-build.112.jar",
+      "hash": "74b6dce1ede645ffdecf1185fa05701cef68840d"
     },
     {
       "path": "mods/easiervillagertrading-1.20-fabric0.83.0-1.5.4.jar",
@@ -15374,12 +15374,16 @@
       "hash": "21136f084a6b3710a33fe982a73cdd10621595b5"
     },
     {
+      "path": "mods/carpet-extra-1.20-1.4.115.jar",
+      "hash": "09f1aeb870393d9ee07d895b5a60c7594a0bddd5"
+    },
+    {
       "path": "mods/itemscroller-fabric-1.20.1-0.20.0.jar",
       "hash": "076b4d6ea4eb24d74416641025379a5ab8cf6bb9"
     },
     {
-      "path": "mods/chunksfadein-v1.0.1-1.20.jar",
-      "hash": "150c082b864a6a56c1d77495790f23163bccb33c"
+      "path": "mods/BetterAdvancements-Fabric-1.20.1-0.3.2.161.jar",
+      "hash": "a994c1b0dd2daeb9f17881e28c1b55f185794f4e"
     },
     {
       "path": "mods/advancementinfo-1.20-fabric0.83.0-1.4.jar",
@@ -15517,11 +15521,11 @@
   "addons": [
     {
       "id": "game",
-      "version": "1.20"
+      "version": "1.20.1"
     },
     {
       "id": "fabric",
-      "version": "0.14.21"
+      "version": "0.14.22"
     }
   ]
 }
