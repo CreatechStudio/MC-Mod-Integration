@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b2",
+  "version": "1.20.4b2b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -594,6 +594,10 @@
       "hash": "1e5ad7a619ca72824e7196403aae44ebb0a2468e"
     },
     {
+      "path": "mods/armor_visibility-fabric-20.4.1.jar",
+      "hash": "23530535ac1fd1f06b03befd4701a39e84e4220f"
+    },
+    {
       "path": "mods/durabilityviewer-1.20.4-fabric0.91.2-1.10.5.jar",
       "hash": "9e446f0efb415277a607206da4482a459c5f0cd6"
     },
@@ -806,10 +810,6 @@
       "hash": "ef676b7f9beb10109e75d50b6e0a038fc59160a6"
     },
     {
-      "path": "mods/armor_visibility-fabric-1.20-8.0.0.jar",
-      "hash": "6cb2aa8b28401021fd6572a87ab8f2b5a463af60"
-    },
-    {
       "path": "mods/alternate-current-mc1.20-1.7.0.jar",
       "hash": "4136198cbd1ee00e906f33fc533e10a9324fc2b9"
     },
@@ -864,10 +864,6 @@
     {
       "path": "mods/Bookshelf-Fabric-1.20.4-23.0.1.jar",
       "hash": "5f47c3a3b431f6bfc2186c63c2462f30955568ee"
-    },
-    {
-      "path": "mods/ash-fabric-1.20-2.0.0-rc.2.jar",
-      "hash": "5b0a8abdb05455dca76dd8fbd9919614c086a2a9"
     },
     {
       "path": "mods/Controlify-1.7.0+1.20.4.jar",
@@ -960,6 +956,10 @@
     {
       "path": "mods/mcwifipnp-1.6.6-1.20.2-fabric.jar",
       "hash": "1bd44e668b9721611ba670629b3626a513e40fda"
+    },
+    {
+      "path": "mods/ash_api-fabric-20.4.0.jar",
+      "hash": "885e83908724fe8b4d155d61df925a10b4264e70"
     },
     {
       "path": "mods/yet-another-config-lib-fabric-3.3.1+1.20.4.jar",
