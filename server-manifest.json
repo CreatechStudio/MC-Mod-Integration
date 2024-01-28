@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b3",
+  "version": "1.20.4b3b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -636,10 +636,6 @@
     {
       "path": "mods/bettertaskbar-fabric-mc1.20.2-1.8.0.jar",
       "hash": "0b23430fe99e57ef34fa3b598dd148eeaa5cd2b0"
-    },
-    {
-      "path": "mods/litematica-printer-1.20.1-3.2.1.jar",
-      "hash": "496db16e1d5c248a8ca71e1d8b0f2919ff599a9e"
     },
     {
       "path": "mods/spark-1.10.41-fabric.jar",
