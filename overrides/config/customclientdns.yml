@@ -1,0 +1,10 @@
+# This configuration item allows you to configure whether or not to use the local DNS settings of the user's computer system.
+# When set to false, the system's local DNS is ignored and only the DNS servers configured by the Mod are used.
+use-local-dns-server: false
+# This configuration item allows you to add a custom DNS server that has a higher priority than the user system's local DNS settings.
+customized-dns-resolvers:
+- https://dns.ddns.createchstudio.com:5443/dns-query/cmip
+- 223.5.5.5
+- 223.6.6.6
+- 2400:3200::1
+- 2400:3200:baba::1
