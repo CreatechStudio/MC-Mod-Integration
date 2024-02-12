@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b4b",
+  "version": "1.20.4b4c",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -487,7 +487,7 @@
     },
     {
       "path": "config/fancymenu/customization/cmip.txt",
-      "hash": "6ce071ca8b61cae931144cfb41fbc5609ceccbcc"
+      "hash": "066b71c25d9a0ca15bb089035634404a225f7514"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
