@@ -48,13 +48,15 @@
 
 ## 安装与更新
 
-***本整合包为服务器托管更新包，仅支持HMCL安装***
+1. ***本整合包为服务器托管更新包，常见启动器仅支持HMCL安装***
 
 从上方游戏版本处下载安装器，在HMCL中点击版本列表-左下角安装整合包，即可完成安装
 
 在每次游戏启动的时候HMCL都会向远端分发网络拉取最新版本并自动安装，但是有由于HMCL更新机制，无法自动删除过期的文件，请关注游戏内主界面的更新提示。
 
 点击此处查看[常遇的安装问题](https://github.com/CreatechStudio/MC-Mod-Integration/issues/12)
+
+2. 使用[Modrinth](https://modrinth.com/modpack/cmip)
 
 ## 游戏版本
 
