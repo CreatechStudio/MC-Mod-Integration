@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b4c",
+  "version": "1.20.4b4d",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -758,6 +758,10 @@
       "hash": "44fb3080f48667ad4935226a00fd06bc9eb61fa5"
     },
     {
+      "path": "mods/CustomClientDNS-mc1.20.4-1.1.jar",
+      "hash": "6258cd07a36e22894dd8dd20a949ed849e42b381"
+    },
+    {
       "path": "mods/mcwifipnp-1.6.9-1.20.2-fabric.jar",
       "hash": "18069cc3c0c62088ca43e7e9dd5c16a87fd0fad3"
     },
@@ -1020,10 +1024,6 @@
     {
       "path": "mods/wthit-fabric-10.2.0.jar",
       "hash": "e383d227f0d5b60e52d2d99a23938313acdb4e53"
-    },
-    {
-      "path": "mods/CustomClientDNS-mc1.20.4-1.0-SNAPSHOT.jar",
-      "hash": "2ede932c0d26e95e69dbad0d703f23ae33983266"
     },
     {
       "path": "mods/libIPN-fabric-1.20.3-4.0.1.jar",
