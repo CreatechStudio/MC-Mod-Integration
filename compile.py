@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 import os
 import json
 import hashlib
@@ -90,8 +92,9 @@ def scan_dir(content_path, p):
 def new_files():
 	files = []
 
-	if not os.path.exists(override_path):
-		os.mkdir(override_path)
+	if os.path.exists(override_path):
+		shutil.rmtree(override_path)
+	os.mkdir(override_path)
 
 	for content in override_contents:
 		if content in override_ignore:
