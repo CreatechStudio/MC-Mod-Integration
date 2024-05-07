@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b4d",
+  "version": "1.20.4b4e",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -556,10 +556,6 @@
     {
       "path": "config/ias.json",
       "hash": "5b77673bd5988e7b1346407a723c08501f580aed"
-    },
-    {
-      "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
-      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294"
     },
     {
       "path": "config/inventoryprofilesnext/inventoryprofiles.json",

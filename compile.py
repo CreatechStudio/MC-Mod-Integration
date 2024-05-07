@@ -11,11 +11,11 @@ override_path = os.path.join(base, 'overrides')
 
 detect_base = os.path.abspath('/Users/jessiezhu/Library/Application Support/minecraft/versions/CMIP')
 override_contents = [
-	'mods',
-	'config',
+    'log4j2.xml',
 	'ModTranslations',
+	'config',
+	'mods',
 	'resourcepacks',
-	'log4j2.xml'
 	'hmclversion.cfg'
 ]
 
@@ -71,19 +71,19 @@ def scan_dir(content_path, p):
 	if not os.path.exists(current_override_path):
 		os.mkdir(current_override_path)
 
-	for _p, dir_list, file_list in os.walk(content_path):
-		for d in dir_list:
-			if d in override_ignore:
+	for item in os.scandir(content_path):
+		if item.is_dir():
+			if item.name in override_ignore:
 				continue
-			files += scan_dir(os.path.join(content_path, d), os.path.join(p, d))
-		for f in file_list:
-			if f in override_ignore:
+			files += scan_dir(item.path, os.path.join(p, item.name))
+		if item.is_file():
+			if item.name in override_ignore:
 				continue
 			files.append({
-				'path': os.path.join(p, f),
-				'hash': get_hash(os.path.join(_p, f))
+				'path': os.path.join(p, item.name),
+				'hash': get_hash(item.path)
 			})
-			copy_file(os.path.join(content_path, f), os.path.join(p, f))
+			copy_file(item.path, os.path.join(p, item.name))
 
 	return files
 
@@ -101,7 +101,7 @@ def new_files():
 		if os.path.exists(content_path):
 			if os.path.isdir(content_path):
 				files += scan_dir(content_path, content)
-			elif os.path.isfile(content_path):
+			if os.path.isfile(content_path):
 				files.append({
 					'path': content,
 					'hash': get_hash(content_path)
