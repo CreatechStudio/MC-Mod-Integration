@@ -1,7 +1,7 @@
 {
   "name": "Createch Mod Integration Pack",
   "author": "CreatechStudio Shanghai Inc.",
-  "version": "1.20.4b5",
+  "version": "1.20.4b5b",
   "description": "",
   "fileApi": "https://mci.createchstudio.com",
   "files": [
@@ -1195,7 +1195,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "ecd7925e0750b1278789cfc1583eaae46ddf20ac"
+      "hash": "6bf58aaf009c5ee0164ef67bf7ef88e5fdd3cc73"
     }
   ],
   "addons": [
