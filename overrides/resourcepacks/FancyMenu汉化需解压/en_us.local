@@ -1,0 +1,714 @@
+loading.animation.loadingframes = 为 {} 加载动画帧
+loading.animation.prerendering = 预渲染动画 {}
+loading.animation.done = 完成!
+
+helper.button.menuinfo = 菜单信息
+helper.button.buttoninfo = 按钮信息
+helper.button.reload = 重新加载
+helper.button.createlayout = 创建布局
+
+helper.menuinfo.identifier = 菜单标识符
+
+helper.buttoninfo.idnotfound = <没有找到这个id>
+helper.buttoninfo.keynotfound = <没有找到这个key>
+helper.buttoninfo
+helper.buttoninfo.id = ID
+helper.buttoninfo.key = key
+helper.buttoninfo.labelwidth = 标签宽度
+
+helper.creator.menu.add = 添加
+helper.creator.menu.audio = 音频
+helper.creator.menu.hidden = 隐藏
+helper.creator.menu.save = 保存
+helper.creator.menu.close = 关闭
+
+helper.creator.messages.sure = 你确定吗？
+helper.creator.empty = 空
+
+helper.creator.layoutempty.title = 布局为空!
+helper.creator.layoutempty.desc = 您的布局没有内容%n%%n%在保存之前请先做一些自定义的修改吧!
+
+helper.creator.audioalreadyloaded.title = 音频已加载!
+helper.creator.audioalreadyloaded.desc = 这段音频已被加入此布局!%n%%n%您不能多次添加相同的音频
+
+helper.creator.invalidaudio.title = 无效的音频文件!
+helper.creator.invalidaudio.desc = 您要加载的文件不存在或文件类型不受支持%n%%n%请检查您的文件路径并确保您的文件是有效的 WAV 音频文件!
+
+helper.creator.invalidimage.title = 图片文件无效!
+helper.creator.invalidimage.desc = 您要加载的图像不存在或文件类型不受支持%n%%n%支持的文件类型为 JPG/JPEG、PNG 和 GIF
+
+helper.creator.imagenotfound.title = 图片未找到!
+helper.creator.imagenotfound.desc = 您要添加的图像在指定的位置不存在%n%
+
+helper.creator.animationnotfound.title = 未找到动画!
+helper.creator.animationnotfound.desc = 您要添加的动画不存在%n%%n%也许您忘记将所有必需变量添加到其属性中？%n%%n%请注意,您必须将新动画添加到动画文件夹后重新启动游戏,只有这样才能添加它%n%
+
+helper.creator.texttooshort.title = 文字太短!
+helper.creator.texttooshort.desc = 您的文本至少需要一个字符才能成为文本!%n%否则..它...就什么都没有了%n%%n%不要弄出一个空的文本行
+
+helper.creator.cannotdelete.title = 元素无法删除!
+helper.creator.cannotdelete.desc = 抱歉,你不能删除这个元素%n%%n%忍着吧hhh
+
+helper.creator.savefile = 您想现在将您的布局保存到自定义文件中吗？
+helper.creator.savefile.keep = 保存并保持启用其他布局
+helper.creator.savefile.disable = 保存并禁用其他布局
+helper.creator.savefile.cancel = 取消
+
+helper.creator.layoutoptions.renderorder = 渲染顺序
+helper.creator.layoutoptions.renderorder.background = 背景
+helper.creator.layoutoptions.renderorder.foreground = 前景
+
+helper.creator.layoutoptions.version.mc = Minecraft 版本
+helper.creator.layoutoptions.version.fm = FancyMenu 版本
+helper.creator.layoutoptions.version.minimum = 设置最小值
+helper.creator.layoutoptions.version.minimum.mc = 最低 Minecraft 版本
+helper.creator.layoutoptions.version.minimum.fm = 最低 FancyMenu 版本
+helper.creator.layoutoptions.version.maximum = 设置最大值
+helper.creator.layoutoptions.version.maximum.mc = 最大 Minecraft 版本
+helper.creator.layoutoptions.version.maximum.fm = 最大 FancyMenu 版本
+
+helper.creator.layoutoptions.resetbackground = 重置背景
+
+helper.creator.layoutoptions.requiredmods = 必需的模组
+helper.creator.layoutoptions.requiredmods.desc = 必需的 Mods [MOD id,请用英文逗号分隔]
+
+helper.creator.close = 你真的要关闭布局创建器吗？
+
+helper.creator.audio.delete = 删除
+helper.creator.audio.delete.msg = 你真的要删除这个音频吗？
+helper.creator.audio.enableloop = 循环: §cOff
+helper.creator.audio.disableloop = 循环: §aOn
+
+helper.creator.add.image = 图片
+helper.creator.add.image.path = 图片路径
+
+helper.creator.add.animation = 动画
+helper.creator.add.animation.entername = 按名称添加
+helper.creator.add.animation.entername.title = 动画名称
+
+helper.creator.add.text = 文字
+helper.creator.add.text.newtext = 新文本
+
+helper.creator.add.button = 按钮
+helper.creator.add.button.label = 按钮标签
+
+helper.creator.add.audio = 音频
+
+helper.creator.vanillabutton.autoclick = 单击按钮
+helper.creator.vanillabutton.autoclick.popup = 自动按钮点击
+
+helper.creator.backgroundoptions = 背景选项
+helper.creator.backgroundoptions.backgroundanimation = 背景动画
+helper.creator.backgroundoptions.backgroundimage = 背景图片
+helper.creator.backgroundoptions.chooseimage = 选择图片
+helper.creator.backgroundoptions.random = 随机
+helper.creator.backgroundoptions.notrandom = 非随机
+helper.creator.backgroundoptions.addanimation = 添加
+helper.creator.backgroundoptions.removeanimation = 移除
+helper.creator.backgroundoptions.animations = 动画
+helper.creator.backgroundoptions.randomizeanimations = 随机化动画
+
+helper.creator.custombutton.config = 按钮操作
+helper.creator.custombutton.config.actionvalue = 操作值 [{}]
+helper.creator.custombutton.config.actiontype = 操作类型
+helper.creator.custombutton.config.actiontype.sendmessage.desc = 发送聊天消息或命令
+helper.creator.custombutton.config.actiontype.sendmessage.desc.value = 消息/命令
+helper.creator.custombutton.config.actiontype.openlink.desc = 在您的默认浏览器中打开一个链接
+helper.creator.custombutton.config.actiontype.openlink.desc.value = 链接
+helper.creator.custombutton.config.actiontype.quitgame.desc = 退出我的世界
+helper.creator.custombutton.config.actiontype.joinserver.desc = 加入我的世界服务器
+helper.creator.custombutton.config.actiontype.joinserver.desc.value = 服务器 IP
+helper.creator.custombutton.config.actiontype.loadworld.desc = 加载一个我的世界
+helper.creator.custombutton.config.actiontype.loadworld.desc.value = 世界文件夹名称
+helper.creator.custombutton.config.actiontype.openfile.desc = 打开文件或文件夹
+helper.creator.custombutton.config.actiontype.openfile.desc.value = 路径
+helper.creator.custombutton.config.actiontype.prevbackground.desc = 切换到上一个菜单背景
+helper.creator.custombutton.config.actiontype.nextbackground.desc = 切换到下一个菜单背景
+
+helper.creator.custombutton.config.texture = 按钮纹理
+helper.creator.custombutton.config.texture.normal = 正常
+helper.creator.custombutton.config.texture.hovered = 悬停
+helper.creator.custombutton.config.texture.reset = 重置纹理
+
+helper.creator.items.setorientation = 设置参照点
+helper.creator.items.delete = 删除
+helper.creator.items.border.posx = X
+helper.creator.items.border.posy = Y
+helper.creator.items.border.orientation = 参照点位置
+helper.creator.items.border.width = 宽度
+helper.creator.items.border.height = 高度
+
+helper.creator.items.button.editlabel = 编辑标签
+
+helper.creator.items.vanillabutton.resetorientation = 重置参照点
+helper.creator.items.vanillabutton.hide = 隐藏按钮
+
+helper.creator.items.vanillabutton.noorientation.title = 需要特别小心!
+helper.creator.items.vanillabutton.noorientation.desc = §o标准按钮在听你说话之前需要点点头%n%%n%%n%要调整大小或移动§r它们,你必须给它们一个orientation §r首先!%n%%n%您可以通过右击§r按钮来实现
+
+helper.creator.items.string.setscale = 设置比例
+helper.creator.items.string.setshadow = 阴影: §cOff
+helper.creator.items.string.setnoshadow = 阴影: §aOn
+helper.creator.items.string.edit = 编辑内容
+helper.creator.items.string.border.centric = 居中
+helper.creator.items.string.border.scale = 比例
+
+helper.creator.items.string.scale.invalidvalue.title = 无效值!
+helper.creator.items.string.scale.invalidvalue.desc = 您要设置的值不是有效的比例值!%n%%n%比例值示例: 1.0, 2.0, 0.5
+
+helper.creator.deleteobject = 你真的要DELETE §r这个元素吗？
+
+helper.creator.choosefile.enterorchoose = 输入路径或选择文件
+helper.creator.choosefile.choose = 选择文件
+helper.creator.choosefile.notsupported = §c 文件选择器不受支持或禁用!请手动输入路径
+
+helper.creator.webstring.multiline = 多行: §cOff
+helper.creator.webstring.nomultiline = 多行: §aOn
+
+helper.creator.web.invalidurl = §c无效网址!%n%%n%此网址无效或不存在!
+helper.creator.web.enterurl = 输入网址
+
+helper.creator.add.webimage = 网页图片
+helper.creator.add.webtext = 网页文字
+
+helper.creator.editlayout = 编辑布局
+helper.creator.editlayout.popup.loadall = 全部加载
+helper.creator.editlayout.popup.loadselected = 加载选定的布局
+helper.creator.editlayout.popup.layouts = 布局
+helper.creator.editlayout.popup.cancel = 取消
+helper.creator.editlayout.popup.actionscount = {} 自定义操作
+helper.creator.editlayout.nolayouts.msg = §c未找到布局!%n%%n%%n%此菜单不包含任何布局!%n%%n%如果您要自定义此菜单,请使用“创建布局”按钮!
+helper.creator.editlayout.popup.msg = 这个菜单屏幕有不止一个自定义文件!%n%%n%你想加载完整的布局并将它们全部组合起来%n%还是你只想加载一个特定的？%n%%n%§c组合多个布局时自定义元值会丢失!
+
+helper.creator.editlayout.single.override = 覆盖现有布局
+helper.creator.editlayout.single.asnew.keep = 另存为新布局并启用其他布局
+helper.creator.editlayout.single.asnew.disable = 另存为新布局并禁用其他布局
+
+helper.creator.items.button.hoverlabel = Hoverlabel
+helper.creator.items.button.hoverlabel.text = 悬停标签文本
+helper.creator.items.button.hoverlabel.reset = 重置悬停标签
+helper.creator.items.button.hoversound = Hoversound
+helper.creator.items.button.hoversound.path = 悬停声音路径
+helper.creator.items.button.hoversound.reset = 重置悬停音效
+
+helper.creator.editlayout.unsupportedvalues = §c不支持的值!%n%%n%%n%您的布局包含不受支持的值!%n%这些值在布局创建器中不起作用%n%%n%可能在您的自定义部分中使用了某种位置或大小的计算%n%%n%%n%请手动将这些计算转换为绝对值,然后重试
+
+helper.creator.backgroundoptions.setpanorama = 宽图像？
+helper.creator.backgroundoptions.panorama = 宽
+helper.creator.backgroundoptions.nopanorama = 正常
+
+helper.creator.textures.invalidcharacters = §c无效字符!%n%%n%%n%您的图片文件名包含无效字符!%n%%n%请仅使用字符"az" "0-9" "." "_" 和 "-"%n%不支持空格、大写字母和任何其他特殊字符
+
+helper.buttons.tools.dropdownlabel = 自定义
+helper.buttons.tools.overridemenu = 覆盖
+helper.buttons.tools.resetoverride = 重置覆盖
+helper.buttons.tools.closecustomgui = 关闭 GUI
+
+helper.buttons.tools.customguis = 自定义 GUI
+helper.buttons.tools.customguis.open = 打开 GUI
+helper.buttons.tools.customguis.delete = 删除 GUI
+helper.buttons.tools.customguis.pickbyname = 按名称选择
+helper.buttons.tools.customguis.openbyname = 按名称打开
+helper.buttons.tools.customguis.deletebyname = 按名称删除
+helper.buttons.tools.customguis.sure = §c哈？%n%%n%%n%你真的要删除§r这个GUI吗？%n%%n%这个动作不能撤销! %n% %n% %n% %n%
+helper.buttons.tools.customguis.invalididentifier = §c标识符无效!%n%%n%%n%未找到带有此标识符的自定义 GUI!%n% %n% %n% %n%
+
+helper.buttons.tools.creategui = 创建 GUI
+helper.buttons.tools.creategui.allowesc = 允许
+helper.buttons.tools.creategui.donotallowesc = 不允许
+helper.buttons.tools.creategui.invalididentifier = §c无效标识符!
+helper.buttons.tools.creategui.identifieralreadyused = §c 标识符已被使用!请选择另一个!
+helper.buttons.tools.creategui.allowescdesc = 允许 ESC 关闭菜单
+helper.buttons.tools.creategui.menuidentifier = 菜单标识符
+helper.buttons.tools.creategui.menutitle = 菜单标题(可选)
+helper.buttons.tools.creategui.create = 创建
+
+gameintro.skip = 按空格跳过
+
+helper.creator.items.chooselayer = 选择层
+
+customization.items.webstring.unabletoload = 无法加载网页文本! URL 无效或未连接到互联网!
+
+helper.creator.custombutton.config.actiontype.opencustomgui.desc = 打开自定义 GUI
+helper.creator.custombutton.config.actiontype.opencustomgui.desc.value = 菜单标识符
+
+helper.creator.items.button.delayappearance = 延迟外观
+helper.creator.items.button.delayappearance.desc = 延迟出现数秒 [十进制值支持]
+helper.creator.items.button.delayappearance.invalidvalue = §c无效值!%n%%n%%n%这不是一个有效的秒值!%n%可能你的值太长了 (..不要为此感到骄傲!)%n%%n%值示例: 3、2.0、0.05、0.8、10.5
+
+custombuttons.action.opengui.cannotopengui = §c无法打开 GUI!%n%%n%%n%您要打开的 GUI 不存在或不受支持!%n%%n%如果这是现有的 GUI,请联系 FancyMenu 的开发人员以添加对它的支持
+
+helper.creator.custombutton.config.actiontype.opengui.desc = 通过菜单标识符打开 GUI
+helper.creator.custombutton.config.actiontype.opengui.desc.value = 菜单标识符
+
+helper.creator.popup.hidefor.delayeverytime = 每次延迟
+helper.creator.popup.hidefor.delayfirsttime = 延迟第一次
+
+helper.creator.windowsize = 窗口大小限制
+helper.creator.windowsize.biggerthan = 大于
+helper.creator.windowsize.smallerthan = 小于
+helper.creator.windowsize.biggerthan.desc = 仅当窗口大于 X 时才启用布局
+helper.creator.windowsize.smallerthan.desc = 仅当窗口小于 X 时才启用布局
+helper.creator.windowsize.currentwidth = 当前窗口宽度
+helper.creator.windowsize.currentheight = 当前窗口高度
+
+helper.menuinfo.idcopied = 复制到剪贴板!
+
+helper.excludemenu = 排除菜单
+helper.excludemenu.soft = 软排除
+helper.excludemenu.full = 完全排除
+helper.excludemenu.current = 排除当前
+helper.excludemenu.byidentifier = 按标识符排除
+helper.excludemenu.remove = 删除排除项
+helper.excludemenu.excludebundle = 排除以给定菜单标识符部分开头的所有菜单？
+helper.excludemenu.excludejustthis = 这个菜单
+helper.excludemenu.excludeall = 所有菜单
+
+helper.creator.custombutton.config.actiontype.movefile.desc = 将文件移动到新路径
+helper.creator.custombutton.config.actiontype.movefile.desc.value = 文件路径 + 新路径,以“;”分隔
+helper.creator.custombutton.config.actiontype.copyfile.desc = 将文件复制到路径
+helper.creator.custombutton.config.actiontype.copyfile.desc.value = 文件路径+目标路径,以';'分隔
+helper.creator.custombutton.config.actiontype.deletefile.desc = 删除文件
+helper.creator.custombutton.config.actiontype.deletefile.desc.value = 文件路径
+helper.creator.custombutton.config.actiontype.renamefile.desc = 重命名文件
+helper.creator.custombutton.config.actiontype.renamefile.desc.value = 文件路径 + 带类型的新文件名
+helper.creator.custombutton.config.actiontype.reloadmenu.desc = 重新加载当前显示的菜单
+helper.creator.custombutton.config.actiontype.runscript.desc = 运行按钮脚本
+helper.creator.custombutton.config.actiontype.runscript.desc.value = 没有文件类型的脚本文件名
+helper.creator.custombutton.config.actiontype.downloadfile.desc = 将文件下载到某个路径
+helper.creator.custombutton.config.actiontype.downloadfile.desc.value = URL + 下载路径,以';'分隔
+helper.creator.custombutton.config.actiontype.unpackzip.desc = 将 ZIP 文件解压到某个路径
+helper.creator.custombutton.config.actiontype.unpackzip.desc.value = 文件路径+目标路径,以';'分隔
+
+helper.creator.custombutton.config.actionvalue.example = 示例: {}
+
+helper.creator.custombutton.config.actiontype.openlink.desc.value.example = https://google.com
+helper.creator.custombutton.config.actiontype.sendmessage.desc.value.example = 你好@all!
+helper.creator.custombutton.config.actiontype.joinserver.desc.value.example = mc.coolserver.com
+helper.creator.custombutton.config.actiontype.loadworld.desc.value.example = myworld
+helper.creator.custombutton.config.actiontype.opencustomgui.desc.value.example = coolcustomgui
+helper.creator.custombutton.config.actiontype.opengui.desc.value.example = some.menu.identifier
+helper.creator.custombutton.config.actiontype.openfile.desc.value.example = config/fancymenu/changelog.txt
+helper.creator.custombutton.config.actiontype.movefile.desc.value.example = config/fancymenu/image.jpg;config/moveto/image.jpg
+helper.creator.custombutton.config.actiontype.copyfile.desc.value.example = config/fancymenu/image.jpg;config/fancymenu/imagecopy.jpg
+helper.creator.custombutton.config.actiontype.deletefile.desc.value.example = config/fancymenu/rickroll.gif
+helper.creator.custombutton.config.actiontype.renamefile.desc.value.example = config/fancymenu/image.jpg;newimagename.jpg
+helper.creator.custombutton.config.actiontype.downloadfile.desc.value.example = https://myhoster.com/layout.zip;config/fancymenu/layout.zip
+helper.creator.custombutton.config.actiontype.unpackzip.desc.value.example = config/fancymenu/archive.zip;config/fancymenu/unpacked/
+helper.creator.custombutton.config.actiontype.runscript.desc.value.example = coolscript
+
+helper.creator.rightclick.scale = GUI 比例
+helper.creator.rightclick.scale.invalid = §c无效比例!%n%%n%%n%比例值需要大于零!
+
+helper.creator.custombutton.config.actiontype.mutebackgroundsounds.desc = 静音或取消静音 FancyMenu 添加的菜单背景声音
+helper.creator.custombutton.config.actiontype.mutebackgroundsounds.desc.value = true/false
+helper.creator.custombutton.config.actiontype.mutebackgroundsounds.desc.value.example = true
+
+helper.creator.items.button.resetlabel = 重置标签
+
+helper.creator.vanillabutton.move.notification.dontshowagain = 不再显示
+
+helper.creator.items.custombutton.onlydisplayin = 仅显示在
+helper.creator.items.custombutton.onlydisplayin.outgame = 退出游戏
+helper.creator.items.custombutton.onlydisplayin.singleplayer = 单人游戏
+helper.creator.items.custombutton.onlydisplayin.multiplayer = 多人游戏
+helper.creator.items.custombutton.onlydisplayin.reset = 重置
+
+helper.creator.items.button.clicksound = 设置点击声
+helper.creator.items.button.clicksound.reset = 重置点击音效
+
+helper.popup.togglecustomization.enable = 自定义: §cOff
+helper.popup.togglecustomization.disable = 自定义: §aOn
+
+helper.creator.object.stretch = 拉伸
+helper.creator.object.stretch.x = 到屏幕宽度
+helper.creator.object.stretch.y = 屏幕高度
+
+helper.creator.object.stretch.unsupportedorientation = §c不支持的参照点!%n%%n%%n%此拉伸动作不支持该元素的当前参照点%n%%n%不支持的参照点: { }
+
+helper.creator.backgroundoptions.backgroundpanorama = 背景全景
+helper.creator.backgroundoptions.panoramas = 全景图
+helper.creator.backgroundoptions.panoramas.set = 设置背景
+helper.creator.backgroundoptions.panoramas.set.desc = 将选定的全景图 %n% 设置为活动背景全景图
+helper.creator.backgroundoptions.panoramas.clear = 清除
+helper.creator.backgroundoptions.panoramas.clear.desc = Rem
+
+helper.creator.items.button.btndescription = 工具提示
+helper.creator.items.button.btndescription.desc = 按钮悬停时显示%n%的工具提示%n%%n%使用格式代码“#n#”换行
+
+helper.buttons.customization.onoff.btndesc = 切换当前菜单的自定义状态%n%%n%%n%§c需要启用%n%§clayouts才能工作!
+helper.buttons.customization.menuinfo.btndesc = 显示当前显示菜单的§cmenu标识符%n%%n%%n%您可以左键单击标识符%n%来复制它
+helper.buttons.customization.buttoninfo.btndesc = 悬停按钮时显示关于§c原版按钮%n% 的有用信息%n%
+helper.buttons.customization.createlayout.btndesc = 在精美菜单的 GUI 编辑器中自定义当前显示的%n%菜单!%n%%n%§c重要提示: %n%当%n%你想编辑时总是使用% n% 现有菜单!
+helper.buttons.customization.editlayout.btndesc = 编辑当前 %n% 显示菜单的布局
+helper.buttons.customization.creategui.btndesc = 创建一个新的空 GUI%n% 并用你想要的所有东西填充它!%n%%n%§c重要提示: %n%如果你%n%只是想,永远不要使用编辑现有菜单%n%而不完全覆盖它!%n%%n%要编辑菜单,请使用%n%§o创建布局§r!
+helper.buttons.customization.customguis.btndesc = 所有自定义 GUI 的列表%n%%n%如果您%n%从未创建自定义 GUI,则此列表为空
+helper.buttons.customization.overridewith.btndesc = 使用您自己的自定义 GUI 之一覆盖当前菜单%n%%n%%n%§c重要事项: %n%如果您只是想%n%,则不应使用编辑现有菜单的外观%n%%n%%n%要编辑菜单,请改为创建%n%a 布局!
+helper.buttons.customization.closecustomgui.btndesc = 关闭当前显示的%n%自定义 GUI
+
+helper.buttons.reload.btndesc = 将重新加载菜单、所有布局、%n%mod 配置等%n%%n%手动更改%n%布局或编辑配置后很有用%n%%n %§c重要提示: %n%这不会重新加载动画!%n%您需要在添加或编辑动画后重新启动游戏%n%!
+
+helper.buttons.customization.managelayouts = 管理布局
+helper.buttons.customization.managelayouts.enable = §aEnable §rLayout
+helper.buttons.customization.managelayouts.enabled = §aEnabled
+helper.buttons.customization.managelayouts.disable = §cDisable §rLayout
+helper.buttons.customization.managelayouts.disabled = §cDisabled
+helper.buttons.customization.managelayouts.delete = 删除布局
+helper.buttons.customization.managelayouts.delete.msg = §c你确定吗？%n%%n%%n%你真的要§c删除§r这个布局吗？%n%%n%§c此操作无法撤消!
+helper.buttons.customization.managelayouts.btndesc = 管理 %n% 当前显示菜单的所有布局
+helper.buttons.customization.managelayouts.layout.btndesc = 布局信息:%n%%n%状态: {}%n%自定义元素数量: {}%n%%n%§c左键点击 获取更多选项!
+
+helper.creator.object.moveup = 向上移动一层
+helper.creator.object.moveup.desc = 将元素向上移动一层
+helper.creator.object.moveup.desc.subtext = %n%%n%§6 Last Action:%n%移到上方 §7{}
+helper.creator.object.movedown = 向下移动一层
+helper.creator.object.movedown.desc = 将元素向下移动一层
+helper.creator.object.movedown.desc.subtext = %n%%n%§6 Last Action:%n%移到下方 §7{}
+
+helper.buttons.customization.managelayouts.openintexteditor = 在文本编辑器中打开
+helper.buttons.customization.managelayouts.openintexteditor.desc = 在%n%你电脑的默认文本编辑器中打开这个布局(应该是记事本)%n%%n%§c不建议这样做,你可以使用Notepad++等更好的文本编辑软件
+
+helper.creator.opencloseaudio = 打开/关闭声音
+helper.creator.opencloseaudio.desc = 当菜单%n%打开或关闭时播放声音
+helper.creator.opencloseaudio.reset.desc = 将重置此声音
+helper.creator.openaudio = 菜单打开声音
+helper.creator.openaudio.reset = 重置打开声音
+helper.creator.openaudio.desc = 打开菜单时会播放声音
+helper.creator.closeaudio = 菜单关闭声音
+helper.creator.closeaudio.reset = 重置关闭声音
+helper.creator.closeaudio.desc = 关闭菜单时会播放声音
+
+helper.creator.deleteselectedobjects = 你真的要删除 §r全部 选择的元素吗？
+
+helper.creator.multiselect.object.deleteall = 全部删除
+helper.creator.multiselect.object.deleteall.btndesc = 将删除所有选定的元素
+helper.creator.multiselect.object.stretchall = 全部拉伸
+helper.creator.multiselect.object.stretchall.btndesc = 将所有可拉伸元素%n% 拉伸到菜单宽度或高度
+helper.creator.multiselect.vanillabutton.resetorientation = 重置参照点
+helper.creator.multiselect.vanillabutton.resetorientation.btndesc = 将重置所有选定的原版按钮的参照点%n%
+
+helper.creator.add.playerentity = 玩家实体
+
+helper.creator.items.playerentity.setscale = 设置比例
+helper.creator.items.playerentity.playername = 玩家名称
+helper.creator.items.playerentity.playername.auto = 自动
+helper.creator.items.playerentity.playername.setname = 皮肤ID
+helper.creator.items.playerentity.skin = 设置皮肤
+helper.creator.items.playerentity.cape = 设置披风
+helper.creator.items.playerentity.texture.local = 局部纹理
+helper.creator.items.playerentity.texture.url = URL
+helper.creator.items.playerentity.rotation = 旋转
+helper.creator.items.playerentity.rotation.auto = 自动旋转
+helper.creator.items.playerentity.rotation.custom = 自定义轮换
+helper.creator.items.playerentity.rotation.custom.bodyx = 身体水平旋转
+helper.creator.items.playerentity.rotation.custom.bodyy = 垂直身体旋转
+helper.creator.items.playerentity.rotation.custom.headx = 水平头部旋转
+helper.creator.items.playerentity.rotation.custom.heady = 垂直头部旋转
+helper.creator.items.playerentity.showname.off = 自定义名字: §cOff
+helper.creator.items.playerentity.showname.on = 自定义名字: §aOn
+helper.creator.items.playerentity.crouching.off = 下蹲: §cOff
+helper.creator.items.playerentity.crouching.on = 下蹲: §aOn
+helper.creator.items.playerentity.parrot.off = 显示鹦鹉: §cOff
+helper.creator.items.playerentity.parrot.on = 显示鹦鹉: §aOn
+helper.creator.items.playerentity.slim.off = 超薄皮肤: §cOff
+helper.creator.items.playerentity.slim.on = 超薄皮肤: §aOn
+
+helper.creator.items.playerentity.setscale.btndesc = 设置玩家的比例
+helper.creator.items.playerentity.playername.btndesc = 设置玩家的名字
+helper.creator.items.playerentity.playername.auto.btndesc = 会自动%n%设置为客户端用户的ID
+helper.creator.items.playerentity.playername.setname.btndesc = 手动设置玩家名称
+helper.creator.items.playerentity.skin.btndesc = 设置玩家的皮肤纹理%n%%n%这个皮肤优先于%n%真实玩家的皮肤
+helper.creator.items.playerentity.cape.btndesc = 设置玩家的披风材质%n%%n%这个披风优先于%n%普通玩家披风
+helper.creator.items.playerentity.rotation.btndesc = 设置身体和头部旋转
+helper.creator.items.playerentity.rotation.auto.btndesc = 玩家将跟随鼠标光标
+helper.creator.items.playerentity.rotation.custom.btndesc = 设置自定义玩家轮换
+helper.creator.items.playerentity.showname.btndesc = 设置玩家名称可见性
+helper.creator.items.playerentity.crouching.btndesc = 设置玩家是否应该下蹲
+helper.creator.items.playerentity.parrot.btndesc = ARRR!
+helper.creator.items.playerentity.slim.btndesc = 设置玩家是否使用%n%alex皮肤
+
+helper.creator.items.playerentity.texture.invalidtexture.title = 无效的纹理!
+helper.creator.items.playerentity.texture.invalidtexture.desc = 此纹理不存在或不是有效的纹理文件%n%%n%支持的文件类型: §rPNG
+
+popup.apply = 申请
+
+helper.creator.items.orientation.btndesc = 从%n% 将计算此元素的位置%n% 设置原点%n%%n%§c注意: %n%您可以看到一个元素如何%n%在更改%n%参照点后调整编辑器%n%窗口的大小时,会受到其参照点的影响%n%
+
+helper.creator.add.slideshow = 幻灯片
+helper.creator.add.slideshow.entername = 按名称添加
+helper.creator.add.slideshow.entername.title = 输入幻灯片名称
+
+helper.creator.backgroundoptions.backgroundslideshow = 背景幻灯片
+helper.creator.backgroundoptions.backgroundslideshow.set = 设置背景
+helper.creator.backgroundoptions.backgroundslideshow.set.desc = 将所选幻灯片%n% 设置为活动背景幻灯片
+helper.creator.backgroundoptions.backgroundslideshow.clear = 清除
+helper.creator.backgroundoptions.backgroundslideshow.clear.desc = 移除当前 %n% 活动的背景幻灯片
+
+helper.creator.backgroundoptions.slideshows = 幻灯片
+
+helper.creator.slideshownotfound = §cSlideshow not found!%n%%n%输入的幻灯片不存在!%n%幻灯片名称可能有错？
+
+helper.creator.sidemenu.settings.btndesc = 布局编辑器设置
+helper.creator.sidemenu.settings.on = §aOn
+helper.creator.sidemenu.settings.off = §cOff
+helper.creator.sidemenu.settings.vanillanotification = 原版按钮移动警告
+helper.creator.sidemenu.settings.popupmenuscale = 右键弹出菜单比例
+
+helper.creator.add.shapes = 形状
+helper.creator.add.shapes.rectangle = 矩形
+
+helper.creator.items.shape.color = 颜色
+helper.creator.items.shape.color.btndesc = 设置形状的十六进制颜色%n%%n%§c注意: %n%您可以使用十六进制颜色来%n%设置元素的不透明度!
+
+helper.creator.object.movedown.desc.subtext.vanillabutton = %n%%n%§c你不能将元素移动到%n%§c原版按钮后面%n%%n%相反,你可以设置布局%n %渲染顺序§r到'背景§r'%n%渲染所有元素%n%默认菜单内容,如:%n%原版按钮%n%%n%右键单击§r编辑器背景%n%to设置渲染顺序§r!
+
+helper.buttons.tools.misc = 杂项
+helper.buttons.tools.misc.btndesc = 包含更多用于菜单自定义的工具和选项%n%
+helper.buttons.tools.misc.openloadingscreen = 打开加载屏幕
+helper.buttons.tools.misc.openloadingscreen.btndesc = 将打开一个%n%世界加载屏幕的“死”实例,以便能够%n%对其进行自定义%n%%n%§c注意: %n%您可以通过%n%单击打开主菜单§r按钮§r来关闭此菜单
+helper.buttons.tools.misc.openmainmenu = 打开主菜单
+helper.buttons.tools.misc.openmainmenu.btndesc = 将打开主菜单%n%当卡在菜单中时有用
+helper.buttons.tools.misc.openmessagescreen = 打开消息屏幕
+helper.buttons.tools.misc.openmessagescreen.btndesc = 将打开你在%n%世界加载屏幕之前或%n%离开世界时看到的%n%消息屏幕的实例,以便能够%n%自定义它%n%%n%§c注意: %n%您可以通过%n%单击打开主菜单§r按钮§r来关闭此菜单
+
+helper.menubar.expand = 展开菜单栏
+helper.menubar.shrink = 缩小菜单栏
+helper.menubar.settings = FancyMenu 设置
+
+Fantasymenu.config = FancyMenu 设置
+
+Fantasymenu.config.categories.general = 普通
+
+Fantasymenu.config.enablehotkeys = 启用 Mod 热键
+Fantasymenu.config.playmenumusic = 默认 MC 菜单音乐
+Fantasymenu.config.stopworldmusicwhencustomizable = 停止世界音乐
+Fantasymenu.config.playbackgroundsounds = 自定义声音
+Fantasymenu.config.playbackgroundsoundsinworld = 世界中的自定义声音
+Fantasymenu.config.defaultguiscale = 默认 GUI 比例
+Fantasymenu.config.showdebugwarnings = 调试警告
+
+Fantasymenu.config.categories.customization = 自定义
+
+Fantasymenu.config.showcustomizationbuttons = 自定义控件
+Fantasymenu.config.softmode = 软模式
+
+Fantasymenu.config.categories.mainmenu = 主菜单 [通用]
+
+Fantasymenu.config.hidebranding = 隐藏品牌
+Fantasymenu.config.hidelogo = 隐藏徽标
+Fantasymenu.config.hiderealmsnotifications = 隐藏 Realms 新闻图标
+Fantasymenu.config.showmainmenufooter = 主菜单页脚
+Fantasymenu.config.hideforgenotifications = 隐藏伪造通知
+Fantasymenu.config.copyrightposition = 版权位置
+Fantasymenu.config.copyrightcolor = 版权颜色
+
+Fantasymenu.config.categories.world_loading_screen = 世界载入画面
+
+Fantasymenu.config.showloadingscreenanimation = 世界加载动画
+Fantasymenu.config.showloadingscreenpercent = 世界加载百分比
+
+Fantasymenu.config.categories.mainmenu_splash = 主菜单 [SPLASH TEXT]
+
+Fantasymenu.config.hidesplashtext = 隐藏启动文字
+Fantasymenu.config.splashcolor = 初始文字颜色
+Fantasymenu.config.splashtextfile = 自定义启动文本文件
+Fantasymenu.config.splashorientation = 启动文字参照点
+Fantasymenu.config.splashrotation = 启动文字旋转
+Fantasymenu.config.splashx = 启动文字 X 位置
+Fantasymenu.config.splashy = 启动文字 Y 位置
+
+Fantasymenu.config.categories.loading = 游戏加载
+
+Fantasymenu.config.gameintroanimation = 游戏介绍动画
+Fantasymenu.config.loadingscreendarkmode = 加载屏幕暗模式
+Fantasymenu.config.showanimationloadingstatus = 动画加载状态
+Fantasymenu.config.allowgameintroskip = 跳过游戏介绍
+Fantasymenu.config.customgameintroskiptext = 游戏介绍跳过文本
+Fantasymenu.config.loadinganimationcolor = FM 加载动画颜色
+
+Fantasymenu.config.categories.minecraftwindow = MINECRAFT 窗口
+
+Fantasymenu.config.customwindowtitle = 自定义窗口标题
+Fantasymenu.config.customwindowicon = 自定义窗口图标
+
+Fantasymenu.config.categories.layouteditor = 布局编辑器
+
+Fantasymenu.config.showvanillamovewarning = 按钮移动警告
+Fantasymenu.config.editordeleteconfirmation = 删除确认
+
+Fantasymenu.config.categories.ui = FANCYMENU UI
+
+Fantasymenu.config.uiscale = FancyMenu UI 比例
+
+Fantasymenu.config.enablehotkeys.desc = 是否启用 FancyMenu 的热键%n%更改此值后需要重新启动
+Fantasymenu.config.playmenumusic.desc = 启用或禁用默认的 minecraft 菜单音乐
+Fantasymenu.config.stopworldmusicwhencustomizable.desc = 如果打开自定义菜单时应该%n%停止播放原版世界音乐
+Fantasymenu.config.playbackgroundsounds.desc = 启用或禁用 FancyMenu 添加的自定义菜单背景%n%sounds
+Fantasymenu.config.playbackgroundsoundsinworld.desc = 如果在加载 %n%a 世界(游戏​​)时应该播放添加了 %n%FancyMenu 的菜单背景声音
+Fantasymenu.config.defaultguiscale.desc = 首次启动时设置的默认 GUI 比例%n%对 modpacks 有用%n%缓存数据保存在 /mods/fancymenu/ 中
+Fantasymenu.config.showdebugwarnings.desc = 是否允许 FancyMenu 在游戏日志中打印警告%n%%n%错误不受此影响
+
+Fantasymenu.config.showcustomizationbuttons.desc = 在菜单中显示 FancyMenu 的自定义控件%n%这可以通过在普通菜单屏幕中按 CTRL + ALT + C%n% 来切换
+Fantasymenu.config.softmode.desc = 通过 %n% 禁用​​可滚动菜单(如 %n% 单人游戏和多人游戏菜单)的背景自定义支持%n% 来最大化 mod 兼容性
+
+Fantasymenu.config.hidebranding.desc = 隐藏主菜单左下角 %n% 的文字
+Fantasymenu.config.hidelogo.desc = 在主菜单中隐藏默认的 minecraft logo%n%
+Fantasymenu.config.hiderealmsnotifications.desc = 隐藏主菜单中的 Realms 新闻图标%n%
+Fantasymenu.config.showmainmenufooter.desc = 在主菜单中显示一个页脚%n%像 Minecraft 的 YouTube 视频末尾的“发现更多..”文本%n%
+Fantasymenu.config.hideforgenotifications.desc = 隐藏所有 Forge 通知,例如 %n%beta 警告或 Forge 更新通知
+Fantasymenu.config.copyrightposition.desc = 设置版权声明的位置
+Values:%n%top-left, top-center, top-right,%n%bottom-left, bottom-居中,%n%右下
+Fantasymenu.config.copyrightcolor.desc = 设置版权声明的十六进制颜色
+
+Fantasymenu.config.showloadingscreenanimation.desc = 如果%n%世界加载屏幕%n%的加载动画应该是可见的
+Fantasymenu.config.showloadingscreenpercent.desc = 如果%n%世界加载屏幕%n%的加载百分比文本应该是可见的
+
+Fantasymenu.config.hidesplashtext.desc = 启动文本是否可见
+Fantasymenu.config.splashcolor.desc = 设置飞溅文本的基色%n%只允许十六进制值!
+Fantasymenu.config.splashtextfile.desc = 为启动文本设置自定义 TXT 文件%n%每个文本行一个启动文本%n%%n%值是文件的路径
+Fantasymenu.config.splashorientation.desc = 设置飞溅文本的参照点%n%这是计算飞溅文本位置%n%的起点%n%%n%Assignable Values:% n% 原始、左上、左中、%n% 左下、上居中、中居中、%n% 下居中、右上、右中、%n% 右下
+Fantasymenu.config.splashrotation.desc = 设置飞溅文本的旋转
+Fantasymenu.config.splashx.desc = 使用其参照点%n% 作为原点 (X:0 Y:0) 设置水平飞溅文本%n%position
+Fantasymenu.config.splashy.desc = 使用其参照点%n% 作为原点 (X:0 Y:0) 设置垂直飞溅文本%n%position
+
+Fantasymenu.config.gameintroanimation.desc = 用你在属性中%n%给动画的名字指定一个动画,%n%应该在%n%你第一次看到主菜单之前播放%n% %n%(就像所有很酷的游戏一样)
+Fantasymenu.config.loadingscreendarkmode.desc = 启用加载屏幕暗模式
+Fantasymenu.config.showanimationloadingstatus.desc = 启用时,动画加载%n%screen 将显示有关加载过程的详细%n%信息
+Fantasymenu.config.allowgameintroskip.desc = 用户是否可以通过按空格键跳过 %n% 游戏介绍
+Fantasymenu.config.customgameintroskiptext.desc = 为 %n% 游戏介绍动画设置自定义跳过文本
+Fantasymenu.config.loadinganimationcolor.desc = 设置%n%动画加载屏幕指示器的颜色%n%这是你在%n%FancyMenu加载所有%n%动画时看到的动画
+
+Fantasymenu.config.customwindowtitle.desc = 指定自定义的 minecraft 窗口标题
+Fantasymenu.config.customwindowicon.desc = 启用自定义 Minecraft 窗口图标%n%有关更多信息,%n%查看 Wiki: %n%fm.keksuccino.de
+
+Fantasymenu.config.showvanillamovewarning.desc = 在布局编辑器中尝试移动 %n% 无参照点的原版按钮时启用警告通知%n%
+Fantasymenu.config.editordeleteconfirmation.desc = 如果删除元素时应%n%显示确认弹出窗口
+
+Fantasymenu.config.uiscale.desc = FancyMenu 自定义 UI 的比例
+
+helper.ui.dynamicvariabletextfield.variables.desc = Session-Specific Values%n%%n%将占位符插入文本%n%稍后将被替换为%n%某些特定值,例如%n%玩家ID或MC 版本%n%%n%§c重要提示: %n%您将在编辑器中将这些值视为 %n% 占位符,而在实际菜单中将 %n% 视为实际值
+helper.ui.dynamicvariabletextfield.variables.playername = 玩家名称
+helper.ui.dynamicvariabletextfield.variables.playername.desc = 获取玩家名称
+helper.ui.dynamicvariabletextfield.variables.playeruuid = 玩家 UUID
+helper.ui.dynamicvariabletextfield.variables.playeruuid.desc = 获取玩家 UUID
+helper.ui.dynamicvariabletextfield.variables.mcversion = Minecraft 版本
+helper.ui.dynamicvariabletextfield.variables.mcversion.desc = 获取 Minecraft 版本
+helper.ui.dynamicvariabletextfield.variables.forgeversion = Forge 版本
+helper.ui.dynamicvariabletextfield.variables.forgeversion.desc = 获取 Forge 版本
+helper.ui.dynamicvariabletextfield.variables.modversion = Mod 版本
+helper.ui.dynamicvariabletextfield.variables.modversion.desc = 获取我的模组 ID 的模组版本%n%%n%只需将占位符%n%中的“<modid>”替换为现有模组 ID
+helper.ui.dynamicvariabletextfield.variables.totalmods = 模组总数
+helper.ui.dynamicvariabletextfield.variables.totalmods.desc = 获取模组总数%n%这包括禁用模组
+helper.ui.dynamicvariabletextfield.variables.loadedmods = 活动模组数
+helper.ui.dynamicvariabletextfield.variables.loadedmods.desc = 获取活动模组计数%n%这不包括禁用模组
+
+helper.creator.items.string.alignment = 对齐
+helper.creator.items.string.alignment.desc = 设置文本对齐方式%n%%n%§c当文本宽度为%n%§c时有用,例如%n%§csession-based值
+helper.creator.items.string.alignment.left = 左
+helper.creator.items.string.alignment.right = 正确
+helper.creator.items.string.alignment.centric = 居中
+
+helper.creator.items.string.border.alignment = 对齐
+
+helper.creator.custombutton.config.actiontype.runcmd.desc = 运行 CMD/终端命令支持 per-OS 命令,如示例中所示
+helper.creator.custombutton.config.actiontype.runcmd.desc.value = 命令
+helper.creator.custombutton.config.actiontype.runcmd.desc.value.example = [windows:start.bat]; [macos:./开始]; [linux:./start.sh];
+
+helper.creator.custombutton.config.actiontype.closegui.desc = 关闭显示的 GUI
+
+helper.ui.current = 开始
+helper.ui.current.layouts = 布局
+helper.ui.current.layouts.desc = 创建和管理您的界面布局
+helper.ui.current.layouts.new = 新的布局
+helper.ui.current.layouts.new.desc = 在此客户端中创建一个新布局
+helper.ui.current.layouts.manage = 管理现有布局
+helper.ui.current.layouts.manage.desc = 管理此客户端的现有布局
+helper.ui.current.layouts.manage.edit = 编辑
+helper.ui.current.layouts.manage.edit.desc = 在布局编辑器中编辑此布局
+helper.ui.current.advanced = 高级操作
+helper.ui.current.advanced.desc = 创建一个菜单(布局),并将其直接替换为主界面%n%§c注意: %n%这可能导致意料之外的错误%n%并且在大多数情况,你不需要进行这个操作%n%你大可直接修改主菜单的布局,而非直接替换它
+
+helper.ui.customguis = 自定义菜单
+helper.ui.customguis.new = 新的菜单
+helper.ui.customguis.new.desc = 创建一个菜单并%n%在那里发挥你的创造力!
+helper.ui.customguis.new.sure = §c确定要创建一个新的菜单吗?%n%%n%%n%你可以把“菜单”想象成服务器里的“菜单”%n%%n%在里面添加诸如按钮、文字、图片等元素%n%%n%如果要自定义当前页面%n%请点击那个§a[开始]§f并点击§a[布局]
+helper.ui.customguis.manage = 编辑
+helper.ui.customguis.manage.desc = 管理您已有的菜单
+
+helper.ui.tools = 信息显示
+helper.ui.tools.menuinfo.off = 菜单信息: §cOff
+helper.ui.tools.menuinfo.on = 菜单信息: §aOn
+helper.ui.tools.menuinfo.desc = 显示该菜单的菜单标识符%n%%n%您可以左键单击标识符%n%来复制它
+helper.ui.tools.buttoninfo.off = 按钮信息: §cOff
+helper.ui.tools.buttoninfo.on = 按钮信息: §aOn
+helper.ui.tools.buttoninfo.desc = 悬停时显示有关原版按钮的信息%n%%n%%n%对自定义按钮无效
+
+helper.ui.misc = 杂项
+helper.ui.misc.closegui = §c关闭菜单
+helper.ui.misc.closegui.desc = 关闭当前菜单
+helper.ui.misc.openworldloading = 世界载入界面
+helper.ui.misc.openworldloading.desc = 将打开 %n% 世界加载时的界面,你可以修改里面的内容
+helper.ui.misc.openmessagescreen = 打开消息屏幕
+helper.ui.misc.openmessagescreen.desc = 将打开%n%聊天界面,你可以修改里面的内容
+
+helper.ui.reload.desc = 重新加载 FancyMenu%n%%n% 将重新加载: %n%- 全景%n%- 幻灯片%n%- Mod 配置%n%- 布局%n%%n%§c 不会重新加载: %n%- 动画
+
+helper.editor.ui.unsavedwarning = §c注意:请确保你已保存%n%%n%%n%当前布局的所有未保存的更改%n%将会丢失%n% %n% %n%
+
+helper.editor.ui.layout = 布局
+helper.editor.ui.layout.new = 新
+helper.editor.ui.layout.open = 打开
+helper.editor.ui.layout.save = 保存
+helper.editor.ui.layout.saveas = 另存为
+helper.editor.ui.layout.saveas.entername = 输入布局名称
+helper.editor.ui.layout.saveas.failed = §c保存失败!%n%%n%%n%不支持的布局名称或此布局名已经存在!%n% %n% %n%
+helper.editor.ui.layout.properties = 属性
+
+helper.editor.ui.edit = 编辑
+helper.editor.ui.edit.undo = 撤消
+helper.editor.ui.edit.redo = 重做
+helper.editor.ui.edit.copy = 复制
+helper.editor.ui.edit.paste = 粘贴
+
+helper.editor.ui.element = 元素
+helper.editor.ui.element.new = 新
+helper.editor.ui.element.manageaudio = 管理音频
+helper.editor.ui.element.manageaudio.loop.on = 循环: §aOn
+helper.editor.ui.element.manageaudio.loop.off = 循环: §cOff
+helper.editor.ui.element.deletedvanillabuttons = 删除的原版按钮
+helper.editor.ui.element.deletedvanillabuttons.entry.desc = 点击左键撤销删除
+
+helper.editor.ui.exit = 退出
+helper.editor.ui.exit.desc = 关闭编辑器
+
+helper.editor.ui.layoutproperties.newelement = 新元素
+
+helper.ui.warning = 警告!
+helper.ui.warning.unicode = FancyMenu UI 不完全支持 Unicode 字体!%n%请在[语言设置]中关闭 unicode 字体!
+
+helper.creator.error.invalidfile = §c错误!%n%%n%%n%无效或不存在的文件!%n% %n% %n% %n%
+
+helper.creator.add.splash = 启动文字
+helper.creator.add.splash.single = 单个启动文字
+helper.creator.add.splash.single.desc = 输入启动文字内容
+helper.creator.add.splash.multi = 多飞溅文字
+helper.creator.add.splash.multi.desc = 选择一个带有飞溅文本的文本文件
+
+helper.creator.items.splash.bounce.on = 弹跳: §aOn
+helper.creator.items.splash.bounce.off = 弹跳: §cOff
+helper.creator.items.splash.refresh.on = 刷新: §aOn
+helper.creator.items.splash.refresh.off = 刷新: §cOff
+helper.creator.items.splash.refresh.desc = 每次菜单%n%重新加载或打开时选择一个新的启动画面
+helper.creator.items.splash.basecolor = 基色
+helper.creator.items.splash.rotation = 旋转
+
+helper.creator.items.delay = 延迟显示
+helper.creator.items.delay.off = 延迟: §cOff
+helper.creator.items.delay.firsttime = 延迟: §6受次打开此界面时延时显示
+helper.creator.items.delay.everytime = 延迟: §a每次都这样
+helper.creator.items.delay.seconds = 以秒为单位设置延迟
+helper.creator.items.delay.fadein.off = 淡入: §cOff
+helper.creator.items.delay.fadein.on = 淡入: §aOn
+helper.creator.items.delay.fadein.speed = 设置淡入速度
+
+

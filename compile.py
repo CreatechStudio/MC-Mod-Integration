@@ -35,7 +35,7 @@ override_ignore = [
 manifest = {
 	"name": "Createch Mod Integration Pack",
 	"author": "CreatechStudio Shanghai Inc.",
-	"version": "1.20.4b4e",
+	"version": "1.20.4b5",
 	"description": "",
 	"fileApi": "https://mci.createchstudio.com",
 	"files": {},
@@ -46,7 +46,7 @@ manifest = {
 		},
 		{
 			"id": "fabric",
-			"version": "0.15.6"
+			"version": "0.15.11"
 		}
 	]
 }
